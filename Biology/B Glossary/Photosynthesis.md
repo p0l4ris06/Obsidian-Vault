@@ -1,0 +1,1 @@
+[[Water]] + Carbon dioxide ----> [[Glucose]] + Oxygen

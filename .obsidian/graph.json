@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Biology/B Module 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 16656146
+      }
+    },
+    {
+      "query": "path:\"Biology/B Module 3\"",
+      "color": {
+        "a": 1,
+        "rgb": 16601864
+      }
+    },
+    {
+      "query": "path:\"Biology/B Module 4\"",
+      "color": {
+        "a": 1,
+        "rgb": 16488706
+      }
+    },
+    {
+      "query": "path:\"Biology/B Modules\"",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Modules\"",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Module 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 16432130
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Module 3\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711219
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Module 4\"",
+      "color": {
+        "a": 1,
+        "rgb": 13691435
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Module 5\"",
+      "color": {
+        "a": 1,
+        "rgb": 6729778
+      }
+    },
+    {
+      "query": "path:\"Chemistry/C Module 6\"",
+      "color": {
+        "a": 1,
+        "rgb": 3289855
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.546875,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 1,
+  "linkDistance": 174,
+  "scale": 0.22920135941749403,
+  "close": true
+}

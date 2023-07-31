@@ -1,0 +1,1 @@
+Immunity from medical intervention

@@ -1,0 +1,1 @@
+Enter host cells and feed on the contents as they grow.

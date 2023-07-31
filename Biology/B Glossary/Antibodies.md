@@ -1,0 +1,1 @@
+Specific proteins released by plasma cells that can attach to a pathogenic [[Antigen]]

@@ -1,0 +1,1 @@
+Can send out specialised reproductive hyphae which grow to the surface of the skin to release spores, causing redness and irritation

@@ -1,0 +1,1 @@
+Photograph seen using an optical microscope

@@ -1,0 +1,1 @@
+Prevent pathogens from entering the body
