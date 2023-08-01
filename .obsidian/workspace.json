@@ -11,12 +11,8 @@
             "id": "314a098658c0816f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,9 +141,9 @@
   },
   "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Chemistry/C Module 3/Chapter 9/Chapter 9.md",
     "Chemistry/C Module 3/Chapter 8/Chapter 8.md",
-    "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Home.md",
     "Chemistry/C Glossary/Electrophillic addition.md",
     "Chemistry/C Glossary/EZ isomerism.md",
