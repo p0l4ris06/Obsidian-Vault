@@ -1,4 +1,7 @@
 ---
+banner: "![[richard-horvath-_nWaeTF6qo0-unsplash.jpg]]"
+---
+---
 cssclass: dashboard
 banner: "![[richard-horvath-_nWaeTF6qo0-unsplash.jpg]]"
 banner_y: 0.46386
