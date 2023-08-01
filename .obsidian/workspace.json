@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Chemistry/C Module 3/Chapter 8/C8.1.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "314a098658c0816f",
   "lastOpenFiles": [
-    "C8.1.md",
+    "Chemistry/C Module 3/Chapter 9/Chapter 9.md",
     "Chemistry/C Module 3/Chapter 8/Chapter 8.md",
+    "Chemistry/C Module 3/Chapter 8/C8.1.md",
+    "Home.md",
     "Chemistry/C Glossary/Electrophillic addition.md",
     "Chemistry/C Glossary/EZ isomerism.md",
-    "Home.md",
     "Chemistry/C Glossary/Ethanol.md",
     "Biology/B Glossary/Optical microscope.md",
     "Biology/B Glossary/Magnification.md",
@@ -174,7 +175,6 @@
     "Biology/B Module 2/2.4/2.4.8.md",
     "Biology/B Module 2/2.6/2.6.4.md",
     "Biology/B Module 2/2.6/2.6.1.md",
-    "Biology/B Module 2/2.6/2.6.2.md",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
     "Photos/Biology Photos/Pasted image 20230728135439.png",
