@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Home.md",
     "Chemistry/C Glossary/EZ isomerism.md",
     "Chemistry/C Glossary/Ethanol.md",
-    "Home.md",
     "Biology/B Glossary/Optical microscope.md",
     "Biology/B Glossary/Magnification.md",
     "Biology/B Glossary/Light microscope.md",
