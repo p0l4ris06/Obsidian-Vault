@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,10 +152,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "3230a22a06437a1f",
   "lastOpenFiles": [
-    "Chemistry/C Module 4/Chapter 12/Chapter 12.md",
     "Chemistry/C Module 4/Chapter 12/C12.2.md",
+    "Chemistry/C Module 4/Chapter 12/Chapter 12.md",
     "Chemistry/C Module 4/Chapter 11/Chapter 11.md",
     "Chemistry/C Module 4/Chapter 11/C11.5.md",
     "Chemistry/C Glossary/Heterolytic fission.md",
