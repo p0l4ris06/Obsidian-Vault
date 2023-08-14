@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 11/C11.5.md",
+                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "3230a22a06437a1f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 11/C11.5.md",
+                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 11/C11.5.md",
+                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 4/Chapter 11/C11.5.md"
+                "file": "Chemistry/C Module 4/Chapter 12/C12.2.md"
               }
             }
           }
@@ -147,12 +155,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "314a098658c0816f",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Heterolytic fission.md",
-    "Chemistry/C Module 4/Chapter 11/C11.5.md",
-    "Homolytic fission.md",
+    "Chemistry/C Module 4/Chapter 12/Chapter 12.md",
+    "Chemistry/C Module 4/Chapter 12/C12.2.md",
     "Chemistry/C Module 4/Chapter 11/Chapter 11.md",
+    "Chemistry/C Module 4/Chapter 11/C11.5.md",
+    "Chemistry/C Glossary/Heterolytic fission.md",
+    "Chemistry/C Glossary/Homolytic fission.md",
     "Chemistry/C Module 4/Chapter 11/C11.2.md",
     "Home.md",
     "Biology/B Module 2/2.6/2.6.1.md",
@@ -173,8 +183,6 @@
     "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Chemistry/C Module 3/Chapter 9/Chapter 9.md",
     "Chemistry/C Module 3/Chapter 8/Chapter 8.md",
-    "Chemistry/C Glossary/Electrophillic addition.md",
-    "Chemistry/C Glossary/EZ isomerism.md",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
     "Photos/Biology Photos/Pasted image 20230728135439.png",
