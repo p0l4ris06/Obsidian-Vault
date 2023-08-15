@@ -11,12 +11,8 @@
             "id": "314a098658c0816f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Module 3/3.1/3.1.5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 3/3.1/3.1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 3/3.1/3.1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/B Module 3/3.1/3.1.5.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,6 +153,12 @@
   },
   "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Biology/B Glossary/Lamellae.md",
+    "Biology/B Glossary/Filaments.md",
+    "Biology/B Module 3/3.1/3.1.5.md",
+    "Biology/B Glossary/Spiracle.md",
+    "Biology/B Glossary/Operculum.md",
+    "Biology/B Glossary/Buccal cavity.md",
     "Biology/B Module 3/3.1/3.1.4.md",
     "Biology/B Glossary/Smooth muscle.md",
     "Biology/B Glossary/Cartilage.md",
@@ -181,12 +179,6 @@
     "Biology/B Glossary/Trachea.md",
     "Biology/B Glossary/Intercostal muscles.md",
     "Biology/B Glossary/Diaphragm.md",
-    "Ventilation.md",
-    "Biology/B Glossary/Bronchi and bronchioles.md",
-    "Biology/B Glossary/Alveoli.md",
-    "Biology/B Module 3/3.1/3.1.1.md",
-    "Biology/B Glossary/Meristem.md",
-    "Home.md",
     "Photos/Biology Photos/Pasted image 20230815145504.png",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
