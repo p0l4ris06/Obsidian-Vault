@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 3/3.2/3.2.1.md",
+                "file": "Cardiac muscle.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 3/3.2/3.2.3.md",
+                "file": "Cardiac muscle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 3/3.2/3.2.3.md",
+                "file": "Cardiac muscle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 3/3.2/3.2.3.md"
+                "file": "Cardiac muscle.md"
               }
             }
           }
@@ -160,8 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aeeb7769d876c7",
+  "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Biology/B Module 3/3.2/3.2.4.md",
+    "Cardiac muscle.md",
+    "Atrio-ventricular valves.md",
+    "Biology/B Module 3/3.2/3.2.3.md",
+    "Biology/B Module 3/3.2/3.2.1.md",
+    "Biology/B Glossary/Blood.md",
+    "Plasma.md",
+    "Tissue fluid.md",
+    "Lymph.md",
+    "Oncotic pressure.md",
+    "Hydrostatic pressure.md",
     "Biology/B Module 3/3.2/3.2.2.md",
     "Venules.md",
     "Veins.md",
@@ -170,7 +180,6 @@
     "Capillaries.md",
     "Arterioles.md",
     "Artery.md",
-    "Biology/B Module 3/3.2/3.2.1.md",
     "Single circulatory system.md",
     "Double circulatory system.md",
     "Biology/B Module 2/2.6/B2.6.md",
@@ -178,16 +187,6 @@
     "Biology/B Module 3/3.1/B3.1.md",
     "Biology/B Glossary/Lamellae.md",
     "Biology/B Glossary/Filaments.md",
-    "Biology/B Glossary/Spiracle.md",
-    "Biology/B Glossary/Operculum.md",
-    "Biology/B Glossary/Buccal cavity.md",
-    "Biology/B Module 3/3.1/3.1.4.md",
-    "Biology/B Glossary/Smooth muscle.md",
-    "Biology/B Glossary/Cartilage.md",
-    "Biology/B Glossary/Vital capacity.md",
-    "Biology/B Glossary/Spirometer.md",
-    "Biology/B Glossary/Tidal volume.md",
-    "Biology/B Module 3/3.1/3.1.3.md",
     "Photos/Biology Photos/Pasted image 20230815145504.png",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
