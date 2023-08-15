@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Differentiation.md",
+                "file": "Organ.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 2/2.6/B2.6.md",
+                "file": "Organ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 2/2.6/B2.6.md",
+                "file": "Organ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 2/2.6/B2.6.md"
+                "file": "Organ.md"
               }
             }
           }
@@ -160,14 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aeeb7769d876c7",
+  "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Biology/B Module 2/2.6/2.6.7.md",
+    "Organ.md",
+    "Meristem.md",
+    "Biology/B Module 2/2.6/2.6.8.md",
+    "Biology/B Module 2/2.6/B2.6.md",
+    "Biology/B Module 2/2.6/2.6.9.md",
+    "Biology/B Module 2/2.6/2.6.6.md",
+    "Biology/B Glossary/Differentiation.md",
+    "Connective tissue.md",
+    "Nervous tissue.md",
+    "Muscle tissue.md",
+    "Tissue.md",
     "Biology/B Module 2/2.6/2.6.5.md",
     "Palisade cells.md",
     "Root hair cells.md",
     "Guard cells.md",
     "Biology/B Glossary/Erythrocyte.md",
-    "Biology/B Glossary/Differentiation.md",
     "Biology/B Glossary/Epithelial cells.md",
     "Biology/B Module 2/2.6/2.6.4.md",
     "Biology/B Glossary/Stem cell.md",
@@ -177,17 +187,6 @@
     "Biology/B Glossary/Cytokinesis.md",
     "Biology/B Glossary/Anaphase.md",
     "Biology/B Glossary/Meiosis.md",
-    "Biology/B Glossary/Anaphase 2.md",
-    "Biology/B Glossary/Metaphase 2.md",
-    "Biology/B Glossary/Prophase 2.md",
-    "Biology/B Glossary/Telophase 1.md",
-    "Biology/B Glossary/Anaphase 1.md",
-    "Biology/B Glossary/Metaphase 1.md",
-    "Biology/B Glossary/Prophase 1.md",
-    "Biology/B Module 2/2.6/2.6.3.md",
-    "Biology/B Glossary/Haploid.md",
-    "Biology/B Module 2/2.6/2.6.1.md",
-    "Biology/B Module 2/2.6/2.6.2.md",
     "Photos/Biology Photos/Pasted image 20230815145504.png",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
