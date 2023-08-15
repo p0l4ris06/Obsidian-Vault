@@ -1,0 +1,1 @@
+[[Proteins]] with a chain of [[Carbohydrates]] attached

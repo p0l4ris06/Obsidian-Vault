@@ -7,5 +7,6 @@
     "dashboard-ReadLineLength"
   ],
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 15
 }

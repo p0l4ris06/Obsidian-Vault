@@ -1,0 +1,1 @@
+Animal cells shrivel and are described as crenated
