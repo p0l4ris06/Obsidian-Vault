@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardiac muscle.md",
+                "file": "Bradycardia.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiac muscle.md",
+                "file": "Bradycardia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardiac muscle.md",
+                "file": "Bradycardia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardiac muscle.md"
+                "file": "Bradycardia.md"
               }
             }
           }
@@ -161,32 +161,34 @@
   },
   "active": "314a098658c0816f",
   "lastOpenFiles": [
+    "Biology/B Module 3/3.2/3.2.6.md",
+    "Bradycardia.md",
+    "Biology/B Module 3/3.2/3.2.5.md",
+    "Biology/B Glossary/Cardiac cycle.md",
+    "Photos/Biology Photos/Pasted image 20230815160739.png",
+    "Biology/B Glossary/Hydrostatic pressure.md",
+    "Biology/B Glossary/Arterioles.md",
     "Biology/B Module 3/3.2/3.2.4.md",
-    "Cardiac muscle.md",
-    "Atrio-ventricular valves.md",
+    "Photos/Biology Photos/Pasted image 20230815160540.png",
+    "Biology/B Glossary/Semilunar valves.md",
+    "Biology/B Glossary/Cardiac muscle.md",
+    "Biology/B Glossary/Muscle tissue.md",
+    "Biology/B Glossary/Atrio-ventricular valves.md",
     "Biology/B Module 3/3.2/3.2.3.md",
     "Biology/B Module 3/3.2/3.2.1.md",
     "Biology/B Glossary/Blood.md",
-    "Plasma.md",
-    "Tissue fluid.md",
-    "Lymph.md",
-    "Oncotic pressure.md",
-    "Hydrostatic pressure.md",
+    "Biology/B Glossary/Plasma.md",
+    "Biology/B Glossary/Tissue fluid.md",
+    "Biology/B Glossary/Lymph.md",
+    "Biology/B Glossary/Oncotic pressure.md",
     "Biology/B Module 3/3.2/3.2.2.md",
-    "Venules.md",
-    "Veins.md",
-    "Open circulatory system.md",
-    "Closed circulatory system.md",
-    "Capillaries.md",
-    "Arterioles.md",
-    "Artery.md",
-    "Single circulatory system.md",
-    "Double circulatory system.md",
-    "Biology/B Module 2/2.6/B2.6.md",
-    "Biology/B Module 3/3.1/3.1.5.md",
-    "Biology/B Module 3/3.1/B3.1.md",
-    "Biology/B Glossary/Lamellae.md",
-    "Biology/B Glossary/Filaments.md",
+    "Biology/B Glossary/Venules.md",
+    "Biology/B Glossary/Veins.md",
+    "Biology/B Glossary/Open circulatory system.md",
+    "Biology/B Glossary/Closed circulatory system.md",
+    "Biology/B Glossary/Capillaries.md",
+    "Biology/B Glossary/Artery.md",
+    "Biology/B Glossary/Single circulatory system.md",
     "Photos/Biology Photos/Pasted image 20230815145504.png",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
@@ -196,9 +198,7 @@
     "Photos/Biology Photos/Pasted image 20230728134928.png",
     "Photos/Biology Photos/Pasted image 20230728134846.png",
     "Untitled.canvas",
-    "Photos/Chemistry Photos/Pasted image 20230728131842.png",
     "E",
-    "Photos/Chemistry Photos/Pasted image 20230728125138.png",
     "Chemistry/C Glossary/Functional Groups",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
