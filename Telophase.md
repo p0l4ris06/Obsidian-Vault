@@ -1,0 +1,1 @@
+The separated chromosomes reach the poles and a new nuclear envelope forms 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 2/2.6/2.6.1.md",
+                "file": "Telophase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 2/2.6/2.6.1.md",
+                "file": "Telophase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 2/2.6/2.6.1.md",
+                "file": "Telophase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 2/2.6/2.6.1.md"
+                "file": "Telophase.md"
               }
             }
           }
@@ -150,7 +150,14 @@
   "active": "314a098658c0816f",
   "lastOpenFiles": [
     "Mitosis.md",
+    "Telophase.md",
+    "Anaphase.md",
+    "Metaphase.md",
+    "Prophase.md",
+    "Biology/B Module 2/2.6/2.6.2.md",
+    "Chromatids.md",
     "Biology/B Module 2/2.6/2.6.1.md",
+    "Photos/Biology Photos/Pasted image 20230815145504.png",
     "Interphase.md",
     "Cytokinesis.md",
     "Biology/B Module 2/2.6/2.6.5.md",
@@ -169,12 +176,6 @@
     "Biology/B Glossary/Plasma membrane.md",
     "Biology/B Glossary/Osmosis.md",
     "Biology/B Glossary/Glycoprotein.md",
-    "Biology/B Glossary/Fluid mosaic model.md",
-    "Biology/B Glossary/Flaccid.md",
-    "Biology/B Glossary/Facilitated diffusion.md",
-    "Biology/B Glossary/Exocytosis.md",
-    "Biology/B Glossary/Endocytosis.md",
-    "Biology/B Glossary/Diffusion.md",
     "Photos/Biology Photos/Pasted image 20230728141105.png",
     "Photos/Biology Photos/Pasted image 20230728135612.png",
     "Photos/Biology Photos/Pasted image 20230728135439.png",
@@ -186,7 +187,6 @@
     "Photos/Chemistry Photos/Pasted image 20230728131842.png",
     "E",
     "Photos/Chemistry Photos/Pasted image 20230728125138.png",
-    "Photos/Chemistry Photos/Pasted image 20230728125026.png",
     "Chemistry/C Glossary/Functional Groups",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
