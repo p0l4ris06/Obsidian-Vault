@@ -1,0 +1,1 @@
+Horizontal rows  of elements, the number of the period gives the number of the highest energy electron shell in an element's atoms
