@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "314a098658c0816f",
+            "id": "48aeeb7769d876c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 3/3.2/3.2.7.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "48aeeb7769d876c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           }
         ]
