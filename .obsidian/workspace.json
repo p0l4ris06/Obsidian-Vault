@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metallic bonding.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metallic bonding.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metallic bonding.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metallic bonding.md"
+                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "48aeeb7769d876c7",
   "lastOpenFiles": [
-    "Cation.md",
     "Metallic bonding.md",
+    "Cation.md",
     "Chemistry/C Module 3/Chapter 7/C7.3.md",
     "Chemistry/C Module 3/Chapter 7/Chapter 7.md",
     "Chemistry/C Glossary/Ionisation energy.md",
