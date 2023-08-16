@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2be50d7ae15647b8",
+            "id": "10f57c82db05d938",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/C Module 6/Chapter 26/C26.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/C Module 6/Chapter 26/C26.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/C Module 6/Chapter 26/C26.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/C Module 6/Chapter 26/C26.1.md"
+              }
             }
           }
         ]
@@ -139,8 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2be50d7ae15647b8",
+  "active": "10f57c82db05d938",
   "lastOpenFiles": [
+    "Photos/Chemistry Photos/Pasted image 20230816130747.png",
+    "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
+    "Chemistry/C Module 6/Chapter 26/C26.1.md",
+    "Chemistry/C Module 6/Chapter 26/Chapter  26.md",
+    "Chemistry/C Module 6/Chapter 25/Chapter 25.md",
+    "Chemistry/C Module 6/Chapter 28/Chapter 28.md",
+    "Chemistry/C Module 6/Chapter 27/Chapter 27.md",
+    "Chemistry/C Module 6/Chapter 29/Chapter 29.md",
     "Chemistry/C Module 6/Chapter 27/C27.1.md",
     "Chemistry/C Module 6/Chapter 27/C27.2.md",
     "Chemistry/C Module 6/Chapter 27/C27.3.md",
@@ -152,7 +168,6 @@
     "Chemistry/C Module 6/Chapter 29/C29.3.md",
     "Chemistry/C Module 6/Chapter 29/C29.4.md",
     "Chemistry/C Module 6/Chapter 29/C29.5.md",
-    "Chemistry/C Module 6/Chapter 26/C26.1.md",
     "Chemistry/C Module 6/Chapter 25/C25.1.md",
     "Chemistry/C Module 6/Chapter 29/C29.6.md",
     "Chemistry/C Module 6/Chapter 25/C25.2.md",
@@ -160,19 +175,12 @@
     "Chemistry/C Module 6/Chapter 25/C25.4.md",
     "Chemistry/C Module 6/Chapter 26/C26.2.md",
     "Chemistry/C Module 6/Chapter 26/C26.3.md",
-    "Chemistry/C Module 6/Chapter 26/C26.4.md",
-    "Chemistry/C Module 5/Chapter 24/C24.1.md",
-    "Chemistry/C Module 5/Chapter 24/C24.2.md",
-    "Chemistry/C Module 5/Chapter 24/C24.3.md",
-    "Chemistry/C Module 5/Chapter 24/C24.4.md",
-    "Chemistry/C Modules/C Modules.md",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
     "Chemistry/C Module 6/Chapter 27",
     "Chemistry/C Module 6/Chapter 26",
     "Chemistry/C Module 6/Chapter 25",
     "Chemistry/C Module 6",
-    "Chemistry/C Modules/C Module 6.md",
     "Photos/Chemistry Photos/Pasted image 20230816123311.png",
     "Photos/Chemistry Photos/Pasted image 20230816123258.png",
     "Photos/Chemistry Photos/Pasted image 20230816122427.png",
