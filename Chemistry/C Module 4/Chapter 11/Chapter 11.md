@@ -1,5 +1,5 @@
-[[C11.1]]
-[[C11.2]]
+[[Chemistry/C Module 4/Chapter 11/C11.1]]
+[[Chemistry/C Module 4/Chapter 11/C11.2]]
 [[C11.3]]
 [[C11.4]]
-[[C11.5]]
+[[Chemistry/C Module 4/Chapter 11/C11.5]]
