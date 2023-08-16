@@ -11,15 +11,60 @@
             "id": "48aeeb7769d876c7",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "969ca2667dab99f3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
+                "file": "C6.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2283c8ab494872b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C6.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7761c3ea90538bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C6.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bc61937f2855d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.3.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,40 +192,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aeeb7769d876c7",
+  "active": "8bc61937f2855d81",
   "lastOpenFiles": [
-    "Metallic bonding.md",
-    "Cation.md",
-    "Chemistry/C Module 3/Chapter 7/C7.3.md",
-    "Chemistry/C Module 3/Chapter 7/Chapter 7.md",
-    "Chemistry/C Glossary/Ionisation energy.md",
-    "Photos/Chemistry Photos/Pasted image 20230816123311.png",
-    "Chemistry/C Module 3/Chapter 7/C7.2.md",
-    "Photos/Chemistry Photos/Pasted image 20230816123258.png",
-    "Chemistry/C Glossary/Electron shielding.md",
-    "Chemistry/C Glossary/Nuclear charge.md",
-    "Chemistry/C Glossary/Atomic radius.md",
-    "Chemistry/C Glossary/Mole.md",
-    "Chemistry/C Module 3/Chapter 7/C7.1.md",
-    "Chemistry/C Glossary/Groups.md",
-    "Chemistry/C Glossary/Periods.md",
-    "Photos/Chemistry Photos/Pasted image 20230816122427.png",
-    "Chemistry/C Module 2/Chapter 2/Chapter 2.md",
+    "C6.4.md",
+    "Untitled.md",
+    "C6.3.md",
+    "C6.2.md",
+    "C6.1.md",
+    "C5.3.md",
     "Home.md",
-    "Biology/B Module 3/3.2/3.2.3.md",
-    "Biology/B Module 3/3.2/3.2.7.md",
-    "Biology/B Module 3/3.2/3.2.6.md",
+    "C5.2.md",
+    "C5.1.md",
+    "Chemistry/C Module 2/Chapter 4/C4.3.md",
+    "Chemistry/C Module 2/Chapter 4/C4.1.md",
+    "Chemistry/C Module 2/Chapter 4/Chapter 4.md",
+    "Chemistry/C Module 2/Chapter 4/C4.2.md",
+    "Chemistry/C Module 2/Chapter 3/C3.1.md",
+    "Chemistry/C Module 2/Chapter 3/Chapter 3.md",
+    "Chemistry/C Module 2/Chapter 3/C3.4.md",
+    "Chemistry/C Module 2/Chapter 3/C3.3.md",
+    "Chemistry/C Module 2/Chapter 3/C3.2.md",
+    "Chemistry/C Module 2/Chapter 2/C2.1.md",
+    "Chemistry/C Module 2/Chapter 2/C2.2.md",
+    "Chemistry/C Module 2/Chapter 2/Chapter 2.md",
+    "Chemistry/C Module 2/Chapter 2/C2.3.md",
+    "Chemistry/C Module 3/Chapter 7/Chapter 7.md",
+    "Chemistry/C Module 3/Chapter 7/C7.3.md",
+    "Chemistry/C Glossary/Metallic bonding.md",
+    "Chemistry/C Glossary/Cation.md",
+    "Photos/Chemistry Photos/Pasted image 20230816123311.png",
+    "Photos/Chemistry Photos/Pasted image 20230816123258.png",
+    "Photos/Chemistry Photos/Pasted image 20230816122427.png",
     "Photos/Biology Photos/Pasted image 20230815161358.png",
-    "Biology/B Glossary/Bradycardia.md",
-    "Biology/B Glossary/Myogenic muscle.md",
-    "Biology/B Glossary/Tachycardia.md",
     "Photos/Biology Photos/Pasted image 20230815161310.png",
     "Photos/Biology Photos/Pasted image 20230815161301.png",
-    "Biology/B Glossary/SAN.md",
-    "Biology/B Glossary/Purkyne tissue.md",
-    "Biology/B Glossary/Fibrillation.md",
-    "Biology/B Glossary/ECG.md",
-    "Biology/B Glossary/Ectopic heartbeat.md",
     "Photos/Biology Photos/Pasted image 20230815161025.png",
     "Photos/Biology Photos/Pasted image 20230815160955.png",
     "Photos/Biology Photos/Pasted image 20230815160739.png",
