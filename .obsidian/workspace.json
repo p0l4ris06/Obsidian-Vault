@@ -11,8 +11,12 @@
             "id": "10f57c82db05d938",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/B Module 3/3.2/3.2.7.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/B Module 3/3.2/3.2.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/B Module 3/3.2/3.2.7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/B Module 3/3.2/3.2.7.md"
+              }
             }
           }
         ]
@@ -141,6 +149,17 @@
   },
   "active": "10f57c82db05d938",
   "lastOpenFiles": [
+    "Biology/B Glossary/Haemoglobin.md",
+    "Biology/B Module 3/3.2/3.2.7.md",
+    "Fetal haemoglobin.md",
+    "Dissociation.md",
+    "Affinity.md",
+    "Biology/B Module 3/3.2/3.2.6.md",
+    "Biology/B Module 3/3.2/3.2.8.md",
+    "Biology/B Module 3/3.2/3.2.5.md",
+    "Biology/B Module 3/3.2/3.2.1.md",
+    "Biology/B Module 3/3.3/3.3.1.md",
+    "Home.md",
     "Chemistry/C Module 6/Chapter 26/C26.1.md",
     "Photos/Chemistry Photos/Pasted image 20230816130747.png",
     "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
@@ -157,16 +176,6 @@
     "Chemistry/C Module 6/Chapter 28/C28.3.md",
     "Chemistry/C Module 6/Chapter 29/C29.1.md",
     "Chemistry/C Module 6/Chapter 29/C29.2.md",
-    "Chemistry/C Module 6/Chapter 29/C29.3.md",
-    "Chemistry/C Module 6/Chapter 29/C29.4.md",
-    "Chemistry/C Module 6/Chapter 29/C29.5.md",
-    "Chemistry/C Module 6/Chapter 25/C25.1.md",
-    "Chemistry/C Module 6/Chapter 29/C29.6.md",
-    "Chemistry/C Module 6/Chapter 25/C25.2.md",
-    "Chemistry/C Module 6/Chapter 25/C25.3.md",
-    "Chemistry/C Module 6/Chapter 25/C25.4.md",
-    "Chemistry/C Module 6/Chapter 26/C26.2.md",
-    "Chemistry/C Module 6/Chapter 26/C26.3.md",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
     "Chemistry/C Module 6/Chapter 27",
