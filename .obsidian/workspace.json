@@ -11,12 +11,8 @@
             "id": "10f57c82db05d938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Module 3/3.3/3.3.3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 3/3.3/3.3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 3/3.3/3.3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/B Module 3/3.3/3.3.3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +141,11 @@
   },
   "active": "10f57c82db05d938",
   "lastOpenFiles": [
+    "Biology/B Module 3/3.3/3.3.3.md",
+    "Vacuolar pathway.md",
+    "Symplastic pathway.md",
+    "Apoplastic pathway.md",
+    "Plasmodesmata.md",
     "Biology/B Module 3/3.3/3.3.1.md",
     "Biology/B Module 3/3.3/3.3.2.md",
     "Sieve tube elements.md",
@@ -159,7 +156,6 @@
     "Biology/B Glossary/Dicotyledonous plants.md",
     "Biology/B Module 3/3.3/3.3.5.md",
     "Biology/B Module 3/3.3/3.3.4.md",
-    "Biology/B Module 3/3.3/3.3.3.md",
     "Biology/B Module 3/3.2/3.2.8.md",
     "Biology/B Glossary/Bohr effect.md",
     "Photos/Biology Photos/Pasted image 20230817122834.png",
@@ -174,11 +170,7 @@
     "Biology/B Glossary/Affinity.md",
     "Biology/B Module 3/3.2/3.2.5.md",
     "Biology/B Module 3/3.2/3.2.1.md",
-    "Home.md",
-    "Chemistry/C Module 6/Chapter 26/C26.1.md",
     "Photos/Chemistry Photos/Pasted image 20230816130747.png",
-    "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
-    "Chemistry/C Module 6/Chapter 26/Chapter  26.md",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
     "Chemistry/C Module 6/Chapter 27",
