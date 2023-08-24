@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tetrahedral.md",
+                "file": "Electronegativity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tetrahedral.md",
+                "file": "Electronegativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tetrahedral.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tetrahedral.md"
+                "file": "Electronegativity.md"
               }
             }
           }
@@ -162,12 +162,27 @@
   },
   "active": "24527bd63b2ee815",
   "lastOpenFiles": [
+    "Chemistry/C Module 2/Chapter 6/C6.2.md",
+    "Electronegativity.md",
     "Chemistry/C Module 2/Chapter 6/C6.1.md",
+    "Octahedral.md",
+    "Photos/Chemistry Photos/Pasted image 20230824174900.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174914.png",
+    "Trigonal planar.md",
+    "Linear.md",
+    "Photos/Chemistry Photos/Pasted image 20230824174841.png",
+    "Pasted image 20230824174818.png",
+    "Non-linear.md",
+    "Photos/Chemistry Photos/Pasted image 20230824174704.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174626.png",
+    "Pyramidal.md",
+    "Photos/Chemistry Photos/Pasted image 20230824174600.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174553.png",
     "Tetrahedral.md",
+    "Photos/Chemistry Photos/Pasted image 20230824174524.png",
     "Chemistry/C Module 2/Chapter 6/Chapter 6.md",
     "Chemistry/C Module 2/Chapter 6/C6.4.md",
     "Chemistry/C Module 2/Chapter 6/C6.3.md",
-    "Chemistry/C Module 2/Chapter 6/C6.2.md",
     "Tollens' reagent.md",
     "Chemistry/C Modules/C Module 6.md",
     "Chemistry/C Module 6/Chapter 26/Chapter  26.md",
@@ -183,21 +198,6 @@
     "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
     "Photos/Chemistry Photos/Pasted image 20230824172852.png",
     "Chemistry/C Module 6/Chapter 26/C26.1.md",
-    "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
-    "Biology/B Glossary/Agglutinins.md",
-    "Biology/B Glossary/Affinity.md",
-    "Biology/B Glossary/Active transport.md",
-    "Biology/B Glossary/Active site.md",
-    "Biology/B Glossary/Active immunity.md",
-    "Photos/Chemistry Photos/Pasted image 20230816130747.png",
-    "Photos/Chemistry Photos/Pasted image 20230816123311.png",
-    "Photos/Chemistry Photos/Pasted image 20230816123258.png",
-    "Photos/Chemistry Photos/Pasted image 20230816122427.png",
-    "Photos/Biology Photos/Pasted image 20230817123402.png",
-    "Photos/Biology Photos/Pasted image 20230817122834.png",
-    "Photos/Biology Photos/Pasted image 20230817121841.png",
-    "Photos/Biology Photos/Pasted image 20230815161358.png",
-    "Photos/Biology Photos/Pasted image 20230815161310.png",
     "Untitled.canvas",
     "E",
     "Chemistry/C Glossary/Functional Groups",
