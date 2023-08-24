@@ -1,0 +1,1 @@
+Involuntary muscle that contracts without the need for conscious thought

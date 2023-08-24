@@ -1,0 +1,1 @@
+[[Water]] passes through the spaces in the cell walls and between the cells.
