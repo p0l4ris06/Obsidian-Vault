@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opportunistic.md",
+                "file": "Stratified.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opportunistic.md",
+                "file": "Stratified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opportunistic.md",
+                "file": "Stratified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opportunistic.md"
+                "file": "Stratified.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "lastOpenFiles": [
     "Biology/B Module 4/4.2/4.2.1.md",
     "Opportunistic.md",
+    "Stratified.md",
     "Random.md",
     "Species.md",
     "Habitat.md",
@@ -187,7 +188,6 @@
     "Biology/B Module 2/2.2/2.2.7.md",
     "Biology/B Module 2/2.2/2.2.6.md",
     "Biology/B Module 2/2.2/2.2.5.md",
-    "Biology/B Module 2/2.2/2.2.4.md",
     "Photos/Chemistry Photos/Pasted image 20230824175054.png",
     "Photos/Chemistry Photos/Pasted image 20230824174914.png",
     "Photos/Chemistry Photos/Pasted image 20230824174900.png",
