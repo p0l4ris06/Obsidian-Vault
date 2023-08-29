@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7714c25ba31acf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,53 +160,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10f57c82db05d938",
+  "active": "c7714c25ba31acf7",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Photos/Chemistry Photos/Pasted image 20230824175054.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174914.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174900.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174841.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174704.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174626.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174600.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174553.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174524.png",
+    "Photos/Chemistry Photos/Pasted image 20230824172852.png",
+    "Chemistry/C Glossary/Tollens' reagent.md",
+    "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
+    "Chemistry/C Glossary/Functional Groups/Alkene.md",
+    "Chemistry/C Glossary/Functional Groups/Alkane.md",
+    "Chemistry/C Glossary/Electronegativity.md",
+    "Chemistry/C Glossary/Carboxylic acid.md",
+    "Chemistry/C Glossary/Brady's reagent.md",
+    "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
+    "Chemistry/C Glossary/Bond angles/Tetrahedral.md",
+    "Chemistry/C Glossary/Bond angles/Pyramidal.md",
+    "Chemistry/C Glossary/Bond angles/Octahedral.md",
+    "Chemistry/C Glossary/Bond angles/Non-linear.md",
+    "Chemistry/C Glossary/Bond angles/Linear.md",
+    "Chemistry/C Glossary/Bond angles",
+    "Biology/B Glossary/Vacuolar pathway.md",
+    "Biology/B Glossary/Symplastic pathway.md",
+    "Biology/B Glossary/Sieve tube elements.md",
+    "Biology/B Glossary/Plasmodesmata.md",
+    "Biology/B Glossary/Companion cells.md",
+    "Biology/B Glossary/Apoplastic pathway.md",
     "Biology/B Module 3/3.3/3.3.4.md",
     "Transpiration.md",
-    "Pasted image 20230817124843.png",
     "Potometer.md",
     "Biology/B Module 3/3.3/3.3.3.md",
     "Vacuolar pathway.md",
-    "Symplastic pathway.md",
-    "Apoplastic pathway.md",
-    "Plasmodesmata.md",
-    "Biology/B Module 3/3.3/3.3.1.md",
-    "Biology/B Module 3/3.3/3.3.2.md",
-    "Sieve tube elements.md",
-    "Companion cells.md",
-    "Biology/B Glossary/Haemoglobinic acid.md",
-    "Photos/Biology Photos/Pasted image 20230817123402.png",
-    "Biology/B Glossary/Vascular tissue.md",
-    "Biology/B Glossary/Dicotyledonous plants.md",
-    "Biology/B Module 3/3.3/3.3.5.md",
-    "Biology/B Module 3/3.2/3.2.8.md",
-    "Biology/B Glossary/Bohr effect.md",
-    "Photos/Biology Photos/Pasted image 20230817122834.png",
-    "Biology/B Glossary/Chloride shift.md",
-    "Biology/B Glossary/Carbonic anhydrase.md",
-    "Biology/B Module 3/3.2/3.2.7.md",
-    "Photos/Biology Photos/Pasted image 20230817121841.png",
-    "Biology/B Module 3/3.2/3.2.6.md",
-    "Biology/B Glossary/Haemoglobin.md",
-    "Biology/B Glossary/Fetal haemoglobin.md",
-    "Biology/B Glossary/Dissociation.md",
-    "Photos/Chemistry Photos/Pasted image 20230816130747.png",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
     "Chemistry/C Module 6/Chapter 27",
     "Chemistry/C Module 6/Chapter 26",
     "Chemistry/C Module 6/Chapter 25",
     "Chemistry/C Module 6",
-    "Photos/Chemistry Photos/Pasted image 20230816123311.png",
-    "Photos/Chemistry Photos/Pasted image 20230816123258.png",
-    "Photos/Chemistry Photos/Pasted image 20230816122427.png",
-    "Photos/Biology Photos/Pasted image 20230815161358.png",
-    "Photos/Biology Photos/Pasted image 20230815161310.png",
     "Untitled.canvas",
     "E",
     "Chemistry/C Glossary/Functional Groups",
-    "Chemistry/C Module 6/Chapter 29",
-    "Chemistry/C Module 6/Chapter 28"
+    "Chemistry/C Module 6/Chapter 29"
   ]
 }
