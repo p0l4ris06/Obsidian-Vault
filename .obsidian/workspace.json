@@ -11,8 +11,12 @@
             "id": "038bd03b99f1ca73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/B Module 3/3.1/3.1.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Metaphase 1.md",
-                "mode": "source",
+                "file": "Biology/B Glossary/Chloroplast.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Metaphase 1.md",
+                "file": "Biology/B Glossary/Chloroplast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Metaphase 1.md",
+                "file": "Biology/B Glossary/Chloroplast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Metaphase 1.md"
+                "file": "Biology/B Glossary/Chloroplast.md"
               }
             }
           }
@@ -156,34 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe7511d3c2527029",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Biology/B Glossary/Meiosis.md",
-    "Biology/B Glossary/Prophase 1.md",
-    "Biology/B Module 2/2.6/2.6.3.md",
-    "Biology/B Glossary/Anaphase 1.md",
-    "Biology/B Glossary/Homologous chromosomes.md",
+    "Biology/B Glossary/Mitochondria.md",
+    "Biology/B Module 2/2.6/2.6.5.md",
+    "Biology/B Glossary/Palisade cells.md",
+    "Biology/B Module 2/2.6/2.6.6.md",
     "Biology/B Module 2/2.6/2.6.2.md",
     "Biology/B Module 2/2.6/2.6.1.md",
+    "Biology/B Module 2/2.6/2.6.9.md",
+    "Biology/B Module 3/3.1/3.1.1.md",
+    "Biology/B Glossary/Enzyme.md",
+    "Biology/B Glossary/Proteins.md",
+    "Biology/B Glossary/Blood.md",
+    "Biology/B Glossary/Water.md",
+    "Biology/B Module 2/2.6/2.6.8.md",
+    "Biology/B Module 2/2.6/2.6.7.md",
+    "Biology/B Module 2/2.6/2.6.4.md",
+    "Biology/B Glossary/Neutrophil.md",
+    "Biology/B Module 2/2.6/2.6.3.md",
+    "Biology/B Glossary/Meiosis.md",
+    "Biology/B Glossary/Prophase 2.md",
+    "Biology/B Glossary/Metaphase 2.md",
+    "Biology/B Glossary/Telophase 1.md",
+    "Biology/B Glossary/Metaphase 1.md",
+    "Biology/B Glossary/Prophase 1.md",
+    "Biology/B Glossary/Anaphase 1.md",
+    "Biology/B Glossary/Homologous chromosomes.md",
     "Biology/B Glossary/Anaphase.md",
-    "Biology/B Glossary/Chromatids.md",
-    "Biology/B Glossary/Metaphase.md",
-    "Biology/B Glossary/Cytokinesis.md",
-    "Biology/B Module 2/2.5/2.5.5.md",
-    "Biology/B Module 2/2.5/2.5.4.md",
-    "Biology/B Module 2/2.5/2.5.3.md",
-    "Biology/B Module 2/2.5/2.5.2.md",
-    "Biology/B Glossary/Facilitated diffusion.md",
-    "Biology/B Glossary/Diffusion.md",
-    "Biology/B Module 2/2.5/2.5.1.md",
-    "Biology/B Glossary/Glycolipids.md",
-    "Biology/B Module 2/2.1/2.1.7.md",
-    "Biology/B Module 2/2.4/2.4.9.md",
-    "Biology/B Module 2/2.4/2.4.8.md",
-    "Biology/B Module 2/2.4/2.4.6.md",
-    "Biology/B Module 2/2.4/2.4.7.md",
-    "Biology/B Module 2/2.4/2.4.4.md",
-    "Biology/B Module 2/2.4/2.4.5.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
