@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "path:\"Biology/B Module 2\"",
       "color": {
         "a": 1,
-        "rgb": 16656146
+        "rgb": 16720655
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "path:\"Chemistry/C Modules\"",
       "color": {
         "a": 1,
-        "rgb": 28415
+        "rgb": 6465348
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.204768308205366,
+  "scale": 0.1984034991802443,
   "close": false
 }
