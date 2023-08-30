@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 4/4.3/4.3.3.md",
+                "file": "Archaea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 4/4.3/4.3.3.md",
+                "file": "Archaea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 4/4.3/4.3.3.md",
+                "file": "Archaea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 4/4.3/4.3.3.md"
+                "file": "Archaea.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "038bd03b99f1ca73",
   "lastOpenFiles": [
+    "Biology/B Module 4/4.3/4.3.3.md",
+    "Archaea.md",
+    "Biology/B Glossary/Bacteria.md",
     "Biology/B Glossary/Animalia.md",
     "Biology/B Module 4/4.3/4.3.2.md",
     "Biology/B Glossary/Plantae.md",
@@ -156,7 +159,6 @@
     "Biology/B Module 4/4.3/4.3.7.md",
     "Biology/B Modules/B Modules.md",
     "Biology/B Module 4/4.3/4.3.1.md",
-    "Biology/B Module 4/4.3/4.3.3.md",
     "Biology/B Glossary/Fungi.md",
     "Biology/B Glossary/Protoctista.md",
     "Biology/B Glossary/Prokaryotae.md",
@@ -173,8 +175,6 @@
     "Biology/B Glossary/Phylum.md",
     "Biology/B Glossary/Domain.md",
     "Biology/B Glossary/Classification.md",
-    "Biology/B Glossary/Keystone species.md",
-    "Biology/B Glossary/CSS.md",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
     "Photos/Chemistry Photos/Pasted image 20230824175054.png",
