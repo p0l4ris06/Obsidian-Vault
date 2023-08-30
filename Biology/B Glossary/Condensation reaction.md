@@ -1,1 +1,1 @@
-Reaction that occurs when two molecules are joined together with the removal of water
+Reaction that occurs when two molecules are joined together with the removal of [[water]]
