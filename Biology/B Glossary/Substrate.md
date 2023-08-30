@@ -1,1 +1,1 @@
-Molecule that is altered by an enzyme-catalysed reaction
+Molecule that is altered by an [[enzyme]]-catalysed reaction
