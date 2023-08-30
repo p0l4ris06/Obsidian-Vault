@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Biology/B Module 2\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -89,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 174,
   "scale": 0.17786646422620014,
-  "close": false
+  "close": true
 }
