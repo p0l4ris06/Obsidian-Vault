@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 2/2.2/2.2.7.md",
-                "mode": "preview",
+                "file": "Biology/B Module 2/2.2/2.2.11.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 2/2.2/2.2.7.md",
+                "file": "Biology/B Module 2/2.2/2.2.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 2/2.2/2.2.7.md",
+                "file": "Biology/B Module 2/2.2/2.2.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 2/2.2/2.2.7.md"
+                "file": "Biology/B Module 2/2.2/2.2.11.md"
               }
             }
           }
@@ -160,8 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "39798331f50f6d65",
   "lastOpenFiles": [
+    "Biology/B Module 2/2.2/2.2.10.md",
+    "Biology/B Glossary/Elastin.md",
+    "Biology/B Glossary/Collagen.md",
+    "Heart.md",
+    "Biology/B Glossary/Prosthetic group.md",
+    "Biology/B Module 2/2.2/2.2.9.md",
+    "Biology/B Glossary/Quaternary structure.md",
+    "Biology/B Glossary/Tertiary structure.md",
+    "Biology/B Glossary/Secondary structure.md",
+    "Biology/B Module 2/2.2/2.2.8.md",
+    "Biology/B Glossary/Amino acids.md",
+    "Biology/B Module 2/2.2/2.2.7.md",
     "Biology/B Module 2/2.2/2.2.6.md",
     "Biology/B Glossary/Phospholipid.md",
     "Biology/B Glossary/Lipids.md",
@@ -176,19 +188,7 @@
     "Biology/B Glossary/Hydrogen bonds.md",
     "Biology/B Glossary/Hydrolysis reaction.md",
     "Biology/B Glossary/Condensation reaction.md",
-    "Biology/B Glossary/Eukaryotic cells.md",
-    "Biology/B Module 2/2.1/2.1.7.md",
-    "Biology/B Module 2/2.1/B2.1.md",
-    "Biology/B Module 2/2.1/2.1.6.md",
-    "Biology/B Glossary/Prokaryotic cells.md",
-    "Golgi apparatus.md",
-    "Chloroplast.md",
-    "Endoplasmic reticulum.md",
-    "SER.md",
-    "RER.md",
-    "Mitochondria.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
-    "Biology/B Glossary/Gene.md",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
     "Photos/Chemistry Photos/Pasted image 20230824175054.png",
