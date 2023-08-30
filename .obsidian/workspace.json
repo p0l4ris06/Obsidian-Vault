@@ -11,22 +11,18 @@
             "id": "038bd03b99f1ca73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Module 2/2.1/2.1.7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "39798331f50f6d65",
+            "id": "fe7511d3c2527029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 2/2.4/2.4.7.md",
-                "mode": "source",
+                "file": "Biology/B Module 2/2.5/2.5.1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 2/2.4/2.4.7.md",
+                "file": "Biology/B Module 2/2.5/2.5.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 2/2.4/2.4.7.md",
+                "file": "Biology/B Module 2/2.5/2.5.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 2/2.4/2.4.7.md"
+                "file": "Biology/B Module 2/2.5/2.5.1.md"
               }
             }
           }
@@ -160,13 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39798331f50f6d65",
+  "active": "fe7511d3c2527029",
   "lastOpenFiles": [
+    "Biology/B Glossary/Glycolipids.md",
+    "Biology/B Module 2/2.5/2.5.1.md",
+    "Biology/B Module 2/2.1/2.1.7.md",
+    "Biology/B Module 2/2.4/2.4.9.md",
+    "Biology/B Module 2/2.4/2.4.8.md",
     "Biology/B Module 2/2.4/2.4.6.md",
+    "Biology/B Module 2/2.4/2.4.7.md",
     "Biology/B Module 2/2.4/2.4.4.md",
     "Biology/B Module 2/2.4/2.4.5.md",
-    "Biology/B Module 2/2.4/2.4.7.md",
-    "Biology/B Module 2/2.4/2.4.8.md",
     "Biology/B Module 2/2.4/2.4.3.md",
     "Biology/B Module 2/2.4/2.4.2.md",
     "Biology/B Glossary/Coenzymes.md",
@@ -184,10 +184,6 @@
     "Biology/B Module 2/2.3/2.3.1.md",
     "Biology/B Module 2/2.2/2.2.13.md",
     "Biology/B Module 2/2.2/2.2.12.md",
-    "Biology/B Module 2/2.2/2.2.11.md",
-    "Biology/B Module 2/2.2/2.2.10.md",
-    "Biology/B Glossary/Elastin.md",
-    "Biology/B Glossary/Collagen.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",

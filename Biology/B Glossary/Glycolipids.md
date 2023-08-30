@@ -1,0 +1,1 @@
+[[Phospholipid]]s with sugar molecules attached. Have a similar function to [[Glycoprotein]]s - they also act as recognition sites for [[Antigen]]s. Also increase membrane stability by forming [[Hydrogen bonds]] with [[Water]]
