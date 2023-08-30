@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Ciliated epithelium.md",
+                "file": "Biology/B Module 3/3.1/3.1.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,16 @@
             "id": "1c78fcbc4d97e89d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Ciliated epithelium.md",
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Ciliated epithelium.md",
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Ciliated epithelium.md"
+                "file": "Biology/B Module 4/4.3/4.3.1.md"
               }
             }
           }
@@ -155,9 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "038bd03b99f1ca73",
+  "active": "1c78fcbc4d97e89d",
   "lastOpenFiles": [
+    "Classification.md",
+    "Biology/B Module 4/4.3/4.3.1.md",
+    "Binomial system.md",
+    "_Home.md",
+    "Biology/B Glossary/Keystone species.md",
+    "Biology/B Glossary/CSS.md",
+    "Biology/B Module 3/3.1/3.1.5.md",
     "Biology/B Module 3/3.1/3.1.3.md",
+    "Biology/B Module 3/3.1/3.1.4.md",
+    "Biology/B Glossary/Vital capacity.md",
+    "Biology/B Glossary/Spirometer.md",
+    "Biology/B Glossary/Tidal volume.md",
+    "Biology/B Glossary/Smooth muscle.md",
+    "Biology/B Glossary/Goblet cells.md",
+    "Biology/B Glossary/Elastic fibres.md",
+    "Biology/B Glossary/Ciliated epithelium.md",
     "Biology/B Glossary/Cartilage.md",
     "Biology/B Glossary/Connective tissue.md",
     "Biology/B Module 3/3.1/3.1.2.md",
@@ -167,22 +187,7 @@
     "Biology/B Glossary/Bronchi and bronchioles.md",
     "Biology/B Glossary/Alveoli.md",
     "Biology/B Module 3/3.1/3.1.1.md",
-    "Biology/B Module 4/4.3/4.3.1.md",
     "Biology/B Module 4/4.2/4.2.5.md",
-    "Biology/B Module 4/4.2/4.2.9.md",
-    "CSS.md",
-    "CITES.md",
-    "Biology/B Module 4/4.2/4.2.8.md",
-    "Conservation ex situ.md",
-    "Biology/B Module 4/4.2/4.2.7.md",
-    "Conservation in situ.md",
-    "Biology/B Module 4/4.2/4.2.6.md",
-    "Soil depletion.md",
-    "Keystone species.md",
-    "Biology/B Module 3/3.2/3.2.5.md",
-    "Biology/B Module 2/2.4/2.4.5.md",
-    "Biology/B Module 3/3.1/3.1.5.md",
-    "Biology/B Module 3/3.3/3.3.7.md",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
     "Photos/Chemistry Photos/Pasted image 20230824175054.png",
