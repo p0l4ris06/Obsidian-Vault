@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6152ee6c466b3249",
+        "id": "019bdc41f78ced90",
         "type": "tabs",
         "children": [
           {
-            "id": "038bd03b99f1ca73",
+            "id": "c6d79ff22c4f5775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Semilunar valves.md",
-                "mode": "source",
+                "file": "Biology/B Module 3/3.3/3.3.4.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Semilunar valves.md",
+                "file": "Biology/B Module 3/3.3/3.3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Semilunar valves.md",
+                "file": "Biology/B Module 3/3.3/3.3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Semilunar valves.md"
+                "file": "Biology/B Module 3/3.3/3.3.4.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "038bd03b99f1ca73",
+  "active": "c6d79ff22c4f5775",
   "lastOpenFiles": [
+    "Biology/B Module 3/3.3/3.3.3.md",
+    "Biology/B Glossary/Vacuolar pathway.md",
+    "Biology/B Module 3/3.3/3.3.2.md",
+    "Biology/B Module 3/3.3/3.3.1.md",
+    "Biology/B Module 3/3.2/3.2.8.md",
+    "Biology/B Glossary/Plasma.md",
+    "Biology/B Glossary/Haemoglobinic acid.md",
+    "Biology/B Module 3/3.2/3.2.7.md",
+    "Biology/B Module 3/3.2/3.2.6.md",
+    "Biology/B Glossary/Fibrillation.md",
+    "Biology/B Glossary/Purkyne tissue.md",
+    "Biology/B Glossary/Tachycardia.md",
+    "Biology/B Glossary/SAN.md",
+    "Biology/B Glossary/ECG.md",
+    "Biology/B Glossary/Ectopic heartbeat.md",
+    "Biology/B Glossary/Bradycardia.md",
+    "Biology/B Module 3/3.2/3.2.5.md",
+    "Biology/B Glossary/Cardiac cycle.md",
     "Biology/B Module 3/3.2/3.2.4.md",
+    "Biology/B Glossary/Semilunar valves.md",
     "Biology/B Glossary/Cardiac muscle.md",
     "Biology/B Module 3/3.2/3.2.3.md",
     "Biology/B Module 3/3.2/3.2.2.md",
     "Biology/B Glossary/Venules.md",
     "Biology/B Glossary/Veins.md",
     "Biology/B Glossary/Artery.md",
-    "Biology/B Module 3/3.2/3.2.1.md",
-    "Biology/B Glossary/Single circulatory system.md",
-    "Biology/B Module 3/3.1/B3.1.md",
-    "Biology/B Module 3/3.1/3.1.5.md",
-    "Biology/B Module 3/3.1/3.1.4.md",
-    "Biology/B Module 3/3.1/3.1.3.md",
-    "Biology/B Module 3/3.1/3.1.2.md",
-    "Biology/B Module 3/3.1/3.1.1.md",
-    "Biology/B Module 2/2.6/2.6.1.md",
-    "Biology/B Glossary/Double circulatory system.md",
-    "Biology/B Glossary/Alveoli.md",
-    "Biology/B Module 2/2.6/2.6.5.md",
-    "Biology/B Glossary/Mitochondria.md",
-    "Biology/B Glossary/Chloroplast.md",
-    "Biology/B Glossary/Palisade cells.md",
-    "Biology/B Module 2/2.6/2.6.6.md",
-    "Biology/B Module 2/2.6/2.6.2.md",
-    "Biology/B Module 2/2.6/2.6.9.md",
-    "Biology/B Glossary/Enzyme.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
