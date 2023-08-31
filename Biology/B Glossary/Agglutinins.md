@@ -1,2 +1,2 @@
-[[Antibodies]] that cause pathogens to stick together
+[[Antibodies]] that cause [[pathogen]]s to stick together
 Effective against [[Virus]]es
