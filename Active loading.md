@@ -1,0 +1,1 @@
+[[Sucrose]] is loaded into the [[Phloem]] by an active process. This involves the use of energy from [[ATP]] in the [[Companion cells]]. The energy is used to transport H<sup>+</sup> ions out of the companion cells. As a result, a [[Concentration]] gradient is created. The hydrogen ions diffuse back into the companion cells via co
