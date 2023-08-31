@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 4/4.1/4.1.1.md",
-                "mode": "preview",
+                "file": "Biology/B Glossary/Interleukins.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 4/4.1/4.1.1.md",
+                "file": "Biology/B Glossary/Interleukins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 4/4.1/4.1.1.md",
+                "file": "Biology/B Glossary/Interleukins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 4/4.1/4.1.1.md"
+                "file": "Biology/B Glossary/Interleukins.md"
               }
             }
           }
@@ -149,6 +149,17 @@
   },
   "active": "c97f3470c7984f75",
   "lastOpenFiles": [
+    "Biology/B Module 4/4.1/4.1.6.md",
+    "Biology/B Glossary/B memory cells.md",
+    "Biology/B Glossary/Clonal expansion.md",
+    "Biology/B Module 4/4.1/4.1.5.md",
+    "Biology/B Module 4/4.1/4.1.3.md",
+    "Biology/B Module 4/4.1/4.1.4.md",
+    "Biology/B Glossary/Primary defence.md",
+    "Biology/B Module 4/4.1/4.1.2.md",
+    "Biology/B Glossary/Vector.md",
+    "Biology/B Module 4/4.1/4.1.1.md",
+    "Biology/B Glossary/Virus.md",
     "Biology/B Module 4/4.3/4.3.1.md",
     "Biology/B Glossary/Blood.md",
     "Biology/B Glossary/Water.md",
@@ -165,17 +176,6 @@
     "Biology/B Glossary/Sink.md",
     "Biology/B Glossary/Assimilates.md",
     "Biology/B Module 3/3.3/3.3.6.md",
-    "Biology/B Module 3/3.3/3.3.5.md",
-    "Biology/B Module 3/3.3/3.3.4.md",
-    "Biology/B Module 3/3.3/3.3.3.md",
-    "Biology/B Module 3/3.3/3.3.2.md",
-    "Biology/B Glossary/Xylem.md",
-    "Biology/B Module 3/3.2/3.2.8.md",
-    "Biology/B Module 3/3.2/3.2.7.md",
-    "Biology/B Module 3/3.2/3.2.6.md",
-    "Biology/B Module 3/3.2/3.2.5.md",
-    "Biology/B Module 3/3.2/3.2.4.md",
-    "Biology/B Module 3/3.2/3.2.3.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",

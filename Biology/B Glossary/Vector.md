@@ -1,1 +1,1 @@
-An organism that carries a pathogen from one host to another
+An organism that carries a [[pathogen]] from one host to another

@@ -1,1 +1,1 @@
-Prevent pathogens from entering the body
+Prevent [[pathogen]]s from entering the body
