@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "019bdc41f78ced90",
+        "id": "8233cbab194b0d57",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d79ff22c4f5775",
+            "id": "c97f3470c7984f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xerophyte.md",
-                "mode": "source",
+                "file": "Biology/B Module 3/3.3/3.3.2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xerophyte.md",
+                "file": "Biology/B Module 3/3.3/3.3.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xerophyte.md",
+                "file": "Biology/B Module 3/3.3/3.3.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xerophyte.md"
+                "file": "Biology/B Module 3/3.3/3.3.2.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d79ff22c4f5775",
+  "active": "c97f3470c7984f75",
   "lastOpenFiles": [
-    "Biology/B Module 3/3.3/3.3.6.md",
-    "Xerophyte.md",
-    "Hydrophyte.md",
-    "Biology/B Module 3/3.3/3.3.5.md",
+    "Biology/B Module 3/3.3/3.3.1.md",
+    "Biology/B Glossary/Xylem.md",
+    "Biology/B Glossary/Phloem.md",
+    "Biology/B Module 3/3.2/3.2.8.md",
+    "Biology/B Module 3/3.2/3.2.7.md",
+    "Biology/B Module 3/3.2/3.2.6.md",
+    "Biology/B Module 3/3.2/3.2.5.md",
+    "Biology/B Module 3/3.2/3.2.4.md",
+    "Biology/B Module 3/3.2/3.2.3.md",
+    "Biology/B Module 3/3.2/3.2.2.md",
+    "Biology/B Module 3/3.2/3.2.1.md",
     "Biology/B Module 3/3.3/3.3.7.md",
+    "Biology/B Module 3/3.3/3.3.6.md",
+    "Hydrophyte.md",
+    "Xerophyte.md",
+    "Biology/B Module 3/3.3/3.3.5.md",
     "Biology/B Module 3/3.3/3.3.4.md",
     "Biology/B Glossary/Potometer.md",
     "Biology/B Module 3/3.3/3.3.3.md",
     "Biology/B Glossary/Vacuolar pathway.md",
     "Biology/B Module 3/3.3/3.3.2.md",
-    "Biology/B Module 3/3.3/3.3.1.md",
-    "Biology/B Module 3/3.2/3.2.8.md",
     "Biology/B Glossary/Plasma.md",
     "Biology/B Glossary/Haemoglobinic acid.md",
-    "Biology/B Module 3/3.2/3.2.7.md",
-    "Biology/B Module 3/3.2/3.2.6.md",
     "Biology/B Glossary/Fibrillation.md",
     "Biology/B Glossary/Purkyne tissue.md",
     "Biology/B Glossary/Tachycardia.md",
-    "Biology/B Glossary/SAN.md",
-    "Biology/B Glossary/ECG.md",
-    "Biology/B Glossary/Ectopic heartbeat.md",
-    "Biology/B Glossary/Bradycardia.md",
-    "Biology/B Module 3/3.2/3.2.5.md",
-    "Biology/B Glossary/Cardiac cycle.md",
-    "Biology/B Module 3/3.2/3.2.4.md",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
     "Photos/Biology Photos/Pasted image 20230830094703.png",
     "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",

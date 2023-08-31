@@ -1,1 +1,1 @@
-Transport organic compounds (assimilates), particularly [[Sucrose]], from the source to the sink. The transport of these compounds can occur up and down the plant
+Transport organic compounds ([[assimilates]]), particularly [[Sucrose]], from the [[source]] to the [[sink]]. The transport of these compounds can occur up and down the plant
