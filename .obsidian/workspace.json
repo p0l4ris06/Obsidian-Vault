@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8233cbab194b0d57",
+        "id": "a6fcad5f964fb941",
         "type": "tabs",
         "children": [
           {
-            "id": "c97f3470c7984f75",
+            "id": "b13b8bec7b1e9917",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/C Module 4/Chapter 16/C16.2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/C Module 4/Chapter 16/C16.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/C Module 4/Chapter 16/C16.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/C Module 4/Chapter 16/C16.2.md"
+              }
             }
           }
         ]
@@ -139,11 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c97f3470c7984f75",
+  "active": "b13b8bec7b1e9917",
   "lastOpenFiles": [
+    "Chemistry/C Module 4/Chapter 16/C16.1.md",
+    "Chemistry/C Module 4/Chapter 11/C11.2.md",
+    "Chemistry/C Module 4/Chapter 11/C11.1.md",
+    "Chemistry/C Module 4/Chapter 16/C16.2.md",
+    "Pasted image 20230901102343.png",
+    "Pasted image 20230901102338.png",
+    "Chemistry/C Module 4/Chapter 15/C15.2.md",
+    "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Chemistry/C Glossary/Homologous series.md",
     "Chemistry/C Glossary/Alicyclic.md",
-    "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Photos/Chemistry Photos/Pasted image 20230901101504.png",
     "Biology/B Glossary/Species.md",
     "Chemistry/C Glossary/Haloalkane.md",
@@ -163,11 +178,6 @@
     "Chemistry/C Module 4/Chapter 11/Chapter 11.md",
     "Chemistry/C Module 4/Chapter 11/C11.5.md",
     "Chemistry/C Glossary/Structural isomerism.md",
-    "Chemistry/C Module 4/Chapter 11/C11.4.md",
-    "Chemistry/C Module 4/Chapter 11/C11.3.md",
-    "Chemistry/C Module 4/Chapter 11/C11.2.md",
-    "Chemistry/C Glossary/Alkyne.md",
-    "Chemistry/C Glossary/Aromatic.md",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
     "Photos/Chemistry Photos/Pasted image 20230901085451.png",
@@ -175,8 +185,6 @@
     "Photos/Biology Photos/Pasted image 20230831165352.png",
     "Photos/Biology Photos/Pasted image 20230831163612.png",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
-    "Photos/Biology Photos/Pasted image 20230830094703.png",
-    "Photos/Biology Photos/richard-horvath-_nWaeTF6qo0-unsplash.jpg",
     "Chemistry/C Glossary/Bond angles",
     "Chemistry/C Module 6/Chapter 29",
     "Chemistry/C Module 6/Chapter 28",
