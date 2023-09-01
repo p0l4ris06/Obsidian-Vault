@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rate determining step.md",
+                "file": "Chemistry/C Module 6/Chapter 25/C25.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rate determining step.md",
+                "file": "Chemistry/C Module 6/Chapter 25/C25.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rate determining step.md",
+                "file": "Chemistry/C Module 6/Chapter 25/C25.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rate determining step.md"
+                "file": "Chemistry/C Module 6/Chapter 25/C25.2.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c97f3470c7984f75",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Chemistry/C Module 6/Chapter 25/C25.4.md",
+    "Chemistry/C Module 5/Chapter 18/C18.5.md",
     "Chemistry/C Module 5/Chapter 18/C18.4.md",
     "Rate determining step.md",
     "Initial rate.md",
@@ -177,8 +179,6 @@
     "Biology/B Glossary/Secondary immune response.md",
     "Biology/B Glossary/Primary immune response.md",
     "Biology/B Glossary/Opsonins.md",
-    "Biology/B Glossary/Agglutinins.md",
-    "Biology/B Module 4/4.1/4.1.6.md",
     "Photos/Biology Photos/Pasted image 20230831165352.png",
     "Photos/Biology Photos/Pasted image 20230831163612.png",
     "Photos/Biology Photos/Pasted image 20230830162938.png",
