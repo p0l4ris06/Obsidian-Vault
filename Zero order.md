@@ -4,4 +4,6 @@ Rate is proportional to [A]<sup>0</sup>
 
 In a zero order reaction:
 - Anything raised to the power zero is 1
-- Concentration doe influence the rate
+- Concentration does not influence the rate
+
+![[Pasted image 20230901085320.png]]
