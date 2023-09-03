@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Chemistry/C Module 3/Chapter 8/C8.2.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/C Module 3/Chapter 8/C8.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/C Module 3/Chapter 8/C8.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/C Module 3/Chapter 8/C8.2.md"
+              }
             }
           }
         ]
@@ -152,15 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa505f156bbb1417",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
+    "Chemistry/C Module 3/Chapter 8/C8.1.md",
+    "Chemistry/C Module 3/Chapter 8/C8.1 1.md",
+    "Photos/Chemistry Photos/Pasted image 20230901102338.png",
+    "Photos/Chemistry Photos/Pasted image 20230901102343.png",
     "Home.md",
     "Chemistry/C Module 4/Chapter 16/C16.2.md",
     "Chemistry/C Module 4/Chapter 11/C11.2.md",
     "Chemistry/C Module 4/Chapter 11/C11.1.md",
     "Chemistry/C Module 4/Chapter 16/C16.1.md",
-    "Pasted image 20230901102343.png",
-    "Pasted image 20230901102338.png",
     "Chemistry/C Module 4/Chapter 15/C15.2.md",
     "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Chemistry/C Glossary/Homologous series.md",
@@ -180,9 +186,6 @@
     "Chemistry/C Module 4/Chapter 13/C13.2.md",
     "Chemistry/C Module 4/Chapter 13/C13.1.md",
     "Chemistry/C Module 4/Chapter 12/C12.2.md",
-    "Chemistry/C Module 4/Chapter 12/C12.1.md",
-    "Chemistry/C Module 4/Chapter 11/Chapter 11.md",
-    "Chemistry/C Module 4/Chapter 11/C11.5.md",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
     "Photos/Chemistry Photos/Pasted image 20230901085451.png",
