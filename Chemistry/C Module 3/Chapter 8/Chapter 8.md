@@ -1,1 +1,4 @@
-[[Chemistry/C Module 3/Chapter 8/C8.1]]
+[[C8.1]]
+[[C8.2]]
+[[C8.3]]
+
