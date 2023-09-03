@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "314a098658c0816f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Glossary/Apoplastic pathway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24527bd63b2ee815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/C Glossary/Bond angles/Linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3199db268aaef51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/C Glossary/Bond angles/Linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "def55edc6c54dbf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 6/C6.3.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 6/C6.3.md"
+                "file": "Home.md"
               }
             }
           }
@@ -186,6 +149,7 @@
   },
   "active": "def55edc6c54dbf1",
   "lastOpenFiles": [
+    "Chemistry/C Module 2/Chapter 6/C6.3.md",
     "Chemistry/C Module 2/Chapter 6/C6.2.md",
     "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
     "Chemistry/C Glossary/Bond angles/Linear.md",
@@ -209,7 +173,6 @@
     "Chemistry/C Glossary/Bond angles/Tetrahedral.md",
     "Chemistry/C Module 2/Chapter 6/Chapter 6.md",
     "Chemistry/C Module 2/Chapter 6/C6.4.md",
-    "Chemistry/C Module 2/Chapter 6/C6.3.md",
     "Chemistry/C Glossary/Tollens' reagent.md",
     "Chemistry/C Modules/C Module 6.md",
     "Chemistry/C Module 6/Chapter 26/Chapter  26.md",
