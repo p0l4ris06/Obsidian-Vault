@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ammonium test.md",
+                "file": "Chemistry/C Module 3/Chapter 8/C8.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ammonium test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ammonium test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ammonium test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b13b8bec7b1e9917",
+  "active": "fa505f156bbb1417",
   "lastOpenFiles": [
     "Chemistry/C Module 3/Chapter 8/C8.3.md",
     "Ammonium test.md",
