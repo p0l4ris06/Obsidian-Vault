@@ -1,1 +1,1 @@
-Electrocardiogram, a trace that records the electrical activity of the heart
+Electrocardiogram, a trace that records the electrical activity of the [[heart]]

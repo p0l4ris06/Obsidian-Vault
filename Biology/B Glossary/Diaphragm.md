@@ -1,1 +1,1 @@
-A layer of muscle beneath the lungs
+A layer of [[Muscle tissue]] beneath the lungs

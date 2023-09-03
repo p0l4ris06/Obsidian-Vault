@@ -1,1 +1,2 @@
-Uncoordinated contraction of the atria and ventricles
+Uncoordinated contraction of the atria and ventricles in the [[Heart]]
+

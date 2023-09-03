@@ -1,1 +1,1 @@
-Cells that secrete mucus
+Cells that secrete mucus inside the [[Ciliated epithelium]]

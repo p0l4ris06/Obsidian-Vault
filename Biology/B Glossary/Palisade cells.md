@@ -1,3 +1,4 @@
 Closely packed photosynthetic cells within leaves
 Long and cylindrical 
-Contain many [[Chloroplasts]]
+Contain many [[Chloroplast]]
+[[Photosynthesis]]

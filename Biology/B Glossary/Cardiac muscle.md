@@ -1,1 +1,1 @@
-Specialised [[Muscle tissue]] found in the walls of the heart chambers
+Specialised [[Muscle tissue]] found in the walls of the [[heart]] chambers
