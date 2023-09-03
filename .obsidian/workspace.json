@@ -23,13 +23,12 @@
             "id": "fa505f156bbb1417",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b13b8bec7b1e9917",
+  "active": "fa505f156bbb1417",
   "lastOpenFiles": [
+    "Home.md",
     "Chemistry/C Module 4/Chapter 16/C16.2.md",
     "Chemistry/C Module 4/Chapter 11/C11.2.md",
     "Chemistry/C Module 4/Chapter 11/C11.1.md",
@@ -187,7 +183,6 @@
     "Chemistry/C Module 4/Chapter 12/C12.1.md",
     "Chemistry/C Module 4/Chapter 11/Chapter 11.md",
     "Chemistry/C Module 4/Chapter 11/C11.5.md",
-    "Chemistry/C Glossary/Structural isomerism.md",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
     "Photos/Chemistry Photos/Pasted image 20230901085451.png",
