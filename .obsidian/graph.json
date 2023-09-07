@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -11,21 +11,21 @@
       "query": "path:\"Biology/B Module 2\"",
       "color": {
         "a": 1,
-        "rgb": 16720655
+        "rgb": 16656146
       }
     },
     {
       "query": "path:\"Biology/B Module 3\"",
       "color": {
         "a": 1,
-        "rgb": 14701077
+        "rgb": 16601864
       }
     },
     {
       "query": "path:\"Biology/B Module 4\"",
       "color": {
         "a": 1,
-        "rgb": 16766208
+        "rgb": 16488706
       }
     },
     {
@@ -46,35 +46,49 @@
       "query": "path:\"Chemistry/C Module 2\"",
       "color": {
         "a": 1,
-        "rgb": 194347
+        "rgb": 16432130
       }
     },
     {
       "query": "path:\"Chemistry/C Module 3\"",
       "color": {
         "a": 1,
-        "rgb": 15086846
+        "rgb": 16711219
       }
     },
     {
       "query": "path:\"Chemistry/C Module 4\"",
       "color": {
         "a": 1,
-        "rgb": 16711803
+        "rgb": 13691435
       }
     },
     {
       "query": "path:\"Chemistry/C Module 5\"",
       "color": {
         "a": 1,
-        "rgb": 3108864
+        "rgb": 6729778
       }
     },
     {
       "query": "path:\"Chemistry/C Module 6\"",
       "color": {
         "a": 1,
-        "rgb": 7039999
+        "rgb": 3289855
+      }
+    },
+    {
+      "query": "path:\"Biology/B Module 5\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776058
+      }
+    },
+    {
+      "query": "path:\"Biology/B Module 6\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65450
       }
     }
   ],
@@ -88,6 +102,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.21040552877951402,
-  "close": true
+  "scale": 0.16348370567220563,
+  "close": false
 }
