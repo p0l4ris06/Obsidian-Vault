@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Glossary/Sigma bond.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "14a2197f7861151d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Glossary/Sigma bond.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Glossary/Sigma bond.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Glossary/Sigma bond.md"
+                "file": "Home.md"
               }
             }
           }
