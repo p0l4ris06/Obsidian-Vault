@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a68421de847e18cf",
+        "id": "26bc128eb77b62ae",
         "type": "tabs",
         "children": [
           {
-            "id": "04d9a9c27398bf7a",
+            "id": "bf0ee32014662a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3346e5a13cc5869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md"
+                "file": "Home.md"
               }
             }
           }
@@ -160,14 +147,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3346e5a13cc5869",
+  "active": "bf0ee32014662a16",
   "lastOpenFiles": [
-    "Biology/B Module 6/6.6/6.6.2.md",
     "Biology/B Module 6/6.6/6.6.1.md",
+    "Biology/B Module 6/6.6/6.6.3.md",
+    "Biology/B Module 6/6.6/B6.6.md",
+    "Biology/B Module 6/6.6/6.6.4.md",
+    "Biology/B Glossary/Conservation.md",
+    "Biology/B Module 6/6.6/6.6.2.md",
     "Home.md",
     "Biology/B Modules/B Module 5.md",
     "Biology/B Module 5/5.6/B5.6.md",
-    "Biology/B Module 6/6.6/B6.6.md",
     "Biology/B Module 5/5.1/B5.1.md",
     "Biology/B Module 5/5.2/B5.2.md",
     "Biology/B Module 5/5.3/B5.3.md",
@@ -195,9 +185,6 @@
     "conflict-files-obsidian-git.md",
     "Biology/B Module 5/5.6/5.6.1.md",
     "Chemistry/C Module 2/Chapter 2/C2.1.md",
-    "Chemistry/C Glossary/Ammonnia.md",
-    "Chemistry/C Module 3/Chapter 8/C8.2.md",
-    "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
     "Photos/Chemistry Photos/Pasted image 20230901102343.png",
