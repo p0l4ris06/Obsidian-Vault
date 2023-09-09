@@ -1,9 +1,8 @@
 ---
 banner: "![[Pasted image 20230903111845.png]]"
-banner_y: 0.5
+banner_y: 0.1
 ---
----
-banner: "![[Pasted image 20230903111845.png]]"
+
 ---
 # [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
 
