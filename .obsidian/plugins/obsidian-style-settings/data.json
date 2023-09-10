@@ -40,5 +40,6 @@
   "anuppuccin-theme-settings@@anp-kanban-hide-lane-border": false,
   "anuppuccin-theme-settings@@anp-kanban-hide-card-menus": false,
   "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
-  "anuppuccin-theme-settings@@anp-inline-title-vis": "block"
+  "anuppuccin-theme-settings@@anp-inline-title-vis": "block",
+  "anuppuccin-theme-settings@@anp-toggle-preview": false
 }

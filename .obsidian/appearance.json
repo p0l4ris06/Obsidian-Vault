@@ -4,7 +4,8 @@
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "cards"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
