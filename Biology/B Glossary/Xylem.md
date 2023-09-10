@@ -7,3 +7,5 @@ Xylem tissue is made up of four cell types that function together:
 2. Vessel elements (large with thickened cell walls and no end plates when mature)
 3. Xylem parenchyma
 4. Sclerenchyma cells (fibres and sclereids)
+
+#B-definition 

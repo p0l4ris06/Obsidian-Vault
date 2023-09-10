@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Trypsin.md",
+                "file": "Biology/B Glossary/Xylem.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "955728de4a4391f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Trypsin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Trypsin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/B Glossary/Trypsin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,9 +152,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fe4b52d4edb29b6",
+  "active": "955728de4a4391f7",
   "lastOpenFiles": [
+    "Biology/B Glossary/Xylem.md",
+    "Biology/B Glossary/Xerophyte.md",
+    "Biology/B Glossary/Water potential.md",
+    "Biology/B Glossary/Water.md",
+    "Biology/B Glossary/Vmax.md",
+    "Biology/B Glossary/Vital capacity.md",
+    "Biology/B Glossary/Virus.md",
+    "Biology/B Glossary/Venules.md",
+    "Biology/B Glossary/Veins.md",
+    "Biology/B Glossary/Vector.md",
+    "Biology/B Glossary/Vascular tissue.md",
+    "Biology/B Glossary/Vacuolar pathway.md",
+    "Biology/B Glossary/Vaccination.md",
+    "Biology/B Glossary/Types of bond.md",
+    "Biology/B Glossary/Trypsin.md",
     "Biology/B Glossary/Triglycerides.md",
+    "Biology/B Glossary/Tylose.md",
+    "Biology/B Glossary/Turgid.md",
     "Biology/B Glossary/Transpiration.md",
     "Biology/B Glossary/Translocation.md",
     "Biology/B Glossary/Translation.md",
@@ -158,23 +180,6 @@
     "Biology/B Glossary/Tissue fluid.md",
     "Biology/B Glossary/Tissue.md",
     "Biology/B Glossary/Tidal volume.md",
-    "Biology/B Glossary/Tests for carbohydrates.md",
-    "Biology/B Glossary/Tertiary structure.md",
-    "Biology/B Glossary/TEM.md",
-    "Biology/B Glossary/Telophase 2.md",
-    "Biology/B Glossary/Telophase 1.md",
-    "Biology/B Glossary/Telophase.md",
-    "Biology/B Glossary/Tannins.md",
-    "Biology/B Glossary/Tachycardia.md",
-    "Biology/B Glossary/T regulator cells.md",
-    "Biology/B Glossary/T memory cells.md",
-    "Biology/B Glossary/T killer cells.md",
-    "Biology/B Glossary/T helper cells.md",
-    "Biology/B Glossary/Systematic.md",
-    "Biology/B Glossary/Symplastic pathway.md",
-    "Biology/B Glossary/Sucrose.md",
-    "Biology/B Glossary/Substrate.md",
-    "Biology/B Glossary/Student's t-test.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
