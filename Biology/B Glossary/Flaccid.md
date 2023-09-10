@@ -1,2 +1,2 @@
 Opposite of [[Turgid]] innit
-#definition
+#B-definition 

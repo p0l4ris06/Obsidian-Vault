@@ -1,2 +1,2 @@
 Movement of molecules from an area of high [[concentration]] to an area of low concentration across a partially permeable membrane via channels of [[Proteins]] or carriers, does not involve [[ATP]]
-#definition
+#B-definition 

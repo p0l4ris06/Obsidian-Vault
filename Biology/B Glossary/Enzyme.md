@@ -1,3 +1,3 @@
 Speeds up rate of reaction
 May need a [[Cofactor]]
-#definition
+#B-definition 
