@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "period",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
+                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md"
+                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md"
               }
             }
           }
@@ -147,44 +148,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf0ee32014662a16",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
-    "Chemistry/C Module 2/Chapter 2/Chapter 2.md",
+    "Biology/B Glossary/Water.md",
+    "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
+    "Biology/B Glossary/SEM.md",
+    "Chemistry/C Glossary/Periods.md",
+    "Chemistry/C Glossary/Bond angles/Octahedral.md",
+    "Chemistry/C Glossary/Nucleophile.md",
+    "Chemistry/C Glossary/Nuclear charge.md",
+    "Biology/B Glossary/Non-reducing sugar.md",
+    "Chemistry/C Glossary/Metallic bonding.md",
+    "Chemistry/C Glossary/Bond angles/Linear.md",
+    "Chemistry/C Glossary/Ionisation energy.md",
+    "Chemistry/C Glossary/Homolytic fission.md",
+    "Chemistry/C Glossary/Heterolytic fission.md",
+    "Chemistry/C Glossary/Groups.md",
+    "Chemistry/C Glossary/Electrophile.md",
+    "Chemistry/C Glossary/Electron shielding.md",
+    "Biology/B Glossary/Covalent bonds.md",
+    "Chemistry/C Module 4/Chapter 15/C15.1.md",
+    "Chemistry/C Module 4/Chapter 12/C12.2.md",
+    "Chemistry/C Module 3/Chapter 8/C8.2.md",
+    "Chemistry/C Module 3/Chapter 8/C8.1.md",
+    "Chemistry/C Glossary/Atomic radius.md",
+    "Biology/B Glossary/Plantae.md",
     "Chemistry/C Module 2/Chapter 2/C2.1.md",
+    "Chemistry/C Module 2/Chapter 2/Chapter 2.md",
     "Home.md",
-    "Biology/B Module 6/6.6/6.6.1.md",
-    "Biology/B Module 6/6.6/6.6.3.md",
-    "Biology/B Module 6/6.6/B6.6.md",
-    "Biology/B Module 6/6.6/6.6.4.md",
-    "Biology/B Glossary/Conservation.md",
-    "Biology/B Module 6/6.6/6.6.2.md",
-    "Biology/B Modules/B Module 5.md",
-    "Biology/B Module 5/5.6/B5.6.md",
-    "Biology/B Module 5/5.1/B5.1.md",
-    "Biology/B Module 5/5.2/B5.2.md",
-    "Biology/B Module 5/5.3/B5.3.md",
-    "Biology/B Module 5/5.4/B5.4.md",
-    "Biology/B Module 5/5.5/B5.5.md",
-    "Biology/B Module 5/5.6/B5.6 1.md",
-    "Biology/B Modules/B Module 6.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
     "Biology/B Module 6/6.3",
     "Biology/B Module 6/6.2",
     "Biology/B Module 6/6.1",
-    "Biology/B Module 6/6.5/B6.5.md",
-    "Biology/B Module 6/6.5/B6.4.md",
-    "Biology/B Module 6/6.3/B6.3.md",
-    "Biology/B Module 6/6.2/B6.2.md",
-    "Biology/B Module 6/6.1/B6.1.md",
-    "Biology/B Module 5/5.7/B5.7.md",
     "Biology/B Module 5/5.7",
     "Biology/B Module 5/5.5",
     "Biology/B Module 5/5.4",
     "Biology/B Module 5/5.3",
-    "Biology/B Modules/B Modules.md",
-    "conflict-files-obsidian-git.md",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
     "Photos/Chemistry Photos/Pasted image 20230901102343.png",

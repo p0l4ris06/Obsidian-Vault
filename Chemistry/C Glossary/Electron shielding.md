@@ -1,1 +1,1 @@
-Electrons are negatively charged and so inner-shell electrons repel outer-shell electrons. This repulsion reduces the attraction between the nucleus and the outer electrons
+[[Electron]]s are negatively charged and so inner-shell electrons repel outer-shell electrons. This repulsion reduces the attraction between the nucleus and the outer electrons
