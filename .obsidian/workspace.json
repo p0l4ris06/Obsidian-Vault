@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Chemistry/C Module 2/Chapter 2/C2.1.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "bf0ee32014662a16",
   "lastOpenFiles": [
-    "Chemistry/C Module 2/Chapter 6/C6.1.md",
     "Home.md",
+    "Chemistry/C Module 2/Chapter 6/C6.1.md",
     "Isotopes.md",
     "Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Chemistry/C Glossary/Nuclear charge.md",
