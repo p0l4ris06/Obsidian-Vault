@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "bf0ee32014662a16",
   "lastOpenFiles": [
+    "Chemistry/C Module 2/Chapter 6/C6.1.md",
+    "Home.md",
     "Isotopes.md",
     "Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Chemistry/C Glossary/Nuclear charge.md",
@@ -173,8 +175,6 @@
     "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Chemistry/C Module 4/Chapter 12/C12.2.md",
     "Chemistry/C Module 3/Chapter 8/C8.2.md",
-    "Chemistry/C Module 3/Chapter 8/C8.1.md",
-    "Chemistry/C Glossary/Atomic radius.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
