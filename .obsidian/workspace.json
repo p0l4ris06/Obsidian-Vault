@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "73bfd667dcdbaf9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d682ae391adb8ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d321da92e864556c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fe4b52d4edb29b6",
+  "active": "d321da92e864556c",
   "lastOpenFiles": [
     "Chemistry/C Module 2/Chapter 2/C2.2.md",
     "Chemistry/C Glossary/Relative isotopic mass.md",
