@@ -23,8 +23,12 @@
             "id": "955728de4a4391f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md"
+              }
             }
           }
         ]
@@ -154,6 +162,17 @@
   },
   "active": "955728de4a4391f7",
   "lastOpenFiles": [
+    "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
+    "Chemistry/C Glossary/Functional Groups/Alkene.md",
+    "Chemistry/C Glossary/Functional Groups/Alkane.md",
+    "Chemistry/C Glossary/Functional Groups/Aldehyde.md",
+    "Chemistry/C Glossary/Functional Groups/Alcohol.md",
+    "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
+    "Chemistry/C Glossary/Bond angles/Tetrahedral.md",
+    "Chemistry/C Glossary/Bond angles/Pyramidal.md",
+    "Chemistry/C Glossary/Bond angles/Octahedral.md",
+    "Chemistry/C Glossary/Bond angles/Non-linear.md",
+    "Chemistry/C Glossary/Bond angles/Linear.md",
     "Biology/B Glossary/Xylem.md",
     "Biology/B Glossary/Xerophyte.md",
     "Biology/B Glossary/Water potential.md",
@@ -169,17 +188,6 @@
     "Biology/B Glossary/Vaccination.md",
     "Biology/B Glossary/Types of bond.md",
     "Biology/B Glossary/Trypsin.md",
-    "Biology/B Glossary/Triglycerides.md",
-    "Biology/B Glossary/Tylose.md",
-    "Biology/B Glossary/Turgid.md",
-    "Biology/B Glossary/Transpiration.md",
-    "Biology/B Glossary/Translocation.md",
-    "Biology/B Glossary/Translation.md",
-    "Biology/B Glossary/Transcription.md",
-    "Biology/B Glossary/Trachea.md",
-    "Biology/B Glossary/Tissue fluid.md",
-    "Biology/B Glossary/Tissue.md",
-    "Biology/B Glossary/Tidal volume.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",

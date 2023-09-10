@@ -11,28 +11,35 @@
       "query": "tag:#B-definition  ",
       "color": {
         "a": 1,
-        "rgb": 9567674
+        "rgb": 10079469
       }
     },
     {
       "query": "tag:#C-definition  ",
       "color": {
         "a": 1,
-        "rgb": 1625489
+        "rgb": 10258943
       }
     },
     {
       "query": "path:Biology",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 12910335
       }
     },
     {
       "query": "path:Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 8272055
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
