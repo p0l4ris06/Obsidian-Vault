@@ -1,2 +1,2 @@
 Immunity from medical intervention
-#definition
+#B-definition 

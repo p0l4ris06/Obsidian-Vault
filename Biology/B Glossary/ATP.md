@@ -1,2 +1,2 @@
 Adenosine Triphosphate
-#definition
+#B-definition 

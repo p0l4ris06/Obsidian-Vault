@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Enzyme.md",
+                "file": "Biology/B Glossary/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Enzyme.md",
+                "file": "Biology/B Glossary/Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Enzyme.md",
+                "file": "Biology/B Glossary/Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Enzyme.md"
+                "file": "Biology/B Glossary/Classification.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "5fe4b52d4edb29b6",
   "lastOpenFiles": [
-    "Biology/B Glossary/Epithelial cells.md",
-    "Biology/B Glossary/Endoplasmic reticulum.md",
-    "Biology/B Glossary/Enzyme.md",
-    "Biology/B Glossary/Endocytosis.md",
-    "Biology/B Glossary/Emulsion test.md",
-    "Biology/B Glossary/Electron micrograph.md",
-    "Biology/B Glossary/Elastin.md",
-    "Biology/B Glossary/Elastic fibres.md",
-    "Biology/B Glossary/Ectopic heartbeat.md",
-    "Biology/B Glossary/ECG.md",
-    "Biology/B Glossary/Double circulatory system.md",
-    "Biology/B Glossary/Domain.md",
-    "Biology/B Glossary/DNA polymerase.md",
-    "Biology/B Glossary/DNA.md",
-    "Biology/B Glossary/Disulfide bridges.md",
-    "Biology/B Glossary/Dissociation.md",
-    "Biology/B Glossary/Discontinuous variation.md",
-    "Biology/B Glossary/Disaccharides.md",
-    "Biology/B Glossary/Diffusion.md",
-    "Biology/B Glossary/Differentiation.md",
-    "Biology/B Glossary/Dicotyledonous plants.md",
-    "Biology/B Glossary/Diaphragm.md",
-    "Biology/B Glossary/Cytolysis.md",
-    "Biology/B Glossary/Cytokinesis.md",
-    "Biology/B Glossary/Cytokines.md",
-    "Biology/B Glossary/CSS.md",
+    "Biology/B Glossary/Class.md",
+    "Biology/B Glossary/CITES.md",
+    "Biology/B Glossary/Ciliated epithelium.md",
+    "Biology/B Glossary/Chromatography.md",
+    "Biology/B Glossary/Chromatids.md",
+    "Biology/B Glossary/Cholesterol.md",
+    "Biology/B Glossary/Chloroplast.md",
+    "Biology/B Glossary/Chloride shift.md",
+    "Biology/B Glossary/Cellulose.md",
+    "Biology/B Glossary/Cell signalling.md",
+    "Biology/B Glossary/Catalyst.md",
+    "Biology/B Glossary/Cartilage.md",
+    "Biology/B Glossary/Cardiac muscle.md",
+    "Biology/B Glossary/Cardiac cycle.md",
+    "Biology/B Glossary/Carbonic anhydrase.md",
+    "Biology/B Glossary/Carbohydrates.md",
+    "Biology/B Glossary/Capillaries.md",
+    "Biology/B Glossary/Callose.md",
+    "Biology/B Glossary/Buffer.md",
+    "Biology/B Glossary/Buccal cavity.md",
+    "Biology/B Glossary/Bronchi and bronchioles.md",
+    "Biology/B Glossary/Bradycardia.md",
+    "Biology/B Glossary/Bohr effect.md",
+    "Biology/B Glossary/Blood.md",
+    "Biology/B Glossary/Biuret test.md",
+    "Biology/B Glossary/Biosensors.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",

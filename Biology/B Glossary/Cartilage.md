@@ -1,2 +1,2 @@
 A form of [[Connective tissue]]
-#definition
+#B-definition 
