@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
+                "file": "Chemistry/C Glossary/Electrophillic addition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
+                "file": "Chemistry/C Glossary/Electrophillic addition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
+                "file": "Chemistry/C Glossary/Electrophillic addition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Glossary/Functional Groups/Carboxyl.md"
+                "file": "Chemistry/C Glossary/Electrophillic addition.md"
               }
             }
           }
@@ -162,32 +162,32 @@
   },
   "active": "955728de4a4391f7",
   "lastOpenFiles": [
+    "Chemistry/C Glossary/Electrophile.md",
+    "Chemistry/C Glossary/Electronegativity.md",
+    "Chemistry/C Glossary/Electron shielding.md",
+    "Chemistry/C Glossary/Disproportionation reaction.md",
+    "Chemistry/C Glossary/Cis-trans isomerism.md",
+    "Chemistry/C Glossary/Chiral centre.md",
+    "Chemistry/C Glossary/Cation.md",
+    "Chemistry/C Glossary/Functional Groups/Carboxylic acid.md",
+    "Chemistry/C Glossary/Carbonate test.md",
+    "Chemistry/C Glossary/Carbon-12.md",
+    "Chemistry/C Glossary/Carbocation.md",
+    "Chemistry/C Glossary/Cahn-ingold-prelog.md",
+    "Chemistry/C Glossary/Brady's reagent.md",
+    "Chemistry/C Glossary/Bleach.md",
+    "Chemistry/C Glossary/Atomic radius.md",
+    "Chemistry/C Glossary/Aromatic.md",
+    "Chemistry/C Glossary/Ammonnia.md",
+    "Chemistry/C Glossary/Ammonium test.md",
+    "Chemistry/C Glossary/Ammonium.md",
+    "Chemistry/C Glossary/Alkyne.md",
+    "Chemistry/C Glossary/Aliphatic.md",
+    "Chemistry/C Glossary/Alicyclic.md",
+    "Chemistry/C Glossary/Functional Groups/Ketone.md",
+    "Chemistry/C Glossary/Functional Groups/Carboxyl.md",
     "Chemistry/C Glossary/Functional Groups/Carbonyl.md",
     "Chemistry/C Glossary/Functional Groups/Alkene.md",
-    "Chemistry/C Glossary/Functional Groups/Alkane.md",
-    "Chemistry/C Glossary/Functional Groups/Aldehyde.md",
-    "Chemistry/C Glossary/Functional Groups/Alcohol.md",
-    "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
-    "Chemistry/C Glossary/Bond angles/Tetrahedral.md",
-    "Chemistry/C Glossary/Bond angles/Pyramidal.md",
-    "Chemistry/C Glossary/Bond angles/Octahedral.md",
-    "Chemistry/C Glossary/Bond angles/Non-linear.md",
-    "Chemistry/C Glossary/Bond angles/Linear.md",
-    "Biology/B Glossary/Xylem.md",
-    "Biology/B Glossary/Xerophyte.md",
-    "Biology/B Glossary/Water potential.md",
-    "Biology/B Glossary/Water.md",
-    "Biology/B Glossary/Vmax.md",
-    "Biology/B Glossary/Vital capacity.md",
-    "Biology/B Glossary/Virus.md",
-    "Biology/B Glossary/Venules.md",
-    "Biology/B Glossary/Veins.md",
-    "Biology/B Glossary/Vector.md",
-    "Biology/B Glossary/Vascular tissue.md",
-    "Biology/B Glossary/Vacuolar pathway.md",
-    "Biology/B Glossary/Vaccination.md",
-    "Biology/B Glossary/Types of bond.md",
-    "Biology/B Glossary/Trypsin.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
