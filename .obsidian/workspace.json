@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "period",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 7/C7.1.md"
+                "file": "Home.md"
               }
             }
           }
@@ -148,15 +147,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "47bec3d54f6beffe",
+  "active": "bf0ee32014662a16",
   "lastOpenFiles": [
+    "Isotopes.md",
+    "Chemistry/C Module 2/Chapter 2/C2.1.md",
+    "Chemistry/C Glossary/Nuclear charge.md",
+    "Biology/B Module 2/2.4/2.4.5.md",
+    "Chemistry/C Module 3/Chapter 7/C7.1.md",
     "Biology/B Glossary/Water.md",
     "Chemistry/C Glossary/Bond angles/Trigonal planar.md",
     "Biology/B Glossary/SEM.md",
     "Chemistry/C Glossary/Periods.md",
     "Chemistry/C Glossary/Bond angles/Octahedral.md",
     "Chemistry/C Glossary/Nucleophile.md",
-    "Chemistry/C Glossary/Nuclear charge.md",
     "Biology/B Glossary/Non-reducing sugar.md",
     "Chemistry/C Glossary/Metallic bonding.md",
     "Chemistry/C Glossary/Bond angles/Linear.md",
@@ -172,10 +175,6 @@
     "Chemistry/C Module 3/Chapter 8/C8.2.md",
     "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Chemistry/C Glossary/Atomic radius.md",
-    "Biology/B Glossary/Plantae.md",
-    "Chemistry/C Module 2/Chapter 2/C2.1.md",
-    "Chemistry/C Module 2/Chapter 2/Chapter 2.md",
-    "Home.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
