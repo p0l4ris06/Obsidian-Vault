@@ -11,8 +11,12 @@
             "id": "955728de4a4391f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/C Module 5/Chapter 24/Chapter 24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/C Module 5/Chapter 24/Chapter 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/C Module 5/Chapter 24/Chapter 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/C Module 5/Chapter 24/Chapter 24.md"
+              }
             }
           }
         ]
@@ -141,6 +149,21 @@
   },
   "active": "955728de4a4391f7",
   "lastOpenFiles": [
+    "Chemistry/C Module 5/Chapter 23/Chapter 23.md",
+    "Chemistry/C Module 5/Chapter 22/Chapter 22.md",
+    "Chemistry/C Module 5/Chapter 21/Chapter 21.md",
+    "Chemistry/C Module 5/Chapter 20/Chapter 20.md",
+    "Chemistry/C Module 5/Chapter 19/Chapter 19.md",
+    "Chemistry/C Module 5/Chapter 19/C19.3.md",
+    "Chemistry/C Module 5/Chapter 18/Chapter 18.md",
+    "Chemistry/C Module 4/Chapter 17/Chapter 17.md",
+    "Chemistry/C Module 4/Chapter 16/Chapter 16.md",
+    "Chemistry/C Module 4/Chapter 15/Chapter 15.md",
+    "Chemistry/C Module 4/Chapter 14/Chapter 14.md",
+    "Chemistry/C Module 4/Chapter 12/Chapter 12.md",
+    "Chemistry/C Module 4/Chapter 13/Chapter 13.md",
+    "Chemistry/C Module 4/Chapter 16/C16.2.md",
+    "Chemistry/C Module 2/Chapter 6/Chapter 6.md",
     "Chemistry/C Glossary/Zero order.md",
     "Chemistry/C Glossary/Tollens' reagent.md",
     "Chemistry/C Glossary/Tertiary carbocation.md",
@@ -152,21 +175,6 @@
     "Chemistry/C Glossary/Secondary carbocation.md",
     "Chemistry/C Glossary/Secondary alcohol.md",
     "Chemistry/C Glossary/Second order.md",
-    "Chemistry/C Glossary/Relative isotopic mass.md",
-    "Chemistry/C Glossary/Relative atomic mass.md",
-    "Chemistry/C Glossary/Reduction.md",
-    "Chemistry/C Glossary/Redox reactions.md",
-    "Chemistry/C Glossary/Rate determining step.md",
-    "Chemistry/C Glossary/Rate constant.md",
-    "Chemistry/C Glossary/Primary carbocation.md",
-    "Chemistry/C Glossary/Primary alcohol.md",
-    "Chemistry/C Glossary/Polymers.md",
-    "Chemistry/C Glossary/Periods.md",
-    "Chemistry/C Glossary/Pi bond.md",
-    "Chemistry/C Glossary/Oxidation.md",
-    "Chemistry/C Glossary/Nucleophile.md",
-    "Chemistry/C Glossary/Nuclear charge.md",
-    "Chemistry/C Glossary/Neutralisation.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
