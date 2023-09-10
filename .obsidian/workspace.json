@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Glossary/Classification.md",
+                "file": "Biology/B Glossary/Interleukins.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Biology/B Glossary\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Classification.md",
+                "file": "Biology/B Glossary/Interleukins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Classification.md",
+                "file": "Biology/B Glossary/Interleukins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Classification.md"
+                "file": "Biology/B Glossary/Interleukins.md"
               }
             }
           }
@@ -149,6 +150,11 @@
   },
   "active": "5fe4b52d4edb29b6",
   "lastOpenFiles": [
+    "Biology/B Glossary/Intercostal muscles.md",
+    "Biology/B Glossary/Inhibitor.md",
+    "Biology/B Glossary/Keystone species.md",
+    "Biology/B Glossary/Lipids.md",
+    "Biology/B Glossary/Classification.md",
     "Biology/B Glossary/Class.md",
     "Biology/B Glossary/CITES.md",
     "Biology/B Glossary/Ciliated epithelium.md",
@@ -170,11 +176,6 @@
     "Biology/B Glossary/Buffer.md",
     "Biology/B Glossary/Buccal cavity.md",
     "Biology/B Glossary/Bronchi and bronchioles.md",
-    "Biology/B Glossary/Bradycardia.md",
-    "Biology/B Glossary/Bohr effect.md",
-    "Biology/B Glossary/Blood.md",
-    "Biology/B Glossary/Biuret test.md",
-    "Biology/B Glossary/Biosensors.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
