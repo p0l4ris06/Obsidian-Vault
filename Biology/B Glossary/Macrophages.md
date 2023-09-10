@@ -8,3 +8,4 @@ The antigen from the surface of the pathogen is saved and moved to a special pro
 Release [[Interleukins]] for cell signalling
 Also release monokines which attract [[Neutrophil]]
 Others stimulate B cells to differentiate and release [[Antibodies]]
+#B-definition 

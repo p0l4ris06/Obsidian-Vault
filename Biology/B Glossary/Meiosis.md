@@ -7,3 +7,5 @@ Type of nuclear division that results in the formation of cells containing half 
 [[Metaphase 2]]
 [[Anaphase 2]]
 [[Telophase 2]]
+
+#B-definition 

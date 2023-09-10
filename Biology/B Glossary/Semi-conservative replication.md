@@ -8,3 +8,5 @@ How [[DNA]] replicates, resulting in two new molecules, each consisting of one o
 - Leading strand is synthesised continuously, the lagging strand is in fragments (discontinuous) that are later joined, catalysed by ligase enzymes
 - Hydrolysis of the activated nucleotides releases extra phosphate groups to supply the energy to make phosphodiester bonds 
 ![[Pasted image 20230727105457.png]]
+
+#B-definition 
