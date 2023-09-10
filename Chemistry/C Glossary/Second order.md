@@ -7,3 +7,4 @@ In a first order reaction:
 - If the concentration of A triples the rate increases by a factor of 3<sup>2</sup> = 9
 
 ![[Pasted image 20230901085625.png]]
+#C-definition

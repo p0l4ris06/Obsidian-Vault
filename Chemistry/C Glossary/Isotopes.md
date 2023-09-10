@@ -5,3 +5,4 @@ Isotopes are atoms of the same element with different numbers of [[neutron]]s an
 [[Optical isomerism]]
 [[Cis-trans isomerism]]
 
+#C-definition

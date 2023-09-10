@@ -7,3 +7,4 @@ In a zero order reaction:
 - Concentration does not influence the rate
 
 ![[Pasted image 20230901085320.png]]
+#C-definition
