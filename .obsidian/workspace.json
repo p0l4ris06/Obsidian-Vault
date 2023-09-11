@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Glossary/Bond angles/Linear.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Glossary/Bond angles/Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Glossary/Bond angles/Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Chemistry/C Glossary/Bond angles/Linear.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "e7f80417e5108872",
   "lastOpenFiles": [
+    "Home.md",
+    "Pasted image 20230910135820.png",
     "Chemistry/C Module 4/Chapter 14/C14.1.md",
     "Chemistry/C Module 4/Chapter 11/C11.5.md",
     "Chemistry/C Module 4/Chapter 11/C11.4.md",
     "Chemistry/C Module 4/Chapter 11/C11.2.md",
     "Chemistry/C Module 4/Chapter 12/C12.1.md",
     "Chemistry/C Module 5/Chapter 18/C18.3.md",
-    "Pasted image 20230910135820.png",
     "Chemistry/C Module 5/Chapter 18/C18.1.md",
     "Chemistry/C Module 5/Chapter 18/C18.2.md",
     "Chemistry/C Module 5/Chapter 19/C19.1.md",
@@ -174,8 +175,6 @@
     "Chemistry/C Module 4/Chapter 16/C16.1.md",
     "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Chemistry/C Module 4/Chapter 14/C14.2.md",
-    "Chemistry/C Module 4/Chapter 15/C15.2.md",
-    "Chemistry/C Module 4/Chapter 13/C13.1.md",
     "Biology/B Module 6/6 1.6",
     "Biology/B Module 6/6.5",
     "Biology/B Module 6/6.4",
