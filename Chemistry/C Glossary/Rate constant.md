@@ -4,3 +4,4 @@ rate = *k*[A]<sup>m</sup>[B]<sup>n</sup>
 
 Overall order = sum of orders with respect to each reactant
 Overall order = m+n
+#C-definition

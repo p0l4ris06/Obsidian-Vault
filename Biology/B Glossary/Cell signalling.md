@@ -8,3 +8,4 @@ Allows multicellular organisms to control and coordinate their bodies and respon
 - An appropriate response is made
 
 ![[Pasted image 20230831165352.png]]
+#B-definition 

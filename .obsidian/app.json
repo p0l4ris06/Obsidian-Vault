@@ -3,5 +3,6 @@
   "newFileFolderPath": "/",
   "alwaysUpdateLinks": true,
   "focusNewTab": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showInlineTitle": true
 }

@@ -3,3 +3,4 @@
 - Show a wide variety of forms
 - Are mostly free living
 - Have autotrophic or heterotrophic nutrition - some do [[Photosynthesis]], some may ingest prey, some may have extracellular [[Enzyme]]s 
+#B-definition 

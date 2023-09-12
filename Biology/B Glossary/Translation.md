@@ -4,3 +4,5 @@ Formation of [[Proteins]] at [[Ribosomes]] by assembling [[Amino acids]] into a 
 - [[ATP]] is needed for [[Polypeptide]] synthesis
 
 ![[Pasted image 20230727111158.png]]
+
+#B-definition 

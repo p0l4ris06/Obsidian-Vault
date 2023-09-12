@@ -3,3 +3,4 @@ Consists of 4 carbon-based rings
 A small and [[Hydrophobic]] molecule
 Regulates the fluidity of the [[Phospholipid bilayer]]
 Mainly made in the liver in animals
+#B-definition 

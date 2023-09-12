@@ -4,3 +4,5 @@ The researcher makes sampling decisions based on prior knowledge. May deliberate
 Easier and quicker than [[Random]] sampling
 ##### Disadvantages:
 The data may be biased due to large or colourful species
+
+#B-definition 
