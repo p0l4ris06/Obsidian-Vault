@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b13b8bec7b1e9917",
+            "id": "0d832b98d3f201c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d832b98d3f201c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/B Glossary/Binary fission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Glossary/Binary fission.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Glossary/Binary fission.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Glossary/Binary fission.md"
+                "file": "Home.md"
               }
             }
           }
@@ -163,6 +150,10 @@
   },
   "active": "0d832b98d3f201c5",
   "lastOpenFiles": [
+    "Biology/B Glossary/Plasmolysis.md",
+    "Cytoplasm.md",
+    "Biology/B Glossary/Plasmodesmata.md",
+    "Biology/B Glossary/Binary fission.md",
     "Biology/B Glossary/Chloroplast.md",
     "Biology/B Module 5/5.6/5.6.1.md",
     "conflict-files-obsidian-git.md",
@@ -193,10 +184,6 @@
     "Chemistry/C Module 4/Chapter 11/C11.2.md",
     "Chemistry/C Module 4/Chapter 11/C11.1.md",
     "Chemistry/C Module 4/Chapter 16/C16.1.md",
-    "Chemistry/C Module 4/Chapter 15/C15.2.md",
-    "Chemistry/C Module 4/Chapter 15/C15.1.md",
-    "Chemistry/C Glossary/Homologous series.md",
-    "Chemistry/C Glossary/Alicyclic.md",
     "Photos/Chemistry Photos/Pasted image 20230901101504.png",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
