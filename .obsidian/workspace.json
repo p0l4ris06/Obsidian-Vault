@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cytoplasm.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Cytoplasm.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Cytoplasm.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Cytoplasm.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "c144b3b6e8340f9d",
   "lastOpenFiles": [
+    "Biology/B Glossary/Cytoplasm.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Chemistry/C Glossary/Isotopes.md",
@@ -190,7 +191,6 @@
     "Biology/B Module 5/5.2/B5.2.md",
     "Biology/B Module 5/5.1/B5.1.md",
     "Biology/B Glossary/Plasmolysis.md",
-    "Biology/Cytoplasm.md",
     "Biology/B Glossary/Plasmodesmata.md",
     "Biology/B Glossary/Binary fission.md",
     "Biology/B Glossary/Chloroplast.md",
