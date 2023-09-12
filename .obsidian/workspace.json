@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88defda1fcd2c2e0",
+        "id": "7fecbc942f055a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "c144b3b6e8340f9d",
+            "id": "9476623035e9a1ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -149,16 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c144b3b6e8340f9d",
+  "active": "9476623035e9a1ca",
   "lastOpenFiles": [
-    "Biology/B Glossary/Active transport.md",
-    "Biology/B Glossary/Active site.md",
-    "Biology/B Glossary/Active loading.md",
-    "Biology/B Glossary/Active immunity.md",
     "Home.md",
-    "Biology/B Glossary/Cytoplasm.md",
+    "Glossaries",
+    "Glossaries/B Glossary/Active transport.md",
+    "Glossaries/B Glossary/Active site.md",
+    "Glossaries/B Glossary/Active loading.md",
+    "Glossaries/B Glossary/Active immunity.md",
+    "Glossaries/B Glossary/Cytoplasm.md",
     "conflict-files-obsidian-git.md",
-    "Chemistry/C Glossary/Isotopes.md",
+    "Glossaries/C Glossary/Isotopes.md",
     "Biology/B Module 6/6.3/B6.3.md",
     "Biology/B Module 6/6.6/6.6.3.md",
     "Biology/B Module 6/6.6/B6.6.md",
@@ -183,10 +184,8 @@
     "Biology/B Module 5/5.4/B5.4.md",
     "Biology/B Module 5/5.4",
     "Biology/B Module 5/5.3/B5.3.md",
-    "Biology/B Module 5/5.3",
     "Biology/B Module 5/5.2/B5.2.md",
     "Biology/B Module 5/5.1/B5.1.md",
-    "Biology/B Glossary/Plasmolysis.md",
     "Photos/Biology Photos/Pasted image 20230903111845.png",
     "Pasted image 20230903111855.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
