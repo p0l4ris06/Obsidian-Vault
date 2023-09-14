@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fecbc942f055a7c",
+        "id": "edd98ca1b642136f",
         "type": "tabs",
         "children": [
           {
-            "id": "9476623035e9a1ca",
+            "id": "ab119b51bdff2f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endothermic.md",
+                "file": "Glossaries/C Glossary/Atomic radius.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Electron",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endothermic.md",
+                "file": "Glossaries/C Glossary/Atomic radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endothermic.md",
+                "file": "Glossaries/C Glossary/Atomic radius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endothermic.md"
+                "file": "Glossaries/C Glossary/Atomic radius.md"
               }
             }
           },
@@ -157,14 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9476623035e9a1ca",
+  "active": "ab119b51bdff2f80",
   "lastOpenFiles": [
+    "Biology/B Module 2/2.1/2.1.1.md",
+    "Chemistry/C Module 3/Chapter 9/C9.3.md",
+    "Chemistry/C Module 3/Chapter 9/C9.2.md",
     "Chemistry/C Module 3/Chapter 9/C9.1.md",
-    "Exothermic.md",
-    "Endothermic.md",
-    "Enthalpy change.md",
+    "Kelvin.md",
+    "Glossaries/C Glossary/Ionic bonds-c.md",
+    "Glossaries/C Glossary/Endothermic.md",
+    "Glossaries/C Glossary/Orbitals",
+    "Glossaries/C Glossary/Enthalpy.md",
+    "Glossaries/C Glossary/Enthalpy change.md",
+    "Glossaries/C Glossary/Exothermic.md",
     "Chemistry/C Module 3/Chapter 9/Chapter 9.md",
-    "Enthalpy.md",
     "Chemistry/C Module 3/Chapter 8/C8.3.md",
     "Chemistry/C Module 3/Chapter 8/C8.2.md",
     "Chemistry/C Module 3/Chapter 8/C8.1.md",
@@ -180,11 +187,6 @@
     "Chemistry/C Module 2/Chapter 6/C6.1.md",
     "Glossaries/C Glossary/Bond angles/Tetrahedral.md",
     "Chemistry/C Module 2/Chapter 5/Chapter 5.md",
-    "Chemistry/C Module 2/Chapter 5/C5.3.md",
-    "Chemistry/C Module 2/Chapter 5/C5.2.md",
-    "Glossaries/B Glossary/Covalent bonds.md",
-    "Ionic bonds-c.md",
-    "Glossaries/B Glossary/Ionic bonds.md",
     "Personal/Birds",
     "Personal",
     "Glossaries",
@@ -194,7 +196,6 @@
     "Biology/B Module 6/6.2",
     "Biology/B Module 6/6.1",
     "Biology/B Module 6",
-    "Biology/B Module 5/5.7",
     "Photos/Biology Photos/Pasted image 20230903111845.png",
     "Pasted image 20230903111855.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
