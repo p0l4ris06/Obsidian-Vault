@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
+                "file": "Chemistry/C Module 2/Chapter 6/C6.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
+                "file": "Chemistry/C Module 2/Chapter 6/C6.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
+                "file": "Chemistry/C Module 2/Chapter 6/C6.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md"
+                "file": "Chemistry/C Module 2/Chapter 6/C6.4.md"
               }
             }
           },
@@ -159,8 +159,19 @@
   },
   "active": "9476623035e9a1ca",
   "lastOpenFiles": [
-    "Chemistry/C Module 2/Chapter 5/C5.1.md",
+    "Glossaries/B Glossary/Hydrogen bonds.md",
+    "Chemistry/C Module 2/Chapter 6/C6.4.md",
+    "Chemistry/C Module 2/Chapter 6/C6.3.md",
+    "Chemistry/C Module 2/Chapter 6/C6.2.md",
+    "Chemistry/C Module 2/Chapter 6/C6.1.md",
+    "Glossaries/C Glossary/Bond angles/Tetrahedral.md",
+    "Chemistry/C Module 2/Chapter 5/Chapter 5.md",
+    "Chemistry/C Module 2/Chapter 5/C5.3.md",
     "Chemistry/C Module 2/Chapter 5/C5.2.md",
+    "Glossaries/B Glossary/Covalent bonds.md",
+    "Ionic bonds-c.md",
+    "Glossaries/B Glossary/Ionic bonds.md",
+    "Chemistry/C Module 2/Chapter 5/C5.1.md",
     "Atomic orbitals.md",
     "p-orbitals.md",
     "f-orbitals.md",
@@ -174,17 +185,6 @@
     "Chemistry/C Module 2/Chapter 3/C3.2.md",
     "Chemistry/C Module 2/Chapter 3/C3.1.md",
     "Chemistry/C Module 2/Chapter 2/C2.3.md",
-    "Glossaries/C Glossary/Binary compound.md",
-    "Chemistry/C Module 2/Chapter 2/C2.2.md",
-    "Home.md",
-    "Chemistry/C Module 3/Chapter 8/C8.1.md",
-    "Glossaries/C Glossary/Species-c.md",
-    "Chemistry/C Module 3/Chapter 8/C8.2.md",
-    "Glossaries/B Glossary/Species.md",
-    "Biology/B Module 4/4.2/4.2.1.md",
-    "Glossaries/B Glossary/Quadrat.md",
-    "Glossaries/C Glossary/Disproportionation reaction.md",
-    "Glossaries/B Glossary/CITES.md",
     "Personal/Birds",
     "Personal",
     "Glossaries",
