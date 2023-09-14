@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "species-c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md"
               }
             }
           },
@@ -160,9 +159,13 @@
   },
   "active": "9476623035e9a1ca",
   "lastOpenFiles": [
+    "Chemistry/C Module 2/Chapter 3/C3.1.md",
+    "Chemistry/C Module 2/Chapter 2/C2.3.md",
+    "Glossaries/C Glossary/Binary compound.md",
+    "Chemistry/C Module 2/Chapter 2/C2.2.md",
+    "Home.md",
     "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Glossaries/C Glossary/Species-c.md",
-    "Home.md",
     "Chemistry/C Module 3/Chapter 8/C8.2.md",
     "Glossaries/B Glossary/Species.md",
     "Biology/B Module 4/4.2/4.2.1.md",
@@ -185,10 +188,6 @@
     "Biology/B Module 6/6.6/B6.6.md",
     "Biology/B Module 6/6.6/6.6.4.md",
     "Biology/B Module 6/6.6/6.6.2.md",
-    "Biology/B Module 6/6.5/B6.5.md",
-    "Biology/B Module 6/6.6/6.6.1.md",
-    "Biology/B Module 6/6.5/B6.4.md",
-    "Biology/B Module 6/6.2/B6.2.md",
     "Biology/B Module 6/6.3",
     "Biology/B Module 6/6.6",
     "Biology/B Module 6/6.5",
