@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p-orbitals.md",
+                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p-orbitals.md",
+                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "p-orbitals.md",
+                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p-orbitals.md"
+                "file": "Chemistry/C Module 2/Chapter 5/C5.2.md"
               }
             }
           },
@@ -159,10 +159,13 @@
   },
   "active": "9476623035e9a1ca",
   "lastOpenFiles": [
+    "Chemistry/C Module 2/Chapter 5/C5.1.md",
+    "Chemistry/C Module 2/Chapter 5/C5.2.md",
     "Atomic orbitals.md",
     "p-orbitals.md",
+    "f-orbitals.md",
+    "d-orbitals.md",
     "s-orbitals.md",
-    "Chemistry/C Module 2/Chapter 5/C5.1.md",
     "Chemistry/C Module 2/Chapter 4/Chapter 4.md",
     "Chemistry/C Module 2/Chapter 4/C4.3.md",
     "Chemistry/C Module 2/Chapter 4/C4.2.md",
@@ -182,12 +185,9 @@
     "Glossaries/B Glossary/Quadrat.md",
     "Glossaries/C Glossary/Disproportionation reaction.md",
     "Glossaries/B Glossary/CITES.md",
-    "Chemistry/C Module 4/Chapter 15/C15.1.md",
     "Personal/Birds",
     "Personal",
     "Glossaries",
-    "Glossaries/B Glossary/Active transport.md",
-    "Glossaries/B Glossary/Active site.md",
     "Biology/B Module 6/6.3",
     "Biology/B Module 6/6.6",
     "Biology/B Module 6/6.5",
