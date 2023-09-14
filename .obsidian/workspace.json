@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaries/C Glossary/Atomic radius.md",
+                "file": "Biology/B Modules/B Module 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8810e5b8cdc50946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/B Module 2/2.6/B2.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,10 +60,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Electron",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaries/C Glossary/Atomic radius.md",
+                "file": "Biology/B Modules/B Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossaries/C Glossary/Atomic radius.md",
+                "file": "Biology/B Modules/B Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossaries/C Glossary/Atomic radius.md"
+                "file": "Biology/B Modules/B Module 3.md"
               }
             }
           },
@@ -160,11 +171,22 @@
   },
   "active": "ab119b51bdff2f80",
   "lastOpenFiles": [
+    "Biology/B Modules/B Modules.md",
+    "Biology/B Module 2/2.6/B2.6.md",
+    "Biology/B Modules/B Module 2.md",
+    "Biology/B Module 2/2.5/B2.5.md",
+    "Biology/B Module 2/2.4/B2.4.md",
+    "Biology/B Module 2/2.3/B2.3.md",
+    "Biology/B Module 2/2.2/B2.2.md",
+    "Biology/B Module 2/2.1/B2.1.md",
+    "Glossaries/C Glossary/Electron.md",
+    "Glossaries/C Glossary/Atomic radius.md",
+    "Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Biology/B Module 2/2.1/2.1.1.md",
     "Chemistry/C Module 3/Chapter 9/C9.3.md",
     "Chemistry/C Module 3/Chapter 9/C9.2.md",
     "Chemistry/C Module 3/Chapter 9/C9.1.md",
-    "Kelvin.md",
+    "Glossaries/C Glossary/Kelvin.md",
     "Glossaries/C Glossary/Ionic bonds-c.md",
     "Glossaries/C Glossary/Endothermic.md",
     "Glossaries/C Glossary/Orbitals",
@@ -176,17 +198,6 @@
     "Chemistry/C Module 3/Chapter 8/C8.2.md",
     "Chemistry/C Module 3/Chapter 8/C8.1.md",
     "Chemistry/C Module 3/Chapter 7/C7.2.md",
-    "Chemistry/C Module 3/Chapter 7/C7.3.md",
-    "Glossaries/C Glossary/Bond angles/Trigonal planar.md",
-    "Chemistry/C Module 3/Chapter 7/C7.1.md",
-    "Chemistry/C Module 2/Chapter 6/Chapter 6.md",
-    "Chemistry/C Module 2/Chapter 6/C6.4.md",
-    "Glossaries/B Glossary/Hydrogen bonds.md",
-    "Chemistry/C Module 2/Chapter 6/C6.3.md",
-    "Chemistry/C Module 2/Chapter 6/C6.2.md",
-    "Chemistry/C Module 2/Chapter 6/C6.1.md",
-    "Glossaries/C Glossary/Bond angles/Tetrahedral.md",
-    "Chemistry/C Module 2/Chapter 5/Chapter 5.md",
     "Personal/Birds",
     "Personal",
     "Glossaries",

@@ -1,2 +1,2 @@
-Shared pair of [[electron]]s
+Shared pair of [[Electron]]s
 #B-definition #C-definition 
