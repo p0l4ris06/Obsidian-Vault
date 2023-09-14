@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
+                "file": "p-orbitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
+                "file": "p-orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md",
+                "file": "p-orbitals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 2/Chapter 3/C3.2.md"
+                "file": "p-orbitals.md"
               }
             }
           },
@@ -159,6 +159,16 @@
   },
   "active": "9476623035e9a1ca",
   "lastOpenFiles": [
+    "Atomic orbitals.md",
+    "p-orbitals.md",
+    "s-orbitals.md",
+    "Chemistry/C Module 2/Chapter 5/C5.1.md",
+    "Chemistry/C Module 2/Chapter 4/Chapter 4.md",
+    "Chemistry/C Module 2/Chapter 4/C4.3.md",
+    "Chemistry/C Module 2/Chapter 4/C4.2.md",
+    "Chemistry/C Module 2/Chapter 4/C4.1.md",
+    "Chemistry/C Module 2/Chapter 3/C3.3.md",
+    "Chemistry/C Module 2/Chapter 3/C3.2.md",
     "Chemistry/C Module 2/Chapter 3/C3.1.md",
     "Chemistry/C Module 2/Chapter 2/C2.3.md",
     "Glossaries/C Glossary/Binary compound.md",
@@ -178,16 +188,6 @@
     "Glossaries",
     "Glossaries/B Glossary/Active transport.md",
     "Glossaries/B Glossary/Active site.md",
-    "Glossaries/B Glossary/Active loading.md",
-    "Glossaries/B Glossary/Active immunity.md",
-    "Glossaries/B Glossary/Cytoplasm.md",
-    "conflict-files-obsidian-git.md",
-    "Glossaries/C Glossary/Isotopes.md",
-    "Biology/B Module 6/6.3/B6.3.md",
-    "Biology/B Module 6/6.6/6.6.3.md",
-    "Biology/B Module 6/6.6/B6.6.md",
-    "Biology/B Module 6/6.6/6.6.4.md",
-    "Biology/B Module 6/6.6/6.6.2.md",
     "Biology/B Module 6/6.3",
     "Biology/B Module 6/6.6",
     "Biology/B Module 6/6.5",
