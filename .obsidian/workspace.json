@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
+                "file": "Biology/B Modules/B Module 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lipids",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a74911b05ae599d9",
+  "active": "ef1873c17d70d7c1",
   "lastOpenFiles": [
+    "Biology/B Modules/B Module 2.md",
+    "Biology/B Module 6/6.6/6.6.1.md",
     "Glossaries/B Glossary/Lipids.md",
     "Glossaries/B Glossary/Emulsion test.md",
     "Glossaries/B Glossary/Cholesterol.md",
@@ -198,8 +195,6 @@
     "Glossaries/B Glossary/Ionic bonds.md",
     "Glossaries/B Glossary/Hydrogen bonds.md",
     "Nitrosomonas.md",
-    "Nitrobacter.md",
-    "Glossaries/B Glossary/Iodine.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
