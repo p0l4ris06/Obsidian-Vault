@@ -64,10 +64,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#B-definition",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/B Module 6/6.6/6.6.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/B Module 6/6.6/6.6.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/B Module 6/6.6/6.6.1.md"
+              }
             }
           },
           {
@@ -169,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
     "Biology/B Module 6/6.6/6.6.1.md",
     "Biology/B Module 6/6.3/B6.3.md",
