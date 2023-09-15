@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "section:(B mo)",
-  "showTags": true,
+  "search": "#b-module OR #b-chapter OR 2.2.1 OR 2.2.2",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,

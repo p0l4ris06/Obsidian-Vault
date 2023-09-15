@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2.2.1 1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef1873c17d70d7c1",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
+    "Biology/B Modules/B Modules.md",
     "Biology/B Modules/B Module 2.md",
     "Biology/B Module 6/6.6/6.6.1.md",
     "Glossaries/B Glossary/Lipids.md",
@@ -194,7 +196,6 @@
     "Glossaries/B Glossary/pH.md",
     "Glossaries/B Glossary/Ionic bonds.md",
     "Glossaries/B Glossary/Hydrogen bonds.md",
-    "Nitrosomonas.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
