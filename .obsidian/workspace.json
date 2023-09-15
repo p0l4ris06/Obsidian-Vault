@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/B Modules/B Module 2.md",
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "43941ee662b10052",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef1873c17d70d7c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2.2.1 1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/B Module 4/4.3/4.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/B Module 4/4.3/4.3.1.md"
+              }
             }
           },
           {
@@ -168,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47bec3d54f6beffe",
+  "active": "a74911b05ae599d9",
   "lastOpenFiles": [
-    "Biology/B Modules/B Modules.md",
     "Biology/B Modules/B Module 2.md",
+    "Biology/B Modules/B Modules.md",
     "Biology/B Module 6/6.6/6.6.1.md",
     "Glossaries/B Glossary/Lipids.md",
     "Glossaries/B Glossary/Emulsion test.md",
