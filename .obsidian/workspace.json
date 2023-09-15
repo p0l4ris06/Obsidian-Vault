@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 10/C10.2.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0aec545af3e903c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 10/C10.2.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 10/C10.2.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/C Module 3/Chapter 10/C10.2.md"
+                "file": "Home.md"
               }
             }
           },
@@ -159,11 +169,13 @@
   },
   "active": "8810e5b8cdc50946",
   "lastOpenFiles": [
-    "Chemistry/C Module 3/Chapter 10/C10.1.md",
-    "Rate of reaction.md",
+    "Glossaries/C Glossary/Rate of reaction.md",
+    "Glossaries/C Glossary/Heterogeneous catalysts.md",
+    "Glossaries/C Glossary/Hess' law.md",
     "Chemistry/C Module 3/Chapter 10/C10.2.md",
+    "Glossaries/C Glossary/Homogeneous catalysts.md",
+    "Chemistry/C Module 3/Chapter 10/C10.1.md",
     "Chemistry/C Module 3/Chapter 9/C9.4.md",
-    "Hess' law.md",
     "Chemistry/C Module 3/Chapter 9/C9.3.md",
     "Chemistry/C Module 3/Chapter 9/C9.2.md",
     "Chemistry/C Module 3/Chapter 9/C9.1.md",
@@ -183,8 +195,6 @@
     "Chemistry/C Module 5/Chapter 19/Chapter 19.md",
     "Chemistry/C Module 5/Chapter 18/Chapter 18.md",
     "Chemistry/C Modules/C Module 4.md",
-    "Chemistry/C Module 4/Chapter 17/Chapter 17.md",
-    "Chemistry/C Module 4/Chapter 16/Chapter 16.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
@@ -197,14 +207,4 @@
     "Biology/B Module 6",
     "Photos/Biology Photos/Pasted image 20230903111845.png",
     "Pasted image 20230903111855.png",
-    "Photos/Chemistry Photos/Pasted image 20230903110825.png",
-    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
-    "Photos/Chemistry Photos/Pasted image 20230901102338.png",
-    "Photos/Chemistry Photos/Pasted image 20230901102343.png",
-    "Photos/Chemistry Photos/Pasted image 20230901101504.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085708.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085625.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085451.png",
-    "Untitled.canvas"
-  ]
-}
+    "Photos/Chemistry Photos/Pasted image
