@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "edd98ca1b642136f",
+        "id": "7d3c1d8102c3d8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8810e5b8cdc50946",
+            "id": "a74911b05ae599d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aec545af3e903c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8810e5b8cdc50946",
+  "active": "a74911b05ae599d9",
   "lastOpenFiles": [
+    "Home.md",
+    "Glossaries/B Glossary/Tylose.md",
+    "Glossaries/B Glossary/Chloroplast.md",
     "Glossaries/C Glossary/Rate of reaction.md",
     "Glossaries/C Glossary/Heterogeneous catalysts.md",
     "Glossaries/C Glossary/Hess' law.md",
@@ -192,9 +177,6 @@
     "Chemistry/C Module 5/Chapter 23/Chapter 23.md",
     "Chemistry/C Module 5/Chapter 21/Chapter 21.md",
     "Chemistry/C Module 5/Chapter 20/Chapter 20.md",
-    "Chemistry/C Module 5/Chapter 19/Chapter 19.md",
-    "Chemistry/C Module 5/Chapter 18/Chapter 18.md",
-    "Chemistry/C Modules/C Module 4.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
@@ -207,4 +189,14 @@
     "Biology/B Module 6",
     "Photos/Biology Photos/Pasted image 20230903111845.png",
     "Pasted image 20230903111855.png",
-    "Photos/Chemistry Photos/Pasted image
+    "Photos/Chemistry Photos/Pasted image 20230903110825.png",
+    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
+    "Photos/Chemistry Photos/Pasted image 20230901102338.png",
+    "Photos/Chemistry Photos/Pasted image 20230901102343.png",
+    "Photos/Chemistry Photos/Pasted image 20230901101504.png",
+    "Photos/Chemistry Photos/Pasted image 20230901085708.png",
+    "Photos/Chemistry Photos/Pasted image 20230901085625.png",
+    "Photos/Chemistry Photos/Pasted image 20230901085451.png",
+    "Untitled.canvas"
+  ]
+}
