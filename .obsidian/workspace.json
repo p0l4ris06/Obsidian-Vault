@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4829f9cbb33a155e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossaries/B Glossary/Water potential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a2b8696521e3dca1",
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B-definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
+                "file": "Glossaries/B Glossary/Water potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md",
+                "file": "Glossaries/B Glossary/Water potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/B Module 6/6.6/6.6.1.md"
+                "file": "Glossaries/B Glossary/Water potential.md"
               }
             }
           },
@@ -174,8 +186,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47bec3d54f6beffe",
+  "active": "4829f9cbb33a155e",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Water.md",
+    "Glossaries/B Glossary/Substrate.md",
+    "Glossaries/B Glossary/Starch.md",
+    "Glossaries/B Glossary/Phosphate group.md",
+    "Glossaries/B Glossary/Peptidoglycan.md",
+    "Glossaries/B Glossary/Peptide bond.md",
+    "Glossaries/B Glossary/pH.md",
+    "Glossaries/B Glossary/Ionic bonds.md",
+    "Glossaries/B Glossary/Hydrogen bonds.md",
+    "Nitrosomonas.md",
+    "Nitrobacter.md",
+    "Glossaries/B Glossary/Iodine.md",
+    "Glossaries/B Glossary/Covalent bonds.md",
+    "Glossaries/B Glossary/Humus.md",
     "Biology/B Module 6/6.6/6.6.1.md",
     "Biology/B Module 6/6.3/B6.3.md",
     "Biology/B Module 4/4.3/4.3.4.md",
@@ -188,20 +214,6 @@
     "Biology/B Module 4/4.2/4.2.1.md",
     "Biology/B Module 4/4.2/4.2.6.md",
     "Biology/B Module 4/4.1/4.1.4.md",
-    "Biology/B Module 4/4.1/4.1.2.md",
-    "Biology/B Module 4/4.1/4.1.1.md",
-    "Home.md",
-    "Glossaries/B Glossary/Tylose.md",
-    "Glossaries/B Glossary/Chloroplast.md",
-    "Glossaries/C Glossary/Rate of reaction.md",
-    "Glossaries/C Glossary/Heterogeneous catalysts.md",
-    "Glossaries/C Glossary/Hess' law.md",
-    "Chemistry/C Module 3/Chapter 10/C10.2.md",
-    "Glossaries/C Glossary/Homogeneous catalysts.md",
-    "Chemistry/C Module 3/Chapter 10/C10.1.md",
-    "Chemistry/C Module 3/Chapter 9/C9.4.md",
-    "Chemistry/C Module 3/Chapter 9/C9.3.md",
-    "Chemistry/C Module 3/Chapter 9/C9.2.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
