@@ -11,7 +11,7 @@
             "id": "c559b03915f187a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "c559b03915f187a3",
   "lastOpenFiles": [
+    "Home.md",
     "Glossaries/B Glossary/Domain.md",
     "Glossaries/B Glossary/Archaea.md",
     "Biology/B Module 4/4.3/4.3.1.md",
@@ -176,7 +177,6 @@
     "Glossaries/B Glossary/Tests for carbohydrates.md",
     "Glossaries/B Glossary/Active immunity.md",
     "Glossaries/B Glossary/Active loading.md",
-    "Glossaries/B Glossary/Active transport.md",
     "Glossaries/C Glossary/Orbitals",
     "Personal/Birds",
     "Personal",
