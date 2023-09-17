@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8aff2436c46d4630",
+        "id": "5ada492ed0ff286b",
         "type": "tabs",
         "children": [
           {
-            "id": "203ab5be5a3daa34",
+            "id": "3e89092fa833d78d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,50 +78,36 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 35.57692307692307,
         "children": [
           {
-            "id": "b9924dd09d2a4d1f",
+            "id": "4eed1e02558037a4",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d1dd6ca96decb57",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency"
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1cbfc07ecf2f4cc7",
+            "id": "2f46434b7e334be5",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
-          {
-            "id": "7bffe46973d8564f",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "c1bd03f399390851",
-        "type": "tabs",
-        "dimension": 64.42307692307692,
-        "children": [
           {
             "id": "816bc890b20f2733",
             "type": "leaf",
@@ -130,29 +120,22 @@
             }
           },
           {
-            "id": "2f46434b7e334be5",
+            "id": "79bc4d9eec7aa9cf",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Personal/Journal/Daily notes/2023-09-17.md"
               }
             }
           },
           {
-            "id": "4eed1e02558037a4",
+            "id": "fe1a2348f43aa1f3",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "all-properties",
               "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency"
               }
             }
           }
@@ -160,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,50 +152,49 @@
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "obsidian-day-planner:Week plan": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "203ab5be5a3daa34",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "00-SK",
+    "Lessons/Maths lessons/00-LE",
+    "Lessons/Chem lessons/00-ST",
+    "Glossaries/C Glossary/00-ST",
+    "Lessons/Chem lessons/00-APH",
+    "00-Maths/Pure",
+    "00-Maths/Mechanics",
+    "00-Maths/Stats",
+    "Glossaries/M Glossary",
+    "Lessons/Chem lessons",
+    "Lessons/Maths lessons",
     "Home.md",
-    "Personal/Journal/Daily notes/2023-09-17.md",
     "Templates/Daily note template.md",
-    "Personal/Journal/Daily notes",
-    "asd.md",
-    "Chemistry/C Module 2/Chapter 2/C2.1.md",
-    "Glossaries/C Glossary/Electron.md",
-    "Nitrobacter.md",
-    "Templates",
-    "Personal/Birds/Family/Falconidae.md",
-    "2023-09-17.md",
-    "2023-09-18.md",
-    "Personal/Birds/Family/Paridae.md",
-    "Personal/Birds/Birds.md",
-    "Personal/Birds/Sexual dimorphism.md",
-    "Personal/Birds/Paridae/Coal tit.md",
-    "Personal/Birds/Paridae/Crested tit.md",
+    "Personal/Journal/Daily notes/2023-09-17.md",
     "Personal/Birds/Paridae/Willow tit.md",
     "Personal/Birds/Paridae/Marsh tit.md",
     "Personal/Birds/Paridae/Great tit.md",
+    "Personal/Birds/Paridae/Crested tit.md",
     "Personal/Birds/Paridae/Eurasian blue tit.md",
-    "Personal/Birds/Paridae",
+    "Personal/Birds/Paridae/Coal tit.md",
+    "Personal/Birds/Family/Paridae.md",
+    "Personal/Birds/Family/Falconidae.md",
+    "Personal/Birds/Falconidae/Gyr falcon.md",
     "Personal/Birds/Falconidae/Peregrine falcon.md",
     "Personal/Birds/Falconidae/Merlin.md",
-    "Personal/Birds/Falconidae/Gyr falcon.md",
     "Personal/Birds/Falconidae/Eurasian hobby.md",
     "Personal/Birds/Falconidae/Common Kestrel.md",
-    "Biology/B Module 4/4.3/4.3.1.md",
-    "Personal/Birds/Family",
-    "Personal/Birds/Falconidae",
-    "Personal/Journal",
-    "Glossaries/C Glossary/Orbitals",
-    "Glossaries/C Glossary/Functional Groups",
-    "Glossaries/C Glossary/Bond angles",
-    "Glossaries/C Glossary",
+    "Personal/Birds/Peregrine falcon.md",
+    "Personal/Birds/Merlin.md",
+    "Personal/Birds/Gyr falcon.md",
+    "Personal/Birds/Common Kestrel.md",
+    "conflict-files-obsidian-git.md",
+    "Nitrosomonas.md",
+    "Nitrobacter.md",
+    "Glossaries/C Glossary/Bond angles/Non-linear.md",
+    "Glossaries/C Glossary/Orbitals/s-orbitals.md",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
