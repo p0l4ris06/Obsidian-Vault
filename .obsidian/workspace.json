@@ -4,23 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "815828f78ddd7d23",
+        "id": "959925d29883f149",
         "type": "tabs",
         "children": [
           {
-            "id": "ec06cf7d05e21d2c",
+            "id": "8af1933e98462fe8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "44c0e569d462c619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-P 11.1.md",
+                "file": "M-P Chapter 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaa2ec505e83cadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-P Chapter 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99cc93aff5163e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-P Chapter 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea510a800a28534a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-P Chapter 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M-P 11.1.md",
+                "file": "M-P Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M-P 11.1.md",
+                "file": "M-P Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M-P 11.1.md"
+                "file": "M-P Chapter 4.md"
               }
             }
           },
@@ -168,34 +216,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "ea510a800a28534a",
   "lastOpenFiles": [
+    "M-P Chapter 3.md",
+    "M-P Chapter 4.md",
+    "M-P Chapter 2.md",
+    "M-P Chapter 1.md",
     "Home.md",
-    "M-P 11.1.md",
-    "M-P 11.2.md",
-    "M-P 11.3.md",
-    "M-P 11.4.md",
-    "M-P 11.5.md",
-    "M-P 11.6.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.1.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.2.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.3.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.4.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.5.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.6.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.1.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.2.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.3.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.4.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.5.md",
-    "000-Maths/Pure/M-P Chapter 9/M-P 9.6.md",
-    "000-Maths/Pure/M-P Chapter 8/M-P 8.1.md",
-    "000-Maths/Pure/M-P Chapter 8/M-P 8.2.md",
-    "000-Maths/Pure/M-P Chapter 8/M-P 8.3.md",
-    "000-Maths/Pure/M-P Chapter 8/M-P 8.4.md",
-    "000-Maths/Pure/M-P Chapter 8/M-P 8.5.md",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.2.md",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.1.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.2.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.3.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.4.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.5.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.6.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.7.md",
+    "000-Maths/Pure/M-P Chapter 14/M-P 14.8.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.1.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.2.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.3.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.4.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.5.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.6.md",
+    "000-Maths/Pure/M-P Chapter 13/M-P 13.7.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.3.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.4.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.5.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.6.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.7.md",
+    "000-Maths/Pure/M-P Chapter 12/M-P 12.8.md",
     "000-Maths/Pure/M-P Chapter 14",
     "000-Maths/Pure/M-P Chapter 13",
     "000-Maths/Pure/M-P Chapter 12",
