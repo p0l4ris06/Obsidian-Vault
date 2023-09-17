@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Birds/Family/Falconidae.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -171,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39351df4542e61fd",
+  "active": "10ccfd876b01cd47",
   "lastOpenFiles": [
     "Personal/Birds/Family/Falconidae.md",
     "Personal/Birds/Family",

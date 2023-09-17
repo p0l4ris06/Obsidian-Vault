@@ -1,7 +1,8 @@
 ---
 banner: "![[Pasted image 20230903111845.png]]"
 ---
-
+# Tasks
+- [ ] Chemistry homework
 ---
 # [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
 
