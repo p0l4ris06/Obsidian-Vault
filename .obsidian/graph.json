@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 3407728
       }
+    },
+    {
+      "query": "path:\"Personal/Journal/Daily notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16187014
+      }
     }
   ],
   "collapse-display": true,
@@ -55,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.431770833333333,
-  "collapse-forces": true,
-  "centerStrength": 0.359375,
-  "repelStrength": 14.6875,
+  "collapse-forces": false,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.05932617187500089,
-  "close": true
+  "scale": 0.059326171875000895,
+  "close": false
 }
