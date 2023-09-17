@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,13 +182,14 @@
   },
   "active": "203ab5be5a3daa34",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09-17.md",
+    "Templates/Daily note template.md",
+    "Personal/Journal/Daily notes",
     "asd.md",
-    "Personal/Journal/2023-09-17.md",
     "Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Glossaries/C Glossary/Electron.md",
     "Nitrobacter.md",
     "Home.md",
-    "Templates/Daily note template.md",
     "Templates",
     "Personal/Birds/Family/Falconidae.md",
     "2023-09-17.md",
@@ -209,7 +210,6 @@
     "Personal/Birds/Falconidae/Eurasian hobby.md",
     "Personal/Birds/Falconidae/Common Kestrel.md",
     "Biology/B Module 4/4.3/4.3.1.md",
-    "Glossaries/B Glossary/Species.md",
     "Personal/Birds/Family",
     "Personal/Birds/Falconidae",
     "Personal/Journal",
@@ -217,7 +217,6 @@
     "Glossaries/C Glossary/Functional Groups",
     "Glossaries/C Glossary/Bond angles",
     "Glossaries/C Glossary",
-    "Glossaries/B Glossary",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
