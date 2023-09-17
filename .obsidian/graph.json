@@ -1,45 +1,38 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#B-definition  ",
+      "query": "path:\"Glossaries/B Glossary\" path:\"Glossaries/B Glossary\"  ",
       "color": {
         "a": 1,
-        "rgb": 3734491
+        "rgb": 65439
       }
     },
     {
-      "query": "tag:#C-definition  ",
+      "query": "path:\"Glossaries/C Glossary\"  ",
       "color": {
         "a": 1,
-        "rgb": 9327349
+        "rgb": 15335641
       }
     },
     {
-      "query": "path:Biology",
+      "query": "path:Biology  ",
       "color": {
         "a": 1,
-        "rgb": 5552089
+        "rgb": 47359
       }
     },
     {
       "query": "path:Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 8272055
-      }
-    },
-    {
-      "query": "file:Home",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 12386559
       }
     }
   ],
@@ -53,6 +46,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.16348370567220577,
+  "scale": 0.18717518881595777,
   "close": true
 }

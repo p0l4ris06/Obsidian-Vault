@@ -1,2 +1,0 @@
-Staining agent
-#B-definition 

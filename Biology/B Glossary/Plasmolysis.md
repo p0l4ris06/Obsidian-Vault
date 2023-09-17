@@ -1,3 +1,0 @@
-The Cytoplasm of plant cells shrinks and the membrane pulls away from the [[Cellulose]] cell wall. These cells are described as plasmolysed
-Plant tissue with plasmolysed cells is described as [[Flaccid]]
-#B-definition 

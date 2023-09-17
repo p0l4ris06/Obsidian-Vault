@@ -1,2 +1,0 @@
-Involves replication of the circular DNA and of plasmids. Division of the [[cytoplasm]] to produce two daughter cells each with a single copy of the circular [[DNA]] and a variable number of copies of plasmids
-#B-definition 
