@@ -10,5 +10,5 @@
   "hideSearchCounts": false,
   "hideInstructions": true,
   "hidePropertiesReading": true,
-  "hideVault": true
+  "hideVault": false
 }
