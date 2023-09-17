@@ -1,8 +1,8 @@
 {
-  "circularProgress": false,
+  "circularProgress": true,
   "nowAndNextInStatusBar": false,
   "showTaskNotification": false,
-  "zoomLevel": 2,
+  "zoomLevel": "1",
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
   "startHour": 6,

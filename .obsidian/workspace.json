@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "706339926166a2e4",
+            "id": "b8e9ccae856c873e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Birds/Family/Paridae.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Birds/Family/Paridae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Birds/Family/Paridae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Birds/Family/Paridae.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,13 +143,29 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "b9924dd09d2a4d1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "04a68aab6fb37d06",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 400
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +180,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "706339926166a2e4",
+  "active": "b9924dd09d2a4d1f",
   "lastOpenFiles": [
+    "Personal/Birds/Family/Falconidae.md",
+    "2023-09-17.md",
+    "2023-09-18.md",
+    "Home.md",
+    "Personal/Birds/Family/Paridae.md",
     "Personal/Birds/Birds.md",
     "Personal/Birds/Sexual dimorphism.md",
     "Personal/Birds/Paridae/Coal tit.md",
-    "Personal/Birds/Family/Falconidae.md",
-    "Personal/Birds/Family/Paridae.md",
     "Personal/Birds/Paridae/Crested tit.md",
     "Personal/Birds/Paridae/Willow tit.md",
     "Personal/Birds/Paridae/Marsh tit.md",
@@ -198,12 +209,9 @@
     "Glossaries/B Glossary/Class.md",
     "Glossaries/B Glossary/Phylum.md",
     "Glossaries/B Glossary/Kingdom.md",
-    "Glossaries/B Glossary/Domain.md",
-    "Home.md",
     "Personal/Birds/Family",
     "Personal/Birds/Falconidae",
     "Personal/Journal",
-    "conflict-files-obsidian-git.md",
     "Glossaries/C Glossary/Orbitals",
     "Glossaries/C Glossary/Functional Groups",
     "Glossaries/C Glossary/Bond angles",
