@@ -6,7 +6,6 @@
       {
         "id": "92220a19007fcb10",
         "type": "tabs",
-        "dimension": 68.97208121827411,
         "children": [
           {
             "id": "10ccfd876b01cd47",
@@ -36,20 +35,18 @@
         "currentTab": 1
       },
       {
-        "id": "9488e1cd85e2e59a",
+        "id": "091f69df4f2ec327",
         "type": "tabs",
-        "dimension": 31.027918781725887,
         "children": [
           {
-            "id": "39351df4542e61fd",
+            "id": "114d9de615eebef8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Birds/Family/Paridae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Birds/Family/Paridae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Birds/Family/Paridae.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706339926166a2e4",
+  "active": "114d9de615eebef8",
   "lastOpenFiles": [
-    "Personal/Birds/Family/Falconidae.md",
     "Personal/Birds/Family/Paridae.md",
+    "Personal/Birds/Family/Falconidae.md",
+    "Personal/Birds/Paridae/Coal tit.md",
+    "Personal/Birds/Paridae/Crested tit.md",
+    "Personal/Birds/Paridae/Willow tit.md",
+    "Personal/Birds/Paridae/Marsh tit.md",
+    "Personal/Birds/Paridae/Great tit.md",
+    "Personal/Birds/Paridae/Eurasian blue tit.md",
     "Personal/Birds/Paridae",
     "Personal/Birds/Falconidae/Peregrine falcon.md",
     "Personal/Birds/Falconidae/Merlin.md",
@@ -213,11 +212,6 @@
     "Personal/Books",
     "conflict-files-obsidian-git.md",
     "Nitrosomonas.md",
-    "Nitrobacter.md",
-    "Glossaries/C Glossary/Bond angles/Non-linear.md",
-    "Glossaries/C Glossary/Orbitals/s-orbitals.md",
-    "Glossaries/C Glossary/Orbitals/p-orbitals.md",
-    "Glossaries/C Glossary/Orbitals/f-orbitals.md",
     "Glossaries/C Glossary/Orbitals",
     "Glossaries/C Glossary/Functional Groups",
     "Glossaries/C Glossary/Bond angles",
