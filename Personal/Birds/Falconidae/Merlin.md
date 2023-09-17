@@ -1,3 +1,3 @@
-[[Falconidae]]
-
-#Bird-of-prey 
+Family: [[Falconidae]]
+Diet:
+Tags: #Bird-of-prey 
