@@ -2,7 +2,8 @@
 banner: "![[Pasted image 20230903111845.png]]"
 ---
 # Tasks
-- [ ] Chemistry homework
+- [x] Arrhenius eqt graph 📅 2023-09-18 ✅ 2023-09-17
+- [x] Gold independent project ⏫ 📅 2023-09-18 ✅ 2023-09-17
 ---
 # [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
 

@@ -14,7 +14,8 @@
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
-      "commands": []
+      "commands": [],
+      "openWhenEmpty": true
     }
   },
   "separateMobile": false

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Personal/Birds/Falconidae/Peregrine falcon.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,18 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10ccfd876b01cd47",
+  "active": "39351df4542e61fd",
   "lastOpenFiles": [
+    "Personal/Birds/Falconidae/Peregrine falcon.md",
+    "Personal/Birds/Falconidae/Merlin.md",
+    "Personal/Birds/Falconidae/Common Kestrel.md",
+    "Personal/Birds/Falconidae/Gyr falcon.md",
+    "Home.md",
     "Personal/Birds/Family/Falconidae.md",
     "Personal/Birds/Family",
-    "Personal/Birds/Falconidae/Peregrine falcon.md",
-    "Personal/Birds/Falconidae/Common Kestrel.md",
-    "Personal/Birds/Falconidae/Merlin.md",
     "Personal/Birds/Falconidae",
-    "Home.md",
     "Personal/Books",
     "conflict-files-obsidian-git.md",
-    "Personal/Birds/Falconidae/Gyr falcon.md",
     "Nitrosomonas.md",
     "Nitrobacter.md",
     "Glossaries/C Glossary/Bond angles/Non-linear.md",
