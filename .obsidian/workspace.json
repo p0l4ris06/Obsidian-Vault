@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "df817331b12f0fd3",
+        "id": "a519badf8ba477db",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e28fed94a27b0c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a96a9bd52e108c69",
+            "id": "575479ae0be58d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Birds/Merlin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe2b0e61d7e13a2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3eca79c0a312c302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Birds/Common Kestrel.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Birds/Common Kestrel.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Birds/Common Kestrel.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Birds/Common Kestrel.md"
+                "file": "Home.md"
               }
             }
           },
@@ -186,13 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eca79c0a312c302",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Personal/Birds/Gyr falcon.md",
-    "Personal/Birds/Merlin.md",
-    "Home.md",
-    "Personal/Birds/Common Kestrel.md",
     "Personal/Birds/Peregrine falcon.md",
+    "Personal/Birds/Merlin.md",
+    "Personal/Birds/Gyr falcon.md",
+    "Personal/Birds/Common Kestrel.md",
+    "Home.md",
     "conflict-files-obsidian-git.md",
     "Nitrosomonas.md",
     "Nitrobacter.md",
