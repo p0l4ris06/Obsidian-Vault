@@ -11,20 +11,20 @@
             "id": "f2d81f0edc3b94c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/2023-09-17.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
-            "id": "a3fe8dec3aa2fa57",
+            "id": "47aad79da3a3563b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily note template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -121,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily note template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,11 +162,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3fe8dec3aa2fa57",
+  "active": "47aad79da3a3563b",
   "lastOpenFiles": [
-    "Daily note template.md",
-    "Templates",
+    "Personal/Journal/2023-09-17.md",
     "Home.md",
+    "Templates/Daily note template.md",
+    "Templates",
     "Personal/Birds/Family/Falconidae.md",
     "2023-09-17.md",
     "2023-09-18.md",
@@ -193,7 +192,6 @@
     "Glossaries/B Glossary/Family.md",
     "Glossaries/B Glossary/Order.md",
     "Glossaries/B Glossary/Class.md",
-    "Glossaries/B Glossary/Phylum.md",
     "Personal/Birds/Family",
     "Personal/Birds/Falconidae",
     "Personal/Journal",
