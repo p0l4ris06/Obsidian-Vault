@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "92220a19007fcb10",
+        "id": "8aff2436c46d4630",
         "type": "tabs",
         "children": [
           {
-            "id": "10ccfd876b01cd47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Birds/Family/Falconidae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e9ccae856c873e",
+            "id": "f2d81f0edc3b94c7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,20 +74,31 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
+        "dimension": 35.57692307692308,
         "children": [
           {
-            "id": "4eed1e02558037a4",
+            "id": "b9924dd09d2a4d1f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1bd03f399390851",
+        "type": "tabs",
+        "dimension": 64.42307692307693,
+        "children": [
+          {
+            "id": "816bc890b20f2733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -116,56 +114,27 @@
             }
           },
           {
-            "id": "816bc890b20f2733",
+            "id": "4eed1e02558037a4",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "79bc4d9eec7aa9cf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe1a2348f43aa1f3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "b9924dd09d2a4d1f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "04a68aab6fb37d06",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,19 +142,19 @@
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
       "obsidian-day-planner:Week plan": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9924dd09d2a4d1f",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Home.md",
     "Personal/Birds/Family/Falconidae.md",
     "2023-09-17.md",
     "2023-09-18.md",
-    "Home.md",
     "Personal/Birds/Family/Paridae.md",
     "Personal/Birds/Birds.md",
     "Personal/Birds/Sexual dimorphism.md",
