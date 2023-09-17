@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Personal/Birds  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 3407728
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.1634837056722062,
-  "close": false
+  "scale": 0.11660891579457408,
+  "close": true
 }
