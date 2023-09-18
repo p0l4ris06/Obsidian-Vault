@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "794c3b4ee92f0efe",
+        "id": "b23ca4ea341675cf",
         "type": "tabs",
         "children": [
           {
-            "id": "8b54eaaf4ccb1791",
+            "id": "ac6e72c913c49a6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,8 +184,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b54eaaf4ccb1791",
+  "active": "ac6e72c913c49a6c",
   "lastOpenFiles": [
+    "Example Book Application.md",
+    "HORNIERR Goals.md",
+    "_start_here.md",
+    "readme.md",
+    "Templates/Weekly Reviews.md",
+    "Untitled.md",
+    "Templates/Daily note template.md",
+    "Templates/Quarterly Reviews.md",
+    "Templates/Periodic Reviews.md",
+    "Templates/Monthly Reviews.md",
+    "Home.md",
+    "Templates/Yearly Reviews.md",
     "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
     "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-M.md",
@@ -190,7 +211,6 @@
     "Lessons/Bio Lessons/00-GAH",
     "Lessons/Bio Lessons",
     "2023-09.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Lessons/Chem lessons/00-ST",
     "Lessons/Chem lessons",
@@ -200,17 +220,6 @@
     "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.5.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.4.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.3.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.2.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.1.md",
-    "000-Chemistry/C Module 5/Chapter 24/Chapter 24.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.5.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.3.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.2.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.1.md",
-    "000-Chemistry/C Module 5/Chapter 22/Chapter 22.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.5.md",
     "000-Chemistry/C Module 5/Chapter 23",
     "000-Chemistry/C Module 5/Chapter 24",
     "Pasted image 20230910135820.png",
