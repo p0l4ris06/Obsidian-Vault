@@ -14194,37 +14194,69 @@
       "modifiedDate": 1695021424992,
       "sizeInBytes": 134
     },
-    "5.6.3.md": {
+    "000-Biology/B Module 5/5.6/5.6.3.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 56,
+      "characterCount": 57,
       "nonWhitespaceCharacterCount": 52,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695021674019,
-      "modifiedDate": 1695021695351,
-      "sizeInBytes": 56
+      "modifiedDate": 1695022018155,
+      "sizeInBytes": 57
     },
-    "Electron carriers.md": {
+    "Glossaries/B Glossary/Photophosphorylation.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 17,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 178,
-      "nonWhitespaceCharacterCount": 154,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 117,
+      "nonWhitespaceCharacterCount": 99,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
+      "createdDate": 1695021899457,
+      "modifiedDate": 1695022031258,
+      "sizeInBytes": 117
+    },
+    "Glossaries/B Glossary/NADP.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 143,
+      "nonWhitespaceCharacterCount": 125,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695021834854,
+      "modifiedDate": 1695022046104,
+      "sizeInBytes": 143
+    },
+    "Glossaries/B Glossary/Electron carriers.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 231,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
       "createdDate": 1695021695258,
-      "modifiedDate": 1695021786608,
-      "sizeInBytes": 178
+      "modifiedDate": 1695022066846,
+      "sizeInBytes": 268
     }
   }
 }
