@@ -1,5 +1,6 @@
 ---
 banner: "![[Pasted image 20230903111845.png]]"
+banner_y: 0.5
 ---
 # Tasks
 - [x] Arrhenius eqt graph 📅 2023-09-18 ✅ 2023-09-17

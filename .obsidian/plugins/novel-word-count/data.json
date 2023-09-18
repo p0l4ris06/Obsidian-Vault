@@ -7935,8 +7935,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693408602061,
-      "modifiedDate": 1694988628399,
-      "sizeInBytes": 780
+      "modifiedDate": 1695021472727,
+      "sizeInBytes": 794
     },
     "111-Work experience/111-Surgery/111S-Day 5.md": {
       "isDirectory": false,
@@ -14130,7 +14130,23 @@
       "modifiedDate": 1695021106211,
       "sizeInBytes": 228
     },
-    "Photosynthetic pigment.md": {
+    "Glossaries/B Glossary/Thylakoid.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 186,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695021343532,
+      "modifiedDate": 1695021408102,
+      "sizeInBytes": 214
+    },
+    "Glossaries/B Glossary/Photosynthetic pigment.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 18,
@@ -14146,21 +14162,37 @@
       "modifiedDate": 1695021177722,
       "sizeInBytes": 123
     },
-    "Photosystem.md": {
+    "Glossaries/B Glossary/Photosystem.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 42,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.14,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 274,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695021190153,
-      "modifiedDate": 1695021190153,
-      "sizeInBytes": 0
+      "modifiedDate": 1695021435565,
+      "sizeInBytes": 317
+    },
+    "Glossaries/B Glossary/Stroma.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 134,
+      "nonWhitespaceCharacterCount": 117,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695021316256,
+      "modifiedDate": 1695021424992,
+      "sizeInBytes": 134
     }
   }
 }
