@@ -19,12 +19,16 @@
             "id": "94db3cd612900629",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94db3cd612900629",
+  "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
     "Home.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
