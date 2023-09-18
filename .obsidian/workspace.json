@@ -11,8 +11,13 @@
             "id": "6130b168bc11a9b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compensation point.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -76,49 +81,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4eed1e02558037a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2f46434b7e334be5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "816bc890b20f2733",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "79bc4d9eec7aa9cf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compensation point.md"
+              }
             }
           },
           {
@@ -138,13 +107,67 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "69021d9b8fa99d54",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
           }
         ]
+      },
+      {
+        "id": "57b5d2b35f7bf188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816bc890b20f2733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f46434b7e334be5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Compensation point.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eed1e02558037a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Compensation point.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,9 +184,12 @@
   },
   "active": "6130b168bc11a9b9",
   "lastOpenFiles": [
+    "000-Biology/B Module 5/5.6/5.6.1.md",
+    "Compensation point.md",
+    "000-Biology/B Module 5/5.6/B5.6.md",
+    "Home.md",
     "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
     "000-Maths/Pure/M-P Chapter 14/M-P 14.4.md",
-    "Home.md",
     "000-Maths/Pure/M-P Chapter 5/M-P 5.2.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
     "000-Maths/Pure/M-P Chapter 11/M-P 11.3.md",
@@ -184,9 +210,6 @@
     "000-Maths/Pure/M-P Chapter 13/M-P 13.2.md",
     "000-Maths/Pure/M-P Chapter 13/M-P 13.1.md",
     "000-Maths/Pure/M-P Chapter 12/M-P Chapter 12.md",
-    "000-Maths/Pure/M-P Chapter 12/M-P 12.11.md",
-    "000-Maths/Pure/M-P Chapter 12/M-P 12.9.md",
-    "000-Maths/Pure/M-P Chapter 12/M-P 12.7.md",
     "000-Maths/Pure/M-P Chapters",
     "000-Maths/Pure/M-P Chapter 14",
     "000-Maths/Pure/M-P Chapter 13",
