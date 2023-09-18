@@ -11,13 +11,8 @@
             "id": "ac6e72c913c49a6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,13 +177,17 @@
   },
   "active": "ac6e72c913c49a6c",
   "lastOpenFiles": [
-    "Example Book Application.md",
+    "Templates/Course Template.md",
+    "Templates/Project Template.md",
+    "Personal/John Mavrick Tools/_start_here.md",
+    "Personal/John Mavrick Tools",
+    "Templates/Note Template.md",
+    "Templates/Daily note template.md",
+    "Personal/John Mavrick Tools/readme.md",
+    "Personal/John Mavrick Tools/Example Book Application.md",
     "HORNIERR Goals.md",
-    "_start_here.md",
-    "readme.md",
     "Templates/Weekly Reviews.md",
     "Untitled.md",
-    "Templates/Daily note template.md",
     "Templates/Quarterly Reviews.md",
     "Templates/Periodic Reviews.md",
     "Templates/Monthly Reviews.md",
@@ -217,11 +212,7 @@
     "Lessons",
     "000-Chemistry/C Module 5/Chapter 22/C22.4.md",
     "000-Chemistry/C Module 5/Chapter 23/Chapter 23.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.5.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.4.md",
     "000-Chemistry/C Module 5/Chapter 23",
-    "000-Chemistry/C Module 5/Chapter 24",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",

@@ -45,7 +45,7 @@ the `tp.file.cursor(number)`  variables are just jump points for the cursor, whi
 
 You can try it out by jumping your cursor to the cursor location below:
 
-<%tp.file.cursor(1)%>
+
 
 ## Daily / Periodic Notes
 > [!INFO] Related Notes

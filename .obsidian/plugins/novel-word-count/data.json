@@ -14434,23 +14434,39 @@
       "modifiedDate": 1695042524905,
       "sizeInBytes": 282
     },
-    "_start_here.md": {
+    "Templates/Note Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 601,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.0033333333333334,
-      "characterCount": 4428,
-      "nonWhitespaceCharacterCount": 3797,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 189,
+      "nonWhitespaceCharacterCount": 166,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695042788975,
+      "modifiedDate": 1695042818037,
+      "sizeInBytes": 189
+    },
+    "Personal/John Mavrick Tools/_start_here.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 600,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2,
+      "characterCount": 4407,
+      "nonWhitespaceCharacterCount": 3776,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695042656807,
-      "modifiedDate": 1695042656808,
-      "sizeInBytes": 4428
+      "modifiedDate": 1695042869839,
+      "sizeInBytes": 4407
     },
-    "Example Book Application.md": {
+    "Personal/John Mavrick Tools/Example Book Application.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 104,
@@ -14466,7 +14482,7 @@
       "modifiedDate": 1695042661742,
       "sizeInBytes": 598
     },
-    "readme.md": {
+    "Personal/John Mavrick Tools/readme.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 22,
@@ -14481,6 +14497,22 @@
       "createdDate": 1695042661954,
       "modifiedDate": 1695042661964,
       "sizeInBytes": 131
+    },
+    "Templates/Course Template.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 243,
+      "nonWhitespaceCharacterCount": 204,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695042939973,
+      "modifiedDate": 1695042939975,
+      "sizeInBytes": 243
     }
   }
 }
