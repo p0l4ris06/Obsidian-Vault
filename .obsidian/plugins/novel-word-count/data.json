@@ -8549,18 +8549,18 @@
     "000-Maths/Pure/M-P Chapters/M-P Chapters.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 42,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14,
-      "characterCount": 257,
-      "nonWhitespaceCharacterCount": 215,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 282,
+      "nonWhitespaceCharacterCount": 237,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112538,
-      "modifiedDate": 1695044620281,
-      "sizeInBytes": 257
+      "modifiedDate": 1695044966848,
+      "sizeInBytes": 282
     },
     "000-Maths/Pure/M-P Chapter 9/M-P Chapter 9.md": {
       "isDirectory": false,
@@ -10245,18 +10245,18 @@
     "000-Chemistry/C Modules/C Modules.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 17,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 80,
-      "nonWhitespaceCharacterCount": 60,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 86,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112419,
-      "modifiedDate": 1695037112420,
-      "sizeInBytes": 80
+      "modifiedDate": 1695044951810,
+      "sizeInBytes": 104
     },
     "000-Chemistry/C Modules/C Module 6.md": {
       "isDirectory": false,
@@ -10329,14 +10329,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03666666666666667,
-      "characterCount": 87,
+      "characterCount": 81,
       "nonWhitespaceCharacterCount": 69,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112405,
-      "modifiedDate": 1695037112405,
-      "sizeInBytes": 87
+      "modifiedDate": 1695044935636,
+      "sizeInBytes": 81
     },
     "000-Chemistry/C Module 6/Chapter 29/Chapter 29.md": {
       "isDirectory": false,
@@ -12453,18 +12453,18 @@
     "000-Biology/B Modules/B Modules.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 17,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 80,
-      "nonWhitespaceCharacterCount": 60,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 84,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112010,
-      "modifiedDate": 1695037112011,
-      "sizeInBytes": 80
+      "modifiedDate": 1695044993629,
+      "sizeInBytes": 103
     },
     "000-Biology/B Modules/B Module 6.md": {
       "isDirectory": false,
@@ -15333,18 +15333,18 @@
     "000-Maths/Stats/M-S Chapters/M-S Chapters.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 151,
+      "nonWhitespaceCharacterCount": 127,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044400710,
-      "modifiedDate": 1695044400710,
-      "sizeInBytes": 0
+      "modifiedDate": 1695044974299,
+      "sizeInBytes": 151
     },
     "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md": {
       "isDirectory": false,
@@ -15413,34 +15413,18 @@
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 12,
+      "wordCount": 14,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 75,
-      "nonWhitespaceCharacterCount": 62,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 84,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044403850,
-      "modifiedDate": 1695044632684,
-      "sizeInBytes": 75
-    },
-    "M-S Chapter 7.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 53,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695044692926,
-      "modifiedDate": 1695044850904,
-      "sizeInBytes": 64
+      "modifiedDate": 1695044960279,
+      "sizeInBytes": 100
     },
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md": {
       "isDirectory": false,
@@ -15537,6 +15521,22 @@
       "createdDate": 1695044691918,
       "modifiedDate": 1695044835626,
       "sizeInBytes": 52
+    },
+    "000-Maths/Stats/M-S Chapter 7/M-S Chapter 7.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 53,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695044692926,
+      "modifiedDate": 1695044850904,
+      "sizeInBytes": 64
     }
   }
 }
