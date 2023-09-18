@@ -14257,6 +14257,38 @@
       "createdDate": 1695037111580,
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
+    },
+    "Lessons/Chem lessons/00-ST/2023-09-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 31,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695040297534,
+      "modifiedDate": 1695040297534,
+      "sizeInBytes": 37
+    },
+    "conflict-files-obsidian-git.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 594,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695040298439,
+      "modifiedDate": 1695040298463,
+      "sizeInBytes": 701
     }
   }
 }
