@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ee57014bfa079d0b",
+        "id": "794c3b4ee92f0efe",
         "type": "tabs",
         "children": [
           {
-            "id": "2aad9e6863776260",
+            "id": "8b54eaaf4ccb1791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9083cc29b9b93009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-M.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c430e4cd87a7db49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963c016c9fd3a22a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-20-C.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1e63880445f1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-M.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d940a5e369155585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2940c39a1695c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18-C.md"
               }
             }
           },
@@ -221,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -263,17 +184,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2940c39a1695c8c",
+  "active": "8b54eaaf4ccb1791",
   "lastOpenFiles": [
-    "2023-09.md",
-    "conflict-files-obsidian-git.md",
-    "Lessons/Maths lessons/00-LE/2023-09-19-M.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-M.md",
+    "Lessons/Maths lessons/00-LE/2023-09-19-M.md",
+    "Lessons/Maths lessons/00-LE",
+    "Lessons/Maths lessons",
     "Lessons/Chem lessons/00-ST/2023-09-20-C.md",
     "Lessons/Chem lessons/00-ST/2023-09-18.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-18-B.md",
     "Lessons/Bio Lessons/00-SW/2023-09-19-B.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-18-B.md",
+    "Lessons/Bio Lessons/00-SW",
+    "Lessons/Bio Lessons/00-GAH",
+    "Lessons/Bio Lessons",
+    "2023-09.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
+    "Lessons/Chem lessons/00-ST",
+    "Lessons/Chem lessons",
+    "Lessons",
     "000-Chemistry/C Module 5/Chapter 22/C22.4.md",
     "000-Chemistry/C Module 5/Chapter 23/Chapter 23.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
@@ -290,17 +220,8 @@
     "000-Chemistry/C Module 5/Chapter 24/C24.1.md",
     "000-Chemistry/C Module 5/Chapter 22/Chapter 22.md",
     "000-Chemistry/C Module 5/Chapter 22/C22.5.md",
-    "000-Chemistry/C Module 5/Chapter 18/Chapter 18.md",
     "000-Chemistry/C Module 5/Chapter 23",
     "000-Chemistry/C Module 5/Chapter 24",
-    "000-Chemistry/C Module 5/Chapter 22",
-    "000-Chemistry/C Module 5/Chapter 21",
-    "000-Chemistry/C Module 5/Chapter 20",
-    "000-Chemistry/C Module 5/Chapter 19",
-    "000-Chemistry/C Module 5/Chapter 18",
-    "000-Chemistry/C Module 2/Chapter 2",
-    "000-Chemistry/C Module 6/Chapter 29",
-    "000-Chemistry/C Module 6/Chapter 28",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
