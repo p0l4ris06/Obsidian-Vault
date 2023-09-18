@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "717307405203c854",
+            "id": "059f35c3353e9668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Mechanics/M-M Chapter 9/M-M Chapter 9.md",
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "58e9e10f54dc5d6d",
+            "id": "514a1e53f2a14914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Mechanics/M-M Chapter 10/M-M Chapter 10.md",
+                "file": "000-Maths/Stats/M-S Chapter 2/M-S Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "bf5f8c8958290d59",
+            "id": "43a68c3d14a87b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-M Chapter 11.md",
+                "file": "000-Maths/Stats/M-S Chapter 3/M-S Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,51 @@
             }
           },
           {
-            "id": "350071cd999f6f0a",
+            "id": "7e1217973a6662e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Mechanics/M-M Chapter 9/M-M Chapter 9.md",
+                "file": "000-Maths/Stats/M-S Chapter 4/M-S Chapter 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a697975a0f681b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Stats/M-S Chapter 5/M-S Chapter 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1ec864c354902c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Stats/M-S Chapter 6/M-S Chapter 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3475e56b71b62d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-S Chapter 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M-M Chapter 11.md"
+                "file": "M-S Chapter 7.md"
               }
             }
           },
@@ -195,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M-M Chapter 11.md",
+                "file": "M-S Chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M-M Chapter 11.md",
+                "file": "M-S Chapter 7.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,13 +276,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "3475e56b71b62d42",
   "lastOpenFiles": [
-    "000-Maths/Mechanics/M-M Chapter 10/M-M Chapter 10.md",
-    "000-Maths/Mechanics/M-M Chapter 9/M-M Chapter 9.md",
-    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
-    "M-M Chapter 11.md",
+    "000-Maths/Stats/M-S Chapter 6/M-S Chapter 6.md",
+    "000-Maths/Stats/M-S Chapter 5/M-S Chapter 5.md",
+    "000-Maths/Stats/M-S Chapter 4/M-S Chapter 4.md",
+    "000-Maths/Stats/M-S Chapter 3/M-S Chapter 3.md",
+    "000-Maths/Stats/M-S Chapter 2/M-S Chapter 2.md",
+    "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
+    "M-S Chapter 7.md",
     "Home.md",
+    "000-Maths/Mechanics/M-M Chapter 9/M-M Chapter 9.md",
+    "000-Maths/Mechanics/M-M Chapter 10/M-M Chapter 10.md",
+    "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
+    "000-Maths/Mechanics/M-M Chapter 11/M-M Chapter 11.md",
+    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
+    "000-Maths/Pure/M-P Chapter 1/M-P Chapter 1.md",
+    "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
     "000-Maths/Stats/M-S Chapter 6/M-S 6.1.md",
     "000-Maths/Stats/M-S Chapter 6/M-S 6.2.md",
     "000-Maths/Stats/M-S Chapter 6/M-S 6.3.md",
@@ -252,21 +301,11 @@
     "000-Maths/Stats/M-S Chapter 7/M-S 7.3.md",
     "000-Maths/Stats/M-S Chapter 7/M-S 7.4.md",
     "000-Maths/Stats/M-S Chapters/M-S Chapters.md",
-    "000-Maths/Pure/M-P Chapter 1/M-P Chapter 1.md",
-    "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
-    "000-Maths/Mechanics/M-M Chapters.md",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 5/M-S 5.4.md",
     "000-Maths/Stats/M-S Chapter 5/M-S 5.3.md",
     "000-Maths/Stats/M-S Chapter 5/M-S 5.2.md",
-    "000-Maths/Stats/M-S Chapter 5/M-S 5.1.md",
-    "000-Maths/Stats/M-S Chapter 4/M-S 4.2.md",
-    "000-Maths/Stats/M-S Chapter 4/M-S 4.1.md",
-    "000-Maths/Stats/M-S Chapter 3/M-S 3.5.md",
-    "000-Maths/Stats/M-S Chapter 3/M-S 3.4.md",
-    "000-Maths/Stats/M-S Chapter 3/M-S 3.3.md",
-    "000-Maths/Stats/M-S Chapter 3/M-S 3.2.md",
     "000-Maths/Stats/M-S Chapter 1",
     "000-Maths/Stats/M-S Chapter 7",
     "000-Maths/Stats/M-S Chapter 6",
