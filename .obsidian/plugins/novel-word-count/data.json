@@ -14885,18 +14885,18 @@
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
-      "linkCount": 0,
+      "pageCount": 0.04,
+      "characterCount": 95,
+      "nonWhitespaceCharacterCount": 81,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043282975,
-      "modifiedDate": 1695044226164,
-      "sizeInBytes": 17
+      "modifiedDate": 1695046033921,
+      "sizeInBytes": 95
     },
     "000-Maths/Stats/M-S Chapter 1/M-S 1.5.md": {
       "isDirectory": false,
@@ -15538,21 +15538,18 @@
       "modifiedDate": 1695044850904,
       "sizeInBytes": 64
     },
-    "Backlog.md": {
+    "Census.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 52,
-      "nonWhitespaceCharacterCount": 45,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 23,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695045398323,
-      "modifiedDate": 1695045731108,
-      "sizeInBytes": 52
-    }
-  }
-}
+      "createdDate": 1695046044138,
+      "modifiedDate": 1695046050856,
+      "sizeInBytes"

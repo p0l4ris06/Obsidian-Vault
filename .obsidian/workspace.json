@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "222354d3f064490b",
+        "id": "974b3798c38a195a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b532ffa7b5da69",
+            "id": "7559b47b4afd40c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nitrosomonas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d8b68f52efff947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog.md",
+                "file": "Census.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog.md"
+                "file": "Census.md"
               }
             }
           },
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog.md",
+                "file": "Census.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog.md",
+                "file": "Census.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,12 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d8b68f52efff947",
+  "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
-    "Backlog.md",
-    "Templates/Daily note template.md",
+    "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
+    "Census.md",
+    "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "Home.md",
     "Nitrosomonas.md",
+    "Templates/Daily note template.md",
+    "Backlog.md",
     "Nitrobacter.md",
     "111-Work experience/111-Surgery/111S-Day 5.md",
     "111-Work experience/111-Surgery/111S-Day 4.md",
@@ -223,9 +212,6 @@
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
     "000-Chemistry/C Modules/C Module 5.md",
-    "000-Biology/B Modules/B Module 6.md",
-    "000-Biology/B Modules/B Module 5.md",
-    "000-Biology/B Modules/B Modules.md",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 1",
