@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf6148b655c5ff5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Chem lessons/00-APH/2023-09-21.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Chem lessons/00-APH/2023-09-21.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Chem lessons/00-APH/2023-09-21.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,16 +224,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "bf6148b655c5ff5d",
   "lastOpenFiles": [
-    "Lessons/Maths lessons/00-SK/2023-09-21.md",
     "Lessons/Chem lessons/00-APH/2023-09-21.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Yearly Reviews.md",
+    "Templates/Weekly Reviews.md",
+    "Templates/Quarterly Reviews.md",
+    "Templates/Periodic Reviews.md",
+    "Templates/Note Template.md",
+    "Templates/Monthly Reviews.md",
+    "Templates/Course Template.md",
+    "Personal/John Mavrick Tools/_start_here.md",
+    "Personal/John Mavrick Tools/Example Book Application.md",
+    "Personal/John Mavrick Tools/readme.md",
+    "Personal/John Mavrick Tools",
+    "Lessons/Chem lessons/00-ST/2023-09-18-C.md",
+    "Lessons/Maths lessons/00-SK/2023-09-21.md",
     "Home.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-M.md",
     "Lessons/Chem lessons/00-ST/2023-09-18.md",
     "Lessons/Chem lessons/00-ST/2023-09-20-C.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
-    "conflict-files-obsidian-git.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-M.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-18-B.md",
     "Lessons/Bio Lessons/00-SW/2023-09-19-B.md",
@@ -228,17 +253,6 @@
     "000-Chemistry/C Module 5/Chapter 23/Chapter 23.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.5.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.4.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.3.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.2.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.1.md",
-    "000-Chemistry/C Module 5/Chapter 24/Chapter 24.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.5.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.3.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.2.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.1.md",
-    "000-Chemistry/C Module 5/Chapter 22/Chapter 22.md",
     "000-Chemistry/C Module 5/Chapter 23",
     "000-Chemistry/C Module 5/Chapter 24",
     "000-Chemistry/C Module 5/Chapter 22",
@@ -248,7 +262,6 @@
     "000-Chemistry/C Module 5/Chapter 18",
     "000-Chemistry/C Module 2/Chapter 2",
     "000-Chemistry/C Module 6/Chapter 29",
-    "000-Chemistry/C Module 6/Chapter 28",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
