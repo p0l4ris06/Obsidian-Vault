@@ -11,8 +11,13 @@
             "id": "7559b47b4afd40c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "111-Work experience/111-Library/111L-Day 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "111-Work experience/111-Library/111L-Day 4.md"
+              }
             }
           },
           {
@@ -148,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "111-Work experience/111-Library/111L-Day 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "111-Work experience/111-Library/111L-Day 4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,6 +199,9 @@
   },
   "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
+    "111-Work experience/111-Library/111L-Day 3.md",
+    "111-Work experience/111-Library/111L-Day 2.md",
+    "111-Work experience/111-Library/111L-Day 1.md",
     "Home.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.2.md",
@@ -208,9 +220,6 @@
     "111-Work experience/111-Surgery/111S-Day 1.md",
     "111-Work experience/111-Library/111L-Day 5.md",
     "111-Work experience/111-Library/111L-Day 4.md",
-    "111-Work experience/111-Library/111L-Day 3.md",
-    "111-Work experience/111-Library/111L-Day 2.md",
-    "111-Work experience/111-Library/111L-Day 1.md",
     "000-Maths/Stats/M-S Chapters/M-S Chapters.md",
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
     "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
