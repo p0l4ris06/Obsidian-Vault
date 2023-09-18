@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c18a0cf3e05040fd",
+        "id": "dcda74b9cf0cea7d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e99beeda6068d8c",
+            "id": "2e2cb549f1500a79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,17 +79,18 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
+        "dimension": 35.57692307692307,
         "children": [
           {
-            "id": "79bc4d9eec7aa9cf",
+            "id": "b9924dd09d2a4d1f",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "fe1a2348f43aa1f3",
+            "id": "3d1dd6ca96decb57",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -94,15 +100,17 @@
             }
           },
           {
-            "id": "f57ca2b7e6235f9c",
+            "id": "1cbfc07ecf2f4cc7",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
-            "id": "69021d9b8fa99d54",
+            "id": "7bffe46973d8564f",
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-month",
@@ -113,8 +121,9 @@
         "currentTab": 3
       },
       {
-        "id": "57b5d2b35f7bf188",
+        "id": "c1bd03f399390851",
         "type": "tabs",
+        "dimension": 64.42307692307692,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -133,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +154,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -158,59 +169,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Week plan": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": true,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "obsidian-day-planner:Week plan": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3e99beeda6068d8c",
+  "active": "2e2cb549f1500a79",
   "lastOpenFiles": [
-    "Home.md",
-    "000-Biology/B Module 5/5.6/5.6.3.md",
-    "Glossaries/B Glossary/Electron carriers.md",
-    "Glossaries/B Glossary/NADP.md",
-    "Glossaries/B Glossary/Photophosphorylation.md",
-    "000-Biology/B Module 5/5.6/B5.6.md",
-    "Glossaries/B Glossary/Compensation point.md",
-    "Glossaries/B Glossary/Photosynthetic pigment.md",
-    "Glossaries/B Glossary/Photosystem.md",
-    "Glossaries/B Glossary/Stroma.md",
-    "Glossaries/B Glossary/Thylakoid.md",
-    "000-Biology/B Module 5/5.6/5.6.2.md",
-    "000-Biology/B Module 5/5.6/5.6.1.md",
-    "Glossaries/B Glossary/Granum.md",
-    "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.4.md",
-    "000-Maths/Pure/M-P Chapter 5/M-P 5.2.md",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
-    "000-Maths/Pure/M-P Chapter 11/M-P 11.3.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P Chapter 14.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.8.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.6.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.5.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.7.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.3.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P 14.2.md",
-    "000-Maths/Pure/M-P Chapters",
-    "000-Maths/Pure/M-P Chapter 14",
-    "000-Maths/Pure/M-P Chapter 13",
-    "000-Maths/Pure/M-P Chapter 12",
-    "000-Maths/Pure/M-P Chapter 11",
-    "000-Maths/Pure/M-P Chapter 10",
-    "000-Maths/Pure/M-P Chapter 9",
-    "000-Maths/Pure/M-P Chapter 8",
-    "000-Maths/Pure/M-P Chapter 7",
-    "000-Maths/Pure/M-P Chapter 6",
+    "000-Chemistry/C Module 5/Chapter 22/C22.4.md",
+    "000-Chemistry/C Module 5/Chapter 23/Chapter 23.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.5.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.4.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.3.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.2.md",
+    "000-Chemistry/C Module 5/Chapter 23/C23.1.md",
+    "000-Chemistry/C Module 5/Chapter 24/Chapter 24.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.5.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.3.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.2.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.1.md",
+    "000-Chemistry/C Module 5/Chapter 22/Chapter 22.md",
+    "000-Chemistry/C Module 5/Chapter 22/C22.5.md",
+    "000-Chemistry/C Module 5/Chapter 18/Chapter 18.md",
+    "000-Chemistry/C Module 5/Chapter 22/C22.3.md",
+    "000-Chemistry/C Module 5/Chapter 22/C22.2.md",
+    "000-Chemistry/C Module 5/Chapter 22/C22.1.md",
+    "000-Chemistry/C Module 5/Chapter 21/Chapter 21.md",
+    "000-Chemistry/C Module 5/Chapter 21/C21.3.md",
+    "000-Chemistry/C Module 5/Chapter 21/C21.2.md",
+    "000-Chemistry/C Module 5/Chapter 21/C21.1.md",
+    "000-Chemistry/C Module 5/Chapter 20/Chapter 20.md",
+    "000-Chemistry/C Module 5/Chapter 20/C20.5.md",
+    "000-Chemistry/C Module 5/Chapter 23",
+    "000-Chemistry/C Module 5/Chapter 24",
+    "000-Chemistry/C Module 5/Chapter 22",
+    "000-Chemistry/C Module 5/Chapter 21",
+    "000-Chemistry/C Module 5/Chapter 20",
+    "000-Chemistry/C Module 5/Chapter 19",
+    "000-Chemistry/C Module 5/Chapter 18",
+    "000-Chemistry/C Module 2/Chapter 2",
+    "000-Chemistry/C Module 6/Chapter 29",
+    "000-Chemistry/C Module 6/Chapter 28",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
