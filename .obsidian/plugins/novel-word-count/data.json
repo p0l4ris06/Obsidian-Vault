@@ -14354,21 +14354,53 @@
       "modifiedDate": 1695041177375,
       "sizeInBytes": 23
     },
-    "2023-09.md": {
+    "Lessons/Maths lessons/00-SK/2023-09-21-M.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695041195250,
-      "modifiedDate": 1695041195250,
-      "sizeInBytes": 0
+      "modifiedDate": 1695041243925,
+      "sizeInBytes": 23
+    },
+    "Lessons/Maths lessons/00-SK/2023-09-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695041255448,
+      "modifiedDate": 1695041280979,
+      "sizeInBytes": 23
+    },
+    "Lessons/Chem lessons/00-APH/2023-09-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 19,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695041255448,
+      "modifiedDate": 1695041303529,
+      "sizeInBytes": 23
     }
   }
 }
