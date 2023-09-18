@@ -386,22 +386,6 @@
       "modifiedDate": 1692895721190,
       "sizeInBytes": 10816
     },
-    "Photos/Chemistry Photos/Pasted image 20230824174704.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1692895624197,
-      "modifiedDate": 1692895624201,
-      "sizeInBytes": 64473
-    },
     "Photos/Chemistry Photos/Pasted image 20230824174626.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4633,14 +4617,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.16666666666666666,
-      "characterCount": 352,
+      "characterCount": 348,
       "nonWhitespaceCharacterCount": 296,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405334,
-      "modifiedDate": 1694949405334,
-      "sizeInBytes": 352
+      "modifiedDate": 1695059570739,
+      "sizeInBytes": 348
     },
     "Glossaries/B Glossary/Humus.md": {
       "isDirectory": false,
