@@ -9925,18 +9925,18 @@
     "000-Maths/Pure/M-P Chapter 2/M-P 2.4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 12,
+      "nonWhitespaceCharacterCount": 9,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112479,
-      "modifiedDate": 1695037112479,
-      "sizeInBytes": 0
+      "modifiedDate": 1695059829744,
+      "sizeInBytes": 12
     },
     "000-Maths/Pure/M-P Chapter 2/M-P Chapter 2.md": {
       "isDirectory": false,
@@ -10645,18 +10645,18 @@
     "000-Maths/Pure/M-P Chapter 10/M-P 10.6.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 1,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 12,
+      "nonWhitespaceCharacterCount": 9,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112436,
-      "modifiedDate": 1695037112436,
-      "sizeInBytes": 1
+      "modifiedDate": 1695059840963,
+      "sizeInBytes": 12
     },
     "000-Maths/Pure/M-P Chapter 10/M-P 10.5.md": {
       "isDirectory": false,
@@ -10773,18 +10773,18 @@
     "000-Maths/Pure/M-P Chapter 1/M-P 1.4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 9,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112426,
-      "modifiedDate": 1695037112426,
-      "sizeInBytes": 0
+      "modifiedDate": 1695059822129,
+      "sizeInBytes": 11
     },
     "000-Maths/Pure/M-P Chapter 1/M-P 1.3.md": {
       "isDirectory": false,
@@ -13545,14 +13545,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04,
-      "characterCount": 134,
+      "characterCount": 127,
       "nonWhitespaceCharacterCount": 115,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111953,
-      "modifiedDate": 1695037111953,
-      "sizeInBytes": 134
+      "modifiedDate": 1695059934238,
+      "sizeInBytes": 127
     },
     "000-Biology/B Module 6/6.6/B6.6.md": {
       "isDirectory": false,
@@ -15569,6 +15569,54 @@
       "createdDate": 1695059299041,
       "modifiedDate": 1695059423952,
       "sizeInBytes": 353
+    },
+    "Carrying capacity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 119,
+      "nonWhitespaceCharacterCount": 99,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695059934155,
+      "modifiedDate": 1695059980747,
+      "sizeInBytes": 119
+    },
+    "Limiting factor.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 93,
+      "nonWhitespaceCharacterCount": 77,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695059982544,
+      "modifiedDate": 1695060001502,
+      "sizeInBytes": 93
+    },
+    "k-strategists.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 167,
+      "nonWhitespaceCharacterCount": 142,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695060002375,
+      "modifiedDate": 1695060078757,
+      "sizeInBytes": 167
     }
   }
 }

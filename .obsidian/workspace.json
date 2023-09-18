@@ -11,8 +11,13 @@
             "id": "7559b47b4afd40c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "k-strategists.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "k-strategists.md"
+              }
             }
           },
           {
@@ -148,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "k-strategists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "k-strategists.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,6 +199,13 @@
   },
   "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
+    "000-Biology/B Module 6/6.6/6.6.1.md",
+    "k-strategists.md",
+    "Limiting factor.md",
+    "Carrying capacity.md",
+    "000-Maths/Pure/M-P Chapter 10/M-P 10.6.md",
+    "000-Maths/Pure/M-P Chapter 2/M-P 2.4.md",
+    "000-Maths/Pure/M-P Chapter 1/M-P 1.4.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/B Glossary/Hydrogen bonds.md",
     "Myxomatosis.md",
@@ -211,12 +227,6 @@
     "Glossaries/M Glossary/Census.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "Glossaries/B Glossary/Nitrosomonas.md",
-    "Templates/Daily note template.md",
-    "Backlog.md",
-    "Glossaries/B Glossary/Nitrobacter.md",
-    "000-Maths/Stats/M-S Chapters/M-S Chapters.md",
-    "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
-    "000-Maths/Pure/M-P Chapters/M-P Chapters.md",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 1",
@@ -235,7 +245,6 @@
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
     "Photos/Chemistry Photos/Pasted image 20230901085451.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085320.png",
     "Untitled.canvas"
   ]
 }
