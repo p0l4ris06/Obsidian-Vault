@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "r-strategists.md",
+                "file": "Stationary phase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "r-strategists.md"
+                "file": "Stationary phase.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "r-strategists.md",
+                "file": "Stationary phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "r-strategists.md",
+                "file": "Stationary phase.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,9 @@
   "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
     "000-Biology/B Module 6/6.6/6.6.1.md",
+    "Stationary phase.md",
+    "Log phase.md",
+    "Lag phase.md",
     "r-strategists.md",
     "k-strategists.md",
     "Limiting factor.md",
@@ -223,10 +226,7 @@
     "Home.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.2.md",
-    "Glossaries/M Glossary/Sample.md",
     "Glossaries/M Glossary",
-    "Glossaries/M Glossary/Census.md",
-    "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 1",
