@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,8 +186,8 @@
   },
   "active": "8b54eaaf4ccb1791",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Lessons/Chem lessons/00-ST/2023-09-18.md",
     "Lessons/Chem lessons/00-ST",
     "Lessons/Chem lessons",
