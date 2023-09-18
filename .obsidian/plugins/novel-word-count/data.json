@@ -14562,21 +14562,37 @@
       "modifiedDate": 1695043058482,
       "sizeInBytes": 301
     },
-    "conflict-files-obsidian-git.md": {
+    "000-Maths/Stats/M-S 1.1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 594,
-      "linkCount": 1,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 9,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695043058863,
-      "modifiedDate": 1695043061584,
-      "sizeInBytes": 701
+      "createdDate": 1695043135062,
+      "modifiedDate": 1695043156980,
+      "sizeInBytes": 11
+    },
+    "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 10,
+      "nonWhitespaceCharacterCount": 9,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695043163388,
+      "modifiedDate": 1695043171794,
+      "sizeInBytes": 10
     }
   }
 }
