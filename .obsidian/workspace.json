@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "387074272c80381c",
+        "id": "ee57014bfa079d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "03bc6cd43c921a82",
+            "id": "2aad9e6863776260",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc863fedf26b7d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md"
               }
             }
           },
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03bc6cd43c921a82",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Home.md",
+    "Lessons/Chem lessons/00-ST/2023-09-18.md",
     "000-Chemistry/C Module 5/Chapter 22/C22.4.md",
     "000-Chemistry/C Module 5/Chapter 23/Chapter 23.md",
     "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
@@ -210,8 +226,6 @@
     "000-Chemistry/C Module 5/Chapter 21/C21.3.md",
     "000-Chemistry/C Module 5/Chapter 21/C21.2.md",
     "000-Chemistry/C Module 5/Chapter 21/C21.1.md",
-    "000-Chemistry/C Module 5/Chapter 20/Chapter 20.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.5.md",
     "000-Chemistry/C Module 5/Chapter 23",
     "000-Chemistry/C Module 5/Chapter 24",
     "000-Chemistry/C Module 5/Chapter 22",
