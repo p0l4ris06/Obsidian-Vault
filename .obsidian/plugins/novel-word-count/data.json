@@ -14265,14 +14265,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 37,
+      "characterCount": 36,
       "nonWhitespaceCharacterCount": 31,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695040297534,
-      "modifiedDate": 1695040297534,
-      "sizeInBytes": 37
+      "modifiedDate": 1695042138870,
+      "sizeInBytes": 36
     },
     "2023-09.md": {
       "isDirectory": false,
@@ -14329,14 +14329,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02666666666666667,
-      "characterCount": 62,
+      "characterCount": 58,
       "nonWhitespaceCharacterCount": 49,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695041337373,
-      "modifiedDate": 1695041337374,
-      "sizeInBytes": 62
+      "modifiedDate": 1695042141224,
+      "sizeInBytes": 58
     },
     "Lessons/Chem lessons/00-ST/2023-09-20-C.md": {
       "isDirectory": false,
