@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k-strategists.md",
+                "file": "r-strategists.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k-strategists.md"
+                "file": "r-strategists.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k-strategists.md",
+                "file": "r-strategists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k-strategists.md",
+                "file": "r-strategists.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,7 @@
   "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
     "000-Biology/B Module 6/6.6/6.6.1.md",
+    "r-strategists.md",
     "k-strategists.md",
     "Limiting factor.md",
     "Carrying capacity.md",
@@ -226,7 +227,6 @@
     "Glossaries/M Glossary",
     "Glossaries/M Glossary/Census.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
-    "Glossaries/B Glossary/Nitrosomonas.md",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 1",
