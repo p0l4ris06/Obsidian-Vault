@@ -1573,18 +1573,18 @@
     "111-Work experience/111-Surgery/111S-Day 5.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 28,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 31,
-      "linkCount": 0,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 182,
+      "nonWhitespaceCharacterCount": 151,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112548,
-      "modifiedDate": 1695059211280,
-      "sizeInBytes": 37
+      "modifiedDate": 1695059297583,
+      "sizeInBytes": 182
     },
     "111-Work experience/111-Surgery/111S-Day 4.md": {
       "isDirectory": false,
@@ -1641,14 +1641,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.07,
-      "characterCount": 151,
-      "nonWhitespaceCharacterCount": 128,
-      "linkCount": 2,
+      "characterCount": 155,
+      "nonWhitespaceCharacterCount": 132,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112545,
-      "modifiedDate": 1695059031301,
-      "sizeInBytes": 151
+      "modifiedDate": 1695059279130,
+      "sizeInBytes": 155
     },
     "111-Work experience/111-Library/111L-Day 5.md": {
       "isDirectory": false,
@@ -15569,6 +15569,22 @@
       "createdDate": 1695037111595,
       "modifiedDate": 1695037111595,
       "sizeInBytes": 45
+    },
+    "Myxomatosis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 353,
+      "nonWhitespaceCharacterCount": 295,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695059299041,
+      "modifiedDate": 1695059423952,
+      "sizeInBytes": 353
     }
   }
 }
