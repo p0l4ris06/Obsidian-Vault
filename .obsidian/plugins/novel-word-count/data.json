@@ -15525,18 +15525,18 @@
     "Glossaries/M Glossary/Sample.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 80,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 168,
-      "nonWhitespaceCharacterCount": 138,
-      "linkCount": 0,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 461,
+      "nonWhitespaceCharacterCount": 377,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695046118816,
-      "modifiedDate": 1695046177971,
-      "sizeInBytes": 168
+      "modifiedDate": 1695046571299,
+      "sizeInBytes": 461
     },
     "Glossaries/B Glossary/Nitrobacter.md": {
       "isDirectory": false,
