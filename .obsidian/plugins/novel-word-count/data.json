@@ -12277,18 +12277,18 @@
     "000-Biology/B Module 5/5.6/B5.6.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 22,
-      "nonWhitespaceCharacterCount": 19,
-      "linkCount": 1,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694504557911,
-      "modifiedDate": 1694688129639,
-      "sizeInBytes": 22
+      "modifiedDate": 1695021672976,
+      "sizeInBytes": 43
     },
     "000-Biology/B Module 5/5.6/5.6.1.md": {
       "isDirectory": false,
@@ -14193,6 +14193,38 @@
       "createdDate": 1695021316256,
       "modifiedDate": 1695021424992,
       "sizeInBytes": 134
+    },
+    "5.6.3.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 52,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695021674019,
+      "modifiedDate": 1695021695351,
+      "sizeInBytes": 56
+    },
+    "Electron carriers.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 178,
+      "nonWhitespaceCharacterCount": 154,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695021695258,
+      "modifiedDate": 1695021786608,
+      "sizeInBytes": 178
     }
   }
 }
