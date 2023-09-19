@@ -15698,22 +15698,6 @@
       "modifiedDate": 1695130153273,
       "sizeInBytes": 599
     },
-    "Personal/Journal/2023-09-18.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1181,
-      "nonWhitespaceCharacterCount": 982,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695130153274,
-      "modifiedDate": 1695130153275,
-      "sizeInBytes": 1243
-    },
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -15777,6 +15761,22 @@
       "createdDate": 1695131533922,
       "modifiedDate": 1695131915127,
       "sizeInBytes": 2964
+    },
+    "Personal/Journal/Daily notes/2023-09-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 157,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 1181,
+      "nonWhitespaceCharacterCount": 982,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695130153274,
+      "modifiedDate": 1695130153275,
+      "sizeInBytes": 1243
     }
   }
 }

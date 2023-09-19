@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "2023-09",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -74,6 +74,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08263628201714401,
-  "close": false
+  "scale": 0.0826362820171441,
+  "close": true
 }
