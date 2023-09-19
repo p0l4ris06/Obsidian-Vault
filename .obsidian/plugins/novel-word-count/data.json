@@ -146,22 +146,6 @@
       "modifiedDate": 1694972592611,
       "sizeInBytes": 931
     },
-    "Personal/Journal/Daily notes/2023-09-17.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 165,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.55,
-      "characterCount": 1189,
-      "nonWhitespaceCharacterCount": 1014,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694972482620,
-      "modifiedDate": 1695133825810,
-      "sizeInBytes": 1251
-    },
     "Personal/Birds/Sexual dimorphism.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -15762,6 +15746,22 @@
       "modifiedDate": 1695131915127,
       "sizeInBytes": 2964
     },
+    "Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 155,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 1095,
+      "nonWhitespaceCharacterCount": 912,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695134162714,
+      "modifiedDate": 1695134169305,
+      "sizeInBytes": 1102
+    },
     "Personal/Journal/Daily notes/2023-09-18.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -15775,8 +15775,24 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695130153274,
-      "modifiedDate": 1695133975140,
+      "modifiedDate": 1695134241384,
       "sizeInBytes": 1256
+    },
+    "Personal/Journal/Daily notes/2023-09-17.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 165,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.55,
+      "characterCount": 1189,
+      "nonWhitespaceCharacterCount": 1014,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694972482620,
+      "modifiedDate": 1695133825810,
+      "sizeInBytes": 1251
     }
   }
 }
