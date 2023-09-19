@@ -19,14 +19,12 @@
             "id": "dda97d62ec447815",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 127,
-                  "y": -69,
-                  "zoom": 0
-                }
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md"
               }
             }
           },
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,8 +195,8 @@
   },
   "active": "dda97d62ec447815",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
-    "Untitled.canvas",
     "Glossaries/C Glossary/Ammonia.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
     "Home.md",
