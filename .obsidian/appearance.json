@@ -1,11 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Border",
+  "cssTheme": "Prism",
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength",
-    "cards"
+    "cards",
+    "Transparency"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
