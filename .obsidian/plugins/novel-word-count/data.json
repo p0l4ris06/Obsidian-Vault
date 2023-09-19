@@ -15746,23 +15746,23 @@
       "modifiedDate": 1695131915127,
       "sizeInBytes": 2964
     },
-    "Personal/Journal/Daily notes/2023-09-18.md": {
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 107,
+      "wordCount": 57,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3566666666666667,
-      "characterCount": 621,
-      "nonWhitespaceCharacterCount": 510,
+      "pageCount": 0.19,
+      "characterCount": 309,
+      "nonWhitespaceCharacterCount": 243,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695130153274,
-      "modifiedDate": 1695134942415,
-      "sizeInBytes": 633
+      "createdDate": 1695135151826,
+      "modifiedDate": 1695135165010,
+      "sizeInBytes": 319
     },
-    "Personal/Journal/Daily notes/2023-09-17.md": {
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 113,
@@ -15778,37 +15778,37 @@
       "modifiedDate": 1695134928963,
       "sizeInBytes": 635
     },
-    "Templates/Daily notes.md": {
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 108,
+      "wordCount": 107,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.36,
-      "characterCount": 591,
-      "nonWhitespaceCharacterCount": 478,
-      "linkCount": 2,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 621,
+      "nonWhitespaceCharacterCount": 510,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695134162714,
-      "modifiedDate": 1695134757511,
-      "sizeInBytes": 605
+      "createdDate": 1695130153274,
+      "modifiedDate": 1695134942415,
+      "sizeInBytes": 633
     },
-    "Personal/Journal/Daily notes/2023-09-19.md": {
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 57,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19,
-      "characterCount": 310,
-      "nonWhitespaceCharacterCount": 243,
+      "pageCount": 0.2,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 256,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695134849931,
-      "modifiedDate": 1695134856640,
-      "sizeInBytes": 353
+      "modifiedDate": 1695135230880,
+      "sizeInBytes": 336
     }
   }
 }

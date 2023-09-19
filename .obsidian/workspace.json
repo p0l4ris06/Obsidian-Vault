@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily notes.md",
-                "mode": "preview",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-19.md",
+                "file": "Templates/Daily note template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9225d3b370f4fb00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-19.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-19.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,13 +204,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "594fd10544d9af68",
+  "active": "9225d3b370f4fb00",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-09-18.md",
-    "Personal/Journal/Daily notes/2023-09-17.md",
-    "Templates/Daily notes.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+    "Personal/Journal/Daily notes/2023-10",
+    "Personal/Journal/Daily notes/2023-09",
     "Templates/Daily note template.md",
-    "Personal/Journal/Daily notes/2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+    "Templates/Daily notes.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Templates/Monthly Reviews.md",
     "Pasted image 20230919154315.png",
     "Templates/Note Template.md",
@@ -223,14 +239,11 @@
     "Glossaries/B Glossary/Intraspecific competition.md",
     "Glossaries/B Glossary/Interspecific competition.md",
     "Glossaries/B Glossary/Ecosystem.md",
-    "Glossaries/B Glossary/Carrying capacity.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
     "000-Maths/Stats/M-S Chapter 1",
-    "000-Maths/Stats/M-S Chapter 7",
-    "000-Maths/Stats/M-S Chapter 6",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
