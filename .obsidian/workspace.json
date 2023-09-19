@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "974b3798c38a195a",
+        "id": "9e16f14c4b4df89e",
         "type": "tabs",
         "children": [
           {
-            "id": "594fd10544d9af68",
+            "id": "8ed176eb6aaed694",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "594fd10544d9af68",
+  "active": "8ed176eb6aaed694",
   "lastOpenFiles": [
+    "Home.md",
     "Templates/Daily note template.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
@@ -236,7 +237,6 @@
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
     "Glossaries/C Glossary/Ammonia.md",
-    "Home.md",
     "Lessons/Support lessons/00-BS-SCW",
     "Lessons/Support lessons/00-CS-ST",
     "Lessons/Support lessons",

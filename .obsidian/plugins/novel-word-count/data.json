@@ -1589,18 +1589,18 @@
     "Home.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 53,
+      "wordCount": 51,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 703,
-      "nonWhitespaceCharacterCount": 639,
+      "pageCount": 0.17,
+      "characterCount": 695,
+      "nonWhitespaceCharacterCount": 633,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112571,
-      "modifiedDate": 1695058013095,
-      "sizeInBytes": 794
+      "modifiedDate": 1695142058003,
+      "sizeInBytes": 717
     },
     "Glossaries/M Glossary/Sample.md": {
       "isDirectory": false,
