@@ -1442,22 +1442,6 @@
       "modifiedDate": 1695041337369,
       "sizeInBytes": 62
     },
-    "Lessons/Bio Lessons/00-SW/2023-09-19-B.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 25,
-      "nonWhitespaceCharacterCount": 18,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695041337371,
-      "modifiedDate": 1695041337371,
-      "sizeInBytes": 25
-    },
     "Lessons/Maths lessons/00-SK/2023-09-21.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3025,22 +3009,6 @@
       "createdDate": 1694949405510,
       "modifiedDate": 1694949405511,
       "sizeInBytes": 73
-    },
-    "Glossaries/C Glossary/Ammonnia.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 16,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694949405509,
-      "modifiedDate": 1694949405510,
-      "sizeInBytes": 18
     },
     "Glossaries/C Glossary/Ammonium.md": {
       "isDirectory": false,
@@ -15745,6 +15713,54 @@
       "createdDate": 1695130153274,
       "modifiedDate": 1695130153275,
       "sizeInBytes": 1243
+    },
+    "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 19,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695041337371,
+      "modifiedDate": 1695131070717,
+      "sizeInBytes": 23
+    },
+    "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 408,
+      "nonWhitespaceCharacterCount": 351,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695131133730,
+      "modifiedDate": 1695131347205,
+      "sizeInBytes": 408
+    },
+    "Glossaries/C Glossary/Ammonia.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 16,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694949405509,
+      "modifiedDate": 1695131274125,
+      "sizeInBytes": 17
     }
   }
 }

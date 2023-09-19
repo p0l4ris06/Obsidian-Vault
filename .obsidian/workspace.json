@@ -11,16 +11,25 @@
             "id": "7559b47b4afd40c1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dda97d62ec447815",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md"
               }
             }
           },
@@ -142,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,13 +193,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "dda97d62ec447815",
   "lastOpenFiles": [
-    "Untitled",
+    "Glossaries/C Glossary/Ammonia.md",
+    "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
+    "Home.md",
+    "Lessons/Support lessons/00-BS-SCW",
     "Lessons/Support lessons/00-CS-ST",
     "Lessons/Support lessons",
     "conflict-files-obsidian-git.md",
-    "Home.md",
     "Personal/Journal/2023-09-18.md",
     "Glossaries/B Glossary/r-strategists.md",
     "Glossaries/B Glossary/k-strategists.md",
@@ -212,8 +224,6 @@
     "Preservation.md",
     "000-Biology/B Module 6/6.6/6.6.2.md",
     "Intraspecific competition.md",
-    "Interspecific competition.md",
-    "000-Biology/B Module 6/6.6/6.6.1.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
@@ -222,7 +232,6 @@
     "000-Maths/Stats/M-S Chapter 7",
     "000-Maths/Stats/M-S Chapter 6",
     "000-Maths/Stats/M-S Chapter 5",
-    "000-Maths/Stats/M-S Chapter 4",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
