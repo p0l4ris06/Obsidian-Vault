@@ -19,12 +19,14 @@
             "id": "dda97d62ec447815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 127,
+                  "y": -69,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,8 +197,9 @@
   },
   "active": "dda97d62ec447815",
   "lastOpenFiles": [
-    "Glossaries/C Glossary/Ammonia.md",
     "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
+    "Untitled.canvas",
+    "Glossaries/C Glossary/Ammonia.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
     "Home.md",
     "Lessons/Support lessons/00-BS-SCW",
@@ -223,7 +226,6 @@
     "Glossaries/B Glossary/Conservation.md",
     "Preservation.md",
     "000-Biology/B Module 6/6.6/6.6.2.md",
-    "Intraspecific competition.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
@@ -240,7 +242,6 @@
     "Photos/Chemistry Photos/Pasted image 20230901101504.png",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Photos/Chemistry Photos/Pasted image 20230901085625.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085451.png",
-    "Untitled.canvas"
+    "Photos/Chemistry Photos/Pasted image 20230901085451.png"
   ]
 }

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f6b3be80dc0bc060","x":-240,"y":-222,"width":250,"height":60,"type":"text","text":"Eukaryote"},
+		{"id":"ae49e23e16c9c7d9","x":40,"y":-222,"width":250,"height":60,"type":"text","text":"Eubacteria"},
+		{"id":"ba2eed9bc00451af","x":320,"y":-222,"width":250,"height":60,"type":"text","text":"Archaea"},
+		{"id":"164d74c454068ac9","x":40,"y":-340,"width":250,"height":60,"type":"text","text":"Domains: "},
+		{"id":"ac68eff270c8bf93","x":40,"y":-120,"width":250,"height":60,"type":"text","text":"[[\n]]"},
+		{"id":"77dbe211df792b07","x":-280,"y":-37,"width":250,"height":60,"type":"text","text":"Plantae"},
+		{"id":"e8528585cd23c0a8","x":-4,"y":-26,"width":250,"height":60,"type":"text","text":"Animalia"},
+		{"id":"e1e79e237e467275","x":280,"y":-26,"width":250,"height":60,"type":"text","text":"[[Fungi]]"}
+	],
+	"edges":[
+		{"id":"13c2a19f06d4b45a","fromNode":"164d74c454068ac9","fromSide":"left","toNode":"f6b3be80dc0bc060","toSide":"top"},
+		{"id":"91cd0da1041b7756","fromNode":"164d74c454068ac9","fromSide":"bottom","toNode":"ae49e23e16c9c7d9","toSide":"top"},
+		{"id":"19b0413c4db412d1","fromNode":"164d74c454068ac9","fromSide":"right","toNode":"ba2eed9bc00451af","toSide":"top"}
+	]
+}
