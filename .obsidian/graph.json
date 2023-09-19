@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "2023-09",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08263628201714394,
-  "close": true
+  "scale": 0.08263628201714401,
+  "close": false
 }

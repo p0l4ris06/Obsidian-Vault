@@ -149,18 +149,18 @@
     "Personal/Journal/Daily notes/2023-09-17.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 164,
+      "wordCount": 163,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5466666666666666,
-      "characterCount": 1157,
-      "nonWhitespaceCharacterCount": 984,
-      "linkCount": 4,
+      "pageCount": 0.5433333333333333,
+      "characterCount": 1147,
+      "nonWhitespaceCharacterCount": 975,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694972482620,
-      "modifiedDate": 1694973367230,
-      "sizeInBytes": 1219
+      "modifiedDate": 1695132209925,
+      "sizeInBytes": 1209
     },
     "Personal/Birds/Sexual dimorphism.md": {
       "isDirectory": false,
@@ -8933,18 +8933,18 @@
     "000-Biology/B Module 4/4.3/4.3.1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 69,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 198,
-      "nonWhitespaceCharacterCount": 159,
-      "linkCount": 10,
+      "pageCount": 0.23,
+      "characterCount": 542,
+      "nonWhitespaceCharacterCount": 472,
+      "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111894,
-      "modifiedDate": 1695037111894,
-      "sizeInBytes": 198
+      "modifiedDate": 1695132123533,
+      "sizeInBytes": 542
     },
     "000-Biology/B Module 4/4.3/4.3.5.md": {
       "isDirectory": false,
@@ -15717,18 +15717,18 @@
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 48,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 19,
-      "linkCount": 0,
+      "pageCount": 0.16,
+      "characterCount": 381,
+      "nonWhitespaceCharacterCount": 332,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695041337371,
-      "modifiedDate": 1695131070717,
-      "sizeInBytes": 23
+      "modifiedDate": 1695132170287,
+      "sizeInBytes": 381
     },
     "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md": {
       "isDirectory": false,
