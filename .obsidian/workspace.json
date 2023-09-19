@@ -11,8 +11,13 @@
             "id": "7559b47b4afd40c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,11 +164,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09-18.md",
+    "Personal/Journal/Daily notes/2023-09-17.md",
     "Personal/Journal/555-Day planner",
     "2023-09-19.md",
-    "Personal/Journal/Daily notes/2023-09-17.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
     "000-Biology/B Module 4/4.3/4.3.1.md",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
@@ -172,7 +180,6 @@
     "Lessons/Support lessons/00-CS-ST",
     "Lessons/Support lessons",
     "conflict-files-obsidian-git.md",
-    "Personal/Journal/Daily notes/2023-09-18.md",
     "Glossaries/B Glossary/r-strategists.md",
     "Glossaries/B Glossary/k-strategists.md",
     "Glossaries/B Glossary/Stationary phase.md",
@@ -196,7 +203,6 @@
     "000-Maths/Stats/M-S Chapter 1",
     "000-Maths/Stats/M-S Chapter 7",
     "000-Maths/Stats/M-S Chapter 6",
-    "000-Maths/Stats/M-S Chapter 5",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
