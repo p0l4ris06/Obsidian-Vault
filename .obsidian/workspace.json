@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9225d3b370f4fb00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +90,20 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1df7742f72210c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9225d3b370f4fb00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -162,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +213,7 @@
   },
   "active": "9225d3b370f4fb00",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
@@ -225,7 +224,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Tutor.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
