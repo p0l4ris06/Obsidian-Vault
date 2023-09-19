@@ -74,34 +74,8 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 35.57692307692307,
+        "dimension": 38.84615384615385,
         "children": [
-          {
-            "id": "b9924dd09d2a4d1f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d1dd6ca96decb57",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "1cbfc07ecf2f4cc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
           {
             "id": "7bffe46973d8564f",
             "type": "leaf",
@@ -110,13 +84,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c1bd03f399390851",
         "type": "tabs",
-        "dimension": 64.42307692307692,
+        "dimension": 61.15384615384616,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -155,8 +128,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "44d9befac0e17b06",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,8 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7559b47b4afd40c1",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Personal/Journal/555-Day planner",
     "2023-09-19.md",
     "Personal/Journal/Daily notes/2023-09-17.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
@@ -206,7 +189,6 @@
     "000-Biology/B Module 6/6.6/6.6.4.md",
     "Ecosystem.md",
     "000-Biology/B Module 6/6.6/6.6.3.md",
-    "Glossaries/B Glossary/Conservation.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
