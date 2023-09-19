@@ -83,8 +83,12 @@
   "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
   "obsidian-prism-theme@@custom-vault-banner-horizontal-align": "pt-custom-vault-banner-justify-content-center",
   "obsidian-prism-theme@@custom-vault-banner-order": "pt-custom-vault-banner-order-ltr",
-  "obsidian-prism-theme@@radius-m": 8,
+  "obsidian-prism-theme@@radius-m": 11,
   "obsidian-prism-theme@@nav-header-left-sidebar-position": "pt-nav-header-left-sidebar-position-top",
   "obsidian-prism-theme@@nav-header-left-sidebar-alignment": "pt-nav-header-left-sidebar-align-left",
-  "obsidian-prism-theme@@nav-header-right-sidebar-position": "pt-nav-header-right-sidebar-position-top"
+  "obsidian-prism-theme@@nav-header-right-sidebar-position": "pt-nav-header-right-sidebar-position-bottom",
+  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
+  "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-hidden",
+  "obsidian-prism-theme@@pt-icons-accent": true,
+  "obsidian-prism-theme@@radius-s": 9
 }

@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#B-definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f1df7742f72210c7",
@@ -86,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "796782712381c878",
@@ -128,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ed176eb6aaed694",
+  "active": "9225d3b370f4fb00",
   "lastOpenFiles": [
     "Home.md",
+    "Templates/Course Template.md",
     "Templates/Daily note template.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
@@ -244,7 +242,6 @@
     "Glossaries/B Glossary/r-strategists.md",
     "Glossaries/B Glossary/k-strategists.md",
     "Glossaries/B Glossary/Stationary phase.md",
-    "Glossaries/B Glossary/Preservation.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
