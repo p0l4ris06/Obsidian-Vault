@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,8 +128,17 @@
               "type": "google-calendar-view-month",
               "state": {}
             }
+          },
+          {
+            "id": "9fd7f7f03570b440",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c1bd03f399390851",
@@ -153,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,14 +215,23 @@
   },
   "active": "9225d3b370f4fb00",
   "lastOpenFiles": [
+    "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
+    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
+    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
+    "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+    "Tutor.md",
+    "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",
     "Templates/Daily note template.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Templates/Daily notes.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Templates/Monthly Reviews.md",
     "Pasted image 20230919154315.png",
     "Templates/Note Template.md",
@@ -232,18 +250,10 @@
     "Glossaries/B Glossary/k-strategists.md",
     "Glossaries/B Glossary/Stationary phase.md",
     "Glossaries/B Glossary/Preservation.md",
-    "Glossaries/B Glossary/Myxomatosis.md",
-    "Glossaries/B Glossary/Log phase.md",
-    "Glossaries/B Glossary/Limiting factor.md",
-    "Glossaries/B Glossary/Lag phase.md",
-    "Glossaries/B Glossary/Intraspecific competition.md",
-    "Glossaries/B Glossary/Interspecific competition.md",
-    "Glossaries/B Glossary/Ecosystem.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
-    "000-Maths/Stats/M-S Chapter 1",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
