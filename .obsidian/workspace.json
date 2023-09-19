@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
-                "mode": "preview",
+                "file": "Personal/Journal/Daily notes/2023-09-18.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "file": "Personal/Journal/Daily notes/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,8 +166,8 @@
   },
   "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09-17.md",
+    "Personal/Journal/Daily notes/2023-09-18.md",
     "Personal/Journal/555-Day planner",
     "2023-09-19.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",

@@ -153,14 +153,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.55,
-      "characterCount": 1190,
-      "nonWhitespaceCharacterCount": 1015,
-      "linkCount": 3,
-      "embedCount": 1,
+      "characterCount": 1189,
+      "nonWhitespaceCharacterCount": 1014,
+      "linkCount": 4,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1694972482620,
-      "modifiedDate": 1695133726901,
-      "sizeInBytes": 1252
+      "modifiedDate": 1695133825810,
+      "sizeInBytes": 1251
     },
     "Personal/Birds/Sexual dimorphism.md": {
       "isDirectory": false,
@@ -15769,14 +15769,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.53,
-      "characterCount": 1191,
-      "nonWhitespaceCharacterCount": 1022,
+      "characterCount": 1196,
+      "nonWhitespaceCharacterCount": 1027,
       "linkCount": 3,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695130153274,
-      "modifiedDate": 1695133715271,
-      "sizeInBytes": 1251
+      "modifiedDate": 1695133975140,
+      "sizeInBytes": 1256
     }
   }
 }
