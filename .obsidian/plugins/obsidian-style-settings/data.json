@@ -41,5 +41,7 @@
   "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
   "anuppuccin-theme-settings@@anp-inline-title-vis": "block",
   "anuppuccin-theme-settings@@anp-toggle-preview": false,
-  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.5
+  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.5,
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha"
 }
