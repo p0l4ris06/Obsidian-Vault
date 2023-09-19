@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "file": "Templates/Daily notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a272ca96a311387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily note template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "file": "Templates/Daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09-17.md",
+                "file": "Templates/Daily note template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,13 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7559b47b4afd40c1",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-09-18.md",
-    "Personal/Journal/Daily notes/2023-09-17.md",
+    "Templates/Daily notes.md",
+    "Templates/Daily note template.md",
+    "Pasted image 20230919154315.png",
+    "Templates/Note Template.md",
     "Untitled.md",
-    "Personal/Journal/555-Day planner",
+    "Personal/Journal/Daily notes/2023-09-18.md",
     "2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09-17.md",
+    "Personal/Journal/555-Day planner",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
     "000-Biology/B Module 4/4.3/4.3.1.md",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
@@ -193,10 +211,6 @@
     "Glossaries/B Glossary/Interspecific competition.md",
     "Glossaries/B Glossary/Ecosystem.md",
     "Glossaries/B Glossary/Carrying capacity.md",
-    "000-Biology/B Module 6/6.6/B6.6.md",
-    "000-Biology/B Module 6/6.6/6.6.4.md",
-    "Ecosystem.md",
-    "000-Biology/B Module 6/6.6/6.6.3.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
@@ -211,7 +225,6 @@
     "Photos/Chemistry Photos/Pasted image 20230901102338.png",
     "Photos/Chemistry Photos/Pasted image 20230901101504.png",
     "Photos/Chemistry Photos/Pasted image 20230901085708.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085625.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085451.png"
+    "Photos/Chemistry Photos/Pasted image 20230901085625.png"
   ]
 }

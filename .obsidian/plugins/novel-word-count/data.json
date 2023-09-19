@@ -15746,22 +15746,6 @@
       "modifiedDate": 1695131915127,
       "sizeInBytes": 2964
     },
-    "Untitled.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 155,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5166666666666667,
-      "characterCount": 1095,
-      "nonWhitespaceCharacterCount": 912,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695134162714,
-      "modifiedDate": 1695134169305,
-      "sizeInBytes": 1102
-    },
     "Personal/Journal/Daily notes/2023-09-18.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -15793,6 +15777,38 @@
       "createdDate": 1694972482620,
       "modifiedDate": 1695133825810,
       "sizeInBytes": 1251
+    },
+    "Templates/Daily notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 86,
+      "nonWhitespaceCharacterCount": 72,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695134162714,
+      "modifiedDate": 1695134620394,
+      "sizeInBytes": 86
+    },
+    "Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 25,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695134542514,
+      "modifiedDate": 1695134555715,
+      "sizeInBytes": 29
     }
   }
 }
