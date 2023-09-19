@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "974398e1e1c861a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,8 +198,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7559b47b4afd40c1",
+  "active": "974398e1e1c861a6",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Journal/2023-09-18.md",
+    "Glossaries/B Glossary/r-strategists.md",
+    "Glossaries/B Glossary/k-strategists.md",
+    "Glossaries/B Glossary/Stationary phase.md",
+    "Glossaries/B Glossary/Preservation.md",
+    "Glossaries/B Glossary/Myxomatosis.md",
+    "Glossaries/B Glossary/Log phase.md",
+    "Glossaries/B Glossary/Limiting factor.md",
+    "Glossaries/B Glossary/Lag phase.md",
+    "Glossaries/B Glossary/Intraspecific competition.md",
+    "Glossaries/B Glossary/Interspecific competition.md",
+    "Glossaries/B Glossary/Ecosystem.md",
+    "Glossaries/B Glossary/Carrying capacity.md",
     "000-Biology/B Module 6/6.6/B6.6.md",
     "000-Biology/B Module 6/6.6/6.6.4.md",
     "Ecosystem.md",
@@ -197,22 +226,7 @@
     "Interspecific competition.md",
     "000-Biology/B Module 6/6.6/6.6.1.md",
     "Stationary phase.md",
-    "Log phase.md",
-    "Lag phase.md",
-    "r-strategists.md",
-    "k-strategists.md",
-    "Limiting factor.md",
-    "Carrying capacity.md",
-    "000-Maths/Pure/M-P Chapter 10/M-P 10.6.md",
-    "000-Maths/Pure/M-P Chapter 2/M-P 2.4.md",
-    "000-Maths/Pure/M-P Chapter 1/M-P 1.4.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
-    "Glossaries/B Glossary/Hydrogen bonds.md",
-    "Myxomatosis.md",
-    "111-Work experience/111-Surgery/111S-Day 1.md",
-    "111-Work experience/111-Surgery/111S-Day 5.md",
-    "111-Work experience/111-Surgery/111S-Day 4.md",
-    "111-Work experience/111-Surgery/111S-Day 2.md",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
     "000-Maths/Stats/M-S Chapters",
