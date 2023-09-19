@@ -14,17 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "dda97d62ec447815",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +175,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "7559b47b4afd40c1",
   "lastOpenFiles": [
+    "2023-09-19.md",
     "Personal/Journal/Daily notes/2023-09-17.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
     "000-Biology/B Module 4/4.3/4.3.1.md",
@@ -215,7 +207,6 @@
     "Ecosystem.md",
     "000-Biology/B Module 6/6.6/6.6.3.md",
     "Glossaries/B Glossary/Conservation.md",
-    "Preservation.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
