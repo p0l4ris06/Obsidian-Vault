@@ -1141,18 +1141,18 @@
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 18,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 64,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1695041337378,
-      "modifiedDate": 1695135353161,
-      "sizeInBytes": 23
+      "modifiedDate": 1695227269489,
+      "sizeInBytes": 77
     },
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md": {
       "isDirectory": false,
@@ -9577,14 +9577,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03666666666666667,
-      "characterCount": 83,
+      "characterCount": 76,
       "nonWhitespaceCharacterCount": 63,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112513,
-      "modifiedDate": 1695037112513,
-      "sizeInBytes": 83
+      "modifiedDate": 1695227035354,
+      "sizeInBytes": 76
     },
     "000-Maths/Pure/M-P Chapter 6/M-P 6.5.md": {
       "isDirectory": false,
@@ -9663,22 +9663,6 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112509,
-      "modifiedDate": 1695037112509,
-      "sizeInBytes": 4
-    },
-    "000-Maths/Pure/M-P Chapter 6/M-P 6..md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 4,
-      "nonWhitespaceCharacterCount": 4,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695037112508,
       "modifiedDate": 1695037112509,
       "sizeInBytes": 4
     },
@@ -16145,6 +16129,22 @@
       "createdDate": 1695037111580,
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
+    },
+    "Pasted image 20230920172735.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695227255861,
+      "modifiedDate": 1695227255864,
+      "sizeInBytes": 13908
     }
   }
 }
