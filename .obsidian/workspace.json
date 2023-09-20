@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e72372cee5fe1216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Personality types/INTJ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Personal/Personality types/INTJ.md"
               }
             }
           }
@@ -172,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Personality types/INTJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Personality types/INTJ.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,10 +208,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e72372cee5fe1216",
+  "active": "ac9e3408d4eb270a",
   "lastOpenFiles": [
     "Home.md",
-    "Untitled.md",
+    "Personal/Personality types/ENTJ.md",
+    "Personal/Personality types/ENTP.md",
+    "Personal/Personality types/ENFJ.md",
+    "Personal/Personality types/ENFP.md",
+    "Personal/Personality types/ESTJ.md",
+    "Personal/Personality types/ESTP.md",
+    "Personal/Personality types/ESFJ.md",
+    "Personal/Personality types/ESFP.md",
+    "Personal/Personality types/INTJ.md",
+    "Personal/Personality types/INTP.md",
+    "Personal/Personality types/INFP.md",
+    "Personal/Personality types/INFJ.md",
+    "Personal/Personality types/ISTJ.md",
+    "Personal/Personality types/ISTP.md",
+    "Personal/Personality types/ISFP.md",
+    "Personal/Personality types/ISFJ.md",
     "Personal/Personality types",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
@@ -236,33 +237,25 @@
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
-    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
-    "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
-    "Tutor.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",
-    "Templates/Daily notes.md",
-    "Templates/Monthly Reviews.md",
     "Pasted image 20230919154315.png",
-    "Templates/Note Template.md",
     "Personal/Journal/555-Day planner",
-    "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
-    "000-Biology/B Module 4/4.3/4.3.1.md",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Lessons/Support lessons/00-CS-ST/2023-09-19 CS.md",
-    "Glossaries/C Glossary/Ammonia.md",
     "Lessons/Support lessons/00-BS-SCW",
     "Lessons/Support lessons/00-CS-ST",
     "Lessons/Support lessons",
-    "conflict-files-obsidian-git.md",
-    "Glossaries/B Glossary/r-strategists.md",
-    "Glossaries/B Glossary/k-strategists.md",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Glossaries/M Glossary",
     "000-Maths/Mechanics/M-M Chapters",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
-    "Photos/Chemist
+    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
+    "Photos/Chemistry Photos/Pasted image 20230901102343.png",
+    "Photos/Chemistry Photos/Pasted image 20230901102338.png",
+    "Photos/Chemistry Photos/Pasted image 20230901101504.png",
+    "Photos/Chemistry Photos/Pasted image 20230901085708.png",
+    "Photos/Chemistry Photos/Pasted image 20230901085625.png"
+  ]
+}
