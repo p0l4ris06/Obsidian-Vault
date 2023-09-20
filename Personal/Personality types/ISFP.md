@@ -9,7 +9,7 @@ Temperament category: [[Sensation seeking type]]
 - 
 
 ### Jungian function stack
-- Dominant function: 
-- Auxiliary function:  [[]]
-- Tertiary function: 
-- Inferior function: [
+- Dominant function: [[Introverted feeling]]
+- Auxiliary function:  [[Extraverted sensing]]
+- Tertiary function: [[Introverted intuition]]
+- Inferior function: [[Extraverted thinking]]
