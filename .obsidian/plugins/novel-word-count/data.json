@@ -15951,7 +15951,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203797862,
-      "modifiedDate": 1695205157983,
+      "modifiedDate": 1695207589088,
       "sizeInBytes": 73
     },
     "Personal/Personality types/ENFJ.md": {
@@ -16047,7 +16047,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203837970,
-      "modifiedDate": 1695205152972,
+      "modifiedDate": 1695207586205,
       "sizeInBytes": 73
     },
     "Personal/Personality types/ESTJ.md": {
@@ -16063,7 +16063,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203792867,
-      "modifiedDate": 1695205180153,
+      "modifiedDate": 1695207587957,
       "sizeInBytes": 72
     },
     "Personal/Personality types/Cognitive stack/Jungian funtions.md": {
@@ -16113,6 +16113,38 @@
       "createdDate": 1695207388957,
       "modifiedDate": 1695207568209,
       "sizeInBytes": 270
+    },
+    "Tertiary function.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24,
+      "characterCount": 464,
+      "nonWhitespaceCharacterCount": 391,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695207609909,
+      "modifiedDate": 1695207799041,
+      "sizeInBytes": 464
+    },
+    "Inferior function.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 156,
+      "nonWhitespaceCharacterCount": 130,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695207800436,
+      "modifiedDate": 1695207878800,
+      "sizeInBytes": 156
     }
   }
 }

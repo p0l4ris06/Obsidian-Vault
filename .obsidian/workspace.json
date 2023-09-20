@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personality types/ESFP.md",
+                "file": "Inferior function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Personality types/ESFP.md"
+                "file": "Inferior function.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Personality types/ESFP.md",
+                "file": "Inferior function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Personality types/ESFP.md",
+                "file": "Inferior function.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,23 +210,25 @@
   },
   "active": "0d3db74aad7f803d",
   "lastOpenFiles": [
+    "Personal/Personality types/Cognitive stack/Jungian funtions.md",
+    "Inferior function.md",
+    "Tertiary function.md",
+    "Personal/Personality types/Cognitive stack/Dominant function.md",
+    "Personal/Personality types/Cognitive stack/Auxiliary function.md",
+    "Personal/Personality types/ESTP.md",
     "Personal/Personality types/ESTJ.md",
+    "Personal/Personality types/ESFP.md",
     "Personal/Personality types/ESFJ.md",
     "Personal/Personality types/ENTP.md",
     "Personal/Personality types/ENTJ.md",
     "Personal/Personality types/ENFP.md",
     "Personal/Personality types/ENFJ.md",
-    "Personal/Personality types/Cognitive stack/Jungian funtions.md",
-    "Personal/Personality types/Cognitive stack/Dominant function.md",
-    "Personal/Personality types/Cognitive stack/Auxiliary function.md",
     "Personal/Personality types/Cognitive stack",
     "Home.md",
     "Personal/Personality types/INTJ.md",
     "Personal/Personality types/INFJ.md",
-    "Personal/Personality types/ESTP.md",
     "Personal/Personality types/ISTJ.md",
     "Personal/Personality types/ISFJ.md",
-    "Personal/Personality types/ESFP.md",
     "Personal/Personality types/ISTP.md",
     "Personal/Personality types/ISFP.md",
     "Personal/Personality types/INTP.md",
@@ -236,8 +238,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Templates/Course Template.md",
-    "Templates/Daily note template.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",

@@ -1,4 +1,4 @@
-Tags:  #Extrovert 
+Tags:  #Extravert 
 Temperament category: [[Sensation seeking type]]
 
 ---
