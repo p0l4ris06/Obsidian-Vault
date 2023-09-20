@@ -1,4 +1,5 @@
 Tags: #Intravert
+Temperament category: [[Knowledge seeking type]]
 
 ---
 ## Positive traits
@@ -14,3 +15,7 @@ Tags: #Intravert
 ## Negative traits
 - Not naturally in tune with others emotions and feelings, can be insensitive
 - May be overly logical when responding to situations that require an emotional approach
+- Expressing feelings and affections does not tend to come naturally to them
+- Tendency to hold back part of themselves
+- May overlook details
+- Often quick to judge and express judgements
