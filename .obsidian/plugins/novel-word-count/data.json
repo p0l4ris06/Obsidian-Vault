@@ -13385,14 +13385,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 50,
+      "characterCount": 47,
       "nonWhitespaceCharacterCount": 42,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112134,
-      "modifiedDate": 1695037112135,
-      "sizeInBytes": 50
+      "modifiedDate": 1695228674715,
+      "sizeInBytes": 47
     },
     "000-Chemistry/C Module 3/Chapter 9/C9.3.md": {
       "isDirectory": false,
@@ -13401,14 +13401,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.056666666666666664,
-      "characterCount": 137,
+      "characterCount": 133,
       "nonWhitespaceCharacterCount": 114,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112130,
-      "modifiedDate": 1695037112130,
-      "sizeInBytes": 137
+      "modifiedDate": 1695228672426,
+      "sizeInBytes": 133
     },
     "000-Chemistry/C Module 3/Chapter 9/C9.2.md": {
       "isDirectory": false,
@@ -13417,14 +13417,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.043333333333333335,
-      "characterCount": 94,
+      "characterCount": 91,
       "nonWhitespaceCharacterCount": 78,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112127,
-      "modifiedDate": 1695037112127,
-      "sizeInBytes": 95
+      "modifiedDate": 1695228671644,
+      "sizeInBytes": 92
     },
     "000-Chemistry/C Module 3/Chapter 9/C9.1.md": {
       "isDirectory": false,
@@ -13433,14 +13433,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.023333333333333334,
-      "characterCount": 91,
+      "characterCount": 86,
       "nonWhitespaceCharacterCount": 79,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112124,
-      "modifiedDate": 1695037112124,
-      "sizeInBytes": 91
+      "modifiedDate": 1695228670640,
+      "sizeInBytes": 86
     },
     "000-Chemistry/C Module 3/Chapter 8/Chapter 8.md": {
       "isDirectory": false,
@@ -13465,14 +13465,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05333333333333334,
-      "characterCount": 132,
+      "characterCount": 125,
       "nonWhitespaceCharacterCount": 108,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112110,
-      "modifiedDate": 1695037112110,
-      "sizeInBytes": 132
+      "modifiedDate": 1695228670130,
+      "sizeInBytes": 125
     },
     "000-Chemistry/C Module 3/Chapter 8/C8.2.md": {
       "isDirectory": false,
@@ -13481,14 +13481,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.44,
-      "characterCount": 906,
+      "characterCount": 889,
       "nonWhitespaceCharacterCount": 753,
       "linkCount": 12,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695037112107,
-      "modifiedDate": 1695037112108,
-      "sizeInBytes": 906
+      "modifiedDate": 1695228666183,
+      "sizeInBytes": 889
     },
     "000-Chemistry/C Module 3/Chapter 8/C8.1.md": {
       "isDirectory": false,
@@ -13497,14 +13497,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.26,
-      "characterCount": 504,
+      "characterCount": 498,
       "nonWhitespaceCharacterCount": 420,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112105,
-      "modifiedDate": 1695037112105,
-      "sizeInBytes": 504
+      "modifiedDate": 1695228662536,
+      "sizeInBytes": 498
     },
     "000-Chemistry/C Module 3/Chapter 7/Chapter 7.md": {
       "isDirectory": false,
@@ -13529,14 +13529,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.16666666666666666,
-      "characterCount": 336,
+      "characterCount": 328,
       "nonWhitespaceCharacterCount": 276,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112099,
-      "modifiedDate": 1695037112100,
-      "sizeInBytes": 336
+      "modifiedDate": 1695228659188,
+      "sizeInBytes": 328
     },
     "000-Chemistry/C Module 3/Chapter 7/C7.2.md": {
       "isDirectory": false,
@@ -13545,14 +13545,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03666666666666667,
-      "characterCount": 124,
+      "characterCount": 119,
       "nonWhitespaceCharacterCount": 108,
       "linkCount": 4,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695037112096,
-      "modifiedDate": 1695037112097,
-      "sizeInBytes": 124
+      "modifiedDate": 1695228656025,
+      "sizeInBytes": 119
     },
     "000-Chemistry/C Module 3/Chapter 7/C7.1.md": {
       "isDirectory": false,
@@ -13561,14 +13561,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 63,
+      "characterCount": 60,
       "nonWhitespaceCharacterCount": 55,
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695037112094,
-      "modifiedDate": 1695037112094,
-      "sizeInBytes": 63
+      "modifiedDate": 1695228655054,
+      "sizeInBytes": 60
     },
     "000-Chemistry/C Module 3/Chapter 10/Chapter 10.md": {
       "isDirectory": false,
@@ -13621,18 +13621,18 @@
     "000-Chemistry/C Module 3/Chapter 10/C10.3.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 25,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112089,
-      "modifiedDate": 1695037112089,
-      "sizeInBytes": 0
+      "modifiedDate": 1695228708280,
+      "sizeInBytes": 28
     },
     "000-Chemistry/C Module 3/Chapter 10/C10.2.md": {
       "isDirectory": false,
@@ -13641,14 +13641,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 56,
+      "characterCount": 54,
       "nonWhitespaceCharacterCount": 50,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112087,
-      "modifiedDate": 1695037112087,
-      "sizeInBytes": 56
+      "modifiedDate": 1695228676002,
+      "sizeInBytes": 54
     },
     "000-Chemistry/C Module 3/Chapter 10/C10.1.md": {
       "isDirectory": false,
@@ -13657,14 +13657,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 39,
+      "characterCount": 37,
       "nonWhitespaceCharacterCount": 33,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112085,
-      "modifiedDate": 1695037112085,
-      "sizeInBytes": 39
+      "modifiedDate": 1695228675291,
+      "sizeInBytes": 37
     },
     "000-Chemistry/C Module 2/Chapter 6/Chapter 6.md": {
       "isDirectory": false,
@@ -13689,14 +13689,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 31,
+      "characterCount": 29,
       "nonWhitespaceCharacterCount": 26,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112079,
-      "modifiedDate": 1695037112079,
-      "sizeInBytes": 31
+      "modifiedDate": 1695228653193,
+      "sizeInBytes": 29
     },
     "000-Chemistry/C Module 2/Chapter 6/C6.3.md": {
       "isDirectory": false,
@@ -13705,14 +13705,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02666666666666667,
-      "characterCount": 102,
+      "characterCount": 99,
       "nonWhitespaceCharacterCount": 91,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112077,
-      "modifiedDate": 1695037112077,
-      "sizeInBytes": 102
+      "modifiedDate": 1695228645586,
+      "sizeInBytes": 99
     },
     "000-Chemistry/C Module 2/Chapter 6/C6.2.md": {
       "isDirectory": false,
@@ -13721,14 +13721,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 59,
+      "characterCount": 58,
       "nonWhitespaceCharacterCount": 55,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695037112073,
-      "modifiedDate": 1695037112074,
-      "sizeInBytes": 59
+      "modifiedDate": 1695228644770,
+      "sizeInBytes": 58
     },
     "000-Chemistry/C Module 2/Chapter 6/C6.1.md": {
       "isDirectory": false,
@@ -13737,14 +13737,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.023333333333333334,
-      "characterCount": 97,
+      "characterCount": 91,
       "nonWhitespaceCharacterCount": 84,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112069,
-      "modifiedDate": 1695037112070,
-      "sizeInBytes": 97
+      "modifiedDate": 1695228643422,
+      "sizeInBytes": 91
     },
     "000-Chemistry/C Module 2/Chapter 5/Chapter 5.md": {
       "isDirectory": false,
@@ -13769,14 +13769,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 20,
+      "characterCount": 19,
       "nonWhitespaceCharacterCount": 17,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112062,
-      "modifiedDate": 1695037112062,
-      "sizeInBytes": 20
+      "modifiedDate": 1695228642879,
+      "sizeInBytes": 19
     },
     "000-Chemistry/C Module 2/Chapter 5/C5.2.md": {
       "isDirectory": false,
@@ -13785,14 +13785,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 21,
+      "characterCount": 19,
       "nonWhitespaceCharacterCount": 16,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112060,
-      "modifiedDate": 1695037112060,
-      "sizeInBytes": 21
+      "modifiedDate": 1695228627413,
+      "sizeInBytes": 19
     },
     "000-Chemistry/C Module 2/Chapter 5/C5.1.md": {
       "isDirectory": false,
@@ -13801,14 +13801,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02,
-      "characterCount": 67,
+      "characterCount": 62,
       "nonWhitespaceCharacterCount": 55,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112057,
-      "modifiedDate": 1695037112058,
-      "sizeInBytes": 67
+      "modifiedDate": 1695228624801,
+      "sizeInBytes": 62
     },
     "000-Chemistry/C Module 2/Chapter 4/C4.1.md": {
       "isDirectory": false,
@@ -13817,14 +13817,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 30,
+      "characterCount": 29,
       "nonWhitespaceCharacterCount": 26,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112047,
-      "modifiedDate": 1695037112047,
-      "sizeInBytes": 30
+      "modifiedDate": 1695228611413,
+      "sizeInBytes": 29
     },
     "000-Chemistry/C Module 2/Chapter 4/Chapter 4.md": {
       "isDirectory": false,
@@ -13849,14 +13849,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03666666666666667,
-      "characterCount": 97,
+      "characterCount": 92,
       "nonWhitespaceCharacterCount": 79,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112053,
-      "modifiedDate": 1695037112053,
-      "sizeInBytes": 97
+      "modifiedDate": 1695228614872,
+      "sizeInBytes": 92
     },
     "000-Chemistry/C Module 2/Chapter 4/C4.2.md": {
       "isDirectory": false,
@@ -13865,14 +13865,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 29,
+      "characterCount": 28,
       "nonWhitespaceCharacterCount": 25,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112051,
-      "modifiedDate": 1695037112051,
-      "sizeInBytes": 29
+      "modifiedDate": 1695228613712,
+      "sizeInBytes": 28
     },
     "000-Chemistry/C Module 2/Chapter 3/Chapter 3.md": {
       "isDirectory": false,
@@ -16225,6 +16225,38 @@
       "createdDate": 1695227648097,
       "modifiedDate": 1695227664048,
       "sizeInBytes": 38
+    },
+    "Photos/Chemistry Photos/Pasted image 20230920175235.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695228755439,
+      "modifiedDate": 1695228755455,
+      "sizeInBytes": 40976
+    },
+    "Glossaries/C Glossary/Boltzmann distribution.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1695228754261,
+      "modifiedDate": 1695228757618,
+      "sizeInBytes": 36
     }
   }
 }
