@@ -15967,7 +15967,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203799868,
-      "modifiedDate": 1695205051682,
+      "modifiedDate": 1695207576025,
       "sizeInBytes": 69
     },
     "Personal/Personality types/ENFP.md": {
@@ -15983,7 +15983,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203801863,
-      "modifiedDate": 1695205058407,
+      "modifiedDate": 1695207577279,
       "sizeInBytes": 69
     },
     "Personal/Personality types/ENTJ.md": {
@@ -15999,7 +15999,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203785649,
-      "modifiedDate": 1695205061220,
+      "modifiedDate": 1695207579392,
       "sizeInBytes": 70
     },
     "Personal/Personality types/ENTP.md": {
@@ -16015,7 +16015,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203790816,
-      "modifiedDate": 1695205062472,
+      "modifiedDate": 1695207580469,
       "sizeInBytes": 70
     },
     "Personal/Personality types/ESFJ.md": {
@@ -16031,7 +16031,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203819264,
-      "modifiedDate": 1695205172705,
+      "modifiedDate": 1695207582411,
       "sizeInBytes": 72
     },
     "Personal/Personality types/ESFP.md": {
@@ -16081,6 +16081,38 @@
       "createdDate": 1695205999244,
       "modifiedDate": 1695206985290,
       "sizeInBytes": 445
+    },
+    "Personal/Personality types/Cognitive stack/Dominant function.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 220,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695207290918,
+      "modifiedDate": 1695207570223,
+      "sizeInBytes": 260
+    },
+    "Personal/Personality types/Cognitive stack/Auxiliary function.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 270,
+      "nonWhitespaceCharacterCount": 229,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695207388957,
+      "modifiedDate": 1695207568209,
+      "sizeInBytes": 270
     }
   }
 }

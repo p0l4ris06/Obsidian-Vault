@@ -1,4 +1,4 @@
-Tags:  #Extrovert 
+Tags:  #Extravert 
 Temperament category: [[Security seeking type]]
 
 ---
