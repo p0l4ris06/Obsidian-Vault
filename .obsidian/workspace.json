@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "93841d0e344d1f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jungian funtions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Jungian funtions.md"
+              }
             }
           }
         ],
@@ -151,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jungian funtions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jungian funtions.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,8 +217,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac9e3408d4eb270a",
+  "active": "93841d0e344d1f9f",
   "lastOpenFiles": [
+    "Jungian funtions.md",
     "Personal/Personality types/ISTJ.md",
     "Personal/Personality types/ISFJ.md",
     "Personal/Personality types/ESTJ.md",
@@ -227,7 +246,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-M.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",
