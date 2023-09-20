@@ -13605,18 +13605,18 @@
     "000-Chemistry/C Module 3/Chapter 10/C10.4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 193,
-      "nonWhitespaceCharacterCount": 165,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 519,
+      "nonWhitespaceCharacterCount": 433,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112090,
-      "modifiedDate": 1695229369520,
-      "sizeInBytes": 193
+      "modifiedDate": 1695229454364,
+      "sizeInBytes": 519
     },
     "000-Chemistry/C Module 3/Chapter 10/C10.3.md": {
       "isDirectory": false,
