@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#B-definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "221e5efe6b1ef345",
@@ -199,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36f62c19fe68be70",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
     "Home.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
