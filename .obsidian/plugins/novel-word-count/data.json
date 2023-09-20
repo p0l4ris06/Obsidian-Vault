@@ -15877,50 +15877,50 @@
     "Personal/Personality types/INTP.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 40,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 62,
-      "linkCount": 1,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 329,
+      "nonWhitespaceCharacterCount": 283,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203688175,
-      "modifiedDate": 1695205076370,
-      "sizeInBytes": 72
+      "modifiedDate": 1695208101396,
+      "sizeInBytes": 329
     },
     "Personal/Personality types/ISFJ.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 40,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 71,
-      "nonWhitespaceCharacterCount": 61,
-      "linkCount": 1,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 328,
+      "nonWhitespaceCharacterCount": 282,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203713249,
-      "modifiedDate": 1695205192119,
-      "sizeInBytes": 71
+      "modifiedDate": 1695208168938,
+      "sizeInBytes": 328
     },
     "Personal/Personality types/ISFP.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 34,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 62,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 197,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203710551,
-      "modifiedDate": 1695205123060,
-      "sizeInBytes": 72
+      "modifiedDate": 1695208181498,
+      "sizeInBytes": 239
     },
     "Personal/Personality types/ISTJ.md": {
       "isDirectory": false,
@@ -16114,7 +16114,7 @@
       "modifiedDate": 1695207568209,
       "sizeInBytes": 270
     },
-    "Tertiary function.md": {
+    "Personal/Personality types/Cognitive stack/Tertiary function.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 72,
@@ -16130,21 +16130,21 @@
       "modifiedDate": 1695207799041,
       "sizeInBytes": 464
     },
-    "Inferior function.md": {
+    "Personal/Personality types/Cognitive stack/Inferior function.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 130,
+      "pageCount": 0.2,
+      "characterCount": 360,
+      "nonWhitespaceCharacterCount": 299,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695207800436,
-      "modifiedDate": 1695207878800,
-      "sizeInBytes": 156
+      "modifiedDate": 1695207979686,
+      "sizeInBytes": 360
     }
   }
 }
