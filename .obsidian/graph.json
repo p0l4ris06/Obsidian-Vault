@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:\"Personal/Personality types\"  ",
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -8,66 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#B-definition  ",
-      "color": {
-        "a": 1,
-        "rgb": 3734491
-      }
-    },
-    {
-      "query": "tag:#C-definition  ",
-      "color": {
-        "a": 1,
-        "rgb": 9327349
-      }
-    },
-    {
       "query": "path:000-Biology  ",
       "color": {
         "a": 1,
-        "rgb": 5552089
+        "rgb": 6147581
       }
     },
     {
       "query": "path:000-Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 8272055
+        "rgb": 12403455
       }
     },
     {
-      "query": "file:Home",
+      "query": "tag:#B-definition  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 3642071
       }
     },
     {
-      "query": "path:Personal/Birds  ",
+      "query": "tag:#C-definition  ",
       "color": {
         "a": 1,
-        "rgb": 3407728
-      }
-    },
-    {
-      "query": "path:\"Personal/Journal/Daily notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16187014
-      }
-    },
-    {
-      "query": "path:000-Maths  ",
-      "color": {
-        "a": 1,
-        "rgb": 16678124
-      }
-    },
-    {
-      "query": "path:\"Personal/Personality types\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16606067
+        "rgb": 12602103
       }
     }
   ],
@@ -75,12 +40,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.431770833333333,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.535343035343035,
-  "repelStrength": 13.9583333333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 436,
-  "scale": 0.11585465412383912,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.11585465412383918,
+  "close": false
 }
