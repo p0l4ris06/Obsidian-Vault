@@ -21,4 +21,7 @@ Temperament category: [[Knowledge seeking type]]
 - Often quick to judge and express judgements
 
 ### Jungian function stack
-Dominant: [[Introverted intuition]]]
+- Dominant function: [[Introverted intuition]]
+- Auxiliary function:  [[Extraverted thinking]]
+- Tertiary function: [[Introverted feeling]]
+- Inferior function: [[Extraverted sensing]]

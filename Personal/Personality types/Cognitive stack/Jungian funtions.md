@@ -3,7 +3,6 @@ Jungian functions are split up into four different categories:
 - [[Auxiliary function]]
 - [[Tertiary function]]
 - [[Inferior function]]
--
 
 ## The 8 Jungian functions:
 - [[Extraverted sensing]] (Se)

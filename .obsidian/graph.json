@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"Personal/Personality types\"  ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -67,7 +67,7 @@
       "query": "path:\"Personal/Personality types\"  ",
       "color": {
         "a": 1,
-        "rgb": 16668776
+        "rgb": 16606067
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08263628201714449,
+  "scale": 0.11585465412383912,
   "close": true
 }
