@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 16678124
       }
+    },
+    {
+      "query": "path:\"Personal/Personality types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16668776
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.058942432285177274,
-  "close": true
+  "scale": 0.05894243228517731,
+  "close": false
 }
