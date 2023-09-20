@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 12602103
       }
+    },
+    {
+      "query": "path:Personal/Birds  ",
+      "color": {
+        "a": 1,
+        "rgb": 3862104
+      }
+    },
+    {
+      "query": "path:000-Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 16609994
+      }
     }
   ],
   "collapse-display": true,
