@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e16f14c4b4df89e",
+        "id": "db4304e387a3af70",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed176eb6aaed694",
+            "id": "ac9e3408d4eb270a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B-definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f1df7742f72210c7",
@@ -205,9 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9225d3b370f4fb00",
+  "active": "ac9e3408d4eb270a",
   "lastOpenFiles": [
     "Home.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Templates/Course Template.md",
     "Templates/Daily note template.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
@@ -218,9 +215,6 @@
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
     "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Tutor.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
