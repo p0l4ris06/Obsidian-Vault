@@ -1,4 +1,4 @@
 Tags:  #Introvert
-Temperament category:
+Temperament category: [[Security seeking type]]
 
 ---

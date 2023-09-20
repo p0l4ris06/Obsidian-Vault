@@ -15893,18 +15893,18 @@
     "Personal/Personality types/ISFJ.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 45,
-      "nonWhitespaceCharacterCount": 38,
-      "linkCount": 0,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 71,
+      "nonWhitespaceCharacterCount": 61,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203713249,
-      "modifiedDate": 1695205136329,
-      "sizeInBytes": 45
+      "modifiedDate": 1695205192119,
+      "sizeInBytes": 71
     },
     "Personal/Personality types/ISFP.md": {
       "isDirectory": false,
@@ -15925,18 +15925,18 @@
     "Personal/Personality types/ISTJ.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 61,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203703056,
-      "modifiedDate": 1695203703056,
-      "sizeInBytes": 0
+      "modifiedDate": 1695205199938,
+      "sizeInBytes": 72
     },
     "Personal/Personality types/ESTP.md": {
       "isDirectory": false,
