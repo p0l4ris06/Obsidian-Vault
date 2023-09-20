@@ -15861,18 +15861,18 @@
     "Personal/Personality types/INTJ.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 123,
+      "wordCount": 130,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 795,
-      "nonWhitespaceCharacterCount": 670,
-      "linkCount": 1,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 860,
+      "nonWhitespaceCharacterCount": 727,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695203683319,
-      "modifiedDate": 1695205074954,
-      "sizeInBytes": 795
+      "modifiedDate": 1695206964286,
+      "sizeInBytes": 860
     },
     "Personal/Personality types/INTP.md": {
       "isDirectory": false,
@@ -16066,21 +16066,21 @@
       "modifiedDate": 1695205180153,
       "sizeInBytes": 72
     },
-    "Jungian funtions.md": {
+    "Personal/Personality types/Jungian funtions.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 59,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 183,
-      "nonWhitespaceCharacterCount": 157,
-      "linkCount": 4,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 447,
+      "nonWhitespaceCharacterCount": 385,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695205999244,
-      "modifiedDate": 1695206073064,
-      "sizeInBytes": 183
+      "modifiedDate": 1695206983085,
+      "sizeInBytes": 447
     }
   }
 }

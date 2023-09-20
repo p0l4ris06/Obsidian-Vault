@@ -19,3 +19,6 @@ Temperament category: [[Knowledge seeking type]]
 - Tendency to hold back part of themselves
 - May overlook details
 - Often quick to judge and express judgements
+
+### Jungian function stack
+Dominant: [[Introverted intuition]]]
