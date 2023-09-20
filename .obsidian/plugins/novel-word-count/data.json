@@ -1141,18 +1141,18 @@
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 63,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 64,
+      "pageCount": 0.21,
+      "characterCount": 371,
+      "nonWhitespaceCharacterCount": 304,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 2,
       "aliases": null,
       "createdDate": 1695041337378,
-      "modifiedDate": 1695227269489,
-      "sizeInBytes": 77
+      "modifiedDate": 1695227466100,
+      "sizeInBytes": 371
     },
     "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md": {
       "isDirectory": false,
@@ -16130,7 +16130,23 @@
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
     },
-    "Pasted image 20230920172735.png": {
+    "Photos/Maths photos/Pasted image 20230920172830.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695227310773,
+      "modifiedDate": 1695227310777,
+      "sizeInBytes": 12436
+    },
+    "Photos/Maths photos/Pasted image 20230920172735.png": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,

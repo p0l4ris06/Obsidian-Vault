@@ -11,13 +11,8 @@
             "id": "fe8462b3ea196a0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -128,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,9 +201,11 @@
   },
   "active": "fe8462b3ea196a0d",
   "lastOpenFiles": [
-    "Pasted image 20230920172735.png",
-    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
+    "Photos/Maths photos/Pasted image 20230920172830.png",
+    "Photos/Maths photos",
+    "Photos/Maths photos/Pasted image 20230920172735.png",
+    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
     "000-Maths/Pure/M-P Chapter 6/M-P Chapter 6.md",
     "000-Maths/Pure/M-P Chapter 6/M-P 6..md",
     "Home.md",
@@ -248,14 +241,11 @@
     "Lessons/Support lessons/00-CS-ST",
     "Lessons/Support lessons",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
-    "Glossaries/M Glossary",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
     "Photos/Chemistry Photos/Pasted image 20230901102343.png",
     "Photos/Chemistry Photos/Pasted image 20230901102338.png",
-    "Photos/Chemistry Photos/Pasted image 20230901101504.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085708.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085625.png"
+    "Photos/Chemistry Photos/Pasted image 20230901101504.png"
   ]
 }
