@@ -13605,18 +13605,18 @@
     "000-Chemistry/C Module 3/Chapter 10/C10.4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 28,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 15,
-      "linkCount": 1,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 193,
+      "nonWhitespaceCharacterCount": 165,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112090,
-      "modifiedDate": 1695228932168,
-      "sizeInBytes": 17
+      "modifiedDate": 1695229369520,
+      "sizeInBytes": 193
     },
     "000-Chemistry/C Module 3/Chapter 10/C10.3.md": {
       "isDirectory": false,
@@ -16245,34 +16245,50 @@
     "Glossaries/C Glossary/Boltzmann distribution.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 34,
+      "pageCount": 0.02,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 55,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695228754261,
-      "modifiedDate": 1695228757618,
-      "sizeInBytes": 36
+      "modifiedDate": 1695229173515,
+      "sizeInBytes": 62
     },
-    "Equilibrium.md": {
+    "Glossaries/C Glossary/Equilibrium.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 145,
-      "nonWhitespaceCharacterCount": 121,
-      "linkCount": 1,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 217,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695228935784,
-      "modifiedDate": 1695228979128,
-      "sizeInBytes": 145
+      "modifiedDate": 1695229274698,
+      "sizeInBytes": 260
+    },
+    "Le Chateliers principle.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 37,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 249,
+      "nonWhitespaceCharacterCount": 210,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695229223323,
+      "modifiedDate": 1695229302530,
+      "sizeInBytes": 249
     }
   }
 }
