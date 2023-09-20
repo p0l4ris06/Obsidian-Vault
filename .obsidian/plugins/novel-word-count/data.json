@@ -13353,14 +13353,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 52,
+      "characterCount": 47,
       "nonWhitespaceCharacterCount": 42,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112081,
-      "modifiedDate": 1695037112081,
-      "sizeInBytes": 52
+      "modifiedDate": 1695211319084,
+      "sizeInBytes": 47
     },
     "000-Chemistry/C Module 2/Chapter 6/C6.4.md": {
       "isDirectory": false,
@@ -13689,14 +13689,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02666666666666667,
-      "characterCount": 95,
+      "characterCount": 88,
       "nonWhitespaceCharacterCount": 80,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112017,
-      "modifiedDate": 1695037112018,
-      "sizeInBytes": 95
+      "modifiedDate": 1695211306190,
+      "sizeInBytes": 88
     },
     "000-Biology/B Modules/B Modules.md": {
       "isDirectory": false,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9727579e06788a75",
+        "id": "0aa80bed4f10d08d",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3db74aad7f803d",
+            "id": "fe8462b3ea196a0d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -199,8 +199,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d3db74aad7f803d",
+  "active": "fe8462b3ea196a0d",
   "lastOpenFiles": [
+    "Home.md",
+    "000-Chemistry/C Module 2/Chapter 6/Chapter 6.md",
+    "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Personal/Personality types/ENTJ.md",
     "Personal/Personality types/ENFP.md",
     "Personal/Personality types/ENFJ.md",
@@ -222,13 +225,10 @@
     "Personal/Personality types/ESFJ.md",
     "Personal/Personality types/ENTP.md",
     "Personal/Personality types/Cognitive stack",
-    "Home.md",
     "Personal/Personality types/INFP.md",
     "Personal/Personality types",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
-    "Templates/Course Template.md",
     "Templates/Daily note template.md.tmp",
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",

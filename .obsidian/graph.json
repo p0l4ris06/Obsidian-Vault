@@ -1,45 +1,31 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:000-Biology  ",
-      "color": {
-        "a": 1,
-        "rgb": 6147581
-      }
-    },
-    {
-      "query": "path:000-Chemistry  ",
-      "color": {
-        "a": 1,
-        "rgb": 12403455
-      }
-    },
     {
       "query": "tag:#B-definition  ",
       "color": {
         "a": 1,
-        "rgb": 3642071
+        "rgb": 3732178
       }
     },
     {
       "query": "tag:#C-definition  ",
       "color": {
         "a": 1,
-        "rgb": 12602103
+        "rgb": 9261803
       }
     },
     {
       "query": "path:Personal/Birds  ",
       "color": {
         "a": 1,
-        "rgb": 3862104
+        "rgb": 3407472
       }
     },
     {
@@ -48,18 +34,32 @@
         "a": 1,
         "rgb": 16678124
       }
+    },
+    {
+      "query": "path:000-Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 7288227
+      }
+    },
+    {
+      "query": "path:000-Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 5549776
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 0.67421875,
+  "collapse-forces": true,
+  "centerStrength": 0.5078125,
+  "repelStrength": 14.0104166666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.11585465412383918,
+  "linkDistance": 420,
+  "scale": 0.05894243228517728,
   "close": false
 }
