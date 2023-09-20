@@ -11,8 +11,13 @@
             "id": "fe8462b3ea196a0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Pure/M-P Chapter 6/M-P Chapter 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Maths/Pure/M-P Chapter 6/M-P Chapter 6.md"
+              }
             }
           }
         ],
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Maths/Pure/M-P Chapter 6/M-P Chapter 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Maths/Pure/M-P Chapter 6/M-P Chapter 6.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
