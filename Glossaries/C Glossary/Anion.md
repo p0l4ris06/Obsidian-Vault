@@ -1,4 +1,4 @@
 Tags: #C-definition 
 
 ---
-e<sup>-</sup>
+Negatively charged ion

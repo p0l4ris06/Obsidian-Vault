@@ -2479,7 +2479,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405580,
-      "modifiedDate": 1694949405580,
+      "modifiedDate": 1695227647529,
       "sizeInBytes": 143
     },
     "Glossaries/C Glossary/Neutralisation.md": {
@@ -2559,7 +2559,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405575,
-      "modifiedDate": 1694949405576,
+      "modifiedDate": 1695227797313,
       "sizeInBytes": 268
     },
     "Glossaries/C Glossary/Ionisation energy.md": {
@@ -3093,18 +3093,18 @@
     "Glossaries/C Glossary/Electron.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 30,
-      "nonWhitespaceCharacterCount": 26,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 34,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405541,
-      "modifiedDate": 1694972637732,
-      "sizeInBytes": 30
+      "modifiedDate": 1695227687271,
+      "sizeInBytes": 40
     },
     "Glossaries/C Glossary/Electron shielding.md": {
       "isDirectory": false,
@@ -3173,18 +3173,18 @@
     "Glossaries/C Glossary/Cation.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 24,
-      "nonWhitespaceCharacterCount": 22,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405535,
-      "modifiedDate": 1694949405535,
-      "sizeInBytes": 24
+      "modifiedDate": 1695227765611,
+      "sizeInBytes": 35
     },
     "Glossaries/C Glossary/Carbonate test.md": {
       "isDirectory": false,
@@ -13913,14 +13913,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 29,
+      "characterCount": 27,
       "nonWhitespaceCharacterCount": 25,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112041,
-      "modifiedDate": 1695037112041,
-      "sizeInBytes": 29
+      "modifiedDate": 1695227806663,
+      "sizeInBytes": 27
     },
     "000-Chemistry/C Module 2/Chapter 3/C3.2.md": {
       "isDirectory": false,
@@ -13929,14 +13929,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 36,
+      "characterCount": 34,
       "nonWhitespaceCharacterCount": 30,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112039,
-      "modifiedDate": 1695037112039,
-      "sizeInBytes": 36
+      "modifiedDate": 1695227805610,
+      "sizeInBytes": 34
     },
     "000-Chemistry/C Module 2/Chapter 3/C3.1.md": {
       "isDirectory": false,
@@ -13945,14 +13945,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 45,
+      "characterCount": 42,
       "nonWhitespaceCharacterCount": 37,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112037,
-      "modifiedDate": 1695037112037,
-      "sizeInBytes": 45
+      "modifiedDate": 1695227804877,
+      "sizeInBytes": 42
     },
     "000-Chemistry/C Module 2/Chapter 2/Chapter 2.md": {
       "isDirectory": false,
@@ -13961,14 +13961,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 45,
+      "characterCount": 40,
       "nonWhitespaceCharacterCount": 34,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112034,
-      "modifiedDate": 1695037112034,
-      "sizeInBytes": 45
+      "modifiedDate": 1695227803719,
+      "sizeInBytes": 40
     },
     "000-Chemistry/C Module 2/Chapter 2/C2.3.md": {
       "isDirectory": false,
@@ -13977,14 +13977,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 44,
+      "characterCount": 41,
       "nonWhitespaceCharacterCount": 37,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112030,
-      "modifiedDate": 1695037112031,
-      "sizeInBytes": 44
+      "modifiedDate": 1695227801336,
+      "sizeInBytes": 41
     },
     "000-Chemistry/C Module 2/Chapter 2/C2.2.md": {
       "isDirectory": false,
@@ -13993,14 +13993,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.023333333333333334,
-      "characterCount": 71,
+      "characterCount": 67,
       "nonWhitespaceCharacterCount": 59,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112028,
-      "modifiedDate": 1695037112029,
-      "sizeInBytes": 71
+      "modifiedDate": 1695227630621,
+      "sizeInBytes": 67
     },
     "000-Chemistry/C Module 2/Chapter 2/C2.1.md": {
       "isDirectory": false,
@@ -15695,7 +15695,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695037111710,
-      "modifiedDate": 1695037111710,
+      "modifiedDate": 1695227645657,
       "sizeInBytes": 288
     },
     "000-Biology/B Module 2/2.4/2.4.4.md": {
@@ -16161,6 +16161,70 @@
       "createdDate": 1695227255861,
       "modifiedDate": 1695227255864,
       "sizeInBytes": 13908
+    },
+    "Glossaries/C Glossary/Proton.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 24,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695227636553,
+      "modifiedDate": 1695227672372,
+      "sizeInBytes": 29
+    },
+    "Glossaries/C Glossary/Atomic number.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 142,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695227706428,
+      "modifiedDate": 1695227753280,
+      "sizeInBytes": 171
+    },
+    "Glossaries/C Glossary/Anion.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 41,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695227769281,
+      "modifiedDate": 1695227778866,
+      "sizeInBytes": 49
+    },
+    "Glossaries/C Glossary/Neutron.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695227648097,
+      "modifiedDate": 1695227664048,
+      "sizeInBytes": 38
     }
   }
 }

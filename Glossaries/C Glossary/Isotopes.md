@@ -1,5 +1,5 @@
-Every atom of an element has the same number of [[proton]]s
-Isotopes are atoms of the same element with different numbers of [[neutron]]s and different masses
+Every atom of an element has the same number of [[Proton]]s
+Isotopes are atoms of the same element with different numbers of [[Neutron]]s and different masses
 [[EZ isomerism]]
 [[Structural isomerism]]
 [[Optical isomerism]]
