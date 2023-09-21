@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae6c911e4eecafb",
+        "id": "458c17611394290c",
         "type": "tabs",
         "children": [
           {
-            "id": "36f62c19fe68be70",
+            "id": "23a30917c8bf117f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,6 @@
       {
         "id": "960055f0d2f02398",
         "type": "tabs",
-        "dimension": 67.11538461538461,
         "children": [
           {
             "id": "6f225af9aa969c21",
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B-definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,22 +63,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "221e5efe6b1ef345",
-        "type": "tabs",
-        "dimension": 32.88461538461539,
-        "children": [
-          {
-            "id": "95fa6cbeb97f97f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -124,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md"
+              }
             }
           }
         ],
@@ -152,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-09-19-B.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,12 +192,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bec3d54f6beffe",
+  "active": "23a30917c8bf117f",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-GAH/2023-09-18-B.md",
     "Home.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.4.md",
-    "Le Chateliers principle.md",
+    "Glossaries/C Glossary/Le Chateliers principle.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.3.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.2.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.1.md",
@@ -224,10 +220,6 @@
     "000-Chemistry/C Module 4/Chapter 13/C13.5.md",
     "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
     "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.1.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.2.md",
-    "000-Chemistry/C Module 4/Chapter 16/C16.1.md",
-    "000-Chemistry/C Module 4/Chapter 16/C16.2.md",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
