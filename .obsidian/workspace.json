@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "458c17611394290c",
+        "id": "cb030999b312480e",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3e0e0e61c0e6b5",
+            "id": "6c14178e99893c7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -62,6 +67,47 @@
             }
           }
         ]
+      },
+      {
+        "id": "331ec8ff0f6c4e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b8fd2cd371829e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012117,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.2.md"
+              }
             }
           }
         ],
@@ -135,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,12 +233,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc3e0e0e61c0e6b5",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
+    "000-Chemistry/C Module 4/Chapter 12/C12.2.md",
+    "000-Chemistry/C Module 4/Chapter 12/C12.1.md",
+    "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
+    "Home.md",
     "000-Chemistry/C Module 4/Chapter 17/C17.1.md",
     "000-Chemistry/C Module 4/Chapter 16/C16.1.md",
     "000-Chemistry/C Module 4/Chapter 16/C16.2.md",
-    "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
     "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
     "000-Chemistry/C Module 4/Chapter 15/C15.1.md",
     "000-Chemistry/C Module 4/Chapter 15/C15.2.md",
@@ -201,17 +256,12 @@
     "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
     "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
     "Untitled",
-    "Home.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
-    "000-Chemistry/C Module 3/Chapter 10/C10.4.md",
-    "Glossaries/C Glossary/Le Chateliers principle.md",
-    "000-Chemistry/C Module 3/Chapter 10/C10.3.md",
-    "000-Chemistry/C Module 3/Chapter 10/C10.2.md",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
