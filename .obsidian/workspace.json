@@ -11,8 +11,13 @@
             "id": "6c14178e99893c7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md"
+              }
             }
           }
         ],
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,6 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +190,7 @@
                   "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#B-definition  ",
@@ -207,7 +217,21 @@
                       "query": "path:000-Maths  ",
                       "color": {
                         "a": 1,
-                        "rgb": 5431378
+                        "rgb": 16678124
+                      }
+                    },
+                    {
+                      "query": "path:000-Chemistry  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7288227
+                      }
+                    },
+                    {
+                      "query": "path:000-Biology  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5549776
                       }
                     }
                   ],
@@ -222,7 +246,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.1846232622585813,
-                  "close": false
+                  "close": true
                 }
               }
             }
