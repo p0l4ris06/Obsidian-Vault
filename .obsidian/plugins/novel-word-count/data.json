@@ -10693,18 +10693,18 @@
     "000-Maths/Pure/M-P Chapter 14/M-P Chapter 14.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 17,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 130,
-      "nonWhitespaceCharacterCount": 101,
-      "linkCount": 8,
+      "pageCount": 0.05,
+      "characterCount": 107,
+      "nonWhitespaceCharacterCount": 90,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112474,
-      "modifiedDate": 1695037112475,
-      "sizeInBytes": 130
+      "modifiedDate": 1695292319011,
+      "sizeInBytes": 107
     },
     "000-Maths/Pure/M-P Chapter 14/M-P 14.8.md": {
       "isDirectory": false,
