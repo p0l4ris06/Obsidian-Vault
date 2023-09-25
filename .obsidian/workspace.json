@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "888-BACKLOG/Nitrosomonas.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#BACKLOG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "888-BACKLOG/Nitrosomonas.md"
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/Nitrosomonas.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/Nitrosomonas.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/Nitrosomonas.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +208,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5547499394471037,
+                  "scale": 0.43807673178118745,
                   "close": true
                 }
               }
@@ -235,14 +234,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d19c7bb0e5bf5e08",
+  "active": "33c132fab32f09fc",
   "lastOpenFiles": [
+    "000-Biology/B Module 5/5.6/5.6.4.md",
+    "000-Biology/B Module 5/5.6/B5.6.md",
+    "000-Biology/B Module 5/5.6/5.6.6.md",
+    "000-Biology/B Module 5/5.6/5.6.5.md",
+    "000-Biology/B Module 5/5.6/5.6.3.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
+    "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG/Nitrobacter.md",
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
     "000-Biology/B Modules/B Module 5.md",
     "Glossaries/B Glossary/Carbon dioxide.md",
     "888-BACKLOG",
-    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Glossaries/B Glossary/Photosynthesis.md",
     "Glossaries/B Glossary/Carbonic anhydrase.md",
     "Glossaries/C Glossary/Carbonate test.md",
@@ -258,12 +263,6 @@
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
     "Home.md",
     "Glossaries/C Glossary/Kelvin.md",
-    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
-    "Personal/John Mavrick Tools/_start_here.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Personal/Journal/Daily notes/2023-09-18.md",
-    "Personal/Journal/Daily notes/2023-09-17.md",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos/Pasted image 20230920172735.png",
     "Photos/Maths photos",
