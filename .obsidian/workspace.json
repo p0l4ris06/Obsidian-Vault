@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ee57014bfa079d0b",
+        "id": "6528c9874a2345e3",
         "type": "tabs",
         "children": [
           {
-            "id": "2aad9e6863776260",
+            "id": "6ecbcf88c381282d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d19c7bb0e5bf5e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photolysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-25-ST.md"
+                "file": "Photolysis.md"
               }
             }
           },
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+                "file": "Photolysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+                "file": "Photolysis.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+                "file": "Photolysis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,12 +234,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33c132fab32f09fc",
+  "active": "d19c7bb0e5bf5e08",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
+    "Photolysis.md",
+    "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
+    "Home.md",
     "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Glossaries/C Glossary/Kelvin.md",
     "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
-    "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
@@ -248,9 +265,6 @@
     "Personal/Personality types/INFJ.md",
     "Personal/Personality types/INFP.md",
     "Personal/Personality types/ESTP.md",
-    "Personal/Personality types/ESTJ.md",
-    "Personal/Personality types/ESFP.md",
-    "Personal/Personality types/ESFJ.md",
     "Personal/Personality types/Cognitive stack",
     "Personal/Personality types",
     "Personal/Journal/Daily notes/2023-09",
