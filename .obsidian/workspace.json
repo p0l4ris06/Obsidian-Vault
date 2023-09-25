@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "carbon dioxide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md"
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +209,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7026470226824008,
+                  "scale": 0.5547499394471037,
                   "close": true
                 }
               }
@@ -234,10 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d19c7bb0e5bf5e08",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
-    "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
+    "Calvin cycle.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
     "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Photolysis.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
@@ -264,7 +266,6 @@
     "Personal/Personality types/ISFP.md",
     "Personal/Personality types/ISFJ.md",
     "Personal/Personality types/INTJ.md",
-    "Personal/Personality types/INFJ.md",
     "Personal/Personality types/Cognitive stack",
     "Personal/Personality types",
     "Personal/Journal/Daily notes/2023-09",

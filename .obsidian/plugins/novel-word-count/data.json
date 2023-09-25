@@ -16405,18 +16405,18 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5,
-      "characterCount": 50,
-      "nonWhitespaceCharacterCount": 43,
-      "linkCount": 1,
+      "pageCount": 1.1,
+      "characterCount": 102,
+      "nonWhitespaceCharacterCount": 90,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695649407705,
-      "modifiedDate": 1695649511248,
-      "sizeInBytes": 50
+      "modifiedDate": 1695653135541,
+      "sizeInBytes": 102
     },
     "Photolysis.md": {
       "isDirectory": false,
@@ -16433,6 +16433,22 @@
       "createdDate": 1695649516128,
       "modifiedDate": 1695649589106,
       "sizeInBytes": 132
+    },
+    "Calvin cycle.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695653079661,
+      "modifiedDate": 1695653091796,
+      "sizeInBytes": 35
     }
   }
 }
