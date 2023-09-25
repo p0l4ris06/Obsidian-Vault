@@ -1,2 +1,2 @@
-[[Water]] + Carbon dioxide ----> [[Glucose]] + Oxygen
+[[Water]] + [[Carbon dioxide]] ----> [[Glucose]] + Oxygen
 #B-definition 

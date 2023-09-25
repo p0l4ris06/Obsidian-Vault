@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5efa3cb94bcb9df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,11 +285,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c14178e99893c7c",
+  "active": "5efa3cb94bcb9df3",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Photolysis.md",
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
+    "Glossaries/B Glossary/Carbon dioxide.md",
+    "888-BACKLOG/Nitrosomonas.md",
+    "888-BACKLOG/Nitrobacter.md",
+    "888-BACKLOG/Calvin cycle.md",
+    "888-BACKLOG",
+    "000-Biology/B Module 5/5.6/5.6.6.md",
+    "000-Biology/B Module 5/5.6/5.6.5.md",
+    "000-Biology/B Module 5/5.6/5.6.4.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
-    "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
@@ -289,17 +315,6 @@
     "000-Chemistry/C Module 4/Chapter 17/C17.1.md",
     "000-Chemistry/C Module 4/Chapter 13/C13.3.md",
     "000-Chemistry/C Module 4/Chapter 13/C13.1.md",
-    "000-Chemistry/C Module 4/Chapter 13/C13.2.md",
-    "Glossaries/C Glossary/Functional Groups/Alcohol.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
-    "000-Chemistry/C Module 4/Chapter 12/C12.2.md",
-    "000-Chemistry/C Module 4/Chapter 12/C12.1.md",
-    "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
-    "000-Chemistry/C Module 4/Chapter 16/C16.1.md",
-    "000-Chemistry/C Module 4/Chapter 16/C16.2.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.1.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.2.md",
-    "000-Maths/Pure/M-P Chapter 14/M-P Chapter 14.md",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
@@ -313,7 +328,6 @@
     "Personal/Journal/555-Day planner",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Lessons/Support lessons/00-BS-SCW",
-    "Lessons/Support lessons/00-CS-ST",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
