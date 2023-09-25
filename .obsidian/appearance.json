@@ -1,11 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Border",
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength",
-    "cards"
+    "cards",
+    "Transparency"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
