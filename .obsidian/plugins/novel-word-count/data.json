@@ -965,18 +965,18 @@
     "Personal/Journal/Daily notes/2023-09-17.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 164,
+      "wordCount": 159,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5466666666666666,
-      "characterCount": 1157,
-      "nonWhitespaceCharacterCount": 984,
-      "linkCount": 4,
+      "pageCount": 0.53,
+      "characterCount": 1122,
+      "nonWhitespaceCharacterCount": 954,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694988265427,
-      "modifiedDate": 1694988279700,
-      "sizeInBytes": 1219
+      "modifiedDate": 1695074566656,
+      "sizeInBytes": 1184
     },
     "Personal/Birds/Sexual dimorphism.md": {
       "isDirectory": false,
@@ -2473,14 +2473,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05333333333333334,
-      "characterCount": 117,
+      "characterCount": 115,
       "nonWhitespaceCharacterCount": 99,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694504557932,
-      "modifiedDate": 1694504557932,
-      "sizeInBytes": 117
+      "modifiedDate": 1695074473587,
+      "sizeInBytes": 115
     },
     "Glossaries/C Glossary/Carbocation.md": {
       "isDirectory": false,
@@ -8117,18 +8117,18 @@
     "111-Work experience/111-Library/111L-Day 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.06,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 118,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694988721736,
-      "modifiedDate": 1694988748397,
-      "sizeInBytes": 0
+      "modifiedDate": 1695074411148,
+      "sizeInBytes": 137
     },
     "111-Work experience/111-Library/111L-Day 3.md": {
       "isDirectory": false,
@@ -8149,34 +8149,34 @@
     "111-Work experience/111-Library/111L-Day 2.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.07,
+      "characterCount": 143,
+      "nonWhitespaceCharacterCount": 120,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694988721736,
-      "modifiedDate": 1694988743138,
-      "sizeInBytes": 0
+      "modifiedDate": 1695074392303,
+      "sizeInBytes": 143
     },
     "111-Work experience/111-Library/111L-Day 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.04,
+      "characterCount": 91,
+      "nonWhitespaceCharacterCount": 77,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694988721736,
-      "modifiedDate": 1694988721736,
-      "sizeInBytes": 0
+      "modifiedDate": 1695074426143,
+      "sizeInBytes": 91
     },
     "000-Maths/Pure/M-P Chapters/M-P Chapters.md": {
       "isDirectory": false,
@@ -14501,18 +14501,18 @@
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 10,
-      "nonWhitespaceCharacterCount": 9,
+      "pageCount": 0.01,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 12,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043163388,
-      "modifiedDate": 1695043171794,
-      "sizeInBytes": 10
+      "modifiedDate": 1695073369332,
+      "sizeInBytes": 19
     },
     "000-Maths/Mechanics/M-M Chapter 10/M-M 10.1.md": {
       "isDirectory": false,
@@ -15538,7 +15538,7 @@
       "modifiedDate": 1695074057147,
       "sizeInBytes": 599
     },
-    "Personal/Journal/2023-09-18.md": {
+    "Personal/Journal/Daily notes/2023-09-18.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 157,
