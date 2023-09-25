@@ -1477,18 +1477,18 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 473,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 454,
       "nonWhitespaceCharacterCount": 366,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261311,
-      "modifiedDate": 1695629261311,
-      "sizeInBytes": 485
+      "modifiedDate": 1695641107844,
+      "sizeInBytes": 466
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-22.md": {
       "isDirectory": false,
@@ -2725,18 +2725,18 @@
     "Glossaries/C Glossary/Kelvin.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 12,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 61,
-      "nonWhitespaceCharacterCount": 49,
+      "pageCount": 0.05,
+      "characterCount": 87,
+      "nonWhitespaceCharacterCount": 70,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694687510756,
-      "modifiedDate": 1694687540396,
-      "sizeInBytes": 61
+      "modifiedDate": 1695641347232,
+      "sizeInBytes": 87
     },
     "Glossaries/C Glossary/Isotopes.md": {
       "isDirectory": false,
@@ -16386,21 +16386,21 @@
       "modifiedDate": 1692107496704,
       "sizeInBytes": 43
     },
-    "2023-09-25.md": {
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 18,
-      "linkCount": 0,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695639879889,
-      "modifiedDate": 1695639905585,
-      "sizeInBytes": 23
+      "modifiedDate": 1695641217999,
+      "sizeInBytes": 46
     }
   }
 }

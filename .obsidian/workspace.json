@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bac14e8c67f0784b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-25.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 35.57692307692307,
+        "dimension": 41.75,
         "children": [
           {
             "id": "b9924dd09d2a4d1f",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-25.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md"
               }
             }
           },
@@ -137,7 +123,7 @@
       {
         "id": "c1bd03f399390851",
         "type": "tabs",
-        "dimension": 64.42307692307692,
+        "dimension": 58.25,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-25.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-25.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,8 +164,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "33c132fab32f09fc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7026470226824008,
+                  "close": true
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,10 +220,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bac14e8c67f0784b",
+  "active": "2aad9e6863776260",
   "lastOpenFiles": [
+    "Glossaries/C Glossary/Kelvin.md",
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
     "Home.md",
-    "2023-09-25.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Daily notes/2023-09-18.md",
@@ -227,8 +251,6 @@
     "Personal/Personality types/ESFP.md",
     "Personal/Personality types/ESFJ.md",
     "Personal/Personality types/ENFP.md",
-    "Personal/Personality types/ENTP.md",
-    "Personal/Personality types/ENTJ.md",
     "Personal/Personality types/Cognitive stack",
     "Personal/Personality types",
     "Personal/Journal/Daily notes/2023-09",
