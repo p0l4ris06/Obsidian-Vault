@@ -10393,14 +10393,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.27666666666666667,
-      "characterCount": 472,
+      "characterCount": 454,
       "nonWhitespaceCharacterCount": 366,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695676817836,
-      "modifiedDate": 1695676817836,
-      "sizeInBytes": 484
+      "modifiedDate": 1695677545796,
+      "sizeInBytes": 466
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-23.md": {
       "isDirectory": false,
@@ -16498,37 +16498,37 @@
       "modifiedDate": 1695676817835,
       "sizeInBytes": 51
     },
-    "Photolysis.md": {
+    "Personal/Journal/Daily notes/2023-09/2023-09-25.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 16,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 139,
-      "nonWhitespaceCharacterCount": 113,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 485,
+      "nonWhitespaceCharacterCount": 395,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695677349585,
+      "modifiedDate": 1695677411732,
+      "sizeInBytes": 497
+    },
+    "888-BACKLOG/Photolysis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 121,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695676817837,
-      "modifiedDate": 1695676817837,
-      "sizeInBytes": 139
-    },
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 736,
-      "nonWhitespaceCharacterCount": 624,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695677111927,
-      "modifiedDate": 1695677116649,
-      "sizeInBytes": 736
+      "modifiedDate": 1695677564103,
+      "sizeInBytes": 141
     }
   }
 }
