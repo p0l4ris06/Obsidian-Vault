@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-20.md"
+                "file": "Home.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792594,
+                  "scale": 0.3628873693012121,
                   "close": true
                 }
               }
@@ -273,6 +273,7 @@
   },
   "active": "6c14178e99893c7c",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
@@ -280,7 +281,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Untitled",
     "2023-09-25.md",
