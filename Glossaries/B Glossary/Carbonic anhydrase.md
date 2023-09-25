@@ -1,2 +1,2 @@
-The [[Enzyme]] that catalyses the combination of carbon dioxide and [[Water]]
+The [[Enzyme]] that catalyses the combination of [[Carbon dioxide]] and [[Water]]
 #B-definition 

@@ -3593,14 +3593,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.5,
-      "characterCount": 375,
-      "nonWhitespaceCharacterCount": 301,
-      "linkCount": 1,
+      "characterCount": 376,
+      "nonWhitespaceCharacterCount": 309,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693735235033,
-      "modifiedDate": 1694504557932,
-      "sizeInBytes": 375
+      "modifiedDate": 1695653380656,
+      "sizeInBytes": 376
     },
     "Glossaries/C Glossary/Carbon-12.md": {
       "isDirectory": false,
@@ -5705,14 +5705,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.9,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 59,
-      "linkCount": 2,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 63,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625552,
-      "modifiedDate": 1694504557838,
-      "sizeInBytes": 69
+      "modifiedDate": 1695653336097,
+      "sizeInBytes": 72
     },
     "Glossaries/B Glossary/Photophosphorylation.md": {
       "isDirectory": false,
@@ -6129,38 +6129,6 @@
       "createdDate": 1690889625547,
       "modifiedDate": 1694504557817,
       "sizeInBytes": 269
-    },
-    "Glossaries/B Glossary/Nitrosomonas.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 8,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695073369370,
-      "modifiedDate": 1695073369370,
-      "sizeInBytes": 8
-    },
-    "Glossaries/B Glossary/Nitrobacter.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 8,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695073369370,
-      "modifiedDate": 1695073369370,
-      "sizeInBytes": 8
     },
     "Glossaries/B Glossary/Neutrophil.md": {
       "isDirectory": false,
@@ -8649,14 +8617,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.2,
-      "characterCount": 93,
-      "nonWhitespaceCharacterCount": 80,
-      "linkCount": 2,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 84,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1692271166150,
-      "modifiedDate": 1694518619075,
-      "sizeInBytes": 93
+      "modifiedDate": 1695653380443,
+      "sizeInBytes": 96
     },
     "Glossaries/B Glossary/Carbohydrates.md": {
       "isDirectory": false,
@@ -8777,14 +8745,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4.7,
-      "characterCount": 344,
-      "nonWhitespaceCharacterCount": 291,
-      "linkCount": 4,
+      "characterCount": 345,
+      "nonWhitespaceCharacterCount": 296,
+      "linkCount": 5,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1692271218809,
-      "modifiedDate": 1694504557727,
-      "sizeInBytes": 344
+      "modifiedDate": 1695653301514,
+      "sizeInBytes": 345
     },
     "Glossaries/B Glossary/Blood.md": {
       "isDirectory": false,
@@ -11785,14 +11753,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 114,
+      "characterCount": 108,
       "nonWhitespaceCharacterCount": 92,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695073369337,
-      "modifiedDate": 1695073369337,
-      "sizeInBytes": 114
+      "modifiedDate": 1695653437050,
+      "sizeInBytes": 108
     },
     "000-Maths/Mechanics/M-M Chapter 9/M-M Chapter 9.md": {
       "isDirectory": false,
@@ -14329,14 +14297,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.9,
-      "characterCount": 92,
+      "characterCount": 83,
       "nonWhitespaceCharacterCount": 73,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694504557919,
-      "modifiedDate": 1695073369319,
-      "sizeInBytes": 92
+      "modifiedDate": 1695653433809,
+      "sizeInBytes": 83
     },
     "000-Biology/B Modules/B Module 4.md": {
       "isDirectory": false,
@@ -14857,14 +14825,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 15.8,
-      "characterCount": 1022,
-      "nonWhitespaceCharacterCount": 858,
-      "linkCount": 10,
+      "characterCount": 1030,
+      "nonWhitespaceCharacterCount": 866,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625589,
-      "modifiedDate": 1694518622017,
-      "sizeInBytes": 1022
+      "modifiedDate": 1695653380262,
+      "sizeInBytes": 1030
     },
     "000-Biology/B Module 3/3.2/3.2.6.md": {
       "isDirectory": false,
@@ -15049,14 +15017,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 12.9,
-      "characterCount": 871,
-      "nonWhitespaceCharacterCount": 733,
-      "linkCount": 10,
+      "characterCount": 875,
+      "nonWhitespaceCharacterCount": 737,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625585,
-      "modifiedDate": 1694518621993,
-      "sizeInBytes": 871
+      "modifiedDate": 1695653380114,
+      "sizeInBytes": 875
     },
     "000-Biology/B Module 3/3.1/3.1.2.md": {
       "isDirectory": false,
@@ -15833,14 +15801,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.8,
-      "characterCount": 139,
-      "nonWhitespaceCharacterCount": 120,
-      "linkCount": 5,
+      "characterCount": 143,
+      "nonWhitespaceCharacterCount": 124,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625574,
-      "modifiedDate": 1693331341906,
-      "sizeInBytes": 139
+      "modifiedDate": 1695653379938,
+      "sizeInBytes": 143
     },
     "000-Biology/B Module 2/2.2/2.2.3.md": {
       "isDirectory": false,
@@ -16405,18 +16373,18 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 11,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1,
-      "characterCount": 102,
-      "nonWhitespaceCharacterCount": 90,
-      "linkCount": 5,
+      "pageCount": 1.3,
+      "characterCount": 123,
+      "nonWhitespaceCharacterCount": 107,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695649407705,
-      "modifiedDate": 1695653135541,
-      "sizeInBytes": 102
+      "modifiedDate": 1695653359057,
+      "sizeInBytes": 123
     },
     "Photolysis.md": {
       "isDirectory": false,
@@ -16434,7 +16402,23 @@
       "modifiedDate": 1695649589106,
       "sizeInBytes": 132
     },
-    "Calvin cycle.md": {
+    "Glossaries/B Glossary/Carbon dioxide.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695653360693,
+      "modifiedDate": 1695653373413,
+      "sizeInBytes": 36
+    },
+    "888-BACKLOG/Calvin cycle.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 4,
@@ -16449,6 +16433,38 @@
       "createdDate": 1695653079661,
       "modifiedDate": 1695653091796,
       "sizeInBytes": 35
+    },
+    "888-BACKLOG/Nitrobacter.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 8,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695073369370,
+      "modifiedDate": 1695073369370,
+      "sizeInBytes": 8
+    },
+    "888-BACKLOG/Nitrosomonas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 8,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695073369370,
+      "modifiedDate": 1695073369370,
+      "sizeInBytes": 8
     }
   }
 }
