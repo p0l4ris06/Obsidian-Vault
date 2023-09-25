@@ -3753,14 +3753,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2,
-      "characterCount": 4496,
+      "characterCount": 4407,
       "nonWhitespaceCharacterCount": 3776,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043058477,
-      "modifiedDate": 1695043058477,
-      "sizeInBytes": 4496
+      "modifiedDate": 1695629424296,
+      "sizeInBytes": 4407
     },
     "Personal/John Mavrick Tools/readme.md": {
       "isDirectory": false,
@@ -3793,38 +3793,6 @@
       "createdDate": 1695043058477,
       "modifiedDate": 1695043058477,
       "sizeInBytes": 631
-    },
-    "Personal/Journal/Daily notes/2023-09-18.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1148,
-      "nonWhitespaceCharacterCount": 982,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695074117374,
-      "modifiedDate": 1695074243575,
-      "sizeInBytes": 1208
-    },
-    "Personal/Journal/Daily notes/2023-09-17.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 159,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.53,
-      "characterCount": 1122,
-      "nonWhitespaceCharacterCount": 954,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694988265427,
-      "modifiedDate": 1695074566656,
-      "sizeInBytes": 1184
     },
     "Personal/Birds/Sexual dimorphism.md": {
       "isDirectory": false,
@@ -15881,14 +15849,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3466666666666667,
-      "characterCount": 600,
+      "characterCount": 581,
       "nonWhitespaceCharacterCount": 471,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261303,
-      "modifiedDate": 1695629261304,
-      "sizeInBytes": 614
+      "modifiedDate": 1695629380697,
+      "sizeInBytes": 595
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md": {
       "isDirectory": false,
