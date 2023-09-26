@@ -11,8 +11,13 @@
             "id": "fe837699d587ff0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md"
+              }
             }
           }
         ],
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,6 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,6 +273,11 @@
   },
   "active": "fe837699d587ff0c",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
     "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
@@ -284,12 +299,7 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Glossaries/B Glossary/Carbon dioxide.md",
     "888-BACKLOG/Nitrosomonas.md",
-    "888-BACKLOG/Nitrobacter.md",
-    "888-BACKLOG/Calvin cycle.md",
     "888-BACKLOG",
-    "000-Biology/B Module 5/5.6/5.6.6.md",
-    "000-Biology/B Module 5/5.6/5.6.5.md",
-    "000-Biology/B Module 5/5.6/5.6.4.md",
     "Untitled",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
