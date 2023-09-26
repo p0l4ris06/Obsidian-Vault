@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,11 +287,15 @@
   },
   "active": "46b43a7f1275d409",
   "lastOpenFiles": [
-    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
-    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
+    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
+    "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
@@ -310,11 +314,7 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Untitled",
-    "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",

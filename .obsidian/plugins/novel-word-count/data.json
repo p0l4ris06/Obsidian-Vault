@@ -2421,18 +2421,18 @@
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 39,
+      "wordCount": 69,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 109,
+      "pageCount": 0.23,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 188,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112516,
-      "modifiedDate": 1695748341629,
-      "sizeInBytes": 149
+      "modifiedDate": 1695748907800,
+      "sizeInBytes": 258
     },
     "000-Maths/Pure/M-P Chapter 6/M-P 6.3.md": {
       "isDirectory": false,
@@ -6821,34 +6821,34 @@
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 28,
-      "linkCount": 1,
+      "pageCount": 0.01,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 18,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043213229,
-      "modifiedDate": 1695748178351,
-      "sizeInBytes": 35
+      "modifiedDate": 1695748925896,
+      "sizeInBytes": 24
     },
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 63,
+      "wordCount": 69,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21,
-      "characterCount": 371,
-      "nonWhitespaceCharacterCount": 304,
-      "linkCount": 0,
+      "pageCount": 0.23,
+      "characterCount": 406,
+      "nonWhitespaceCharacterCount": 334,
+      "linkCount": 3,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1695041337378,
-      "modifiedDate": 1695227466100,
-      "sizeInBytes": 371
+      "modifiedDate": 1695748989746,
+      "sizeInBytes": 406
     },
     "Lessons/Maths lessons/00-SK/2023-09-21-SK.md": {
       "isDirectory": false,
@@ -6921,14 +6921,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03333333333333333,
-      "characterCount": 75,
+      "characterCount": 71,
       "nonWhitespaceCharacterCount": 60,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695676817833,
-      "modifiedDate": 1695676817833,
-      "sizeInBytes": 75
+      "modifiedDate": 1695749059484,
+      "sizeInBytes": 71
     },
     "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md": {
       "isDirectory": false,
@@ -16533,18 +16533,18 @@
     "Lessons/Maths lessons/00-LE/2023-09-26-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 18,
-      "linkCount": 0,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695747943460,
-      "modifiedDate": 1695747960848,
-      "sizeInBytes": 23
+      "modifiedDate": 1695748928036,
+      "sizeInBytes": 34
     }
   }
 }
