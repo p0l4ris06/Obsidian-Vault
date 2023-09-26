@@ -11,13 +11,8 @@
             "id": "fe837699d587ff0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,6 +263,12 @@
   },
   "active": "fe837699d587ff0c",
   "lastOpenFiles": [
+    "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
@@ -292,13 +288,7 @@
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
     "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
     "Home.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "conflict-files-obsidian-git.md",
-    "888-BACKLOG/Photolysis.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
-    "Glossaries/B Glossary/Carbon dioxide.md",
-    "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG",
     "Untitled",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
