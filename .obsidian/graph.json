@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:Personal/Birds  ",
+      "query": "path:Personal  ",
       "color": {
         "a": 1,
         "rgb": 3407472
