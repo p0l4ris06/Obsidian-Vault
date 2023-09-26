@@ -6821,18 +6821,18 @@
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 18,
-      "linkCount": 0,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043213229,
-      "modifiedDate": 1695290884414,
-      "sizeInBytes": 23
+      "modifiedDate": 1695748176073,
+      "sizeInBytes": 34
     },
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md": {
       "isDirectory": false,
@@ -6889,14 +6889,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 51,
+      "characterCount": 46,
       "nonWhitespaceCharacterCount": 39,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695676817834,
-      "modifiedDate": 1695676817835,
-      "sizeInBytes": 51
+      "modifiedDate": 1695748009113,
+      "sizeInBytes": 46
     },
     "Lessons/Chem lessons/00-ST/2023-09-20-ST.md": {
       "isDirectory": false,
@@ -16529,6 +16529,22 @@
       "createdDate": 1695037111621,
       "modifiedDate": 1695037111621,
       "sizeInBytes": 107
+    },
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695747943460,
+      "modifiedDate": 1695747960848,
+      "sizeInBytes": 23
     }
   }
 }

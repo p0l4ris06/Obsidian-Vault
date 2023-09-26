@@ -11,11 +11,30 @@
             "id": "fe837699d587ff0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b43a7f1275d409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-21-LE.md"
+              }
             }
           }
         ],
@@ -135,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,6 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,14 +285,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe837699d587ff0c",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "conflict-files-obsidian-git.md",
     "888-BACKLOG/Photolysis.md",
-    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Glossaries/B Glossary/Carbon dioxide.md",
     "888-BACKLOG/Nitrosomonas.md",
@@ -287,10 +315,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "Untitled",
     "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
-    "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
-    "000-Chemistry/C Module 4/Chapter 17/C17.1.md",
-    "000-Chemistry/C Module 4/Chapter 13/C13.3.md",
-    "000-Chemistry/C Module 4/Chapter 13/C13.1.md",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
