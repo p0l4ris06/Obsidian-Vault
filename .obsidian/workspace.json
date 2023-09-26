@@ -11,64 +11,11 @@
             "id": "fe837699d587ff0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b43a7f1275d409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6954c9378e0ff12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70a80af1257fc242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-15-APH.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aaa8687e05142e5",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,16 +261,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aaa8687e05142e5",
+  "active": "fe837699d587ff0c",
   "lastOpenFiles": [
-    "2023-09-14-APH.md",
-    "2023-09-15-APH.md",
+    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
     "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
     "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
     "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
-    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",

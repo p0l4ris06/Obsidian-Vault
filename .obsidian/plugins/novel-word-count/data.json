@@ -16562,23 +16562,7 @@
       "modifiedDate": 1695749283108,
       "sizeInBytes": 33
     },
-    "2023-09-15-APH.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 37,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695749300930,
-      "modifiedDate": 1695749332509,
-      "sizeInBytes": 43
-    },
-    "2023-09-14-APH.md": {
+    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 5,
@@ -16593,6 +16577,22 @@
       "createdDate": 1695749335089,
       "modifiedDate": 1695749360736,
       "sizeInBytes": 44
+    },
+    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695749300930,
+      "modifiedDate": 1695749332509,
+      "sizeInBytes": 43
     }
   }
 }
