@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b7c72aadf14d584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,8 +285,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08bfd8718a39dd9b",
+  "active": "6b7c72aadf14d584",
   "lastOpenFiles": [
+    "Home.md",
+    "Untitled.md",
     "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
@@ -297,8 +313,6 @@
     "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
     "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md",
     "888-BACKLOG",
     "Untitled",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
