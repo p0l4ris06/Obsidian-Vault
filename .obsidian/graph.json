@@ -1,31 +1,59 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
       "color": {
         "a": 1,
-        "rgb": 3732178
+        "rgb": 3734491
       }
     },
     {
       "query": "tag:#C-definition  ",
       "color": {
         "a": 1,
-        "rgb": 9261803
+        "rgb": 9327349
       }
     },
     {
-      "query": "path:Personal  ",
+      "query": "path:000-Biology  ",
       "color": {
         "a": 1,
-        "rgb": 3407472
+        "rgb": 5552089
+      }
+    },
+    {
+      "query": "path:000-Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 8272055
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Personal/Birds  ",
+      "color": {
+        "a": 1,
+        "rgb": 3407728
+      }
+    },
+    {
+      "query": "path:\"Personal/Journal/Daily notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16187014
       }
     },
     {
@@ -34,32 +62,18 @@
         "a": 1,
         "rgb": 16678124
       }
-    },
-    {
-      "query": "path:000-Chemistry  ",
-      "color": {
-        "a": 1,
-        "rgb": 7288227
-      }
-    },
-    {
-      "query": "path:000-Biology  ",
-      "color": {
-        "a": 1,
-        "rgb": 5549776
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.46536458333333,
-  "lineSizeMultiplier": 0.98046875,
-  "collapse-forces": true,
-  "centerStrength": 0.450520833333333,
-  "repelStrength": 15.6770833333333,
-  "linkStrength": 0.809895833333333,
-  "linkDistance": 500,
-  "scale": 0.058942432285178675,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.431770833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.535343035343035,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 1,
+  "linkDistance": 436,
+  "scale": 0.08431307165017858,
   "close": true
 }

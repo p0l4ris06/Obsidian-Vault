@@ -16658,21 +16658,21 @@
       "modifiedDate": 1695802822777,
       "sizeInBytes": 465
     },
-    "2023-09-27-ST.md": {
+    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 34,
-      "linkCount": 1,
+      "pageCount": 1.5,
+      "characterCount": 119,
+      "nonWhitespaceCharacterCount": 101,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802804969,
-      "modifiedDate": 1695802907592,
-      "sizeInBytes": 41
+      "modifiedDate": 1695803052392,
+      "sizeInBytes": 119
     }
   }
 }
