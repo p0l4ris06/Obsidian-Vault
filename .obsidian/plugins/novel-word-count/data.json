@@ -14949,18 +14949,18 @@
     "000-Biology/B Module 5/5.6/5.6.4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5,
-      "characterCount": 40,
-      "nonWhitespaceCharacterCount": 35,
+      "pageCount": 0.6,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695653698415,
-      "modifiedDate": 1695824990357,
-      "sizeInBytes": 40
+      "modifiedDate": 1695826082576,
+      "sizeInBytes": 50
     },
     "000-Biology/B Module 5/5.6/5.6.3.md": {
       "isDirectory": false,
@@ -16769,6 +16769,38 @@
       "createdDate": 1695825509986,
       "modifiedDate": 1695825509986,
       "sizeInBytes": 70648
+    },
+    "Glossaries/B Glossary/Light intensity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 33,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695825997450,
+      "modifiedDate": 1695826056416,
+      "sizeInBytes": 41
+    },
+    "Glossaries/B Glossary/Water stress.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4,
+      "characterCount": 102,
+      "nonWhitespaceCharacterCount": 87,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695826005140,
+      "modifiedDate": 1695826038069,
+      "sizeInBytes": 102
     }
   }
 }

@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 16678124
       }
+    },
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 10112128
+      }
     }
   ],
   "collapse-display": true,
@@ -69,11 +76,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.431770833333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.535343035343035,
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.0670266764429411,
+  "scale": 0.07530045266918126,
   "close": true
 }
