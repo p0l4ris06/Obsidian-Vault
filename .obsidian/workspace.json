@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "2023-W8.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e5e484696834223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Monthly reviews/2023-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-W8.md"
+                "file": "Personal/Journal/Monthly reviews/2023-09.md"
               }
             }
           }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-W8.md",
+                "file": "Personal/Journal/Monthly reviews/2023-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-W8.md",
+                "file": "Personal/Journal/Monthly reviews/2023-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-W8.md",
+                "file": "Personal/Journal/Monthly reviews/2023-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,10 +281,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "8323c1bee424e54d",
+  "active": "2e5e484696834223",
   "lastOpenFiles": [
-    "Personal/John Mavrick Tools/_start_here.md",
+    "Personal/Journal/Monthly reviews",
     "2023-W8.md",
+    "Personal/Journal/Monthly reviews/2023-09.md",
+    "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Weekly Review Template.md",
     "Templates/Periodic Review Template.md",
     "Personal/John Mavrick Tools/readme.md",
@@ -297,8 +312,6 @@
     "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
-    "Glossaries/C Glossary/Mole fraction.md",
-    "Glossaries/B Glossary/Water stress.md",
     "888-BACKLOG",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",

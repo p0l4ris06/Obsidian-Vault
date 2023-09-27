@@ -16869,18 +16869,34 @@
     "2023-W8.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 324,
-      "nonWhitespaceCharacterCount": 276,
-      "linkCount": 2,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 355,
+      "nonWhitespaceCharacterCount": 304,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695846500231,
-      "modifiedDate": 1695846634075,
-      "sizeInBytes": 324
+      "modifiedDate": 1695846779476,
+      "sizeInBytes": 355
+    },
+    "Personal/Journal/Monthly reviews/2023-09.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 328,
+      "nonWhitespaceCharacterCount": 285,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695846799438,
+      "modifiedDate": 1695846966832,
+      "sizeInBytes": 328
     }
   }
 }
