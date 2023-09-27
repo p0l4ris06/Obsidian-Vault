@@ -85,18 +85,18 @@
     "Templates/Note Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.2,
-      "characterCount": 199,
-      "nonWhitespaceCharacterCount": 166,
+      "pageCount": 2.1,
+      "characterCount": 169,
+      "nonWhitespaceCharacterCount": 147,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043058482,
-      "modifiedDate": 1695043058482,
-      "sizeInBytes": 199
+      "modifiedDate": 1695653993675,
+      "sizeInBytes": 169
     },
     "Templates/Monthly Reviews.md": {
       "isDirectory": false,
@@ -121,14 +121,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.4,
-      "characterCount": 366,
+      "characterCount": 348,
       "nonWhitespaceCharacterCount": 275,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694988265428,
-      "modifiedDate": 1695629261331,
-      "sizeInBytes": 376
+      "modifiedDate": 1695653967260,
+      "sizeInBytes": 358
     },
     "Templates/Course Template.md": {
       "isDirectory": false,
@@ -16386,22 +16386,6 @@
       "modifiedDate": 1695653592417,
       "sizeInBytes": 142
     },
-    "Photolysis.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6,
-      "characterCount": 132,
-      "nonWhitespaceCharacterCount": 113,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695649516128,
-      "modifiedDate": 1695649589106,
-      "sizeInBytes": 132
-    },
     "Glossaries/B Glossary/Carbon dioxide.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -16513,6 +16497,22 @@
       "createdDate": 1695653700576,
       "modifiedDate": 1695653700576,
       "sizeInBytes": 0
+    },
+    "Glossaries/B Glossary/Photolysis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 113,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695649516128,
+      "modifiedDate": 1695649589106,
+      "sizeInBytes": 132
     }
   }
 }
