@@ -10553,14 +10553,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.9,
-      "characterCount": 267,
+      "characterCount": 258,
       "nonWhitespaceCharacterCount": 188,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989181428,
-      "modifiedDate": 1695802739500,
-      "sizeInBytes": 267
+      "modifiedDate": 1695809219903,
+      "sizeInBytes": 258
     },
     "000-Maths/Pure/M-P Chapter 7/M-P 7.2.md": {
       "isDirectory": false,
@@ -16709,18 +16709,18 @@
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 18,
-      "linkCount": 0,
+      "pageCount": 0.5,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695808465230,
-      "modifiedDate": 1695808481985,
-      "sizeInBytes": 23
+      "modifiedDate": 1695809229053,
+      "sizeInBytes": 35
     }
   }
 }
