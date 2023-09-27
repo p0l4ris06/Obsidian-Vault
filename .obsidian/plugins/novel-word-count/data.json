@@ -1026,22 +1026,6 @@
       "modifiedDate": 1689674001318,
       "sizeInBytes": 660430
     },
-    "Templates/Note Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 169,
-      "nonWhitespaceCharacterCount": 147,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695832349028,
-      "modifiedDate": 1695832906415,
-      "sizeInBytes": 169
-    },
     "Templates/Course Template.md": {
       "isDirectory": false,
       "noteCount": 1,

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "path:Templates  ",
+      "query": "path:Templates",
       "color": {
         "a": 1,
         "rgb": 5135036
@@ -74,7 +74,7 @@
       "query": "path:\"Personal/John Mavrick Tools\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5135036
       }
     }
   ],
@@ -88,6 +88,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.14800725998459338,
-  "close": false
+  "scale": 0.07530045266918141,
+  "close": true
 }
