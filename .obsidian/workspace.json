@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2023-09-27",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,6 +247,9 @@
   },
   "active": "ed2bead995b1a3af",
   "lastOpenFiles": [
+    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
     "Templates/Periodic Review Template.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Project Template.md",
@@ -270,9 +274,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Monthly reviews",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
