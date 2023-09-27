@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-W8.md",
+                "file": "2023-W38.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Monthly reviews/2023-09.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2239021c07d9fb57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "2023-W38.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2023-W38.md"
               }
             }
           }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2023-W38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2023-W38.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "2023-W38.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,10 +281,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "2239021c07d9fb57",
+  "active": "2e5e484696834223",
   "lastOpenFiles": [
+    "Personal/Journal/Monthly reviews/2023-10.md",
+    "Personal/Journal/Weekly reviews",
+    "Templates/Monthly Review Template.md",
     "Personal/Journal/Monthly reviews/2023-09.md",
-    "Untitled.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
@@ -309,7 +298,7 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Monthly reviews",
-    "2023-W8.md",
+    "2023-W38.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Weekly Review Template.md",
     "Templates/Periodic Review Template.md",
@@ -320,9 +309,6 @@
     "Templates/Daily template.md",
     "Templates/Note Template.md",
     "Templates/To Do's.md",
-    "Templates/~ Projects.md",
-    "Templates/Project Template.md",
-    "Templates/Book Notes Template.md",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
@@ -337,7 +323,6 @@
     "Personal/Journal/Daily notes/2023-10",
     "Personal/Journal/Daily notes/2023-09",
     "Pasted image 20230919154315.png",
-    "Personal/Journal/555-Day planner",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Pasted image 20230910135820.png",

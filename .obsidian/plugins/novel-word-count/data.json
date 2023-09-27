@@ -293,18 +293,18 @@
     "Templates/Monthly Review Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 38,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 295,
-      "nonWhitespaceCharacterCount": 255,
-      "linkCount": 1,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 290,
+      "nonWhitespaceCharacterCount": 247,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695042522488,
-      "modifiedDate": 1695832878309,
-      "sizeInBytes": 295
+      "modifiedDate": 1695847451754,
+      "sizeInBytes": 290
     },
     "Templates/Course Template.md": {
       "isDirectory": false,
@@ -16866,22 +16866,6 @@
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
     },
-    "2023-W8.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 44,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 355,
-      "nonWhitespaceCharacterCount": 304,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695846500231,
-      "modifiedDate": 1695846779476,
-      "sizeInBytes": 355
-    },
     "Personal/Journal/Monthly reviews/2023-09.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -16898,21 +16882,37 @@
       "modifiedDate": 1695847219849,
       "sizeInBytes": 335
     },
-    "Untitled.md": {
+    "Personal/Journal/Monthly reviews/2023-10.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 290,
+      "nonWhitespaceCharacterCount": 247,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695847269623,
-      "modifiedDate": 1695847269623,
-      "sizeInBytes": 0
+      "createdDate": 1695847519441,
+      "modifiedDate": 1695847519647,
+      "sizeInBytes": 290
+    },
+    "2023-W38.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 322,
+      "nonWhitespaceCharacterCount": 273,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695846500231,
+      "modifiedDate": 1695847568506,
+      "sizeInBytes": 322
     }
   }
 }
