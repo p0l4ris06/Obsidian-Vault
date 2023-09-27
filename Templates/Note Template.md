@@ -8,4 +8,4 @@ ___
 ___
 References:
 
-Created:: <%+ tp.date.now("YYYY-MM-DD HH:mm") %>
+Created:: <%+ tp.date.now %>

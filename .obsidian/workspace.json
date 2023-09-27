@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e56e82829500988",
+        "id": "c2fed3fb3fadcd41",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0dce36507e601c",
+            "id": "b372add2bfec505a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -271,8 +271,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f0dce36507e601c",
+  "active": "b372add2bfec505a",
   "lastOpenFiles": [
+    "Photos/Biology Photos/Pasted image 20230927153829.png",
+    "Photos/Biology Photos/Pasted image 20230927153728.png",
+    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
+    "Glossaries/C Glossary/Mole fraction.md",
+    "Glossaries/B Glossary/Water stress.md",
+    "Glossaries/B Glossary/Photolysis.md",
+    "Glossaries/B Glossary/Light intensity.md",
+    "888-BACKLOG/Kp.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
@@ -290,15 +300,6 @@
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
     "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
     "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
-    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
-    "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
-    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
-    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
     "888-BACKLOG",
     "Untitled",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
@@ -318,7 +319,6 @@
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
-    "Photos/Chemistry Photos/Pasted image 20230901102343.png",
-    "Photos/Chemistry Photos/Pasted image 20230901102338.png"
+    "Photos/Chemistry Photos/Pasted image 20230901102343.png"
   ]
 }
