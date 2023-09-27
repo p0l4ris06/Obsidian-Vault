@@ -213,18 +213,18 @@
     "Templates/Periodic Review Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 83,
+      "wordCount": 79,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 591,
-      "nonWhitespaceCharacterCount": 503,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 542,
+      "nonWhitespaceCharacterCount": 458,
       "linkCount": 1,
-      "embedCount": 4,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1695042522678,
-      "modifiedDate": 1695848429390,
-      "sizeInBytes": 591
+      "modifiedDate": 1695848534652,
+      "sizeInBytes": 542
     },
     "Templates/Yearly Review Template.md": {
       "isDirectory": false,
@@ -885,18 +885,18 @@
     "Personal/John Mavrick Tools/_start_here.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 598,
+      "wordCount": 581,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9933333333333334,
-      "characterCount": 4398,
-      "nonWhitespaceCharacterCount": 3769,
-      "linkCount": 13,
+      "pageCount": 1.9366666666666668,
+      "characterCount": 4282,
+      "nonWhitespaceCharacterCount": 3671,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695042656807,
-      "modifiedDate": 1695833010221,
-      "sizeInBytes": 4398
+      "modifiedDate": 1695848489823,
+      "sizeInBytes": 4282
     },
     "Personal/John Mavrick Tools/Books/My Books.md": {
       "isDirectory": false,

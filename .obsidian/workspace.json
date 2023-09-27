@@ -11,13 +11,8 @@
             "id": "ed2bead995b1a3af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +218,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012121,
+                  "scale": 0.25883865621816304,
                   "close": true
                 }
               }
@@ -257,6 +247,7 @@
   "active": "ed2bead995b1a3af",
   "lastOpenFiles": [
     "Templates/Periodic Review Template.md",
+    "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Project Template.md",
     "Personal/John Mavrick Tools/Books/Example Book.md",
     "Templates/Course Template.md",
@@ -283,7 +274,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Monthly reviews",
-    "Personal/John Mavrick Tools/_start_here.md",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",

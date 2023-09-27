@@ -53,7 +53,6 @@ You can try it out by jumping your cursor to the cursor location below:
 > [[Daily Template]]
 > [[Weekly Review Template]]
 > [[Monthly Review Template]]
-> [[Quarterly Review Template]]
 > [[Yearly Review Template]]
 
 I added the Calendar plugin to make trying out the daily and weekly note templates easier.
@@ -77,12 +76,7 @@ Learn how to use the book templates [here](https://www.youtube.com/watch?v=z2NW1
 > [!INFO] Related Notes
 > [Video](https://www.youtube.com/watch?v=WigJ_rpCFpE&ab_channel=JohnMavrick)
 > [[~ Projects]]
-> [[Project Template]]
 > [[To Do's]]
-## School Use
-
-> [!INFO] Related Notes
-> [[Course Template]]
 
 You can learn the potential of Obsidian for school [here](https://www.youtube.com/watch?v=0UTzpIdLbVo&ab_channel=JohnMavrick) and how I created the templates/the example vault [here](https://www.youtube.com/watch?v=0UTzpIdLbVo&ab_channel=JohnMavrick).
 

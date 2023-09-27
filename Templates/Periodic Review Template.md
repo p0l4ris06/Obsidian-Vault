@@ -9,7 +9,6 @@ For example, I would write my review for August on the last day of the month, th
 
 ![[Weekly Review Template#Weekly Reviews]]
 ![[Monthly Review Template#Monthly Reviews]]
-![[Quarterly Review Template#Quarterly Reviews]]
 ![[Yearly Review Template#Yearly Reviews]]
 ___
 # Backlinks
