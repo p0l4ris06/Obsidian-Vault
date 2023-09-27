@@ -40,6 +40,19 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/Journal/Monthly reviews/2023-09.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2239021c07d9fb57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Monthly reviews/2023-09.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Monthly reviews/2023-09.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Monthly reviews/2023-09.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Monthly reviews/2023-09.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,11 +294,22 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "2e5e484696834223",
+  "active": "2239021c07d9fb57",
   "lastOpenFiles": [
+    "Personal/Journal/Monthly reviews/2023-09.md",
+    "Untitled.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Monthly reviews",
     "2023-W8.md",
-    "Personal/Journal/Monthly reviews/2023-09.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Weekly Review Template.md",
     "Templates/Periodic Review Template.md",
@@ -299,19 +323,9 @@
     "Templates/~ Projects.md",
     "Templates/Project Template.md",
     "Templates/Book Notes Template.md",
-    "Templates/Book Application Template.md",
-    "Templates/Monthly Review Template.md",
-    "Templates/Course Template.md",
-    "Templates/Yearly Review Template.md",
-    "Templates/Quarterly Review Template.md",
-    "Personal/John Mavrick Tools/Books/My Books.md",
-    "Personal/John Mavrick Tools/Books/Example Book.md",
     "Personal/John Mavrick Tools/Books",
-    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
     "888-BACKLOG",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
@@ -325,7 +339,6 @@
     "Pasted image 20230919154315.png",
     "Personal/Journal/555-Day planner",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Lessons/Support lessons/00-BS-SCW",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
