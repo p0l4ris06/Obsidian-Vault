@@ -16629,18 +16629,18 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 78,
+      "wordCount": 79,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 454,
-      "nonWhitespaceCharacterCount": 371,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 467,
+      "nonWhitespaceCharacterCount": 383,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695761435410,
-      "modifiedDate": 1695761655496,
-      "sizeInBytes": 466
+      "modifiedDate": 1695761739606,
+      "sizeInBytes": 479
     }
   }
 }

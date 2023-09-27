@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "964374671f6c72d0",
+        "id": "2e56e82829500988",
         "type": "tabs",
         "children": [
           {
-            "id": "08bfd8718a39dd9b",
+            "id": "0f0dce36507e601c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b7c72aadf14d584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-26.md"
+                "file": "Home.md"
               }
             }
           }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,8 +271,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b7c72aadf14d584",
+  "active": "0f0dce36507e601c",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
@@ -297,7 +284,6 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Home.md",
     "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
