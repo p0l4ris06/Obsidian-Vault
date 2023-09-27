@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calvin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,14 +224,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "ed04c34b171f23bd",
   "lastOpenFiles": [
+    "888-BACKLOG/Calvin cycle.md",
+    "Photos/Biology Photos/Pasted image 20230927153829.png",
+    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
+    "Photos/Biology Photos/Pasted image 20230927153728.png",
     "000-Biology/B Module 5/5.6/5.6.5.md",
     "000-Biology/B Module 5/5.6/5.6.4.md",
     "000-Biology/B Module 5/5.6/5.6.3.md",
     "000-Biology/B Module 5/5.6/5.6.2.md",
     "000-Biology/B Module 5/5.6/5.6.1.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
     "Home.md",
     "Untitled 1",
     "Untitled",
@@ -253,7 +256,6 @@
     "Templates/Daily note template.md",
     "Templates/Note Template.md",
     "Glossaries/B Glossary/Photolysis.md",
-    "Instrumental performance.md",
     "Templates/Note Template.md.tmp",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",
@@ -271,8 +273,6 @@
     "Photos/Chemistry Photos/Pasted image 20230903105156.png",
     "Photos/Chemistry Photos/Pasted image 20230901102343.png",
     "Photos/Chemistry Photos/Pasted image 20230901102338.png",
-    "Photos/Chemistry Photos/Pasted image 20230901101504.png",
-    "Photos/Chemistry Photos/Pasted image 20230901085708.png",
     "Untitled.canvas"
   ]
 }

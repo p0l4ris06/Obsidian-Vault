@@ -9525,18 +9525,18 @@
     "888-BACKLOG/Calvin cycle.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 29,
+      "pageCount": 0.6,
+      "characterCount": 63,
+      "nonWhitespaceCharacterCount": 55,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1695653079661,
-      "modifiedDate": 1695653091796,
-      "sizeInBytes": 35
+      "modifiedDate": 1695825627020,
+      "sizeInBytes": 63
     },
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md": {
       "isDirectory": false,
@@ -16725,18 +16725,50 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4,
-      "characterCount": 34,
-      "nonWhitespaceCharacterCount": 28,
+      "pageCount": 0.7,
+      "characterCount": 71,
+      "nonWhitespaceCharacterCount": 62,
       "linkCount": 1,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1695824867092,
-      "modifiedDate": 1695824909148,
-      "sizeInBytes": 34
+      "modifiedDate": 1695825453684,
+      "sizeInBytes": 71
+    },
+    "Photos/Biology Photos/Pasted image 20230927153728.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695825448127,
+      "modifiedDate": 1695825448128,
+      "sizeInBytes": 237622
+    },
+    "Photos/Biology Photos/Pasted image 20230927153829.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695825509986,
+      "modifiedDate": 1695825509986,
+      "sizeInBytes": 70648
     }
   }
 }
