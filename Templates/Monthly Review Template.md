@@ -1,6 +1,6 @@
 Status:
 Tags: 
-Links: [[Periodic Reviews]]
+Links: [[Periodic Review Template]]
 ___
 # Monthly Reviews
 ```dataview

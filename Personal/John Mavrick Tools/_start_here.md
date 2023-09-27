@@ -49,7 +49,7 @@ You can try it out by jumping your cursor to the cursor location below:
 
 ## Daily / Periodic Notes
 > [!INFO] Related Notes
-> [[Periodic Reviews]]
+> [[Periodic Review Template]]
 > [[Daily Template]]
 > [[Weekly Review Template]]
 > [[Monthly Review Template]]
@@ -82,7 +82,6 @@ Learn how to use the book templates [here](https://www.youtube.com/watch?v=z2NW1
 ## School Use
 
 > [!INFO] Related Notes
-> [[School MOC]]
 > [[Course Template]]
 
 You can learn the potential of Obsidian for school [here](https://www.youtube.com/watch?v=0UTzpIdLbVo&ab_channel=JohnMavrick) and how I created the templates/the example vault [here](https://www.youtube.com/watch?v=0UTzpIdLbVo&ab_channel=JohnMavrick).

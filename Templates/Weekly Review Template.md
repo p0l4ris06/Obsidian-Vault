@@ -1,6 +1,6 @@
 Status:
 Tags: [[Reflection]]
-Links: [[Periodic Reviews]]
+Links: [[Periodic Review Template]]
 ___
 # Weekly Reviews
 ```dataview
@@ -14,4 +14,4 @@ ___
 list from [[Weekly Reviews]] AND !outgoing([[Weekly Reviews]])
 ```
 ___
-References: [[Weekly Review Template]] - [[Weekly Review Workflow]]
+References: [[Weekly Review Template]]

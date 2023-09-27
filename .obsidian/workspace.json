@@ -11,13 +11,8 @@
             "id": "b372add2bfec505a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Periodic Reviews.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Periodic Reviews.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Periodic Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Periodic Reviews.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Periodic Reviews.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,10 +244,23 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "b372add2bfec505a",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Templates/Quarterly Review Template.md",
+    "Templates/Weekly Review Template.md",
+    "Templates/To Do's.md",
+    "Templates/~ Projects.md",
     "Personal/John Mavrick Tools/_start_here.md",
+    "Templates/Daily template.md",
+    "Templates/Project Template.md",
+    "Templates/Book Notes Template.md",
+    "Templates/Book Application Template.md",
+    "Personal/John Mavrick Tools/readme.md",
+    "Templates/Note Template.md",
+    "Templates/Monthly Review Template.md",
+    "Templates/Course Template.md",
+    "Templates/Yearly Review Template.md",
+    "Templates/Quarterly Review Template.md",
+    "Templates/Periodic Review Template.md",
     "Personal/John Mavrick Tools/Books/My Books.md",
     "Personal/John Mavrick Tools/Books/Example Book.md",
     "Personal/John Mavrick Tools/Books",
@@ -272,19 +275,6 @@
     "Glossaries/B Glossary/Photolysis.md",
     "Glossaries/B Glossary/Light intensity.md",
     "888-BACKLOG/Kp.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-22.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-20.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
-    "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
     "888-BACKLOG",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
