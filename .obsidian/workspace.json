@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7c3541ba44954bd7",
+        "id": "0b32d1e4b5d7906d",
         "type": "tabs",
         "children": [
           {
-            "id": "4148d0d503e7e0c1",
+            "id": "9a145ac6b3098e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "138c8a039e980259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md"
+                "file": "Home.md"
               }
             }
           },
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +220,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "138c8a039e980259",
+  "active": "9a145ac6b3098e8d",
   "lastOpenFiles": [
     "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
