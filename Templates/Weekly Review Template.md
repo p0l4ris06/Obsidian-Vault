@@ -1,11 +1,11 @@
 Status:
-Tags: [[Reflection]]
-Links: [[Periodic Review Template]]
+Tags: #reviews/weekly 
+Links: [[My Periodic Reviews]] [[909 Journal MOC]] [[Weekly Reviews]]
 ___
 # Weekly Reviews
 ```dataview
 list 
-from #weeklyReview and !"templates"
+from #reviews/weekly  and !"templates"
 sort file.name desc
 ```
 ___
@@ -14,4 +14,3 @@ ___
 list from [[Weekly Reviews]] AND !outgoing([[Weekly Reviews]])
 ```
 ___
-References: [[Weekly Review Template]]

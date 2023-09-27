@@ -181,49 +181,33 @@
     "Templates/~ Projects.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 142,
+      "wordCount": 119,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.47333333333333333,
-      "characterCount": 996,
-      "nonWhitespaceCharacterCount": 853,
-      "linkCount": 4,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 820,
+      "nonWhitespaceCharacterCount": 700,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695832979501,
-      "modifiedDate": 1695833070014,
-      "sizeInBytes": 996
+      "modifiedDate": 1695847831736,
+      "sizeInBytes": 820
     },
     "Templates/Weekly Review Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 38,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12666666666666668,
+      "pageCount": 0.13,
       "characterCount": 302,
-      "nonWhitespaceCharacterCount": 263,
+      "nonWhitespaceCharacterCount": 260,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695042524262,
-      "modifiedDate": 1695833091014,
-      "sizeInBytes": 302
-    },
-    "Templates/Quarterly Review Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 37,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 302,
-      "nonWhitespaceCharacterCount": 261,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695042523416,
-      "modifiedDate": 1695832879487,
+      "modifiedDate": 1695847758048,
       "sizeInBytes": 302
     },
     "Templates/Periodic Review Template.md": {
@@ -16898,21 +16882,21 @@
       "modifiedDate": 1695847519647,
       "sizeInBytes": 290
     },
-    "2023-W38.md": {
+    "Personal/Journal/Weekly reviews/2023-W38.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 66,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 322,
-      "nonWhitespaceCharacterCount": 273,
-      "linkCount": 2,
+      "pageCount": 0.22,
+      "characterCount": 465,
+      "nonWhitespaceCharacterCount": 391,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695846500231,
-      "modifiedDate": 1695847568506,
-      "sizeInBytes": 322
+      "modifiedDate": 1695847694046,
+      "sizeInBytes": 465
     }
   }
 }

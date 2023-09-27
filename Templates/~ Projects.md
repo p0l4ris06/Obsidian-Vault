@@ -8,29 +8,20 @@ WHERE file.name != "Project Template"
 WHERE completed = null
 SORT deadline desc
 ```
-## Quarterly Projects
-> [[Quarterly Reviews]]
-```dataview
-list
-FROM #projects/quarterly
-WHERE file.name != "Project Template"
-WHERE completed = null
-SORT deadline desc
-```
-## Monthly Projects
+## Monthly Reviews
  > [[Monthly Reviews]]
 ```dataview
 list
-FROM #projects/monthly
+FROM #reviews/monthly
 WHERE file.name != "Project Template"
 WHERE completed = null
 SORT deadline desc
 ```
-## Weekly Projects
+## Weekly Reviews
 > [[Weekly Reviews]]
 ```dataview
 list
-FROM #projects/weekly
+FROM #reviews/weekly
 WHERE file.name != "Project Template"
 WHERE completed = null
 SORT deadline desc
