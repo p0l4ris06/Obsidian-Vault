@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6528c9874a2345e3",
+        "id": "7c3541ba44954bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ecbcf88c381282d",
+            "id": "f5621c6162ef7ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d19c7bb0e5bf5e08",
+            "id": "4148d0d503e7e0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "2023-09-27-ST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Note Template.md"
+                "file": "2023-09-27-ST.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "2023-09-27-ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "2023-09-27-ST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "2023-09-27-ST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,8 +234,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d19c7bb0e5bf5e08",
+  "active": "4148d0d503e7e0c1",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+    "2023-09-27-ST.md",
+    "Home.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
+    "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
+    "888-BACKLOG/Photolysis.md",
     "Templates/Daily note template.md",
     "Templates/Note Template.md",
     "Glossaries/B Glossary/Photolysis.md",
@@ -253,17 +264,6 @@
     "000-Biology/B Modules/B Module 5.md",
     "Glossaries/B Glossary/Carbon dioxide.md",
     "888-BACKLOG",
-    "Glossaries/B Glossary/Photosynthesis.md",
-    "Glossaries/B Glossary/Carbonic anhydrase.md",
-    "Glossaries/C Glossary/Carbonate test.md",
-    "Glossaries/B Glossary/Bohr effect.md",
-    "000-Biology/B Module 3/3.2/3.2.8.md",
-    "000-Biology/B Module 3/3.1/3.1.1.md",
-    "000-Biology/B Module 2/2.2/2.2.4.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
-    "888-BACKLOG/Calvin cycle.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
-    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos/Pasted image 20230920172735.png",
     "Photos/Maths photos",

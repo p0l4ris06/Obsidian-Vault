@@ -16645,18 +16645,34 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 78,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.8,
-      "characterCount": 472,
+      "pageCount": 7.7,
+      "characterCount": 453,
       "nonWhitespaceCharacterCount": 371,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802739511,
-      "modifiedDate": 1695802739511,
-      "sizeInBytes": 484
+      "modifiedDate": 1695802822777,
+      "sizeInBytes": 465
+    },
+    "2023-09-27-ST.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695802804969,
+      "modifiedDate": 1695802907592,
+      "sizeInBytes": 41
     }
   }
 }
