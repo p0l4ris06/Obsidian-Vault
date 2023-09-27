@@ -8,6 +8,7 @@
   "startHour": 6,
   "timelineDateFormat": "LLLL",
   "centerNeedle": false,
+  "showHelp": true,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
   "timelineColored": false,

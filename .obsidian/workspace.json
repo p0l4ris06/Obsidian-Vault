@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Templates/Periodic Reviews.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -82,14 +82,6 @@
         "dimension": 38.84615384615385,
         "children": [
           {
-            "id": "7bffe46973d8564f",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
             "id": "9fd7f7f03570b440",
             "type": "leaf",
             "state": {
@@ -113,12 +105,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Templates/Periodic Reviews.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c1bd03f399390851",
@@ -142,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/Periodic Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/Periodic Reviews.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,20 +157,12 @@
             }
           },
           {
-            "id": "44d9befac0e17b06",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "96b8fd2cd371829e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/Periodic Reviews.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -261,23 +244,29 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-day-planner:Week plan": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Week plan": false
     }
   },
   "active": "b372add2bfec505a",
   "lastOpenFiles": [
+    "Templates/Quarterly Review Template.md",
+    "Personal/John Mavrick Tools/_start_here.md",
+    "Personal/John Mavrick Tools/Books/My Books.md",
+    "Personal/John Mavrick Tools/Books/Example Book.md",
+    "Personal/John Mavrick Tools/Books",
+    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
+    "Home.md",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
     "Glossaries/C Glossary/Mole fraction.md",
     "Glossaries/B Glossary/Water stress.md",
     "Glossaries/B Glossary/Photolysis.md",
@@ -294,14 +283,9 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Home.md",
     "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
-    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
-    "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
     "888-BACKLOG",
-    "Untitled",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
@@ -318,7 +302,6 @@
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
     "Pasted image 20230910135820.png",
     "Photos/Chemistry Photos/Pasted image 20230903110825.png",
-    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
-    "Photos/Chemistry Photos/Pasted image 20230901102343.png"
+    "Photos/Chemistry Photos/Pasted image 20230903105156.png"
   ]
 }
