@@ -2117,18 +2117,18 @@
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 17,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7,
-      "characterCount": 131,
-      "nonWhitespaceCharacterCount": 110,
-      "linkCount": 3,
+      "pageCount": 2.1,
+      "characterCount": 169,
+      "nonWhitespaceCharacterCount": 145,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802804969,
-      "modifiedDate": 1695804146577,
-      "sizeInBytes": 131
+      "modifiedDate": 1695804494804,
+      "sizeInBytes": 169
     },
     "Lessons/Chem lessons/00-ST/2023-09-25-ST.md": {
       "isDirectory": false,
@@ -16673,6 +16673,22 @@
       "createdDate": 1690889625569,
       "modifiedDate": 1692107496704,
       "sizeInBytes": 43
+    },
+    "Mole fraction.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 70,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695804507976,
+      "modifiedDate": 1695804609364,
+      "sizeInBytes": 89
     }
   }
 }
