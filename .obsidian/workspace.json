@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mole fraction.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "659d7d76f967d87e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
@@ -115,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mole fraction.md"
+                "file": "Lessons/Chem lessons/00-ST/2023-09-27-ST.md"
               }
             }
           },
@@ -152,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mole fraction.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mole fraction.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mole fraction.md",
+                "file": "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4148d0d503e7e0c1",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "888-BACKLOG/Kp.md",
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
-    "Mole fraction.md",
+    "Glossaries/C Glossary/Mole fraction.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
@@ -258,7 +249,6 @@
     "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG/Nitrobacter.md",
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
-    "000-Biology/B Modules/B Module 5.md",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos/Pasted image 20230920172735.png",
