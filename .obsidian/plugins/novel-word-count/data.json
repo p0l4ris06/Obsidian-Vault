@@ -15,7 +15,7 @@
     "charsPerPageIncludesWhitespace": false,
     "wordCountType": "SpaceDelimited",
     "pageCountType": "ByWords",
-    "excludeComments": false
+    "excludeComments": true
   },
   "cachedCounts": {
     "111-Work experience/111-Surgery/111S-Day 5.md": {
@@ -213,18 +213,18 @@
     "Templates/Periodic Review Template.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 605,
-      "nonWhitespaceCharacterCount": 517,
-      "linkCount": 2,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 591,
+      "nonWhitespaceCharacterCount": 503,
+      "linkCount": 1,
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1695042522678,
-      "modifiedDate": 1695832902952,
-      "sizeInBytes": 605
+      "modifiedDate": 1695848429390,
+      "sizeInBytes": 591
     },
     "Templates/Yearly Review Template.md": {
       "isDirectory": false,
@@ -258,22 +258,6 @@
       "modifiedDate": 1695832980112,
       "sizeInBytes": 379
     },
-    "Templates/Project Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 104,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3466666666666667,
-      "characterCount": 686,
-      "nonWhitespaceCharacterCount": 558,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695832979777,
-      "modifiedDate": 1695832979787,
-      "sizeInBytes": 727
-    },
     "Templates/Monthly Review Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -289,22 +273,6 @@
       "createdDate": 1695042522488,
       "modifiedDate": 1695847451754,
       "sizeInBytes": 290
-    },
-    "Templates/Course Template.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 38,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 243,
-      "nonWhitespaceCharacterCount": 204,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695042939973,
-      "modifiedDate": 1695042939975,
-      "sizeInBytes": 243
     },
     "Templates/Book Application Template.md": {
       "isDirectory": false,
@@ -690,6 +658,70 @@
       "modifiedDate": 1695207568209,
       "sizeInBytes": 270
     },
+    "Personal/Journal/Weekly reviews/2023-W38.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 66,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22,
+      "characterCount": 465,
+      "nonWhitespaceCharacterCount": 391,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695846500231,
+      "modifiedDate": 1695847694046,
+      "sizeInBytes": 465
+    },
+    "Personal/Journal/Monthly reviews/2023-10.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 290,
+      "nonWhitespaceCharacterCount": 247,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695847519441,
+      "modifiedDate": 1695847519647,
+      "sizeInBytes": 290
+    },
+    "Personal/Journal/Monthly reviews/2023-09.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 335,
+      "nonWhitespaceCharacterCount": 289,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695846799438,
+      "modifiedDate": 1695847219849,
+      "sizeInBytes": 335
+    },
+    "Personal/Journal/Daily notes/2023-09/2023-09-27.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 516,
+      "nonWhitespaceCharacterCount": 429,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695847907609,
+      "modifiedDate": 1695848072909,
+      "sizeInBytes": 526
+    },
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -885,18 +917,18 @@
     "Personal/John Mavrick Tools/Books/Example Book.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 21,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 158,
-      "nonWhitespaceCharacterCount": 136,
-      "linkCount": 2,
+      "pageCount": 0.06,
+      "characterCount": 130,
+      "nonWhitespaceCharacterCount": 110,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695832840426,
-      "modifiedDate": 1695832840428,
-      "sizeInBytes": 207
+      "modifiedDate": 1695848395772,
+      "sizeInBytes": 179
     },
     "Personal/Birds/Paridae/Crested tit.md": {
       "isDirectory": false,
@@ -16849,70 +16881,6 @@
       "createdDate": 1695037111580,
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
-    },
-    "Personal/Journal/Monthly reviews/2023-09.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 45,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.15,
-      "characterCount": 335,
-      "nonWhitespaceCharacterCount": 289,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695846799438,
-      "modifiedDate": 1695847219849,
-      "sizeInBytes": 335
-    },
-    "Personal/Journal/Monthly reviews/2023-10.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 41,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 290,
-      "nonWhitespaceCharacterCount": 247,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695847519441,
-      "modifiedDate": 1695847519647,
-      "sizeInBytes": 290
-    },
-    "Personal/Journal/Weekly reviews/2023-W38.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 66,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 465,
-      "nonWhitespaceCharacterCount": 391,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695846500231,
-      "modifiedDate": 1695847694046,
-      "sizeInBytes": 465
-    },
-    "Personal/Journal/Daily notes/2023-09/2023-09-27.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 82,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2733333333333333,
-      "characterCount": 516,
-      "nonWhitespaceCharacterCount": 429,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695847907609,
-      "modifiedDate": 1695848072909,
-      "sizeInBytes": 526
     }
   }
 }

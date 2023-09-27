@@ -7,7 +7,7 @@ Status:: #📥/🟧
 Author:: [[]]
 Medium:: [[My Books]]
 Tags::
-Links: [[Example Book Application]]
+Links: 
 ___
 # Example Book
 ___

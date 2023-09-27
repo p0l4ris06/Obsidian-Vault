@@ -1,5 +1,5 @@
 Status: 
-Tags: [[Reflection]]
+Tags: 
 Links: [[909 Journal MOC]]
 ___
 # Periodic Reviews
