@@ -11,8 +11,13 @@
             "id": "b372add2bfec505a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,6 +256,8 @@
   },
   "active": "b372add2bfec505a",
   "lastOpenFiles": [
+    "000-Maths/Pure/M-P Chapter 7/M-P 7.2.md",
+    "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
     "Templates/Daily template.md",
     "Templates/Note Template.md",
     "Templates/Weekly Review Template.md",
@@ -273,8 +285,6 @@
     "Glossaries/C Glossary/Mole fraction.md",
     "Glossaries/B Glossary/Water stress.md",
     "Glossaries/B Glossary/Photolysis.md",
-    "Glossaries/B Glossary/Light intensity.md",
-    "888-BACKLOG/Kp.md",
     "888-BACKLOG",
     "Photos/Chemistry Photos/Pasted image 20230920175235.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
