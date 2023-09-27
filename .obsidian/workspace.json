@@ -14,13 +14,22 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed04c34b171f23bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +176,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,13 +224,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a145ac6b3098e8d",
+  "active": "ed04c34b171f23bd",
   "lastOpenFiles": [
+    "000-Biology/B Module 5/5.6/5.6.5.md",
+    "000-Biology/B Module 5/5.6/5.6.4.md",
+    "000-Biology/B Module 5/5.6/5.6.3.md",
+    "000-Biology/B Module 5/5.6/5.6.2.md",
+    "000-Biology/B Module 5/5.6/5.6.1.md",
+    "2023-09-27-GAH.md",
+    "Home.md",
+    "Untitled 1",
+    "Untitled",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
     "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
-    "Home.md",
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
     "888-BACKLOG/Kp.md",
     "Glossaries/C Glossary/Mole fraction.md",
@@ -243,12 +255,6 @@
     "Glossaries/B Glossary/Photolysis.md",
     "Instrumental performance.md",
     "Templates/Note Template.md.tmp",
-    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
-    "000-Biology/B Module 5/5.6/5.6.4.md",
-    "000-Biology/B Module 5/5.6/B5.6.md",
-    "000-Biology/B Module 5/5.6/5.6.6.md",
-    "000-Biology/B Module 5/5.6/5.6.5.md",
-    "000-Biology/B Module 5/5.6/5.6.3.md",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos/Pasted image 20230920172735.png",
@@ -258,8 +264,6 @@
     "Personal/Journal/Daily notes/2023-09",
     "Lessons/Support lessons/00-BS-SCW",
     "Lessons/Support lessons/00-CS-ST",
-    "Lessons/Support lessons",
-    "Lessons/Bio Lessons/00-SCW",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Photos/Chemistry Photos/Pasted image 20230824174600.png",
     "Pasted image 20230910135820.png",
