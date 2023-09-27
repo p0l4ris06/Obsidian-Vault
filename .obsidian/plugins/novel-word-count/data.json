@@ -16865,6 +16865,22 @@
       "createdDate": 1695037111580,
       "modifiedDate": 1695037111580,
       "sizeInBytes": 143
+    },
+    "2023-W8.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 324,
+      "nonWhitespaceCharacterCount": 276,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695846500231,
+      "modifiedDate": 1695846634075,
+      "sizeInBytes": 324
     }
   }
 }
