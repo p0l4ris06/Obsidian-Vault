@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2fed3fb3fadcd41",
+        "id": "2e7fb1dba04b5960",
         "type": "tabs",
         "children": [
           {
-            "id": "b372add2bfec505a",
+            "id": "69d986ee1ddc0158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md"
+                "file": "Personal/John Mavrick Tools/_start_here.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+                "file": "Personal/John Mavrick Tools/_start_here.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,30 +254,30 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "b372add2bfec505a",
+  "active": "69d986ee1ddc0158",
   "lastOpenFiles": [
+    "Templates/Weekly Review Template.md",
+    "Templates/Periodic Review Template.md",
+    "Personal/John Mavrick Tools/readme.md",
+    "Home.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.2.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
     "Templates/Daily template.md",
     "Templates/Note Template.md",
-    "Templates/Weekly Review Template.md",
     "Templates/To Do's.md",
     "Templates/~ Projects.md",
     "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Project Template.md",
     "Templates/Book Notes Template.md",
     "Templates/Book Application Template.md",
-    "Personal/John Mavrick Tools/readme.md",
     "Templates/Monthly Review Template.md",
     "Templates/Course Template.md",
     "Templates/Yearly Review Template.md",
     "Templates/Quarterly Review Template.md",
-    "Templates/Periodic Review Template.md",
     "Personal/John Mavrick Tools/Books/My Books.md",
     "Personal/John Mavrick Tools/Books/Example Book.md",
     "Personal/John Mavrick Tools/Books",
     "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
-    "Home.md",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
