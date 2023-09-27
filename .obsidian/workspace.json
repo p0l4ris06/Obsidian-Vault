@@ -24,8 +24,13 @@
             "id": "138c8a039e980259",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md"
+              }
             }
           },
           {
@@ -149,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,9 +236,10 @@
   },
   "active": "138c8a039e980259",
   "lastOpenFiles": [
+    "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
     "Home.md",
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
     "888-BACKLOG/Kp.md",
@@ -252,7 +263,6 @@
     "000-Biology/B Module 5/5.6/5.6.6.md",
     "000-Biology/B Module 5/5.6/5.6.5.md",
     "000-Biology/B Module 5/5.6/5.6.3.md",
-    "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos/Pasted image 20230920172735.png",
