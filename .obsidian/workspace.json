@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7fb1dba04b5960",
+        "id": "5560a23735418be0",
         "type": "tabs",
         "children": [
           {
-            "id": "69d986ee1ddc0158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/John Mavrick Tools/_start_here.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8323c1bee424e54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Weekly reviews/2023-W38.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e5e484696834223",
+            "id": "ed2bead995b1a3af",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,8 +244,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "2e5e484696834223",
+  "active": "ed2bead995b1a3af",
   "lastOpenFiles": [
+    "Home.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-27.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+    "Templates/Daily template.md",
     "Templates/Book Notes Template.md",
     "Templates/Book Application Template.md",
     "Templates/~ Projects.md",
@@ -282,7 +259,6 @@
     "Personal/Journal/Weekly reviews",
     "Templates/Monthly Review Template.md",
     "Personal/Journal/Monthly reviews/2023-09.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-23.md",
@@ -296,11 +272,8 @@
     "Personal/John Mavrick Tools/_start_here.md",
     "Templates/Periodic Review Template.md",
     "Personal/John Mavrick Tools/readme.md",
-    "Home.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.2.md",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
-    "Templates/Daily template.md",
-    "Templates/Note Template.md",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
