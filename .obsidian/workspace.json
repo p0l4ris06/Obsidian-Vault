@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "095d1431ac6da922",
+        "id": "e0bb301c8ebc86a4",
         "type": "tabs",
         "children": [
           {
-            "id": "208efd0c046dbe54",
+            "id": "1b4b16c4459fcf64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,8 +220,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "208efd0c046dbe54",
+  "active": "1b4b16c4459fcf64",
   "lastOpenFiles": [
+    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
@@ -244,7 +255,6 @@
     "Glossaries/C Glossary/Mole fraction.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
-    "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
     "Templates/Note Template.md.tmp",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",

@@ -16881,6 +16881,22 @@
       "createdDate": 1694504557908,
       "modifiedDate": 1694688117758,
       "sizeInBytes": 11
+    },
+    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 70,
+      "nonWhitespaceCharacterCount": 61,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695890272675,
+      "modifiedDate": 1695890313884,
+      "sizeInBytes": 70
     }
   }
 }
