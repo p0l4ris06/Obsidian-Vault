@@ -24,8 +24,13 @@
             "id": "ed04c34b171f23bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossaries/B Glossary/Compensation point.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Glossaries/B Glossary/Compensation point.md"
+              }
             }
           },
           {
@@ -149,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Glossaries/B Glossary/Compensation point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossaries/B Glossary/Compensation point.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Glossaries/B Glossary/Compensation point.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,8 +236,8 @@
   },
   "active": "ed04c34b171f23bd",
   "lastOpenFiles": [
-    "000-Biology/B Module 5/5.6/5.6.5.md",
     "000-Biology/B Module 5/5.6/5.6.1.md",
+    "000-Biology/B Module 5/5.6/5.6.5.md",
     "000-Biology/B Module 5/5.6/5.6.3.md",
     "000-Biology/B Module 5/5.6/5.6.4.md",
     "Glossaries/B Glossary/Light intensity.md",
