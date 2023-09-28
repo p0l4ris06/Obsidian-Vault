@@ -11,11 +11,43 @@
             "id": "1b4b16c4459fcf64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3d1eb147e29023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db49fd9c2fb912e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md"
+              }
             }
           },
           {
@@ -135,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,8 +247,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b4b16c4459fcf64",
+  "active": "db49fd9c2fb912e1",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-27.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+    "Templates/Daily template.md",
+    "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
+    "000-Chemistry/C Module 3/Chapter 10/C10.4.md",
+    "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+    "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "Photos/Biology Photos/Pasted image 20230718105321.png",
     "Home.md",
@@ -239,13 +283,6 @@
     "Untitled 1",
     "Untitled",
     "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
-    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.1.md",
-    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
-    "888-BACKLOG/Kp.md",
-    "Glossaries/C Glossary/Mole fraction.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Templates/Note Template.md.tmp",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",

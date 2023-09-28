@@ -121,14 +121,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.4,
-      "characterCount": 369,
+      "characterCount": 351,
       "nonWhitespaceCharacterCount": 278,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819329,
-      "modifiedDate": 1695888819330,
-      "sizeInBytes": 379
+      "modifiedDate": 1695896876675,
+      "sizeInBytes": 361
     },
     "Templates/Book Notes Template.md": {
       "isDirectory": false,
@@ -11849,14 +11849,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 8.2,
-      "characterCount": 535,
+      "characterCount": 516,
       "nonWhitespaceCharacterCount": 429,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819323,
-      "modifiedDate": 1695888819323,
-      "sizeInBytes": 545
+      "modifiedDate": 1695896937427,
+      "sizeInBytes": 526
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-24.md": {
       "isDirectory": false,
@@ -14697,14 +14697,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 8.5,
-      "characterCount": 527,
+      "characterCount": 519,
       "nonWhitespaceCharacterCount": 433,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1692186655088,
-      "modifiedDate": 1695629261229,
-      "sizeInBytes": 527
+      "modifiedDate": 1695896784651,
+      "sizeInBytes": 519
     },
     "000-Chemistry/C Module 3/Chapter 10/C10.2.md": {
       "isDirectory": false,
@@ -16897,6 +16897,22 @@
       "createdDate": 1694504557908,
       "modifiedDate": 1694688117758,
       "sizeInBytes": 11
+    },
+    "Personal/Journal/Daily notes/2023-09/2023-09-28.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.5,
+      "characterCount": 307,
+      "nonWhitespaceCharacterCount": 243,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695896855742,
+      "modifiedDate": 1695896920079,
+      "sizeInBytes": 317
     }
   }
 }
