@@ -1,7 +1,7 @@
 {
   "settings": {
     "countType": "word",
-    "countType2": "none",
+    "countType2": "page",
     "countType3": "none",
     "showSameCountsOnFolders": true,
     "folderCountType": "word",
@@ -27,7 +27,7 @@
       "pageCount": 3.9,
       "characterCount": 318,
       "nonWhitespaceCharacterCount": 260,
-      "linkCount": 0,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819333,
@@ -43,7 +43,7 @@
       "pageCount": 11.9,
       "characterCount": 861,
       "nonWhitespaceCharacterCount": 700,
-      "linkCount": 0,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819335,
@@ -59,7 +59,7 @@
       "pageCount": 3.7,
       "characterCount": 309,
       "nonWhitespaceCharacterCount": 249,
-      "linkCount": 0,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819334,
@@ -91,7 +91,7 @@
       "pageCount": 4.1,
       "characterCount": 309,
       "nonWhitespaceCharacterCount": 247,
-      "linkCount": 0,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695888819330,
@@ -1201,6 +1201,22 @@
       "createdDate": 1695629261302,
       "modifiedDate": 1695629261302,
       "sizeInBytes": 16
+    },
+    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 70,
+      "nonWhitespaceCharacterCount": 61,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695890272675,
+      "modifiedDate": 1695890313884,
+      "sizeInBytes": 70
     },
     "Lessons/Maths lessons/00-SK/2023-09-22-SK.md": {
       "isDirectory": false,
@@ -16881,22 +16897,6 @@
       "createdDate": 1694504557908,
       "modifiedDate": 1694688117758,
       "sizeInBytes": 11
-    },
-    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7,
-      "characterCount": 70,
-      "nonWhitespaceCharacterCount": 61,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695890272675,
-      "modifiedDate": 1695890313884,
-      "sizeInBytes": 70
     }
   }
 }
