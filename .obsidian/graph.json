@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 5135036
       }
+    },
+    {
+      "query": "path:\"Personal/Personality types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.11033881625021803,
+  "scale": 0.29428028761619945,
   "close": true
 }
