@@ -2361,14 +2361,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2633333333333333,
-      "characterCount": 627,
-      "nonWhitespaceCharacterCount": 527,
-      "linkCount": 17,
+      "characterCount": 611,
+      "nonWhitespaceCharacterCount": 528,
+      "linkCount": 18,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695930171588,
-      "modifiedDate": 1695930171588,
-      "sizeInBytes": 627
+      "modifiedDate": 1695930611830,
+      "sizeInBytes": 611
     },
     "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md": {
       "isDirectory": false,

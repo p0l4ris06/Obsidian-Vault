@@ -106,5 +106,17 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
+  "typomagical-title@@font-title": "Playfair Display",
+  "typomagical-title@@alignment-title": "align-title-left",
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "typomagical-title@@text-scale": "none",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-colour@@theme-variant": "ficus-ruby",
+  "encore-settings@@theme-dark": "encore-theme-dark-rgb",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-coloured-tooltip": false,
+  "encore-settings@@encore-bright-accent": true,
+  "encore-settings@@blur-amount": "encore-blur-less"
 }

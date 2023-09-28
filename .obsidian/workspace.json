@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md"
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,9 +256,9 @@
   },
   "active": "b66029f46d42163a",
   "lastOpenFiles": [
+    "888-BACKLOG/Accessory pigment.md",
     "888-BACKLOG/Calvin cycle.md",
     "888-BACKLOG/Antennae complex.md",
-    "888-BACKLOG/Accessory pigment.md",
     "Home.md",
     "Personal/Personality types/Jungian functions/Introverted thinking.md",
     "Personal/Personality types/Jungian functions/Introverted sensing.md",
