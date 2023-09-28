@@ -1,5 +1,5 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
@@ -90,5 +90,9 @@
   "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
   "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-hidden",
   "obsidian-prism-theme@@pt-icons-accent": true,
-  "obsidian-prism-theme@@radius-s": 9
+  "obsidian-prism-theme@@radius-s": 9,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark"
 }

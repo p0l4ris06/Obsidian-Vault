@@ -1,12 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength",
     "cards",
-    "Transparency"
+    "Transparency",
+    "extended-colorschemes"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
