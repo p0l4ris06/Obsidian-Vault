@@ -17141,18 +17141,18 @@
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 70,
+      "wordCount": 72,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7,
-      "characterCount": 518,
-      "nonWhitespaceCharacterCount": 446,
-      "linkCount": 12,
+      "pageCount": 7.2,
+      "characterCount": 541,
+      "nonWhitespaceCharacterCount": 466,
+      "linkCount": 13,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695912166639,
-      "sizeInBytes": 518
+      "modifiedDate": 1695912222895,
+      "sizeInBytes": 541
     },
     "Photos/Biology Photos/Pasted image 20230928153000.png": {
       "isDirectory": false,
@@ -17169,6 +17169,54 @@
       "createdDate": 1695911400645,
       "modifiedDate": 1695911400648,
       "sizeInBytes": 36536
+    },
+    "888-BACKLOG/Antennae complex.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695912304407,
+      "modifiedDate": 1695912314829,
+      "sizeInBytes": 35
+    },
+    "Glossaries/B Glossary/Primary pigment reaction centre.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4,
+      "characterCount": 183,
+      "nonWhitespaceCharacterCount": 158,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695912191606,
+      "modifiedDate": 1695912297562,
+      "sizeInBytes": 183
+    },
+    "888-BACKLOG/Accessory pigment.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695912330456,
+      "modifiedDate": 1695912339579,
+      "sizeInBytes": 36
     }
   }
 }
