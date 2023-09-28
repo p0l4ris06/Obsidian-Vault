@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e0bb301c8ebc86a4",
+        "id": "f181ce078e721f38",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4b16c4459fcf64",
+            "id": "3ad3d43ef9fa2f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3d1eb147e29023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db49fd9c2fb912e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+                "file": "Personal/Personality types/INTP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md"
+                "file": "Personal/Personality types/INTP.md"
               }
             }
           },
@@ -169,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+                "file": "Personal/Personality types/INTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+                "file": "Personal/Personality types/INTP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+                "file": "Personal/Personality types/INTP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,18 +220,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db49fd9c2fb912e1",
+  "active": "3ad3d43ef9fa2f9b",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-09/2023-09-27.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
-    "Templates/Daily template.md",
+    "Personal/Personality types/INTJ.md",
+    "Personal/Personality types/ENFJ.md",
+    "Personal/Personality types/ENTJ.md",
+    "Personal/Personality types/ENTP.md",
+    "Home.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.5.md",
+    "Templates/Daily template.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+    "Lessons/Maths lessons/00-LE/2023-09-28-LE.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-27.md",
     "000-Chemistry/C Module 3/Chapter 10/C10.4.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
     "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "Photos/Biology Photos/Pasted image 20230718105321.png",
-    "Home.md",
     "Lessons/Maths lessons/00-SK/2023-09-28-SK.md",
     "conflict-files-obsidian-git.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
@@ -274,15 +252,10 @@
     "000-Biology/B Module 5/5.6/5.6.3.md",
     "000-Biology/B Module 5/5.6/5.6.4.md",
     "Glossaries/B Glossary/Light intensity.md",
-    "Glossaries/B Glossary/Water stress.md",
-    "888-BACKLOG/Calvin cycle.md",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
-    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "000-Biology/B Module 5/5.6/5.6.2.md",
     "Untitled 1",
     "Untitled",
-    "000-Maths/Pure/M-P Chapter 7/M-P 7.3.md",
     "Templates/Note Template.md.tmp",
     "888-BACKLOG",
     "Photos/Maths photos/Pasted image 20230920172830.png",

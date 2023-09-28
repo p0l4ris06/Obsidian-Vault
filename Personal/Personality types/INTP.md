@@ -3,6 +3,7 @@ Temperament category: [[Knowledge seeking type]]
 
 ---
 ## Positive traits
+- Imaginative
 - 
 
 ## Negative traits

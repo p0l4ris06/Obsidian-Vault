@@ -11493,17 +11493,17 @@
     "Personal/Personality types/INTP.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 42,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4,
+      "pageCount": 4.2,
       "characterCount": 343,
-      "nonWhitespaceCharacterCount": 283,
+      "nonWhitespaceCharacterCount": 295,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261321,
-      "modifiedDate": 1695629261321,
+      "modifiedDate": 1695897255864,
       "sizeInBytes": 343
     },
     "Personal/Personality types/INFP.md": {
@@ -11545,14 +11545,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 14.7,
-      "characterCount": 1034,
+      "characterCount": 1008,
       "nonWhitespaceCharacterCount": 857,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261321,
-      "modifiedDate": 1695629261321,
-      "sizeInBytes": 1034
+      "modifiedDate": 1695897199757,
+      "sizeInBytes": 1008
     },
     "Personal/Personality types/ESTP.md": {
       "isDirectory": false,
@@ -11625,14 +11625,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.8,
-      "characterCount": 73,
+      "characterCount": 71,
       "nonWhitespaceCharacterCount": 62,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261316,
-      "modifiedDate": 1695629261317,
-      "sizeInBytes": 73
+      "modifiedDate": 1695897188969,
+      "sizeInBytes": 71
     },
     "Personal/Personality types/ENTJ.md": {
       "isDirectory": false,
@@ -11641,14 +11641,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4,
-      "characterCount": 342,
+      "characterCount": 328,
       "nonWhitespaceCharacterCount": 283,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261316,
-      "modifiedDate": 1695629261316,
-      "sizeInBytes": 342
+      "modifiedDate": 1695897183824,
+      "sizeInBytes": 328
     },
     "Personal/Personality types/ENFP.md": {
       "isDirectory": false,
@@ -11673,14 +11673,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4,
-      "characterCount": 341,
+      "characterCount": 327,
       "nonWhitespaceCharacterCount": 282,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261315,
-      "modifiedDate": 1695629261315,
-      "sizeInBytes": 341
+      "modifiedDate": 1695897197016,
+      "sizeInBytes": 327
     },
     "Personal/Personality types/Cognitive stack/Tertiary function.md": {
       "isDirectory": false,
@@ -16901,18 +16901,34 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 55,
+      "wordCount": 84,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.5,
-      "characterCount": 307,
-      "nonWhitespaceCharacterCount": 243,
-      "linkCount": 3,
+      "pageCount": 8.4,
+      "characterCount": 532,
+      "nonWhitespaceCharacterCount": 443,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695896855742,
-      "modifiedDate": 1695896920079,
-      "sizeInBytes": 317
+      "modifiedDate": 1695897085598,
+      "sizeInBytes": 542
+    },
+    "Lessons/Maths lessons/00-LE/2023-09-28-LE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695896988207,
+      "modifiedDate": 1695896988207,
+      "sizeInBytes": 0
     }
   }
 }
