@@ -2,7 +2,7 @@ Status:
 Tags: #writings/bookapplications
 Links: 
 ___
-# Example Book Application
+# <% tp.file.title %>
 ## Top 3 Quotes
 
 ## 3 Sentence Summary
@@ -31,4 +31,4 @@ ___
 ### Actionables
 - 
 ___
-Created:: 2022-12-23
+Created:: <% tp.date.now("YYYY-MM-DD") %>

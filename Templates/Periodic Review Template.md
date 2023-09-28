@@ -1,5 +1,5 @@
 Status: 
-Tags: [[Reflection]]
+Tags: 
 Links: [[909 Journal MOC]]
 ___
 # Periodic Reviews
@@ -7,10 +7,9 @@ I create the notes at the end of each time frame rather than the beginning of th
 
 For example, I would write my review for August on the last day of the month, the quarter during the last day, etc.
 
-![[Weekly Reviews#Weekly Reviews]]
-![[Monthly Reviews#Monthly Reviews]]
-![[Quarterly Reviews#Quarterly Reviews]]
-![[Yearly Reviews#Yearly Reviews]]
+![[Weekly Review Template#Weekly Reviews]]
+![[Monthly Review Template#Monthly Reviews]]
+![[Yearly Review Template#Yearly Reviews]]
 ___
 # Backlinks
 ```dataview
