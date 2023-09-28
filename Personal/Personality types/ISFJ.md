@@ -3,10 +3,19 @@ Temperament category: [[Security seeking type]]
 
 ---
 ## Positive traits
-- 
+- Care deeply for others
+- Warm, open and accepting
+- Good listeners
+- Friendly and affirming
+- Perceptive
+- Hands-on learners
+- Hard-working
 
 ## Negative traits
-- 
+- Tendency to leave feelings unexpressed 
+- Prone to struggling with insecurity
+- Tend to neglect their own needs
+- Have a hard time saying no
 
 ### Jungian function stack
 - Dominant function: [[Introverted sensing]]
