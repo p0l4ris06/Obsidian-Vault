@@ -16,6 +16,8 @@ Temperament category: [[Security seeking type]]
 - Prone to struggling with insecurity
 - Tend to neglect their own needs
 - Have a hard time saying no
+- Have a hard time moving on
+- Intensely dislike conflict and criticism
 
 ### Jungian function stack
 - Dominant function: [[Introverted sensing]]

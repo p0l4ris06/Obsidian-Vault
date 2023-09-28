@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personality types/ISFJ.md",
+                "file": "Personal/Personality types/ISTJ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Personality types/ISFJ.md"
+                "file": "Personal/Personality types/ISTJ.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Personality types/ISFJ.md",
+                "file": "Personal/Personality types/ISTJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Personality types/ISFJ.md",
+                "file": "Personal/Personality types/ISTJ.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Personality types/ISFJ.md",
+                "file": "Personal/Personality types/ISTJ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,6 +222,8 @@
   },
   "active": "3ad3d43ef9fa2f9b",
   "lastOpenFiles": [
+    "Personal/Personality types/ISFP.md",
+    "Personal/Personality types/ISFJ.md",
     "Personal/Personality types/INTP.md",
     "Personal/Personality types/INTJ.md",
     "Personal/Personality types/ENFJ.md",
@@ -250,8 +252,6 @@
     "Personal/John Mavrick Tools/Books",
     "000-Biology/B Module 5/5.6/5.6.1.md",
     "000-Biology/B Module 5/5.6/5.6.5.md",
-    "000-Biology/B Module 5/5.6/5.6.3.md",
-    "000-Biology/B Module 5/5.6/5.6.4.md",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Untitled 1",
