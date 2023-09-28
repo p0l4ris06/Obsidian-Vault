@@ -2549,18 +2549,18 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 16,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5,
-      "characterCount": 142,
-      "nonWhitespaceCharacterCount": 124,
+      "pageCount": 1.6,
+      "characterCount": 144,
+      "nonWhitespaceCharacterCount": 125,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695649407705,
-      "modifiedDate": 1695653592417,
-      "sizeInBytes": 142
+      "modifiedDate": 1695912663587,
+      "sizeInBytes": 144
     },
     "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md": {
       "isDirectory": false,
@@ -9906,22 +9906,6 @@
       "modifiedDate": 1695805960381,
       "sizeInBytes": 156
     },
-    "888-BACKLOG/Photolysis.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7,
-      "characterCount": 148,
-      "nonWhitespaceCharacterCount": 121,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695802739500,
-      "modifiedDate": 1695802739500,
-      "sizeInBytes": 148
-    },
     "888-BACKLOG/Nitrobacter.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -17141,18 +17125,18 @@
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 72,
+      "wordCount": 76,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.2,
-      "characterCount": 541,
-      "nonWhitespaceCharacterCount": 466,
-      "linkCount": 13,
+      "pageCount": 7.6,
+      "characterCount": 574,
+      "nonWhitespaceCharacterCount": 495,
+      "linkCount": 15,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695912222895,
-      "sizeInBytes": 541
+      "modifiedDate": 1695912663638,
+      "sizeInBytes": 574
     },
     "Photos/Biology Photos/Pasted image 20230928153000.png": {
       "isDirectory": false,
@@ -17217,6 +17201,38 @@
       "createdDate": 1695912330456,
       "modifiedDate": 1695912339579,
       "sizeInBytes": 36
+    },
+    "Glossaries/B Glossary/Proton pump.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7,
+      "characterCount": 150,
+      "nonWhitespaceCharacterCount": 131,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695912550646,
+      "modifiedDate": 1695912597212,
+      "sizeInBytes": 150
+    },
+    "Glossaries/B Glossary/Photolysis 1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 113,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695802739500,
+      "modifiedDate": 1695912669134,
+      "sizeInBytes": 132
     }
   }
 }
