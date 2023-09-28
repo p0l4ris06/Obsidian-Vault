@@ -17141,18 +17141,34 @@
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13,
+      "wordCount": 16,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3,
-      "characterCount": 111,
-      "nonWhitespaceCharacterCount": 96,
+      "pageCount": 1.6,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 130,
       "linkCount": 2,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695911188851,
-      "sizeInBytes": 111
+      "modifiedDate": 1695911402717,
+      "sizeInBytes": 148
+    },
+    "Photos/Biology Photos/Pasted image 20230928153000.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695911400645,
+      "modifiedDate": 1695911400648,
+      "sizeInBytes": 36536
     }
   }
 }
