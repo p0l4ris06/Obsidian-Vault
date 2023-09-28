@@ -16,8 +16,9 @@ Temperament category: [[Security seeking type]]
 - Can be know-it-alls
 - Tendency to be extremely judgemental
 - Can be cheap/stingy
-- Not naturally in tune with others emotions
-- 
+- Not naturally in tune with others feelings
+- Tend not to give themselves enough credit for their achievements
+- Can seem overly rigid to others
 
 ### Jungian function stack
 - Dominant function: [[Introverted sensing]]
