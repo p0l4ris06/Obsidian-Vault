@@ -2549,18 +2549,18 @@
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 16,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6,
-      "characterCount": 144,
-      "nonWhitespaceCharacterCount": 125,
+      "pageCount": 1.5,
+      "characterCount": 142,
+      "nonWhitespaceCharacterCount": 124,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695649407705,
-      "modifiedDate": 1695912663587,
-      "sizeInBytes": 144
+      "modifiedDate": 1695912852717,
+      "sizeInBytes": 142
     },
     "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md": {
       "isDirectory": false,
@@ -4405,18 +4405,18 @@
     "Glossaries/B Glossary/Photolysis.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 17,
+      "wordCount": 16,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7,
-      "characterCount": 148,
-      "nonWhitespaceCharacterCount": 121,
+      "pageCount": 1.6,
+      "characterCount": 131,
+      "nonWhitespaceCharacterCount": 113,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695649516128,
-      "modifiedDate": 1695802739501,
-      "sizeInBytes": 148
+      "modifiedDate": 1695912826135,
+      "sizeInBytes": 131
     },
     "Glossaries/B Glossary/Phylogeny.md": {
       "isDirectory": false,
@@ -17125,18 +17125,18 @@
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 76,
+      "wordCount": 79,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.6,
-      "characterCount": 574,
-      "nonWhitespaceCharacterCount": 495,
-      "linkCount": 15,
+      "pageCount": 7.9,
+      "characterCount": 609,
+      "nonWhitespaceCharacterCount": 527,
+      "linkCount": 17,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695912663638,
-      "sizeInBytes": 574
+      "modifiedDate": 1695913076603,
+      "sizeInBytes": 609
     },
     "Photos/Biology Photos/Pasted image 20230928153000.png": {
       "isDirectory": false,
@@ -17217,22 +17217,6 @@
       "createdDate": 1695912550646,
       "modifiedDate": 1695912597212,
       "sizeInBytes": 150
-    },
-    "Glossaries/B Glossary/Photolysis 1.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6,
-      "characterCount": 132,
-      "nonWhitespaceCharacterCount": 113,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1695802739500,
-      "modifiedDate": 1695912669134,
-      "sizeInBytes": 132
     }
   }
 }

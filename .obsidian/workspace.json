@@ -208,7 +208,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.43807673178118745,
+                  "scale": 0.20010052063891973,
                   "close": true
                 }
               }
@@ -237,7 +237,9 @@
   "active": "bfb20ba344cd69cf",
   "lastOpenFiles": [
     "Glossaries/B Glossary/Photolysis 1.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+    "Glossaries/B Glossary/Photolysis.md",
     "Glossaries/B Glossary/Proton pump.md",
     "888-BACKLOG/Accessory pigment.md",
     "888-BACKLOG/Antennae complex.md",
@@ -261,8 +263,6 @@
     "Personal/Personality types/Jungian functions/Introverted thinking.md",
     "Personal/Personality types/Jungian functions/Extraverted thinking.md",
     "Personal/Personality types/Jungian functions/Extraverted intuition.md",
-    "Personal/Personality types/Jungian functions/Extraverted feeling.md",
-    "Personal/Personality types/Jungian functions/Extraverted sensing.md",
     "Personal/Personality types/MBTI Types",
     "Personal/Personality types/Seeking types",
     "Personal/Personality types/Jungian functions",
