@@ -11,11 +11,25 @@
             "id": "3ad3d43ef9fa2f9b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8f1c62eea599afb",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +224,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ad3d43ef9fa2f9b",
+  "active": "b8f1c62eea599afb",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-26-SCW.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
     "Personal/Personality types/Cognitive stack/Jungian funtions.md",
     "Personal/Personality types/Jungian functions/Introverted feeling.md",
     "Personal/Personality types/Jungian functions/Introverted intuition.md",
@@ -236,11 +255,6 @@
     "Personal/Personality types/MBTI Types/INTJ.md",
     "Personal/Personality types/MBTI Types/ENTJ.md",
     "Personal/Personality types/Jungian functions",
-    "Personal/Personality types/Cognitive stack/Auxiliary function.md",
-    "Personal/Personality types/MBTI Types/ISTP.md",
-    "Personal/Personality types/MBTI Types/ISTJ.md",
-    "Personal/Personality types/MBTI Types/ISFP.md",
-    "Personal/Personality types/MBTI Types/ISFJ.md",
     "Photos/Biology Photos/Pasted image 20230718105321.png",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",
