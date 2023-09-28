@@ -11209,14 +11209,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 19,
+      "characterCount": 16,
       "nonWhitespaceCharacterCount": 12,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043163388,
-      "modifiedDate": 1695073369332,
-      "sizeInBytes": 19
+      "modifiedDate": 1695896642939,
+      "sizeInBytes": 16
     },
     "000-Maths/Mechanics/M-M Chapter 11/M-M Chapter 11.md": {
       "isDirectory": false,
