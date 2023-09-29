@@ -17218,21 +17218,21 @@
       "modifiedDate": 1693331321883,
       "sizeInBytes": 136
     },
-    "conflict-files-obsidian-git.md": {
+    "2023-09-29-SCW.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 99,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.9,
-      "characterCount": 721,
-      "nonWhitespaceCharacterCount": 612,
-      "linkCount": 2,
+      "pageCount": 0.3,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 19,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1695981026251,
-      "modifiedDate": 1695981030030,
-      "sizeInBytes": 721
+      "createdDate": 1695981081989,
+      "modifiedDate": 1695981094079,
+      "sizeInBytes": 25
     }
   }
 }
