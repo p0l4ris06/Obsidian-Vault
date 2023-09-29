@@ -108,5 +108,11 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "entry-point@@minimal-mode": true,
-  "entry-point@@minimal-sidebar": "sidebar-hover"
+  "entry-point@@minimal-sidebar": "sidebar-hover",
+  "entry-point@@minimal-workspace-sides-tabs": "sides-tabs-show",
+  "entry-point@@minimal-workspace-nav-header": "nav-header-show",
+  "entry-point@@minimal-workspace-root-tabs": "root-tabs-show",
+  "entry-point@@color-scheme-selector": "color-scheme-alchemy",
+  "entry-point@@floating-sides": true,
+  "typomagical-title@@alignment-title": "align-title-left"
 }
