@@ -24,8 +24,13 @@
             "id": "766a00b5e2bbce8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md"
+              }
             }
           },
           {
@@ -149,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
