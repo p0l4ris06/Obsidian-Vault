@@ -11,30 +11,11 @@
             "id": "bfb20ba344cd69cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "766a00b5e2bbce8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Biology/B Module 4/4.3/4.3.1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +162,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 4/4.3/4.3.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,11 +210,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "766a00b5e2bbce8d",
+  "active": "bfb20ba344cd69cf",
   "lastOpenFiles": [
+    "Home.md",
+    "000-Biology/B Module 4/4.3/4.3.1.md",
+    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
+    "2023-09-29-SK.md",
+    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
     "conflict-files-obsidian-git.md",
-    "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
@@ -256,13 +239,6 @@
     "Photos/Biology Photos/Pasted image 20230928153000.png",
     "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-24.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-26-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
-    "Personal/Personality types/Cognitive stack/Jungian funtions.md",
-    "Personal/Personality types/Jungian functions/Introverted feeling.md",
-    "Personal/Personality types/Jungian functions/Introverted intuition.md",
     "Personal/Personality types/MBTI Types",
     "Personal/Personality types/Seeking types",
     "Personal/Personality types/Jungian functions",
