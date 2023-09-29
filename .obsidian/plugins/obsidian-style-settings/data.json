@@ -114,5 +114,7 @@
   "entry-point@@minimal-workspace-root-tabs": "root-tabs-show",
   "entry-point@@color-scheme-selector": "color-scheme-alchemy",
   "entry-point@@floating-sides": true,
-  "typomagical-title@@alignment-title": "align-title-left"
+  "typomagical-title@@alignment-title": "align-title-left",
+  "typomagical-text@@callout-quote-style": true,
+  "typomagical-colour@@theme-variant": "ficus-ruby"
 }
