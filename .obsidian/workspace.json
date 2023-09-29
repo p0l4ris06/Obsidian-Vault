@@ -24,13 +24,8 @@
             "id": "766a00b5e2bbce8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +176,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,10 +224,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "766a00b5e2bbce8d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
+    "conflict-files-obsidian-git.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
