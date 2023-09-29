@@ -1797,18 +1797,18 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 8.4,
-      "characterCount": 532,
-      "nonWhitespaceCharacterCount": 443,
-      "linkCount": 7,
+      "pageCount": 8.5,
+      "characterCount": 550,
+      "nonWhitespaceCharacterCount": 460,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695896855742,
-      "modifiedDate": 1695897085598,
-      "sizeInBytes": 542
+      "modifiedDate": 1695913239574,
+      "sizeInBytes": 560
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-27.md": {
       "isDirectory": false,
@@ -1913,14 +1913,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 8.5,
-      "characterCount": 546,
+      "characterCount": 527,
       "nonWhitespaceCharacterCount": 437,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261308,
-      "modifiedDate": 1695888819318,
-      "sizeInBytes": 558
+      "modifiedDate": 1695913223974,
+      "sizeInBytes": 539
     },
     "Personal/Journal/Daily notes/2023-09/2023-09-20.md": {
       "isDirectory": false,
@@ -17125,18 +17125,18 @@
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 79,
+      "wordCount": 81,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.9,
-      "characterCount": 609,
-      "nonWhitespaceCharacterCount": 527,
-      "linkCount": 17,
+      "pageCount": 8.1,
+      "characterCount": 624,
+      "nonWhitespaceCharacterCount": 540,
+      "linkCount": 20,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695913076603,
-      "sizeInBytes": 609
+      "modifiedDate": 1695913127140,
+      "sizeInBytes": 624
     },
     "Photos/Biology Photos/Pasted image 20230928153000.png": {
       "isDirectory": false,
