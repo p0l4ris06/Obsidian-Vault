@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ead5e915dd50442",
+        "id": "9f3863b19c7d1926",
         "type": "tabs",
         "children": [
           {
-            "id": "b66029f46d42163a",
+            "id": "d10032626eec0506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md"
+                "file": "Home.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,7 +254,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "b66029f46d42163a",
+  "active": "d10032626eec0506",
   "lastOpenFiles": [
     "888-BACKLOG/Accessory pigment.md",
     "888-BACKLOG/Calvin cycle.md",
