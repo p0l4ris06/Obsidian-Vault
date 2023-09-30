@@ -11,8 +11,13 @@
             "id": "d10032626eec0506",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossaries/C Glossary/Zero order.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Glossaries/C Glossary/Zero order.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Glossaries/C Glossary/Zero order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossaries/C Glossary/Zero order.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Glossaries/C Glossary/Zero order.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,6 +256,7 @@
   },
   "active": "d10032626eec0506",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
@@ -274,7 +285,6 @@
     "Personal/Personality types/MBTI Types/ISFP.md",
     "Personal/Personality types/MBTI Types/ISFJ.md",
     "Personal/Personality types/MBTI Types/INTP.md",
-    "Personal/Personality types/MBTI Types/INTJ.md",
     "Personal/Personality types/MBTI Types",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",
