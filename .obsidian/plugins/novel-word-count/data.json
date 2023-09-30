@@ -17297,6 +17297,22 @@
       "createdDate": 1696111532676,
       "modifiedDate": 1696111625964,
       "sizeInBytes": 471
+    },
+    "CSS Syntax.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 10,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696112863911,
+      "modifiedDate": 1696112875163,
+      "sizeInBytes": 11
     }
   }
 }
