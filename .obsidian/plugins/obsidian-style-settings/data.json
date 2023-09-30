@@ -124,5 +124,6 @@
   "ap-theme@@glassMorphism": true,
   "ap-theme@@smoothIndent": true,
   "ap-theme@@Fade": true,
-  "ap-theme@@Hover": true
+  "ap-theme@@Hover": true,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false
 }
