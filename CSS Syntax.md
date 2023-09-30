@@ -1,1 +1,14 @@
-selector {}
+Tags: #111-css
+
+selector {
+	property1: value;
+	property2: value;
+}
+
+## Example:
+```
+h1 {
+	colour: blue
+}
+```
+

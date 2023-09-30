@@ -17301,18 +17301,34 @@
     "CSS Syntax.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 11,
-      "nonWhitespaceCharacterCount": 10,
+      "pageCount": 0.06,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 86,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696112863911,
-      "modifiedDate": 1696112875163,
-      "sizeInBytes": 11
+      "modifiedDate": 1696112996269,
+      "sizeInBytes": 110
+    },
+    "2023-W39.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696113167351,
+      "modifiedDate": 1696113167351,
+      "sizeInBytes": 0
     }
   }
 }
