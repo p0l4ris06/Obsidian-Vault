@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaries/C Glossary/Zero order.md",
+                "file": "Glossaries/C Glossary/Half life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossaries/C Glossary/Zero order.md"
+                "file": "Glossaries/C Glossary/Half life.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossaries/C Glossary/Zero order.md",
+                "file": "Glossaries/C Glossary/Half life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaries/C Glossary/Zero order.md",
+                "file": "Glossaries/C Glossary/Half life.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Glossaries/C Glossary/Zero order.md",
+                "file": "Glossaries/C Glossary/Half life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,11 @@
   },
   "active": "d10032626eec0506",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
+    "Glossaries/C Glossary/Second order.md",
+    "Glossaries/C Glossary/First order.md",
+    "Glossaries/C Glossary/Zero order.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
@@ -281,10 +285,6 @@
     "Personal/Personality types/Seeking types/Identity seeking type.md",
     "Personal/Personality types/Seeking types",
     "Personal/Personality types/MBTI Types/ISTP.md",
-    "Personal/Personality types/MBTI Types/ISTJ.md",
-    "Personal/Personality types/MBTI Types/ISFP.md",
-    "Personal/Personality types/MBTI Types/ISFJ.md",
-    "Personal/Personality types/MBTI Types/INTP.md",
     "Personal/Personality types/MBTI Types",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",

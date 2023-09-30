@@ -2809,14 +2809,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.14,
-      "characterCount": 282,
+      "characterCount": 273,
       "nonWhitespaceCharacterCount": 228,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694949405609,
-      "modifiedDate": 1694949405609,
-      "sizeInBytes": 282
+      "modifiedDate": 1696086526542,
+      "sizeInBytes": 273
     },
     "Glossaries/C Glossary/Tollens' reagent.md": {
       "isDirectory": false,
@@ -2985,14 +2985,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.21333333333333335,
-      "characterCount": 393,
+      "characterCount": 384,
       "nonWhitespaceCharacterCount": 316,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694949405597,
-      "modifiedDate": 1694949405597,
-      "sizeInBytes": 393
+      "modifiedDate": 1696086653867,
+      "sizeInBytes": 384
     },
     "Glossaries/C Glossary/Relative isotopic mass.md": {
       "isDirectory": false,
@@ -3589,18 +3589,18 @@
     "Glossaries/C Glossary/Half life.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 48,
+      "wordCount": 50,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16,
-      "characterCount": 310,
-      "nonWhitespaceCharacterCount": 256,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 264,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405565,
-      "modifiedDate": 1694949405565,
-      "sizeInBytes": 310
+      "modifiedDate": 1696086693816,
+      "sizeInBytes": 317
     },
     "Glossaries/C Glossary/Functional groups.md": {
       "isDirectory": false,
@@ -3753,14 +3753,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.21333333333333335,
-      "characterCount": 392,
+      "characterCount": 383,
       "nonWhitespaceCharacterCount": 316,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694949405552,
-      "modifiedDate": 1694949405552,
-      "sizeInBytes": 392
+      "modifiedDate": 1696086652091,
+      "sizeInBytes": 383
     },
     "Glossaries/C Glossary/EZ isomerism.md": {
       "isDirectory": false,
