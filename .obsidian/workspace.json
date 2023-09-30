@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Syntax.md",
+                "file": "999-CSS/CSS Syntax.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Syntax.md"
+                "file": "999-CSS/CSS Syntax.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Syntax.md",
+                "file": "999-CSS/CSS Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Syntax.md",
+                "file": "999-CSS/CSS Syntax.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSS Syntax.md",
+                "file": "999-CSS/CSS Syntax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,8 +270,10 @@
   },
   "active": "e5075903d2a1d8b6",
   "lastOpenFiles": [
-    "Personal/Journal/Monthly reviews/2023-09.md",
     "Home.md",
+    "Personal/Journal/Weekly reviews/2023-W39.md",
+    "999-CSS/CSS Syntax.md",
+    "Personal/Journal/Monthly reviews/2023-09.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
@@ -287,9 +289,7 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-30.md",
-    "Personal/Journal/Weekly reviews/2023-W39.md",
-    "CSS Syntax.md",
-    "111-CSS",
+    "999-CSS",
     "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "Glossaries/C Glossary/Half life.md",

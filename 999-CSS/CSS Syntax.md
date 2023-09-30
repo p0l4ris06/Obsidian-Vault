@@ -6,7 +6,7 @@ selector {
 }
 
 ## Example:
-```dataview
+```
 h1 {
 	colour: blue
 }

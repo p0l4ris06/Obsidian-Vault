@@ -2901,18 +2901,18 @@
     "Home.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 60,
+      "wordCount": 45,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2,
-      "characterCount": 748,
-      "nonWhitespaceCharacterCount": 665,
+      "pageCount": 0.15,
+      "characterCount": 435,
+      "nonWhitespaceCharacterCount": 383,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112571,
-      "modifiedDate": 1696113449082,
-      "sizeInBytes": 770
+      "modifiedDate": 1696113627166,
+      "sizeInBytes": 457
     },
     "Glossaries/M Glossary/Sample.md": {
       "isDirectory": false,
@@ -17298,22 +17298,6 @@
       "modifiedDate": 1696113289145,
       "sizeInBytes": 484
     },
-    "CSS Syntax.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 94,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696112863911,
-      "modifiedDate": 1696113471080,
-      "sizeInBytes": 118
-    },
     "Personal/Journal/Weekly reviews/2023-W39.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -17329,6 +17313,22 @@
       "createdDate": 1696113167351,
       "modifiedDate": 1696113240847,
       "sizeInBytes": 368
+    },
+    "999-CSS/CSS Syntax.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 86,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696112863911,
+      "modifiedDate": 1696113477933,
+      "sizeInBytes": 110
     }
   }
 }
