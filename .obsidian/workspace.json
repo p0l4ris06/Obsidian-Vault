@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a17637d303775990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,12 +268,16 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d10032626eec0506",
+  "active": "a17637d303775990",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
+    "2023-09-29-SK.md",
     "888-BACKLOG/Accessory pigment.md",
     "888-BACKLOG/Calvin cycle.md",
     "888-BACKLOG/Antennae complex.md",
-    "Home.md",
     "Personal/Personality types/Jungian functions/Introverted thinking.md",
     "Personal/Personality types/Jungian functions/Introverted sensing.md",
     "Personal/Personality types/Jungian functions/Introverted intuition.md",
@@ -281,10 +299,6 @@
     "Personal/Personality types/MBTI Types/ISFJ.md",
     "Personal/Personality types/MBTI Types/INTP.md",
     "Personal/Personality types/MBTI Types/INTJ.md",
-    "Personal/Personality types/MBTI Types/INFP.md",
-    "Personal/Personality types/MBTI Types/INFJ.md",
-    "Personal/Personality types/MBTI Types/ESTP.md",
-    "Personal/Personality types/MBTI Types/ESTJ.md",
     "Personal/Personality types/MBTI Types",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",
