@@ -11,16 +11,25 @@
             "id": "d10032626eec0506",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2f535e4e5054f89",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md"
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md"
               }
             }
           }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,8 +263,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d10032626eec0506",
+  "active": "f2f535e4e5054f89",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
+    "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "Glossaries/C Glossary/Half life.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
@@ -266,7 +278,7 @@
     "conflict-files-obsidian-git.md",
     "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
-    "2023-09-29-SK.md",
+    "Lessons/Maths lessons/00-SK/2023-09-29-SK.md",
     "888-BACKLOG/Accessory pigment.md",
     "888-BACKLOG/Calvin cycle.md",
     "888-BACKLOG/Antennae complex.md",
@@ -281,9 +293,6 @@
     "Personal/Personality types/Jungian functions",
     "Photos/Biology Photos/Pasted image 20230928153000.png",
     "Personal/Personality types/Seeking types/Sensation seeking type.md",
-    "Personal/Personality types/Seeking types/Security seeking type.md",
-    "Personal/Personality types/Seeking types/Knowledge seeking type.md",
-    "Personal/Personality types/Seeking types/Identity seeking type.md",
     "Personal/Personality types/Seeking types",
     "Personal/Personality types/MBTI Types",
     "Personal/Journal/Weekly reviews",
