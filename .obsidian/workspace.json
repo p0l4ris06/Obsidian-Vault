@@ -11,11 +11,30 @@
             "id": "d98982e590864655",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Todays notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7647dd07c81cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todays notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todays notes.md"
+              }
             }
           }
         ]
@@ -126,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todays notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todays notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Todays notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,8 +268,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d98982e590864655",
+  "active": "8c7647dd07c81cd5",
   "lastOpenFiles": [
+    "asdasd.md",
+    "Todays notes.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
     "Glossaries/C Glossary/Arrhenius equation.md",
     "Glossaries/C Glossary/Activation energy.md",
@@ -270,8 +296,6 @@
     "000-Biology/B Module 3/3.3/3.3.2.md",
     "000-Biology/B Module 3/3.3/3.3.1.md",
     "000-Biology/B Module 4/4.1/4.1.2.md",
-    "000-Biology/B Module 5/5.2/B5.2.md",
-    "000-Biology/B Module 5/5.1/B5.1.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
