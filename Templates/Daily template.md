@@ -17,3 +17,9 @@ tags:: [[+Daily Notes]]
 
 ##### 👎 One thing I'm struggling with today is...
 - 
+
+### Todays Notes
+```dataview
+list 
+where file.cday = date("today")
+```

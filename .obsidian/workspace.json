@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d98982e590864655",
+            "id": "8c7647dd07c81cd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todays notes.md",
-                "mode": "preview",
+                "file": "Templates/Daily template.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c7647dd07c81cd5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Daily template.md"
+              }
             }
           }
         ]
@@ -140,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Daily template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Daily template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Templates/Daily template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,9 +254,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "8c7647dd07c81cd5",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Todays notes.md",
+    "Templates/Todays notes.md",
+    "Home.md",
     "asdasd.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
     "Glossaries/C Glossary/Arrhenius equation.md",
@@ -272,7 +269,6 @@
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
-    "Home.md",
     "Personal/Birds/Birds.md",
     "Personal/Journal/909 Journal MOC.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
