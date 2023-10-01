@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f3863b19c7d1926",
+        "id": "a4457b75cd9c3f60",
         "type": "tabs",
         "children": [
           {
-            "id": "d10032626eec0506",
+            "id": "b917ac1b35a20a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5075903d2a1d8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999-CSS/CSS Syntax.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999-CSS/CSS Syntax.md"
+                "file": "Home.md"
               }
             }
           }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999-CSS/CSS Syntax.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999-CSS/CSS Syntax.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "999-CSS/CSS Syntax.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +254,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "e5075903d2a1d8b6",
+  "active": "b917ac1b35a20a79",
   "lastOpenFiles": [
     "Home.md",
     "Personal/Journal/Weekly reviews/2023-W39.md",
