@@ -1,3 +1,3 @@
 ```dataview
-table where date(file.create) = date(now)
+list where date(file.create) = date(now)
 ```
