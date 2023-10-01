@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
-                "mode": "preview",
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md"
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.4.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +256,10 @@
   },
   "active": "d98982e590864655",
   "lastOpenFiles": [
+    "Glossaries/C Glossary/Rate determining step.md",
+    "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
     "000-Assessment points/000-C Kinetics AP1.md",
+    "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
@@ -280,9 +283,6 @@
     "000-Chemistry/C Module 3/Chapter 10/C10.2.md",
     "Glossaries/C Glossary/Heterogeneous catalysts.md",
     "Glossaries/C Glossary/Homogeneous catalysts.md",
-    "Personal/Journal/Weekly reviews/2023-W39.md",
-    "999-CSS/CSS Syntax.md",
-    "Personal/Journal/Monthly reviews/2023-09.md",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
     "Photos/Biology Photos/Pasted image 20230928153000.png",

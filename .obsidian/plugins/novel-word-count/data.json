@@ -9189,14 +9189,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.08,
-      "characterCount": 154,
+      "characterCount": 153,
       "nonWhitespaceCharacterCount": 130,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405592,
-      "modifiedDate": 1694949405592,
-      "sizeInBytes": 154
+      "modifiedDate": 1696171644768,
+      "sizeInBytes": 153
     },
     "Glossaries/C Glossary/Primary carbocation.md": {
       "isCountable": true,
@@ -14897,18 +14897,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 27,
-      "nonWhitespaceCharacterCount": 23,
-      "linkCount": 1,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 78,
+      "nonWhitespaceCharacterCount": 65,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112230,
-      "modifiedDate": 1695228875665,
-      "sizeInBytes": 27
+      "modifiedDate": 1696171879008,
+      "sizeInBytes": 78
     },
     "000-Chemistry/C Module 5/Chapter 18/C18.3.md": {
       "isCountable": true,
