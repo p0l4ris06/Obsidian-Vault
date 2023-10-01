@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+                "file": "909 Journal MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md"
+                "file": "909 Journal MOC.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+                "file": "909 Journal MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+                "file": "909 Journal MOC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
+                "file": "909 Journal MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +256,7 @@
   },
   "active": "ab3ecd1dc91f4352",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "909 Journal MOC.md",
     "Home.md",
     "000-Biology/B Module 3/3.2/3.2.2.md",
@@ -280,7 +281,6 @@
     "999-CSS/CSS Syntax.md",
     "Personal/Journal/Monthly reviews/2023-09.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-19.md",
     "999-CSS",
