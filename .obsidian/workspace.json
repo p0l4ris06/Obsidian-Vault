@@ -11,13 +11,8 @@
             "id": "b917ac1b35a20a79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homogen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +154,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,6 +248,9 @@
   "active": "b917ac1b35a20a79",
   "lastOpenFiles": [
     "Home.md",
+    "000-Chemistry/C Module 3/Chapter 10/C10.2.md",
+    "Glossaries/C Glossary/Heterogeneous catalysts.md",
+    "Glossaries/C Glossary/Homogeneous catalysts.md",
     "Personal/Journal/Weekly reviews/2023-W39.md",
     "999-CSS/CSS Syntax.md",
     "Personal/Journal/Monthly reviews/2023-09.md",
@@ -280,9 +274,6 @@
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "Glossaries/C Glossary/Half life.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
-    "Glossaries/C Glossary/Second order.md",
-    "Glossaries/C Glossary/First order.md",
-    "Glossaries/C Glossary/Zero order.md",
     "Personal/Personality types/Jungian functions",
     "Photos/Biology Photos/Pasted image 20230928153000.png",
     "Personal/Personality types/Seeking types",
