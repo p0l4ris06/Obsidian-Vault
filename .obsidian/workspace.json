@@ -11,8 +11,13 @@
             "id": "d98982e590864655",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,9 +256,13 @@
   },
   "active": "d98982e590864655",
   "lastOpenFiles": [
+    "000-Assessment points/000-C Kinetics AP1.md",
+    "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
+    "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
+    "000-Assessment points/000-C Analytical Techniques AP2.md",
+    "Home.md",
     "Personal/Birds/Birds.md",
     "Personal/Journal/909 Journal MOC.md",
-    "Home.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "000-Biology/B Module 3/3.2/3.2.2.md",
     "000-Biology/B Module 3/3.3/B3.3.md",
@@ -262,8 +276,6 @@
     "000-Biology/B Module 4/4.1/4.1.2.md",
     "000-Biology/B Module 5/5.2/B5.2.md",
     "000-Biology/B Module 5/5.1/B5.1.md",
-    "000-Assessment points/000-C Analytical Techniques AP2.md",
-    "000-Assessment points/000-C Kinetics AP1.md",
     "000-Assessment points",
     "000-Chemistry/C Module 3/Chapter 10/C10.2.md",
     "Glossaries/C Glossary/Heterogeneous catalysts.md",
@@ -271,8 +283,6 @@
     "Personal/Journal/Weekly reviews/2023-W39.md",
     "999-CSS/CSS Syntax.md",
     "Personal/Journal/Monthly reviews/2023-09.md",
-    "Personal/Journal/Weekly reviews/2023-W38.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
     "Photos/Biology Photos/Pasted image 20230928153000.png",

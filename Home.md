@@ -1,15 +1,13 @@
 ## Tasks
-- [x] Arrhenius eqt graph 📅 2023-09-18 ✅ 2023-09-17
-- [x] Gold independent project ⏫ 📅 2023-09-18 ✅ 2023-09-17
+- [ ] [[000-C Kinetics AP1]]⏳ 2023-10-04 ⏫ 
+- [ ] [[000-C Analytical Techniques AP2]]⏳ 2023-10-06 ⏫ 
 ---
 ## [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
-
 - 🗄️ Recent file updates `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 〽️ Stats
     - File Count: `$=dv.pages().length`
 
 ## Backlog
-
 ```dataview
 list from #Backlog 
 ```
