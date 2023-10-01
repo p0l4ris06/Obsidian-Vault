@@ -11,13 +11,8 @@
             "id": "d98982e590864655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.5.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,10 +244,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "d98982e590864655",
   "lastOpenFiles": [
-    "Glossaries/C Glossary/Arrhenius equation.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
+    "Glossaries/C Glossary/Arrhenius equation.md",
     "Glossaries/C Glossary/Activation energy.md",
     "000-Assessment points/000-C Kinetics AP1.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
