@@ -11,8 +11,13 @@
             "id": "c3416bbca5f3f0d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "909 Journal MOC.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "909 Journal MOC.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "909 Journal MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "909 Journal MOC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "909 Journal MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,6 +256,7 @@
   },
   "active": "c3416bbca5f3f0d2",
   "lastOpenFiles": [
+    "909 Journal MOC.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
     "000-Assessment points/000-C Kinetics AP1.md",
     "Home.md",
