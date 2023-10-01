@@ -1,3 +1,3 @@
 ```dataview
-list from [[909 Journal MOC]]
+list from [[909 Journal MOC]] AND #review
 ```
