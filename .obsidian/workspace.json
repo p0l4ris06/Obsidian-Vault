@@ -14,17 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "3d4305c5b34e277a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +244,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "3d4305c5b34e277a",
+  "active": "cafece60f90a6341",
   "lastOpenFiles": [
     "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
