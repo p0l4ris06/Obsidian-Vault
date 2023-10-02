@@ -11,8 +11,13 @@
             "id": "5c1371af65f040bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "half",
+                "query": "C29.2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md"
+              }
             }
           },
           {
@@ -135,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
