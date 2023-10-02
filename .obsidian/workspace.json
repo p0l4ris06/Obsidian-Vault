@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0031bd53810e48",
+        "id": "58a9cb8bb6b82549",
         "type": "tabs",
         "children": [
           {
-            "id": "cafece60f90a6341",
+            "id": "5c1371af65f040bd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homogen",
+                "query": "half",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
     "id": "796782712381c878",
@@ -74,10 +74,10 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 38.84615384615385,
+        "dimension": 41.75,
         "children": [
           {
-            "id": "9fd7f7f03570b440",
+            "id": "b9924dd09d2a4d1f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "42ae479202e1e3ae",
+            "id": "3d1dd6ca96decb57",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -95,19 +95,28 @@
             }
           },
           {
-            "id": "a08fab39121d73d9",
+            "id": "1cbfc07ecf2f4cc7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "7bffe46973d8564f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c1bd03f399390851",
         "type": "tabs",
-        "dimension": 61.15384615384616,
+        "dimension": 58.25,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -148,66 +157,23 @@
             }
           },
           {
-            "id": "96b8fd2cd371829e",
+            "id": "33c132fab32f09fc",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#B-definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3732178
-                      }
-                    },
-                    {
-                      "query": "tag:#C-definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9261803
-                      }
-                    },
-                    {
-                      "query": "path:Personal/Birds  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3407472
-                      }
-                    },
-                    {
-                      "query": "path:000-Maths  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16678124
-                      }
-                    },
-                    {
-                      "query": "path:000-Chemistry  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7288227
-                      }
-                    },
-                    {
-                      "query": "path:000-Biology  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5549776
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -218,7 +184,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012123,
+                  "scale": 0.4120128619953782,
                   "close": true
                 }
               }
@@ -229,69 +195,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Week plan": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "obsidian-day-planner:Week plan": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cafece60f90a6341",
+  "active": "5c1371af65f040bd",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-18.md",
-    "Templates/Daily template.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Home.md",
-    "Templates/Todays notes.md",
-    "asdasd.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.5.md",
-    "Glossaries/C Glossary/Arrhenius equation.md",
-    "Glossaries/C Glossary/Activation energy.md",
-    "000-Assessment points/000-C Kinetics AP1.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.4.md",
-    "Glossaries/C Glossary/Rate determining step.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
+    "Glossaries/C Glossary/Zero order.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
-    "000-Assessment points/000-C Analytical Techniques AP2.md",
-    "Personal/Birds/Birds.md",
-    "Personal/Journal/909 Journal MOC.md",
-    "000-Biology/B Module 3/3.2/3.2.2.md",
-    "000-Biology/B Module 3/3.3/B3.3.md",
-    "000-Biology/B Module 3/3.3/3.3.7.md",
-    "000-Biology/B Module 3/3.3/3.3.6.md",
-    "000-Biology/B Module 3/3.3/3.3.5.md",
-    "000-Biology/B Module 3/3.3/3.3.4.md",
-    "000-Biology/B Module 3/3.3/3.3.3.md",
-    "000-Assessment points",
+    "Glossaries/C Glossary/Half life.md",
+    "Glossaries/C Glossary/Second order.md",
+    "999-CSS/CSS Syntax.md",
     "999-CSS",
-    "Personal/Personality types/Jungian functions",
+    "Templates/Todays notes.md",
+    "Personal/Journal/Weekly reviews/2023-W39.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
+    "Personal/Journal/Daily notes/2023-10",
+    "Personal/Journal/Daily notes/2023-09/2023-09-30.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
+    "000-Assessment points/000-C Kinetics AP1.md",
+    "000-Assessment points/000-C Analytical Techniques AP2.md",
+    "000-Assessment points",
+    "2023-09-29-SK.md",
+    "000-Biology/B Module 4/4.3/4.3.1.md",
+    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
+    "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+    "Glossaries/B Glossary/Photolysis 1.md",
     "Photos/Biology Photos/Pasted image 20230928153000.png",
-    "Personal/Personality types/Seeking types",
     "Personal/Personality types/MBTI Types",
+    "Personal/Personality types/Seeking types",
+    "Personal/Personality types/Jungian functions",
+    "Photos/Biology Photos/Pasted image 20230718105321.png",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "888-BACKLOG",
-    "Photos/Chemistry Photos/Pasted image 20230920175235.png",
+    "Untitled 1",
     "Photos/Maths photos/Pasted image 20230920172830.png",
-    "Photos/Maths photos",
     "Photos/Maths photos/Pasted image 20230920172735.png",
-    "Pasted image 20230919154315.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Photos/Chemistry Photos/Pasted image 20230824174704.png",
+    "Photos/Chemistry Photos/Pasted image 20230824174600.png",
     "Pasted image 20230910135820.png",
-    "Photos/Chemistry Photos/Pasted image 20230903110825.png"
+    "Photos/Chemistry Photos/Pasted image 20230903110825.png",
+    "Photos/Chemistry Photos/Pasted image 20230903105156.png",
+    "Untitled.canvas"
   ]
 }
