@@ -18531,22 +18531,39 @@
       "modifiedDate": 1696240467963,
       "sizeInBytes": 124
     },
-    "2023-10-02-GAH.md": {
+    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 24,
-      "nonWhitespaceCharacterCount": 19,
+      "pageCount": 0.4,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 28,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696254348791,
-      "modifiedDate": 1696254372302,
-      "sizeInBytes": 24
+      "modifiedDate": 1696258255253,
+      "sizeInBytes": 34
+    },
+    "5.7.2.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696258268766,
+      "modifiedDate": 1696258298012,
+      "sizeInBytes": 44
     }
   }
 }
