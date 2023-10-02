@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82b667ec8581e946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-02-GAH.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C29.2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md"
+                "file": "2023-10-02-GAH.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "2023-10-02-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "2023-10-02-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "2023-10-02-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,8 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c1371af65f040bd",
+  "active": "82b667ec8581e946",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+    "2023-10-02-GAH.md",
     "Home.md",
     "Glossaries/C Glossary/Zero order.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
@@ -250,8 +265,6 @@
     "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-21.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
-    "Glossaries/B Glossary/Photolysis 1.md",
     "Photos/Biology Photos/Pasted image 20230928153000.png",
     "Personal/Personality types/MBTI Types",
     "Personal/Personality types/Seeking types",
