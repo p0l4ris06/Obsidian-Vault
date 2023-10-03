@@ -17689,14 +17689,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.17,
-      "characterCount": 344,
-      "nonWhitespaceCharacterCount": 290,
+      "characterCount": 345,
+      "nonWhitespaceCharacterCount": 291,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112223,
-      "modifiedDate": 1695044096685,
-      "sizeInBytes": 344
+      "modifiedDate": 1696341482222,
+      "sizeInBytes": 345
     },
     "000-Chemistry/C Module 4/Chapter 17/Chapter 17.md": {
       "isCountable": true,
