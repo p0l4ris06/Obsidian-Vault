@@ -19,8 +19,13 @@
             "id": "31d8e734354171de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.1.md"
+              }
             }
           }
         ]
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +265,9 @@
   },
   "active": "31d8e734354171de",
   "lastOpenFiles": [
-    "2023-10-03.md",
+    "000-Assessment points/000-C Kinetics AP1.md",
+    "000-Assessment points/000-C Analytical Techniques AP2.md",
+    "Personal/Journal/Daily notes/2023-10-03.md",
     "Personal/Journal/909 Journal MOC.md",
     "888-BACKLOG/2023-10-03-CS.md",
     "Home.md",
@@ -279,8 +291,6 @@
     "000-Biology/B Module 5/5.5/5.5.1.md",
     "000-Biology/B Module 5/5.7/5.7.1.md",
     "000-Biology/B Module 5/5.7/B5.7.md",
-    "000-Biology/B Module 5/5.7/5.7.9.md",
-    "000-Biology/B Module 5/5.7/5.7.8.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
