@@ -1,7 +1,7 @@
 ## Daily notes: Last 7 days
 
 ```dataview
-list from [[909 Journal MOC]] AND #daily-notes LIMIT 7
+list from [[909 Journal MOC]] AND #daily-notes AND -"Templates" LIMIT 7 
 ```
 ### Weekly reviews: Last month
 ```dataview
