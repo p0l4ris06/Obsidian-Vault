@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"Personal/Journal/Daily notes\"  ",
+      "query": "path:\"Personal/Journal/\"  ",
       "color": {
         "a": 1,
         "rgb": 16187014
@@ -95,6 +95,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.2287798078054863,
+  "scale": 0.05921705802222177,
   "close": true
 }

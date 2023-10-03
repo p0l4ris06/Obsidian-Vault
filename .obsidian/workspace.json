@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0031bd53810e48",
+        "id": "9a453f2cf297acf5",
         "type": "tabs",
         "children": [
           {
-            "id": "14cece963cf3607b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "31d8e734354171de",
+            "id": "0e6b57d5c22d3be4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,15 +244,15 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "31d8e734354171de",
+  "active": "0e6b57d5c22d3be4",
   "lastOpenFiles": [
+    "Home.md",
+    "Personal/Journal/909 Journal MOC.md",
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
     "000-Assessment points/000-C Kinetics AP1.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
     "Personal/Journal/Daily notes/2023-10-03.md",
-    "Personal/Journal/909 Journal MOC.md",
     "888-BACKLOG/2023-10-03-CS.md",
-    "Home.md",
     "888-BACKLOG/2023-10-02-ST.md",
     "888-BACKLOG/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
