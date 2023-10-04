@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Biology/B Module 3/3.1/3.1.5.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Biology/B Module 3/3.1/3.1.5.md"
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 3/3.1/3.1.5.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 3/3.1/3.1.5.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 3/3.1/3.1.5.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,11 +256,13 @@
   },
   "active": "870971370e7c7c75",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
+    "Glossaries/B Glossary/Chromatography.md",
     "000-Biology/B Module 3/3.1/3.1.4.md",
+    "000-Biology/B Module 3/3.1/3.1.5.md",
     "000-Biology/B Module 3/3.1/3.1.3.md",
     "000-Biology/B Module 3/3.1/3.1.2.md",
     "000-Biology/B Module 3/3.1/3.1.1.md",
-    "000-Biology/B Module 3/3.1/3.1.5.md",
     "Glossaries/B Glossary/Spiracle.md",
     "Glossaries/B Glossary/Operculum.md",
     "Glossaries/B Glossary/Lamellae.md",
@@ -280,8 +282,6 @@
     "Personal/Journal/Weekly reviews/2023-W38.md",
     "Personal/Journal/Weekly reviews/2023-W39.md",
     "Personal/Journal/Weekly reviews/2023-W40.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
