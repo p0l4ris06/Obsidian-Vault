@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+                "file": "Glossaries/C Glossary/Deuterated solvents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md"
+                "file": "Glossaries/C Glossary/Deuterated solvents.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+                "file": "Glossaries/C Glossary/Deuterated solvents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+                "file": "Glossaries/C Glossary/Deuterated solvents.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+                "file": "Glossaries/C Glossary/Deuterated solvents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,18 +254,22 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "870971370e7c7c75",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Glossaries/C Glossary/Deuterium.md",
+    "Glossaries/C Glossary/Deuterated solvents.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.6.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
     "Glossaries/C Glossary/Proton NMR.md",
     "Glossaries/C Glossary/NMR.md",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
     "Pasted image 20231004194236.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
     "Photos/Chemistry Photos/Pasted image 20231004194342.png",
-    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
     "Glossaries/C Glossary/Carbon-13 NMR.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
     "Glossaries/C Glossary/TMS.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
     "Glossaries/B Glossary/Chromatography.md",
@@ -282,9 +286,6 @@
     "888-BACKLOG/Krebs cycle.md",
     "888-BACKLOG/Citric acid cycle.md",
     "000-Biology/B Module 5/5.7/5.7.2.md",
-    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
-    "888-BACKLOG/Respiration.md",
-    "888-BACKLOG/2023-10-04-GAH.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
