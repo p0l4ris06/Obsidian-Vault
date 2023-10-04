@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#i/books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,6 +246,10 @@
   },
   "active": "870971370e7c7c75",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 4/Chapter 13/C13.3.md",
+    "888-BACKLOG/Halogen.md",
+    "Templates/Book Notes Template.md",
+    "888-BACKLOG/Secondary amine.md",
     "Templates/Todays notes.md",
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
@@ -272,10 +276,6 @@
     "000-Biology/B Module 3/3.1/3.1.1.md",
     "Glossaries/B Glossary/Spiracle.md",
     "Glossaries/B Glossary/Operculum.md",
-    "Glossaries/B Glossary/Lamellae.md",
-    "Glossaries/B Glossary/Filaments.md",
-    "Glossaries/B Glossary/Buccal cavity.md",
-    "888-BACKLOG/Krebs cycle.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
