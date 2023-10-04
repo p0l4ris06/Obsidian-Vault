@@ -18841,18 +18841,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 49,
-      "nonWhitespaceCharacterCount": 42,
-      "linkCount": 1,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 234,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696441336761,
-      "modifiedDate": 1696442325695,
-      "sizeInBytes": 49
+      "modifiedDate": 1696442829464,
+      "sizeInBytes": 268
     },
     "Lessons/Chem lessons/00-ST/2023-10-04-ST.md": {
       "isCountable": true,
@@ -19108,6 +19108,23 @@
       "createdDate": 1696442563474,
       "modifiedDate": 1696442594866,
       "sizeInBytes": 368
+    },
+    "888-BACKLOG/Glycolysis.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696442865018,
+      "modifiedDate": 1696442875933,
+      "sizeInBytes": 37
     }
   }
 }

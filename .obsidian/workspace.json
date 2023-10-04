@@ -11,8 +11,13 @@
             "id": "870971370e7c7c75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "888-BACKLOG/2023-10-04-GAH.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,6 +256,9 @@
   },
   "active": "870971370e7c7c75",
   "lastOpenFiles": [
+    "888-BACKLOG/Glycolysis.md",
+    "888-BACKLOG/2023-10-04-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
     "Personal/Journal/Weekly reviews/2023-W39.md",
@@ -261,17 +274,14 @@
     "Personal/Journal/Daily notes/2023-09/2023-09-25.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-26.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
     "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG/Nitrobacter.md",
     "888-BACKLOG/Chlorophyll.md",
-    "888-BACKLOG/2023-10-04-GAH.md",
     "888-BACKLOG/2023-10-03-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-10-03-LE.md",
     "Glossaries/B Glossary/Calvin cycle.md",
     "888-BACKLOG/Respiration.md",
     "Glossaries/B Glossary/Antennae complex.md",
-    "Glossaries/B Glossary/Thylakoid.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
