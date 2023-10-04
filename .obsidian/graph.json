@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path: \"111-Work experience\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3407728
+      }
+    },
+    {
+      "query": "path:\"Lessons/Support lessons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16732754
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08302130260377011,
+  "scale": 0.08302130260377015,
   "close": true
 }
