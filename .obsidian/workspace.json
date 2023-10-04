@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proton NMR.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proton NMR.md"
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proton NMR.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proton NMR.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Proton NMR.md",
+                "file": "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,15 +256,17 @@
   },
   "active": "870971370e7c7c75",
   "lastOpenFiles": [
-    "Pasted image 20231004193956.png",
+    "Glossaries/C Glossary/Proton NMR.md",
+    "Glossaries/C Glossary/NMR.md",
+    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
+    "Pasted image 20231004194236.png",
+    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
+    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
-    "Proton NMR.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
-    "Carbon-13 NMR.md",
-    "Pasted image 20231004193825.png",
-    "NMR.md",
+    "Glossaries/C Glossary/Carbon-13 NMR.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
-    "TMS.md",
+    "Glossaries/C Glossary/TMS.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
     "Glossaries/B Glossary/Chromatography.md",
     "000-Biology/B Module 3/3.1/3.1.4.md",
@@ -299,9 +301,6 @@
     "Photos/Maths photos/Pasted image 20230920172830.png",
     "Photos/Maths photos",
     "Photos/Maths photos/Pasted image 20230920172735.png",
-    "Pasted image 20230919154315.png",
-    "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Photos/Chemistry Photos/Pasted image 20230824174704.png",
-    "Pasted image 20230910135820.png"
+    "Glossaries/B Glossary/Domains and kingdoms.canvas"
   ]
 }
