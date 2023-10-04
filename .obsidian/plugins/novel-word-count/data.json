@@ -6078,14 +6078,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05,
-      "characterCount": 85,
+      "characterCount": 84,
       "nonWhitespaceCharacterCount": 69,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405453,
-      "modifiedDate": 1694949405453,
-      "sizeInBytes": 85
+      "modifiedDate": 1696444047447,
+      "sizeInBytes": 84
     },
     "Glossaries/B Glossary/Species evenness.md": {
       "isCountable": true,
@@ -7421,14 +7421,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03333333333333333,
-      "characterCount": 62,
+      "characterCount": 61,
       "nonWhitespaceCharacterCount": 51,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405383,
-      "modifiedDate": 1694949405383,
-      "sizeInBytes": 62
+      "modifiedDate": 1696444035436,
+      "sizeInBytes": 61
     },
     "Glossaries/B Glossary/Open circulatory system.md": {
       "isCountable": true,
@@ -8033,14 +8033,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.043333333333333335,
-      "characterCount": 92,
+      "characterCount": 91,
       "nonWhitespaceCharacterCount": 78,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405352,
-      "modifiedDate": 1694949405352,
-      "sizeInBytes": 92
+      "modifiedDate": 1696444022415,
+      "sizeInBytes": 91
     },
     "Glossaries/B Glossary/Lactose.md": {
       "isCountable": true,
@@ -8798,14 +8798,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04666666666666667,
-      "characterCount": 99,
+      "characterCount": 98,
       "nonWhitespaceCharacterCount": 84,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405310,
-      "modifiedDate": 1694949405311,
-      "sizeInBytes": 99
+      "modifiedDate": 1696444010340,
+      "sizeInBytes": 98
     },
     "Glossaries/B Glossary/Fibrous protein.md": {
       "isCountable": true,
@@ -10260,14 +10260,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 21,
+      "characterCount": 20,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405224,
-      "modifiedDate": 1694949405225,
-      "sizeInBytes": 21
+      "modifiedDate": 1696443996876,
+      "sizeInBytes": 20
     },
     "Glossaries/B Glossary/Bronchi and bronchioles.md": {
       "isCountable": true,
@@ -12657,14 +12657,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 54,
+      "characterCount": 51,
       "nonWhitespaceCharacterCount": 46,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111788,
-      "modifiedDate": 1695037111788,
-      "sizeInBytes": 54
+      "modifiedDate": 1696444058130,
+      "sizeInBytes": 51
     },
     "000-Biology/B Module 3/3.1/3.1.3.md": {
       "isCountable": true,
@@ -12674,14 +12674,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03,
-      "characterCount": 97,
+      "characterCount": 92,
       "nonWhitespaceCharacterCount": 83,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111782,
-      "modifiedDate": 1695037111783,
-      "sizeInBytes": 97
+      "modifiedDate": 1696444056987,
+      "sizeInBytes": 92
     },
     "000-Biology/B Module 3/3.1/3.1.5.md": {
       "isCountable": true,
@@ -12691,14 +12691,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02,
-      "characterCount": 77,
+      "characterCount": 72,
       "nonWhitespaceCharacterCount": 66,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111790,
-      "modifiedDate": 1695037111790,
-      "sizeInBytes": 77
+      "modifiedDate": 1696443995443,
+      "sizeInBytes": 72
     },
     "000-Biology/B Module 3/3.1/3.1.2.md": {
       "isCountable": true,
@@ -12708,14 +12708,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02666666666666667,
-      "characterCount": 95,
+      "characterCount": 90,
       "nonWhitespaceCharacterCount": 82,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037111780,
-      "modifiedDate": 1695037111780,
-      "sizeInBytes": 95
+      "modifiedDate": 1696444056036,
+      "sizeInBytes": 90
     },
     "000-Biology/B Module 3/3.1/3.1.1.md": {
       "isCountable": true,
@@ -12725,14 +12725,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.43,
-      "characterCount": 897,
+      "characterCount": 875,
       "nonWhitespaceCharacterCount": 737,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695676817814,
-      "modifiedDate": 1695676817814,
-      "sizeInBytes": 897
+      "modifiedDate": 1696444054864,
+      "sizeInBytes": 875
     },
     "000-Biology/B Module 2/2.6/2.6.8.md": {
       "isCountable": true,
