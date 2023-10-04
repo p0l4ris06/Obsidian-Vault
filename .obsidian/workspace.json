@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "Proton NMR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md"
+                "file": "Proton NMR.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "Proton NMR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "Proton NMR.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+                "file": "Proton NMR.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +256,15 @@
   },
   "active": "870971370e7c7c75",
   "lastOpenFiles": [
+    "Pasted image 20231004193956.png",
+    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
+    "Proton NMR.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
+    "Carbon-13 NMR.md",
+    "Pasted image 20231004193825.png",
+    "NMR.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+    "TMS.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
     "Glossaries/B Glossary/Chromatography.md",
     "000-Biology/B Module 3/3.1/3.1.4.md",
@@ -274,14 +283,6 @@
     "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
     "888-BACKLOG/Respiration.md",
     "888-BACKLOG/2023-10-04-GAH.md",
-    "888-BACKLOG/Substrate level phosphorylation.md",
-    "888-BACKLOG/Oxidative phosphorylation.md",
-    "888-BACKLOG/Glycolysis.md",
-    "888-BACKLOG/Link reaction.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
-    "Personal/Journal/Weekly reviews/2023-W38.md",
-    "Personal/Journal/Weekly reviews/2023-W39.md",
-    "Personal/Journal/Weekly reviews/2023-W40.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
@@ -301,7 +302,6 @@
     "Pasted image 20230919154315.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Photos/Chemistry Photos/Pasted image 20230824174704.png",
-    "Pasted image 20230910135820.png",
-    "Photos/Chemistry Photos/Pasted image 20230903110825.png"
+    "Pasted image 20230910135820.png"
   ]
 }
