@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a453f2cf297acf5",
+        "id": "86323176ac906fec",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6b57d5c22d3be4",
+            "id": "8c13f3215de4c916",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -254,7 +254,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "0e6b57d5c22d3be4",
+  "active": "8c13f3215de4c916",
   "lastOpenFiles": [
     "Home.md",
     "Personal/Journal/909 Journal MOC.md",
