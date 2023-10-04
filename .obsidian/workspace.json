@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "888-BACKLOG/Calvin cycle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md"
+                "file": "888-BACKLOG/Calvin cycle.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "888-BACKLOG/Calvin cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "888-BACKLOG/Calvin cycle.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/Accessory pigment.md",
+                "file": "888-BACKLOG/Calvin cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,13 +256,20 @@
   },
   "active": "8c13f3215de4c916",
   "lastOpenFiles": [
-    "888-BACKLOG/Antennae complex.md",
-    "888-BACKLOG/Accessory pigment.md",
+    "888-BACKLOG/Chlorophyll.md",
+    "888-BACKLOG/Nitrobacter.md",
+    "888-BACKLOG/Calvin cycle.md",
+    "888-BACKLOG/Respiration.md",
+    "888-BACKLOG/2023-10-02-GAH.md",
+    "Glossaries/B Glossary/Antennae complex.md",
+    "Glossaries/B Glossary/Thylakoid.md",
+    "Glossaries/C Glossary/Kp.md",
+    "Glossaries/B Glossary/Accessory pigment.md",
+    "Glossaries/B Glossary/Photosynthetic pigment.md",
     "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
     "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
-    "888-BACKLOG/2023-10-02-GAH.md",
     "Personal/Journal/Daily notes/2023-10-04.md",
     "888-BACKLOG/2023-10-04-GAH.md",
     "Lessons/Chem lessons/00-ST/2023-10-04-ST.md",
@@ -275,13 +282,6 @@
     "Personal/Journal/Daily notes/2023-10-03.md",
     "888-BACKLOG/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
-    "888-BACKLOG/2023-10-03-LE.md",
-    "000-Biology/B Module 5/5.5/5.5.11.md",
-    "000-Biology/B Module 5/5.5/B5.5.md",
-    "000-Biology/B Module 5/5.5/5.5.10.md",
-    "000-Biology/B Module 5/5.5/5.5.9.md",
-    "000-Biology/B Module 5/5.5/5.5.8.md",
     "000-Assessment points",
     "999-CSS",
     "Personal/Personality types/Jungian functions",
