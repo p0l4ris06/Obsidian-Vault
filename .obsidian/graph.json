@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -109,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08335563694297324,
+  "scale": 0.22861661673029307,
   "close": true
 }

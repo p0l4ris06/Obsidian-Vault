@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8a370cacea50d65b",
+        "id": "2f91024d4df3641d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9a83d85bc1f47d",
+            "id": "015c17a88dfdc9db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,34 +220,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c9a83d85bc1f47d",
+  "active": "015c17a88dfdc9db",
   "lastOpenFiles": [
+    "000-Maths/Pure Y1/M-P Chapter 1/M-P Chapter 1.md",
+    "000-Maths/Pure Y1/M-P Chapters/M-P Chapters.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
+    "Home.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.6.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
+    "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
+    "000-Chemistry/C Module 6/Chapter 28/C28.3.md",
+    "000-Chemistry/C Module 6/Chapter 28/C28.2.md",
+    "000-Chemistry/C Module 6/Chapter 28/C28.1.md",
+    "000-Chemistry/C Module 6/Chapter 27/C27.3.md",
+    "000-Chemistry/C Module 6/Chapter 27/C27.2.md",
+    "000-Chemistry/C Module 6/Chapter 27/C27.1.md",
+    "000-Chemistry/C Module 6/Chapter 26/C26.4.md",
+    "000-Chemistry/C Module 6/Chapter 26/C26.3.md",
+    "000-Chemistry/C Module 6/Chapter 26/C26.2.md",
+    "000-Chemistry/C Module 6/Chapter 26/C26.1.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.3.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.2.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.1.md",
     "000-Chemistry/C Module 5/Chapter 24/C24.5.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.3.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.4.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.2.md",
-    "000-Chemistry/C Module 5/Chapter 24/C24.1.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.6.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.5.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.4.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.3.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.2.md",
-    "000-Chemistry/C Module 5/Chapter 23/C23.1.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.5.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.4.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.3.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.2.md",
-    "000-Chemistry/C Module 5/Chapter 22/C22.1.md",
-    "000-Chemistry/C Module 5/Chapter 21/C21.3.md",
-    "000-Chemistry/C Module 5/Chapter 21/C21.2.md",
-    "000-Chemistry/C Module 5/Chapter 21/C21.1.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.5.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.4.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.2.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
-    "000-Chemistry/C Module 5/Chapter 19/C19.3.md",
-    "000-Chemistry/C Module 5/Chapter 19/Chapter 19.md",
     "000-Maths/Pure Y2/M-P2 Chapter 12",
     "000-Maths/Pure Y2/M-P2 Chapter 11",
     "000-Maths/Pure Y2/M-P2 Chapter 10",
