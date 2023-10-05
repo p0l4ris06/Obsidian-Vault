@@ -1,8 +1,8 @@
 [[Chapter 25]]
-[[Chapter  26]]
+[[Chapter 26]]
 [[Chapter 27]]
 [[Chapter 28]]
 [[Chapter 29]]
 
-#C-Module #Backlog
+#000-Chemistry/Module 
 #Organic 
