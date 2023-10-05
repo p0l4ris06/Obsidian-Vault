@@ -1,8 +1,8 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -85,17 +85,17 @@
       }
     },
     {
-      "query": "path: \"111-Work experience\"  ",
+      "query": "path:\"Lessons/\"  ",
       "color": {
         "a": 1,
-        "rgb": 3407728
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Lessons/Support lessons\"  ",
+      "query": "path: \"111-Work experience\"  ",
       "color": {
         "a": 1,
-        "rgb": 16732754
+        "rgb": 5431378
       }
     }
   ],
@@ -109,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.0830213026037704,
+  "scale": 0.10643939533092117,
   "close": true
 }

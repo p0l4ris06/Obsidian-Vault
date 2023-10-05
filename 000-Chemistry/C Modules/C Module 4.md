@@ -6,5 +6,5 @@
 [[Chapter 16]]
 [[Chapter 17]]
 
-#C-Module 
+#000-Chemistry/Module 
 #Organic
