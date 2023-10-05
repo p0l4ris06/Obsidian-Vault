@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f839f991a38ef77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md"
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md"
               }
             }
           },
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+                "file": "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,12 +220,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f839f991a38ef77",
+  "active": "3c9a83d85bc1f47d",
   "lastOpenFiles": [
-    "000-Maths/Pure Y1/M-P Chapters/M-P Chapters.md",
-    "000-Maths/Pure Y2/M-P2 Chapters",
-    "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+    "Double-angle formulae.md",
+    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+    "000-Maths/Pure Y1/M-P Chapter 7/M-P 7.3.md",
+    "000-Maths/Pure Y1/M-P Chapter 7/M-P 7.2.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "000-Maths/Pure Y1/M-P Chapter 7/M-P 7.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.8.md",
+    "000-Maths/Pure Y1/M-P Chapter 5/M-P Chapter 5.md",
+    "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 Chapter 3.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P Chapter 3.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
+    "000-Maths/Pure Y1/M-P Chapters/M-P Chapters.md",
+    "000-Maths/Pure Y1/M-P Chapter 7/M-P Chapter 7.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 7/M-P2 7.1.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 7",
+    "000-Maths/Pure Y2/M-P2 Chapters",
     "Home.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.7.md",
@@ -250,21 +249,9 @@
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.4.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.5.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.6.md",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
     "000-Maths/Pure Y2",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P Chapter 3.md",
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.7.md",
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.4.md",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.3.md",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.2.md",
-    "Arithmetic series.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.1.md",
-    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
-    "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md",
-    "Geometric sequence.md",
-    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md",
     "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
@@ -276,7 +263,6 @@
     "Personal/Personality types/Seeking types",
     "Personal/Personality types/Jungian functions",
     "Photos/Biology Photos/Pasted image 20230718105321.png",
-    "Personal/Journal/Weekly reviews",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Photos/Maths photos/Pasted image 20230920172830.png",
