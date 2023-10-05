@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -109,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.07966716063694151,
+  "scale": 0.07421203340150999,
   "close": true
 }

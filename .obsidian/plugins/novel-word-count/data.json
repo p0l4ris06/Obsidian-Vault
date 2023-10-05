@@ -2610,14 +2610,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 26,
+      "characterCount": 23,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696240467983,
-      "modifiedDate": 1696240467984,
-      "sizeInBytes": 26
+      "modifiedDate": 1696500100286,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-SK/2023-09-28-SK.md": {
       "isCountable": true,
@@ -2633,25 +2633,25 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695890272675,
-      "modifiedDate": 1695890313884,
+      "modifiedDate": 1696500098211,
       "sizeInBytes": 70
     },
     "Lessons/Maths lessons/00-SK/2023-09-22-SK.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.3,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802739505,
-      "modifiedDate": 1695802739505,
-      "sizeInBytes": 0
+      "modifiedDate": 1696500095368,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-SK/2023-09-21-SK.md": {
       "isCountable": true,
@@ -2661,31 +2661,31 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 26,
+      "characterCount": 23,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261300,
-      "modifiedDate": 1695629261300,
-      "sizeInBytes": 26
+      "modifiedDate": 1696500086335,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-LE/2023-09-28-LE.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.3,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695896988207,
-      "modifiedDate": 1695896988207,
-      "sizeInBytes": 0
+      "modifiedDate": 1696500062547,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-LE/2023-10-03-LE.md": {
       "isCountable": true,
@@ -2695,14 +2695,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 26,
+      "characterCount": 23,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846653,
-      "modifiedDate": 1696489846653,
-      "sizeInBytes": 26
+      "modifiedDate": 1696500065318,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md": {
       "isCountable": true,
@@ -2718,7 +2718,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695808465230,
-      "modifiedDate": 1695811632273,
+      "modifiedDate": 1696500049992,
       "sizeInBytes": 61
     },
     "Lessons/Maths lessons/00-LE/2023-10-04-LE.md": {
@@ -2729,14 +2729,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 26,
+      "characterCount": 23,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846661,
-      "modifiedDate": 1696489846661,
-      "sizeInBytes": 26
+      "modifiedDate": 1696500068203,
+      "sizeInBytes": 23
     },
     "Lessons/Maths lessons/00-LE/2023-09-26-LE.md": {
       "isCountable": true,
@@ -2752,7 +2752,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802739505,
-      "modifiedDate": 1695808494819,
+      "modifiedDate": 1696500046541,
       "sizeInBytes": 34
     },
     "Lessons/Maths lessons/00-LE/2023-09-19-LE.md": {
@@ -2763,14 +2763,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.9,
-      "characterCount": 422,
+      "characterCount": 406,
       "nonWhitespaceCharacterCount": 334,
       "linkCount": 3,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1695629261275,
-      "modifiedDate": 1695802739504,
-      "sizeInBytes": 422
+      "modifiedDate": 1696500020815,
+      "sizeInBytes": 406
     },
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md": {
       "isCountable": true,
@@ -2780,14 +2780,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 28,
+      "characterCount": 24,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261288,
-      "modifiedDate": 1695802739505,
-      "sizeInBytes": 28
+      "modifiedDate": 1696500044330,
+      "sizeInBytes": 24
     },
     "Lessons/Maths lessons/00-LE/2023-09-20-LE.md": {
       "isCountable": true,
@@ -2797,14 +2797,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 26,
+      "characterCount": 23,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261287,
-      "modifiedDate": 1695629261288,
-      "sizeInBytes": 26
+      "modifiedDate": 1696500041619,
+      "sizeInBytes": 23
     },
     "Lessons/Bio Lessons/00-SCW/2023-09-26-SCW.md": {
       "isCountable": true,
@@ -2963,18 +2963,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 11,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1,
-      "characterCount": 109,
-      "nonWhitespaceCharacterCount": 86,
+      "pageCount": 1,
+      "characterCount": 92,
+      "nonWhitespaceCharacterCount": 79,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846661,
-      "modifiedDate": 1696489846661,
-      "sizeInBytes": 109
+      "modifiedDate": 1696500197569,
+      "sizeInBytes": 92
     },
     "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md": {
       "isCountable": true,
@@ -2984,14 +2984,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 9.3,
-      "characterCount": 707,
-      "nonWhitespaceCharacterCount": 589,
+      "characterCount": 686,
+      "nonWhitespaceCharacterCount": 590,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261303,
-      "modifiedDate": 1695629261303,
-      "sizeInBytes": 707
+      "modifiedDate": 1696500181322,
+      "sizeInBytes": 686
     },
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isCountable": true,
@@ -3001,14 +3001,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 7.9,
-      "characterCount": 630,
+      "characterCount": 610,
       "nonWhitespaceCharacterCount": 528,
       "linkCount": 18,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1695911001885,
-      "modifiedDate": 1695981036785,
-      "sizeInBytes": 630
+      "modifiedDate": 1696500152939,
+      "sizeInBytes": 610
     },
     "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md": {
       "isCountable": true,
@@ -3024,7 +3024,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261302,
-      "modifiedDate": 1695911064432,
+      "modifiedDate": 1696500146478,
       "sizeInBytes": 22
     },
     "Lessons/Chem lessons/00-ST/2023-10-04-ST.md": {
@@ -3035,14 +3035,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4,
-      "characterCount": 40,
+      "characterCount": 37,
       "nonWhitespaceCharacterCount": 31,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846653,
-      "modifiedDate": 1696489846653,
-      "sizeInBytes": 40
+      "modifiedDate": 1696500009712,
+      "sizeInBytes": 37
     },
     "Lessons/Chem lessons/00-ST/2023-10-02-ST.md": {
       "isCountable": true,
@@ -3052,14 +3052,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 114,
+      "characterCount": 105,
       "nonWhitespaceCharacterCount": 92,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846653,
-      "modifiedDate": 1696489846653,
-      "sizeInBytes": 114
+      "modifiedDate": 1696499995983,
+      "sizeInBytes": 105
     },
     "Lessons/Chem lessons/00-ST/2023-09-25-ST.md": {
       "isCountable": true,
@@ -3075,7 +3075,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695639879889,
-      "modifiedDate": 1695641217999,
+      "modifiedDate": 1696499981302,
       "sizeInBytes": 46
     },
     "Lessons/Chem lessons/00-ST/2023-09-27-ST.md": {
@@ -3092,7 +3092,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695802804969,
-      "modifiedDate": 1695804494804,
+      "modifiedDate": 1696499989915,
       "sizeInBytes": 169
     },
     "Lessons/Chem lessons/00-ST/2023-09-20-ST.md": {
@@ -3109,7 +3109,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261273,
-      "modifiedDate": 1695652704022,
+      "modifiedDate": 1696499976293,
       "sizeInBytes": 46
     },
     "Lessons/Chem lessons/00-ST/2023-09-18-ST.md": {
@@ -3126,7 +3126,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695629261265,
-      "modifiedDate": 1695649469895,
+      "modifiedDate": 1696499968186,
       "sizeInBytes": 71
     },
     "Lessons/Chem lessons/00-APH/2023-09-29-APH.md": {
@@ -19459,11 +19459,11 @@
       "pageCount": 0.4,
       "characterCount": 45,
       "nonWhitespaceCharacterCount": 39,
-      "linkCount": 0,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696499674651,
-      "modifiedDate": 1696499701788,
+      "modifiedDate": 1696500103672,
       "sizeInBytes": 45
     },
     "Lessons/Maths lessons/00-LE/2023-10-05-LE.md": {
@@ -19480,8 +19480,42 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696499732994,
-      "modifiedDate": 1696499743354,
+      "modifiedDate": 1696500071668,
       "sizeInBytes": 17
+    },
+    "Arithmetic sequence.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696500107074,
+      "modifiedDate": 1696500117183,
+      "sizeInBytes": 35
+    },
+    "Geometric sequence.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696500119518,
+      "modifiedDate": 1696500128984,
+      "sizeInBytes": 35
     }
   }
 }

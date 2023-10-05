@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e380c1846ff1bfde",
+        "id": "b5f657bbe8df6e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8cf79bf607a93a",
+            "id": "ccd20ae15c4a2ad2",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "17901cc9b69d9437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18-ST.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +162,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-09-18-ST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,37 +210,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17901cc9b69d9437",
+  "active": "ccd20ae15c4a2ad2",
   "lastOpenFiles": [
-    "Lessons/Chem lessons/00-APH/2023-09-29-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-22-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-21-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-15-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-09-14-APH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-26-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-29-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-22-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
-    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
-    "Lessons/Maths lessons/00-LE/2023-10-05-LE.md",
-    "Personal/Journal/Daily notes/2023-10-05.md",
-    "Lessons/Maths lessons/00-SK/2023-10-05-SK.md",
-    "888-BACKLOG/M-Differentiation.md",
-    "Glossaries/B Glossary/Differentiation.md",
-    "888-BACKLOG/Sampling units.md",
     "Home.md",
+    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
+    "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md",
+    "Geometric sequence.md",
+    "Lessons/Maths lessons/00-SK/2023-09-28-SK.md",
+    "Arithmetic sequence.md",
+    "Lessons/Maths lessons/00-SK/2023-09-22-SK.md",
+    "Lessons/Maths lessons/00-SK/2023-10-05-SK.md",
+    "Lessons/Maths lessons/00-SK/2023-09-29-SK.md",
+    "Lessons/Maths lessons/00-SK/2023-09-21-SK.md",
+    "Lessons/Maths lessons/00-LE/2023-10-05-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-10-04-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-10-03-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-28-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-10-04-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
-    "Personal/Journal/Weekly reviews/2023-W40.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
-    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
     "999-CSS",
     "Personal/Journal/Daily notes/2023-10",
     "000-Assessment points",
