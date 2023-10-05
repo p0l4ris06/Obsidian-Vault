@@ -85,7 +85,7 @@
       }
     },
     {
-      "query": "path:\"Lessons/Support lessons\"  ",
+      "query": "path:\"Lessons/\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -109,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.08367797900256824,
+  "scale": 0.07966716063694151,
   "close": true
 }
