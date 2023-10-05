@@ -11,8 +11,13 @@
             "id": "ccd20ae15c4a2ad2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,8 +220,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccd20ae15c4a2ad2",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P Chapter 3.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.8.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.7.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.4.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.3.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.1.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.2.md",
+    "Arithmetic series.md",
+    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.1.md",
     "Home.md",
     "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
     "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
@@ -229,15 +248,6 @@
     "Lessons/Maths lessons/00-LE/2023-10-03-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-28-LE.md",
     "Lessons/Maths lessons/00-LE/2023-09-27-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-26-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-20-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-09-19-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-10-04-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-09-27-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-09-25-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-09-20-ST.md",
     "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
