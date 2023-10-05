@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"Personal/Journal/\"  ",
+      "query": "path:\"Personal/Journal/Daily notes\"  ",
       "color": {
         "a": 1,
         "rgb": 16187014
@@ -83,20 +83,6 @@
         "a": 1,
         "rgb": 14725458
       }
-    },
-    {
-      "query": "path: \"111-Work experience\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3407728
-      }
-    },
-    {
-      "query": "path:\"Lessons/Support lessons\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16732754
-      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +95,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.16318302325113293,
+  "scale": 0.12204930737146379,
   "close": true
 }

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "86323176ac906fec",
+        "id": "bead76aec8d92528",
         "type": "tabs",
         "children": [
           {
-            "id": "870971370e7c7c75",
+            "id": "055316f1972e4aa0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#i/books",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
     "id": "796782712381c878",
@@ -74,10 +79,10 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 38.84615384615385,
+        "dimension": 41.75,
         "children": [
           {
-            "id": "9fd7f7f03570b440",
+            "id": "b9924dd09d2a4d1f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -85,7 +90,7 @@
             }
           },
           {
-            "id": "42ae479202e1e3ae",
+            "id": "3d1dd6ca96decb57",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -95,19 +100,30 @@
             }
           },
           {
-            "id": "a08fab39121d73d9",
+            "id": "1cbfc07ecf2f4cc7",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "7bffe46973d8564f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c1bd03f399390851",
         "type": "tabs",
-        "dimension": 61.15384615384616,
+        "dimension": 58.25,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -126,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,66 +166,24 @@
             }
           },
           {
-            "id": "96b8fd2cd371829e",
+            "id": "33c132fab32f09fc",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#B-definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3732178
-                      }
-                    },
-                    {
-                      "query": "tag:#C-definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9261803
-                      }
-                    },
-                    {
-                      "query": "path:Personal/Birds  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3407472
-                      }
-                    },
-                    {
-                      "query": "path:000-Maths  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16678124
-                      }
-                    },
-                    {
-                      "query": "path:000-Chemistry  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7288227
-                      }
-                    },
-                    {
-                      "query": "path:000-Biology  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5549776
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -218,7 +194,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012123,
+                  "scale": 0.4120128619953782,
                   "close": true
                 }
               }
@@ -229,69 +205,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Week plan": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "obsidian-day-planner:Week plan": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "870971370e7c7c75",
+  "active": "055316f1972e4aa0",
   "lastOpenFiles": [
-    "000-Chemistry/C Module 4/Chapter 13/C13.3.md",
-    "888-BACKLOG/Halogen.md",
-    "Templates/Book Notes Template.md",
-    "888-BACKLOG/Secondary amine.md",
-    "Templates/Todays notes.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
-    "Glossaries/C Glossary/Deuterated solvents.md",
-    "Glossaries/C Glossary/Deuterium.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.6.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
+    "Home.md",
+    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
+    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
+    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
+    "Personal/Journal/Weekly reviews/2023-W40.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
+    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
+    "Lessons/Maths lessons/00-LE/2023-10-04-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-10-03-LE.md",
+    "Lessons/Chem lessons/00-ST/2023-10-04-ST.md",
+    "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
+    "Glossaries/C Glossary/TMS.md",
     "Glossaries/C Glossary/Proton NMR.md",
     "Glossaries/C Glossary/NMR.md",
-    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
-    "Pasted image 20231004194236.png",
-    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
-    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
-    "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
+    "Glossaries/C Glossary/Kp.md",
+    "Glossaries/C Glossary/Deuterium.md",
+    "Glossaries/C Glossary/Deuterated solvents.md",
     "Glossaries/C Glossary/Carbon-13 NMR.md",
-    "Glossaries/C Glossary/TMS.md",
-    "Glossaries/B Glossary/Chromatography.md",
-    "000-Biology/B Module 3/3.1/3.1.4.md",
-    "000-Biology/B Module 3/3.1/3.1.5.md",
-    "000-Biology/B Module 3/3.1/3.1.3.md",
-    "000-Biology/B Module 3/3.1/3.1.2.md",
-    "000-Biology/B Module 3/3.1/3.1.1.md",
-    "Glossaries/B Glossary/Spiracle.md",
-    "Glossaries/B Glossary/Operculum.md",
-    "000-Assessment points",
+    "Glossaries/B Glossary/Calvin cycle.md",
+    "000-Biology/B Module 5/5.7/5.7.2.md",
+    "000-Biology/B Module 5/5.7/5.7.1.md",
+    "000-Biology/B Module 5/5.5/5.5.9.md",
+    "000-Biology/B Module 5/5.5/5.5.8.md",
+    "000-Biology/B Module 5/5.5/5.5.7.md",
+    "000-Biology/B Module 5/5.5/5.5.6.md",
+    "000-Biology/B Module 5/5.5/5.5.5.md",
+    "000-Biology/B Module 5/5.5/5.5.4.md",
     "999-CSS",
-    "Personal/Personality types/Jungian functions",
+    "Personal/Journal/Daily notes/2023-10",
+    "000-Assessment points",
     "Photos/Biology Photos/Pasted image 20230928153000.png",
-    "Personal/Personality types/Seeking types",
     "Personal/Personality types/MBTI Types",
+    "Personal/Personality types/Seeking types",
+    "Personal/Personality types/Jungian functions",
+    "Photos/Biology Photos/Pasted image 20230718105321.png",
     "Personal/Journal/Weekly reviews",
     "Personal/Journal/Monthly reviews",
     "Personal/John Mavrick Tools/Books",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "888-BACKLOG",
-    "Photos/Chemistry Photos/Pasted image 20230920175235.png",
+    "Untitled 1",
     "Photos/Maths photos/Pasted image 20230920172830.png",
-    "Photos/Maths photos",
     "Photos/Maths photos/Pasted image 20230920172735.png",
-    "Glossaries/B Glossary/Domains and kingdoms.canvas"
+    "Glossaries/B Glossary/Domains and kingdoms.canvas",
+    "Photos/Chemistry Photos/Pasted image 20230824174600.png",
+    "Untitled.canvas"
   ]
 }
