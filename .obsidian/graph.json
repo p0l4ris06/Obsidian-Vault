@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#B-definition  ",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"Personal/Journal/Daily notes\"  ",
+      "query": "path:\"Personal/Journal/\"  ",
       "color": {
         "a": 1,
         "rgb": 16187014
@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Lessons/Support lessons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path: \"111-Work experience\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.06927104404539752,
+  "scale": 0.08367797900256824,
   "close": true
 }
