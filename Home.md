@@ -1,5 +1,5 @@
 ## Tasks
-- [ ] [[000-C Kinetics AP1]]⏳ 2023-10-04 ⏫ 
+- [x] [[000-C Kinetics AP1]] ⏫ ⏳ 2023-10-04 ✅ 2023-10-05
 - [ ] [[000-C Analytical Techniques AP2]]⏳ 2023-10-06 ⏫ 
 ---
 ## [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
