@@ -1,4 +1,3 @@
-Tags: #M-P
+Tags: #000-Maths/P1
 
 ---
-[[Recurrence relations]]
