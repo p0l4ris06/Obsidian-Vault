@@ -11,30 +11,11 @@
             "id": "fc091f6b1bac8199",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1177e7a56bdcef32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-07.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-07.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,18 +244,22 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "1177e7a56bdcef32",
+  "active": "fc091f6b1bac8199",
   "lastOpenFiles": [
-    "2023-10-06.md",
-    "2023-10-07.md",
     "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
+    "888-BACKLOG/2023-10-06-SCW.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
+    "Lessons/Chem lessons/00-APH/2023-10-06-APH.md",
+    "888-BACKLOG/2023-10-06-SK.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-10-05-BS.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
     "Home.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
     "2023-10-06",
     "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Lessons/Maths lessons/00-SK/2023-10-05-SK.md",
     "Lessons/Chem lessons/00-APH/2023-10-05-APH.md",
-    "2023-10-05-BS.md",
     "000-Maths/Pure Y1/M-P Chapter 6/M-P Chapter 6.md",
     "000-Maths/Pure Y1/M-P Chapter 6/M-P 6.5.md",
     "000-Maths/Pure Y1/M-P Chapter 6/M-P 6.4.md",
@@ -293,10 +273,6 @@
     "000-Maths/Pure Y1/M-P Chapter 9/M-P 9.4.md",
     "000-Maths/Pure Y1/M-P Chapter 9/M-P 9.3.md",
     "000-Maths/Pure Y1/M-P Chapter 9/M-P 9.2.md",
-    "000-Maths/Pure Y1/M-P Chapter 9/M-P 9.1.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P Chapter 8.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.5.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.4.md",
     "000-Maths/Pure Y1/M-P Chapter 6",
     "000-Maths/Pure Y1/M-P Chapters",
     "000-Maths/Pure Y1/M-P Chapter 9",

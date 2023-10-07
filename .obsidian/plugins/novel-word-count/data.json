@@ -4990,14 +4990,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 25,
+      "characterCount": 22,
       "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529480168,
-      "modifiedDate": 1696529480169,
-      "sizeInBytes": 25
+      "modifiedDate": 1696716114759,
+      "sizeInBytes": 22
     },
     "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md": {
       "isCountable": true,
@@ -13907,23 +13907,6 @@
       "modifiedDate": 1696339531032,
       "sizeInBytes": 33
     },
-    "2023-10-05-BS.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 66,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696529854966,
-      "modifiedDate": 1696529883808,
-      "sizeInBytes": 76
-    },
     "000-Maths/Stats/M-S Chapters/M-S Chapters.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -20078,7 +20061,7 @@
       "modifiedDate": 1696715821461,
       "sizeInBytes": 653
     },
-    "2023-10-06.md": {
+    "Personal/Journal/Daily notes/2023-10/2023-10-06.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -20088,14 +20071,14 @@
       "pageCount": 0.31,
       "characterCount": 617,
       "nonWhitespaceCharacterCount": 516,
-      "linkCount": 9,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696716037864,
       "modifiedDate": 1696716046076,
       "sizeInBytes": 627
     },
-    "2023-10-07.md": {
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -20105,12 +20088,80 @@
       "pageCount": 0.2833333333333333,
       "characterCount": 511,
       "nonWhitespaceCharacterCount": 418,
-      "linkCount": 4,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696716048091,
       "modifiedDate": 1696716100813,
       "sizeInBytes": 523
+    },
+    "Lessons/Support lessons/00-BS-SCW/2023-10-05-BS.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 76,
+      "nonWhitespaceCharacterCount": 66,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696529854966,
+      "modifiedDate": 1696529883808,
+      "sizeInBytes": 76
+    },
+    "888-BACKLOG/2023-10-06-SK.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 26,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696716128257,
+      "modifiedDate": 1696716258545,
+      "sizeInBytes": 32
+    },
+    "Lessons/Chem lessons/00-APH/2023-10-06-APH.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 53,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696716271003,
+      "modifiedDate": 1696716294406,
+      "sizeInBytes": 62
+    },
+    "888-BACKLOG/2023-10-06-SCW.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 27,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696716312702,
+      "modifiedDate": 1696716323993,
+      "sizeInBytes": 33
     }
   }
 }
