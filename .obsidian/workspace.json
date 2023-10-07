@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-10-06",
+                "query": "2023-10-05-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,12 +247,12 @@
   },
   "active": "fc091f6b1bac8199",
   "lastOpenFiles": [
+    "Lessons/Support lessons/00-BS-SCW/2023-10-05-BS.md",
     "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
     "888-BACKLOG/2023-10-06-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
     "Lessons/Chem lessons/00-APH/2023-10-06-APH.md",
     "888-BACKLOG/2023-10-06-SK.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-10-05-BS.md",
     "Lessons/Support lessons/00-BS-SCW/2023-09-21-BS.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
     "Home.md",
