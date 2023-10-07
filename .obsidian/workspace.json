@@ -11,11 +11,30 @@
             "id": "fc091f6b1bac8199",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1177e7a56bdcef32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#i/books",
+                "query": "2023-10-06",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-10-07.md"
+              }
             }
           }
         ]
@@ -126,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-10-07.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-10-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,9 +268,14 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "fc091f6b1bac8199",
+  "active": "1177e7a56bdcef32",
   "lastOpenFiles": [
+    "2023-10-06.md",
+    "2023-10-07.md",
+    "Lessons/Chem lessons/00-ST/2023-10-02-ST.md",
     "Home.md",
+    "000-Assessment points/000-C Analytical Techniques AP2.md",
+    "2023-10-06",
     "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Lessons/Maths lessons/00-SK/2023-10-05-SK.md",
     "Lessons/Chem lessons/00-APH/2023-10-05-APH.md",
@@ -268,10 +297,6 @@
     "000-Maths/Pure Y1/M-P Chapter 8/M-P Chapter 8.md",
     "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.5.md",
     "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.4.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.3.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.2.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.1.md",
-    "000-Maths/Pure Y1/M-P Chapter 7/M-P Chapter 7.md",
     "000-Maths/Pure Y1/M-P Chapter 6",
     "000-Maths/Pure Y1/M-P Chapters",
     "000-Maths/Pure Y1/M-P Chapter 9",
@@ -281,7 +306,6 @@
     "000-Maths/Pure Y1/M-P Chapter 5",
     "000-Maths/Pure Y1/M-P Chapter 3",
     "000-Maths/Pure Y1/M-P Chapter 2",
-    "000-Maths/Pure Y1/M-P Chapter 14",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
     "Pasted image 20231004194236.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
