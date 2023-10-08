@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Border",
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",

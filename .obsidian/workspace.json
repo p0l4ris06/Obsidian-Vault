@@ -11,8 +11,13 @@
             "id": "d8ede9780122bc58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "888-BACKLOG/2023-10-06-SCW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#000-Biology/Chapter",
+                "query": "tag:#2023-10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "888-BACKLOG/2023-10-06-SCW.md"
+              }
             }
           }
         ]
@@ -126,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,8 +254,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8ede9780122bc58",
+  "active": "816bc890b20f2733",
   "lastOpenFiles": [
+    "888-BACKLOG/2023-10-03-SCW.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
@@ -266,14 +285,6 @@
     "M-S-Chapters.md",
     "Photos/Maths photos/Pasted image 20231008121920.png",
     "Photos/Maths photos/Pasted image 20231008121900.png",
-    "Obsidian MD Tools/Templates/Book Application Template.md",
-    "Glossaries/C Glossary/Bond angles/Trigonal planar.md",
-    "Glossaries/C Glossary/Bond angles/Pyramidal.md",
-    "Glossaries/C Glossary/Bond angles/Non-linear.md",
-    "Glossaries/C Glossary/Bond angles/Tetrahedral.md",
-    "Glossaries/C Glossary/Bond angles/Octahedral.md",
-    "Glossaries/C Glossary/Bond angles/Linear.md",
-    "888-BACKLOG/2023-10-04-GAH.md",
     "Obsidian MD Tools",
     "Personal/Other",
     "000-Biology/B Module 6/6.4",
