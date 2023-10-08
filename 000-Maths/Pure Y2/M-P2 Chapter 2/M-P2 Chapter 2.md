@@ -1,4 +1,4 @@
-Tags: #M-P2/Chapters 
+Tags: #000-Maths/P2/Chapters 
 
 ---
 [[M-P2 2.1]]

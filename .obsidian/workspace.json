@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
+                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#M-S",
+                "query": "tag:#writings/bookapplications",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md"
+                "file": "Obsidian MD Tools/Templates/Book Application Template.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
+                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
+                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
+                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +256,21 @@
   },
   "active": "d8ede9780122bc58",
   "lastOpenFiles": [
+    "Glossaries/C Glossary/Bond angles/Trigonal planar.md",
+    "Glossaries/C Glossary/Bond angles/Pyramidal.md",
+    "Glossaries/C Glossary/Bond angles/Non-linear.md",
+    "Glossaries/C Glossary/Bond angles/Tetrahedral.md",
+    "Glossaries/C Glossary/Bond angles/Octahedral.md",
+    "Glossaries/C Glossary/Bond angles/Linear.md",
+    "888-BACKLOG/2023-10-04-GAH.md",
+    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
+    "000-Maths/Pure Y1/M-P Chapter 1/M-P Chapter 1.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 1/M-P2 Chapter 1.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
+    "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
+    "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
+    "M-S-Chapters.md",
+    "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md",
     "Glossaries/C Glossary/Orbitals/Atomic orbitals.md",
     "Obsidian MD Tools/Templates/To Do's.md",
@@ -264,26 +279,11 @@
     "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
     "888-BACKLOG/Citric acid cycle.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
     "Modulus function.md",
     "Monthly Reviews.md",
     "Obsidian MD Tools",
     "Personal/Other",
     "Glossaries/C Glossary/Activation energy.md",
-    "888-BACKLOG/Arithmetic sequence.md",
-    "Glossaries/B Glossary/Active immunity.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 Chapter 2.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.7.md",
-    "000-Assessment points/000-M AP6.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.5.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.6.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.1.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.2.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.3.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.4.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 Chapter 5.md",
     "000-Biology/B Module 6/6.4",
     "2023-10-06",
     "000-Maths/Pure Y1/M-P Chapter 6",

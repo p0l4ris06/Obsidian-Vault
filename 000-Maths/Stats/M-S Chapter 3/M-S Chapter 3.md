@@ -4,4 +4,4 @@
 [[M-S 3.4]]
 [[M-S 3.5]]
 
-#M-S-Chapters 
+#000-Maths/S1/Chapters 

@@ -5,4 +5,4 @@
 [[M-P2 3.6]]
 [[M-P2 3.7]]
 [[M-P2 3.8]]
-#M-P2/Chapters 
+#000-Maths/P2/Chapters 
