@@ -11,13 +11,8 @@
             "id": "d8ede9780122bc58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,12 +239,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "d8ede9780122bc58",
   "lastOpenFiles": [
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
     "Glossaries/M Glossary/Composite function.md",
@@ -283,7 +274,6 @@
     "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md",
     "Obsidian MD Tools",
     "Personal/Other",
     "000-Biology/B Module 6/6.4",
