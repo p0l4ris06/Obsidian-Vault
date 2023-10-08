@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfaaf69eb52ce16d",
+        "id": "37a43e5d0650dd19",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ede9780122bc58",
+            "id": "6cfae4167a33ffea",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -243,13 +243,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8ede9780122bc58",
+  "active": "6cfae4167a33ffea",
   "lastOpenFiles": [
+    "Home.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
     "888-BACKLOG/2023-10-06-SCW.md",
     "888-BACKLOG/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
@@ -271,7 +272,6 @@
     "Glossaries/M Glossary/Many-to-one.md",
     "Glossaries/M Glossary/One-to-one.md",
     "Photos/Maths photos/Pasted image 20231008121945.png",
-    "Glossaries/M Glossary/Census.md",
     "Photos/Maths photos/Pasted image 20231008121920.png",
     "Photos/Maths photos/Pasted image 20231008121900.png",
     "Obsidian MD Tools",
