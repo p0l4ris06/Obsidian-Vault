@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Assessment points/000-M AP6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc2cc3964aed216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md"
               }
             }
           }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,10 +254,17 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "fbc2cc3964aed216",
+  "active": "d8ede9780122bc58",
   "lastOpenFiles": [
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 Chapter 2.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.7.md",
     "000-Assessment points/000-M AP6.md",
-    "Untitled.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.5.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.6.md",
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.3.md",
@@ -289,13 +282,6 @@
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.8.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.9.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.10.md",
-    "000-Maths/Pure Y1/M-P Chapter 2/M-P 2.1.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 Chapter 9.md",
-    "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 12/M-P2 Chapter 12.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 11/M-P2 Chapter 11.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 10/M-P2 Chapter 10.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 8/M-P2 Chapter 8.md",
     "000-Biology/B Module 6/6.4",
     "2023-10-06",
     "000-Maths/Pure Y1/M-P Chapter 6",
