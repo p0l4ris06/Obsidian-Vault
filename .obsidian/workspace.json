@@ -11,13 +11,8 @@
             "id": "d8ede9780122bc58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "888-BACKLOG/2023-10-06-SCW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2023-10",
+                "query": "tag:#000-Subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "888-BACKLOG/2023-10-06-SCW.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/2023-10-06-SCW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,10 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "816bc890b20f2733",
+  "active": "d8ede9780122bc58",
   "lastOpenFiles": [
-    "888-BACKLOG/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
+    "888-BACKLOG/2023-10-06-SCW.md",
+    "888-BACKLOG/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
@@ -282,7 +272,6 @@
     "Glossaries/M Glossary/One-to-one.md",
     "Photos/Maths photos/Pasted image 20231008121945.png",
     "Glossaries/M Glossary/Census.md",
-    "M-S-Chapters.md",
     "Photos/Maths photos/Pasted image 20231008121920.png",
     "Photos/Maths photos/Pasted image 20231008121900.png",
     "Obsidian MD Tools",
