@@ -3,10 +3,10 @@ started: <%tp.date.now("YYYY-MM-DD")%>
 finished:
 rating:
 ---
-Status:: #📥/
+
 Author:: [[]]
 Medium:: [[My Books]]
-Tags:: #i/books
+Tags:: 
 Links: [[<%tp.file.title%> Application]]
 ___
 # <%tp.file.title%>

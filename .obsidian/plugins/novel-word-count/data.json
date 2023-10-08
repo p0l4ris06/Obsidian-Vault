@@ -8747,14 +8747,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.1,
-      "characterCount": 186,
-      "nonWhitespaceCharacterCount": 148,
+      "characterCount": 211,
+      "nonWhitespaceCharacterCount": 173,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405584,
-      "modifiedDate": 1694949405584,
-      "sizeInBytes": 186
+      "modifiedDate": 1696763335270,
+      "sizeInBytes": 211
     },
     "Glossaries/C Glossary/Orbitals/p-orbitals.md": {
       "isCountable": true,
@@ -8764,14 +8764,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.14666666666666667,
-      "characterCount": 265,
-      "nonWhitespaceCharacterCount": 212,
+      "characterCount": 290,
+      "nonWhitespaceCharacterCount": 237,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405584,
-      "modifiedDate": 1694949405584,
-      "sizeInBytes": 265
+      "modifiedDate": 1696763335206,
+      "sizeInBytes": 290
     },
     "Glossaries/C Glossary/Orbitals/f-orbitals.md": {
       "isCountable": true,
@@ -8781,14 +8781,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05,
-      "characterCount": 95,
-      "nonWhitespaceCharacterCount": 72,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405583,
-      "modifiedDate": 1694949405583,
-      "sizeInBytes": 95
+      "modifiedDate": 1696763335178,
+      "sizeInBytes": 120
     },
     "Glossaries/C Glossary/Orbitals/d-orbitals.md": {
       "isCountable": true,
@@ -8798,14 +8798,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04666666666666667,
-      "characterCount": 88,
-      "nonWhitespaceCharacterCount": 68,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 93,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405582,
-      "modifiedDate": 1694949405582,
-      "sizeInBytes": 88
+      "modifiedDate": 1696763334986,
+      "sizeInBytes": 113
     },
     "Glossaries/C Glossary/Orbitals/Atomic orbitals.md": {
       "isCountable": true,
@@ -8815,14 +8815,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 79,
-      "nonWhitespaceCharacterCount": 65,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 90,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405582,
-      "modifiedDate": 1694949405582,
-      "sizeInBytes": 79
+      "modifiedDate": 1696763376683,
+      "sizeInBytes": 97
     },
     "Glossaries/C Glossary/Neutron.md": {
       "isCountable": true,
@@ -10300,7 +10300,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696443676431,
-      "modifiedDate": 1696762674343,
+      "modifiedDate": 1696763206915,
       "sizeInBytes": 57
     },
     "888-BACKLOG/Nitrosomonas.md": {
@@ -10334,7 +10334,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696443612618,
-      "modifiedDate": 1696762674157,
+      "modifiedDate": 1696763206786,
       "sizeInBytes": 57
     },
     "888-BACKLOG/Nitrobacter.md": {
@@ -10368,7 +10368,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696443665292,
-      "modifiedDate": 1696762674239,
+      "modifiedDate": 1696763206852,
       "sizeInBytes": 57
     },
     "888-BACKLOG/Citric acid cycle.md": {
@@ -10385,7 +10385,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696443655439,
-      "modifiedDate": 1696762673808,
+      "modifiedDate": 1696763206593,
       "sizeInBytes": 57
     },
     "888-BACKLOG/Chlorophyll.md": {
@@ -10453,7 +10453,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696443720165,
-      "modifiedDate": 1696762673971,
+      "modifiedDate": 1696763206720,
       "sizeInBytes": 57
     },
     "888-BACKLOG/Halogen.md": {
@@ -10651,14 +10651,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044328532,
-      "modifiedDate": 1695044373810,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428985,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 6/M-S Chapter 6.md": {
       "isCountable": true,
@@ -10685,14 +10685,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044329330,
-      "modifiedDate": 1695044374419,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763429059,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 6/M-S 6.1.md": {
       "isCountable": true,
@@ -10702,14 +10702,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044322721,
-      "modifiedDate": 1695044373293,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428907,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 5/M-S 5.4.md": {
       "isCountable": true,
@@ -10719,14 +10719,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044314976,
-      "modifiedDate": 1695044371618,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428838,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 5/M-S 5.2.md": {
       "isCountable": true,
@@ -10736,14 +10736,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044312291,
-      "modifiedDate": 1695044370475,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428693,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 5/M-S Chapter 5.md": {
       "isCountable": true,
@@ -10770,14 +10770,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044313777,
-      "modifiedDate": 1695044370981,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428760,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 5/M-S 5.1.md": {
       "isCountable": true,
@@ -10787,14 +10787,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044306035,
-      "modifiedDate": 1695044369912,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428615,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapters/M-S Chapters.md": {
       "isCountable": true,
@@ -10821,14 +10821,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044269167,
-      "modifiedDate": 1695044362993,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428318,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 3/M-S 3.3.md": {
       "isCountable": true,
@@ -10838,14 +10838,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044268365,
-      "modifiedDate": 1695044362298,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428233,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 3/M-S Chapter 3.md": {
       "isCountable": true,
@@ -10872,14 +10872,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044267568,
-      "modifiedDate": 1695044361500,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428154,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 3/M-S 3.5.md": {
       "isCountable": true,
@@ -10889,14 +10889,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044269983,
-      "modifiedDate": 1695044363699,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428399,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 3/M-S 3.1.md": {
       "isCountable": true,
@@ -10906,14 +10906,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044263031,
-      "modifiedDate": 1695044360878,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428014,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 7/M-S Chapter 7.md": {
       "isCountable": true,
@@ -10940,14 +10940,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044337616,
-      "modifiedDate": 1695044376606,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763429226,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 7/M-S 7.4.md": {
       "isCountable": true,
@@ -10957,14 +10957,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044340451,
-      "modifiedDate": 1695044379225,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763429352,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 7/M-S 7.3.md": {
       "isCountable": true,
@@ -10974,14 +10974,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044339082,
-      "modifiedDate": 1695044377081,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763429295,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 7/M-S 7.1.md": {
       "isCountable": true,
@@ -10991,14 +10991,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044333171,
-      "modifiedDate": 1695044375912,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763429154,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 2/M-S 2.4.md": {
       "isCountable": true,
@@ -11008,14 +11008,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044251774,
-      "modifiedDate": 1695044356581,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427860,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 2/M-S 2.5.md": {
       "isCountable": true,
@@ -11025,14 +11025,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044252864,
-      "modifiedDate": 1695044358083,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427936,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 2/M-S Chapter 2.md": {
       "isCountable": true,
@@ -11059,14 +11059,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044250838,
-      "modifiedDate": 1695044355821,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427784,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 2/M-S 2.2.md": {
       "isCountable": true,
@@ -11076,14 +11076,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044249483,
-      "modifiedDate": 1695044355030,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427708,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 2/M-S 2.1.md": {
       "isCountable": true,
@@ -11093,14 +11093,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044245159,
-      "modifiedDate": 1695044354300,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427618,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 4/M-S Chapter 4.md": {
       "isCountable": true,
@@ -11127,14 +11127,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044300294,
-      "modifiedDate": 1695044367951,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428549,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 4/M-S 4.1.md": {
       "isCountable": true,
@@ -11144,14 +11144,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044296933,
-      "modifiedDate": 1695044366894,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763428470,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md": {
       "isCountable": true,
@@ -11178,14 +11178,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044241512,
-      "modifiedDate": 1695044352514,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427540,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 1/M-S 1.4.md": {
       "isCountable": true,
@@ -11195,14 +11195,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044240603,
-      "modifiedDate": 1695044350376,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427460,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 1/M-S 1.3.md": {
       "isCountable": true,
@@ -11212,14 +11212,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044238430,
-      "modifiedDate": 1695044349724,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427341,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 1/M-S 1.2.md": {
       "isCountable": true,
@@ -11229,14 +11229,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 12,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695044230736,
-      "modifiedDate": 1695044348999,
-      "sizeInBytes": 17
+      "modifiedDate": 1696763427240,
+      "sizeInBytes": 26
     },
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md": {
       "isCountable": true,
@@ -11246,14 +11246,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04,
-      "characterCount": 95,
-      "nonWhitespaceCharacterCount": 81,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 90,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695043282975,
-      "modifiedDate": 1695046033921,
-      "sizeInBytes": 95
+      "modifiedDate": 1696763427198,
+      "sizeInBytes": 104
     },
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 Chapter 9.md": {
       "isCountable": true,
@@ -11450,14 +11450,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.23,
-      "characterCount": 267,
-      "nonWhitespaceCharacterCount": 188,
+      "characterCount": 276,
+      "nonWhitespaceCharacterCount": 197,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479788,
-      "modifiedDate": 1696529479789,
-      "sizeInBytes": 267
+      "modifiedDate": 1696763408317,
+      "sizeInBytes": 276
     },
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 Chapter 5.md": {
       "isCountable": true,
@@ -11535,14 +11535,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479747,
-      "modifiedDate": 1696529479749,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763408163,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 Chapter 3.md": {
       "isCountable": true,
@@ -11569,14 +11569,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479744,
-      "modifiedDate": 1696529479744,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763408092,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.8.md": {
       "isCountable": true,
@@ -11586,14 +11586,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 11,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479755,
-      "modifiedDate": 1696529479756,
-      "sizeInBytes": 11
+      "modifiedDate": 1696763408237,
+      "sizeInBytes": 20
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.5.md": {
       "isCountable": true,
@@ -11603,14 +11603,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479741,
-      "modifiedDate": 1696529479741,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763408021,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.4.md": {
       "isCountable": true,
@@ -11620,14 +11620,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479739,
-      "modifiedDate": 1696529479739,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763407944,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.3.md": {
       "isCountable": true,
@@ -11637,14 +11637,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479737,
-      "modifiedDate": 1696529479737,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763407758,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.2.md": {
       "isCountable": true,
@@ -11654,14 +11654,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479735,
-      "modifiedDate": 1696529479735,
-      "sizeInBytes": 13
+      "modifiedDate": 1696763407739,
+      "sizeInBytes": 22
     },
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md": {
       "isCountable": true,
@@ -11671,14 +11671,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 11,
-      "nonWhitespaceCharacterCount": 9,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 18,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479728,
-      "modifiedDate": 1696529479729,
-      "sizeInBytes": 11
+      "modifiedDate": 1696763407643,
+      "sizeInBytes": 20
     },
     "000-Maths/Pure Y2/M-P2 Chapter 11/M-P2 Chapter 11.md": {
       "isCountable": true,
@@ -19266,18 +19266,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 20,
-      "nonWhitespaceCharacterCount": 18,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 54,
+      "nonWhitespaceCharacterCount": 45,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696762239801,
-      "modifiedDate": 1696762266749,
-      "sizeInBytes": 20
+      "modifiedDate": 1696763187284,
+      "sizeInBytes": 54
     },
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md": {
       "isCountable": true,
@@ -20371,18 +20371,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 16,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 150,
-      "linkCount": 0,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 96,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695832840426,
-      "modifiedDate": 1695848395772,
-      "sizeInBytes": 179
+      "modifiedDate": 1696763263009,
+      "sizeInBytes": 160
     },
     "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md": {
       "isCountable": true,
@@ -20405,18 +20405,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 259,
-      "nonWhitespaceCharacterCount": 232,
-      "linkCount": 0,
+      "pageCount": 0.06,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 153,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695832939458,
-      "modifiedDate": 1695832939461,
-      "sizeInBytes": 261
+      "modifiedDate": 1696763296069,
+      "sizeInBytes": 238
     },
     "Obsidian MD Tools/Templates/Book Application Template.md": {
       "isCountable": true,
@@ -20541,18 +20541,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 67,
+      "wordCount": 66,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22333333333333333,
-      "characterCount": 373,
-      "nonWhitespaceCharacterCount": 304,
+      "pageCount": 0.22,
+      "characterCount": 361,
+      "nonWhitespaceCharacterCount": 292,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695832980108,
-      "modifiedDate": 1695832980112,
-      "sizeInBytes": 379
+      "modifiedDate": 1696763311052,
+      "sizeInBytes": 367
     },
     "Obsidian MD Tools/Templates/~ Projects.md": {
       "isCountable": true,

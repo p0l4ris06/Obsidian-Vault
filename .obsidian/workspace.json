@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulus function.md",
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#M-S",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modulus function.md"
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md"
               }
             }
           }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modulus function.md",
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modulus function.md",
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modulus function.md",
+                "file": "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,18 +256,25 @@
   },
   "active": "d8ede9780122bc58",
   "lastOpenFiles": [
+    "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md",
+    "Glossaries/C Glossary/Orbitals/Atomic orbitals.md",
+    "Obsidian MD Tools/Templates/To Do's.md",
+    "Obsidian MD Tools/Templates/Book Notes Template.md",
+    "Obsidian MD Tools/John Mavrick Tools/Books/Example Book.md",
+    "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
+    "888-BACKLOG/Citric acid cycle.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
+    "Modulus function.md",
     "Monthly Reviews.md",
     "Obsidian MD Tools",
     "Personal/Other",
     "Glossaries/C Glossary/Activation energy.md",
     "888-BACKLOG/Arithmetic sequence.md",
     "Glossaries/B Glossary/Active immunity.md",
-    "Modulus function.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 Chapter 2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.7.md",
     "000-Assessment points/000-M AP6.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.5.md",
@@ -276,13 +284,6 @@
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.3.md",
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.4.md",
     "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 Chapter 5.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 5/M-P2 5.5.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.2.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
-    "Home.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.3.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.5.md",
     "000-Biology/B Module 6/6.4",
     "2023-10-06",
     "000-Maths/Pure Y1/M-P Chapter 6",

@@ -3,7 +3,7 @@ started: 2022-12-23
 finished:
 rating:
 ---
-Status:: #📥/🟧
+
 Author:: [[]]
 Medium:: [[My Books]]
 Tags::
