@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md"
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,12 +253,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d8ede9780122bc58",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
+    "Glossaries/M Glossary/Composite function.md",
     "Glossaries/M Glossary/Function.md",
     "Glossaries/M Glossary/One-to-many.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.3.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
     "Glossaries/M Glossary/Many-to-many.md",
     "Glossaries/M Glossary/Many-to-one.md",
     "Glossaries/M Glossary/One-to-one.md",
@@ -283,7 +284,6 @@
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md",
-    "Glossaries/C Glossary/Orbitals/Atomic orbitals.md",
     "Obsidian MD Tools",
     "Personal/Other",
     "000-Biology/B Module 6/6.4",
