@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "focusNewTab": true,
   "readableLineLength": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "promptDelete": false
 }

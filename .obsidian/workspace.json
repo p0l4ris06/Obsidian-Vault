@@ -11,8 +11,13 @@
             "id": "a9fd173a65006ffd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,38 +257,45 @@
   },
   "active": "a9fd173a65006ffd",
   "lastOpenFiles": [
-    "Chemistry mock 2 af37692d838a4edc8067534c3fc8655c.md",
-    "MATHS MECH a68452efe7b342b4948e37e009b02180.md",
-    "BIO 1 88b23bd6f3b64f948f2a2a73ae66cffe.md",
-    "Chem resit 86d6df7ec5e94a7a91d2f693076b98b4.md",
-    "Finish jazz composition 7d21a49aec2e4bf98ef8569aaa3dec6d.md",
-    "Finish string 4tet composition 77ec37641e274434be1b5dcacbd4e8ae.md",
-    "BIO 2 754801b101ca471a849ff008ec5a1295.md",
-    "Maths mock 2 693c87fced57417a87af9138ba4feb5a.md",
-    "PPT presentation 610c67a515bc47d1912411fca49188fa.md",
-    "MATHS STATS 55b25e9c0a2c4f62b92ba83918f817f3.md",
-    "Finish other orchestral composition 5038478dc72b413e8724b4c4d5c7c7d8.md",
-    "Finish orchestral composition 4f13520d4e6e4c41bcfd923a9361a4d5.md",
-    "CHEM 2 338ff0c5cbcb4cdbbc9ca636cec0ff9c.md",
-    "BIO 3 2b1b7bd27f5e4d4e907486403428424f.md",
-    "CHEM 1 212a4d06a9b34e33ab457b916fb3e489.md",
-    "MATHS PURE 1694d297cf98427da8d89bb4725f6fad.md",
-    "Classification & evolution (4 3 1 - 4 3 9) 3e48c873aa134a1f93e35befaf664953.md",
-    "Biodiversity (4 2 1 - 4 2 9) 279f53cd4289486790a251e5bd73ff9e.md",
-    "Communicable diseases (4 1 1 - 4 1 9) 3460b7e3738e44859c61edb29d3dc3fb.md",
-    "Transport in plants (3 3 1 - 3 3 7) 68a1f1ae3f1840018d49cf5be61bcac5.md",
-    "Transport in animals (3 2 1 - 3 2 8) 0ffa2999428b4dd39e6bff78d5df1ac8.md",
-    "Exchange surfaces and breathing (3 1 1 - 3 1 5) ba61f606a6ba4888b986d0200ba0ba33.md",
-    "Cell division, cell diversity and cell differentia f853f76eb6ab429ebf33424b65c4d000.md",
-    "Biological Membranes (2 5 1 - 2 5 5) 3b14f7432fb24e919aa90865839060db.md",
-    "Enzymes (2 4 1 - 2 4 9) 705f611915a64a929f3bf078f44f4497.md",
-    "Biological Molecules (2 2 1 - 2 3 3) 060f34e3389c42bca54c816a2cc2885b.md",
+    "Notion/Transport in plants (3 3 1 - 3 3 7) 68a1f1ae3f1840018d49cf5be61bcac5.md",
+    "Notion/Biodiversity (4 2 1 - 4 2 9) 279f53cd4289486790a251e5bd73ff9e.md",
+    "Notion/Biology 01e54a03222a4339b2c2953d07e88046.md",
+    "Notion/CHEM 3 b67ede3cd35e4e3fa510c4541178018e.md",
+    "Notion/Independent Project ec51a0d634974de8a6fa3e794d037e30.md",
+    "Notion/Bio resit f8c18e684c51437085164319fd9ffe7b.md",
+    "Notion/BIO 3 2b1b7bd27f5e4d4e907486403428424f.md",
+    "Notion/BIO 2 754801b101ca471a849ff008ec5a1295.md",
+    "Notion/BIO 1 88b23bd6f3b64f948f2a2a73ae66cffe.md",
+    "Notion/A levels 30a89c0006b14bfa998a505f4b113841.md",
+    "Notion/A levels 8ab0191625e74b0ea36ec58ea4283dbb.md",
+    "Notion/Finish string 4tet composition 77ec37641e274434be1b5dcacbd4e8ae.md",
+    "Notion/Untitled 15 4.png",
+    "Notion/Untitled 14 5.png",
+    "Notion/Untitled 13 5.png",
+    "Notion/Untitled 12 5.png",
+    "Notion/Untitled 11 5.png",
+    "Notion/Untitled 10 6.png",
+    "Notion/Untitled 9 6.png",
+    "Notion/Untitled 8 7.png",
+    "Notion/Untitled 7 8.png",
+    "Notion/Untitled 6 8.png",
+    "Notion/Xylem and Phloem (3 3 2) 21d9400d16ec446fa7075249249bc66d.md",
+    "Notion/The need for transport systems in plants (3 1 1) dedb46e4775e4eef8f8e324cb06eee7a.md",
+    "Notion/Case 5 Genetics and inheritance 66ebee4de7ba4bcabe788cf85418a1e7.md",
+    "Notion/Case 4 Acids, bases, pH and buffers 2e4c68e8dd004bbb9a7b8f9ddf9d038c.md",
+    "Notion/Case 3 Immune system and antibodies f865b780244d414f83d5fdc953ff7579.md",
+    "Notion/Case 2 Mitosis and uncontrolled cell divison b085737df6df4f278bcd85241c2b26a9.md",
+    "Notion/Case 1 Biological molecules e25d063f0c3449528f0af58b32d514e1.md",
+    "Notion/New Project 290cfefa843d4532a1f85001c12c8d13.md",
+    "Notion/Finance 0b0ed3bd7b1240b1a143bdf21d4c256c.md",
+    "Notion/Biology mock 2 e5c75bb66d834d0ca8a57d73dc33d379.md",
+    "Notion/Task e024abd84100449a902e3a702bd76ff9.md",
+    "Notion/Finish 1500 words bc54aeac996f457285c711ea7de0b9ae.md",
+    "Notion/Maths resit b35b2451ffcd46878aa42be23591e78f.md",
+    "Notion/Chemistry mock 2 af37692d838a4edc8067534c3fc8655c.md",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Notion",
-    "Photos/Maths photos/Pasted image 20231008121945.png",
-    "Photos/Maths photos/Pasted image 20231008121920.png",
-    "Photos/Maths photos/Pasted image 20231008121900.png",
     "Obsidian MD Tools",
     "Personal/Other",
     "000-Biology/B Module 6/6.4",
@@ -286,13 +303,6 @@
     "000-Maths/Pure Y1/M-P Chapter 6",
     "000-Maths/Pure Y1/M-P Chapters",
     "000-Maths/Pure Y1/M-P Chapter 9",
-    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
-    "Pasted image 20231004194236.png",
-    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
-    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
-    "Photos/Biology Photos/Pasted image 20230928153000.png",
-    "Photos/Biology Photos/Pasted image 20230927153829.png",
-    "Photos/Biology Photos/Pasted image 20230927153728.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas"
   ]
 }
