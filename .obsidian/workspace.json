@@ -11,8 +11,13 @@
             "id": "6cfae4167a33ffea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 2/2.1/B2.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 2/2.1/B2.1.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 2/2.1/B2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 2/2.1/B2.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 2/2.1/B2.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,6 +255,8 @@
   },
   "active": "6cfae4167a33ffea",
   "lastOpenFiles": [
+    "000-Biology/B Module 2/2.1/2.1.1.md",
+    "000-Biology/B Module 5/5.6/5.6.4.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
@@ -269,8 +281,6 @@
     "Glossaries/M Glossary/Function.md",
     "Glossaries/M Glossary/One-to-many.md",
     "Glossaries/M Glossary/Many-to-many.md",
-    "Glossaries/M Glossary/Many-to-one.md",
-    "Glossaries/M Glossary/One-to-one.md",
     "Photos/Maths photos/Pasted image 20231008121945.png",
     "Photos/Maths photos/Pasted image 20231008121920.png",
     "Photos/Maths photos/Pasted image 20231008121900.png",
