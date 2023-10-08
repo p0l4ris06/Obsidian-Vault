@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#writings/bookapplications",
+                "query": "tag:#000-Biology/Chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian MD Tools/Templates/Book Application Template.md"
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md"
               }
             }
           }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian MD Tools/Templates/Book Application Template.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +255,16 @@
   },
   "active": "d8ede9780122bc58",
   "lastOpenFiles": [
+    "Glossaries/M Glossary/Many-to-many.md",
+    "Photos/Maths photos/Pasted image 20231008121945.png",
+    "Glossaries/M Glossary/One-to-one.md",
+    "Glossaries/M Glossary/Census.md",
+    "M-S-Chapters.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
+    "Glossaries/M Glossary/Many-to-one.md",
+    "Photos/Maths photos/Pasted image 20231008121920.png",
+    "Photos/Maths photos/Pasted image 20231008121900.png",
+    "Obsidian MD Tools/Templates/Book Application Template.md",
     "Glossaries/C Glossary/Bond angles/Trigonal planar.md",
     "Glossaries/C Glossary/Bond angles/Pyramidal.md",
     "Glossaries/C Glossary/Bond angles/Non-linear.md",
@@ -269,21 +278,13 @@
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
     "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
-    "M-S-Chapters.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.1.md",
     "Glossaries/C Glossary/Orbitals/Atomic orbitals.md",
     "Obsidian MD Tools/Templates/To Do's.md",
     "Obsidian MD Tools/Templates/Book Notes Template.md",
-    "Obsidian MD Tools/John Mavrick Tools/Books/Example Book.md",
-    "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.2.md",
-    "888-BACKLOG/Citric acid cycle.md",
-    "Modulus function.md",
-    "Monthly Reviews.md",
     "Obsidian MD Tools",
     "Personal/Other",
-    "Glossaries/C Glossary/Activation energy.md",
     "000-Biology/B Module 6/6.4",
     "2023-10-06",
     "000-Maths/Pure Y1/M-P Chapter 6",
@@ -299,9 +300,6 @@
     "Photos/Biology Photos/Pasted image 20230928153000.png",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "Photos/Chemistry Photos/Pasted image 20230920175235.png",
-    "Photos/Maths photos/Pasted image 20230920172830.png",
-    "Photos/Maths photos/Pasted image 20230920172735.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas"
   ]
 }

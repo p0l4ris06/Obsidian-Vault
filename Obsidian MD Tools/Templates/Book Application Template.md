@@ -1,5 +1,5 @@
 Status:
-Tags: #writings/bookapplications
+Tags: 
 Links: 
 ___
 # <% tp.file.title %>
