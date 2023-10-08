@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7736f06635bf301d",
+        "id": "cfaaf69eb52ce16d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc091f6b1bac8199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87f7a9b8db52025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae7496ad39452c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc4efa941214369e",
+            "id": "d8ede9780122bc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,87 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0c082c5784bc1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de97e6922770fac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1842de007c8ec1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31c7ba9b3d187c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a175234d964c088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7832749e1927060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md"
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md"
               }
             }
           }
@@ -251,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -280,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
+                "file": "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -372,11 +254,21 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "c7832749e1927060",
+  "active": "d8ede9780122bc58",
   "lastOpenFiles": [
-    "000-Maths/Pure Y1/M-P Chapter 2/M-P 2.1.md",
+    "000-Assessment points/000-M AP6.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.1.md",
+    "Home.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.3.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.5.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.6.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.7.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.8.md",
+    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.9.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.10.md",
+    "000-Maths/Pure Y1/M-P Chapter 2/M-P 2.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 Chapter 9.md",
     "000-Maths/Pure Y2/M-P2 Chapters/M-P2 Chapters.md",
     "000-Maths/Pure Y2/M-P2 Chapter 12/M-P2 Chapter 12.md",
@@ -390,16 +282,6 @@
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 Chapter 3.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 Chapter 2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 1/M-P2 Chapter 1.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.9.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.8.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.7.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.6.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.5.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.4.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.3.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.2.md",
-    "000-Assessment points/000-M AP6.md",
-    "000-Assessment points/000-C Kinetics AP1.md",
     "000-Biology/B Module 6/6.4",
     "2023-10-06",
     "000-Maths/Pure Y1/M-P Chapter 6",
