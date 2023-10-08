@@ -11,8 +11,13 @@
             "id": "d8ede9780122bc58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Modulus function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Modulus function.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Modulus function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Modulus function.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Modulus function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,14 +253,16 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "d8ede9780122bc58",
   "lastOpenFiles": [
-    "Other",
+    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
+    "Monthly Reviews.md",
+    "Obsidian MD Tools",
+    "Personal/Other",
     "Glossaries/C Glossary/Activation energy.md",
     "888-BACKLOG/Arithmetic sequence.md",
     "Glossaries/B Glossary/Active immunity.md",
     "Modulus function.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 Chapter 2.md",
     "000-Maths/Pure Y2/M-P2 Chapter 2/M-P2 2.7.md",
     "000-Assessment points/000-M AP6.md",
@@ -279,8 +291,6 @@
     "000-Maths/Pure Y1/M-P Chapter 8",
     "000-Maths/Pure Y1/M-P Chapter 7",
     "000-Maths/Pure Y1/M-P Chapter 4",
-    "000-Maths/Pure Y1/M-P Chapter 5",
-    "000-Maths/Pure Y1/M-P Chapter 3",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
     "Pasted image 20231004194236.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",

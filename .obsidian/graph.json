@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#000-Biology/Definition  ",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:Personal/Birds  ",
+      "query": "path:Personal/Other  ",
       "color": {
         "a": 1,
         "rgb": 3407728
@@ -64,24 +64,10 @@
       }
     },
     {
-      "query": "path:Templates",
+      "query": "path:\"Obsidian MD Tools\"  ",
       "color": {
         "a": 1,
         "rgb": 5135036
-      }
-    },
-    {
-      "query": "path:\"Personal/John Mavrick Tools\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5135036
-      }
-    },
-    {
-      "query": "path:\"Personal/Personality types\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     },
     {
@@ -89,13 +75,6 @@
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path: \"111-Work experience\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -116,6 +95,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.07592060894591628,
-  "close": false
+  "scale": 0.07592060894591637,
+  "close": true
 }

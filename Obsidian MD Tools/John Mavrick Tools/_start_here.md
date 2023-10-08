@@ -50,7 +50,7 @@ You can try it out by jumping your cursor to the cursor location below:
 ## Daily / Periodic Notes
 > [!INFO] Related Notes
 > [[Periodic Review Template]]
-> [[Daily Template]]
+> [[Daily template]]
 > [[Weekly Review Template]]
 > [[Monthly Review Template]]
 > [[Yearly Review Template]]
