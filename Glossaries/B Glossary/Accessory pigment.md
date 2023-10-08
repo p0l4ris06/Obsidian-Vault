@@ -1,4 +1,4 @@
-Tags: #B-definition 
+Tags: #000-Biology/Definition 
 
 ---
 [[Photosynthesis]] [[Photosynthetic pigment]] [[Light dependent]] reaction

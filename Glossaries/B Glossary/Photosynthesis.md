@@ -1,2 +1,2 @@
 [[Water]] + [[Carbon dioxide]] ----> [[Glucose]] + Oxygen
-#B-definition 
+#000-Biology/Definition 

@@ -4,4 +4,4 @@
 - Bones are made from collagen and then reinforced with calcium phosphate which makes them hard
 - [[Cartilage]] and [[Connective tissue]] are made from collagen
 
-#B-definition 
+#000-Biology/Definition 

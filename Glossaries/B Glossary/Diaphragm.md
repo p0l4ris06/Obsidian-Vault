@@ -1,2 +1,2 @@
 A layer of [[Muscle tissue]] beneath the lungs
-#B-definition 
+#000-Biology/Definition 

@@ -7,4 +7,4 @@ How fast a reactant is used up or how fast a product is formed
 - Temperature
 - [[SA:V ratio]] of solid reactants
 
-#C-definition 
+#000-Chemistry/Definition 

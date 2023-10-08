@@ -1,3 +1,3 @@
 [[Disaccharides]]
 Formed by [[Condensation reaction]] between [[Glucose]] and [[Galactose]]
-#B-definition 
+#000-Biology/Definition 

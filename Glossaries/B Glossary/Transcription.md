@@ -6,4 +6,4 @@ Making messenger [[RNA]] from a DNA template
 - A length of RNA that is complementary to the template strand of the gene is produced. This is the coding strand
 - The [[mRNA]] now passes out of the nucleus through the nuclear envelope and attaches to one of the [[Ribosomes]]
 
-#B-definition 
+#000-Biology/Definition 

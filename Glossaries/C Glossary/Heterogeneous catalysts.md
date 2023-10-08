@@ -1,3 +1,3 @@
 Has a different physical state from the reactants
 [[Catalyst]]
-#C-definition 
+#000-Chemistry/Definition 

@@ -2,4 +2,4 @@ In a solid metal structure, each atom has donated its negative outer-shell [[Ele
 The [[Cation]]s left behind consist of the nucleus and the inner electron shells of the metal atoms
 
 Metallic bonding is the strong electrostatic attraction between cation and delocalised electrons
-#C-definition
+#000-Chemistry/Definition

@@ -1,3 +1,3 @@
 The pressure created by osmotic effects of the solutes
 [[Osmosis]]
-#B-definition 
+#000-Biology/Definition 

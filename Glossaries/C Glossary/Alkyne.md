@@ -1,2 +1,2 @@
 Contains at least one triple carbon-carbon bond
-#C-definition
+#000-Chemistry/Definition

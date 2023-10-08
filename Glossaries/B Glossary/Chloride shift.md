@@ -1,2 +1,2 @@
 The movement of chloride ions into the [[Erythrocyte]]s to balance the charge as hydrogencarbonate ions leave the cell
-#B-definition 
+#000-Biology/Definition 

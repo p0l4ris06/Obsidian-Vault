@@ -1,2 +1,2 @@
 Takes a biological or chemical variable and coverts it to an electrical signal
-#B-definition 
+#000-Biology/Definition 

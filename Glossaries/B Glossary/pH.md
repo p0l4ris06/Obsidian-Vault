@@ -1,3 +1,3 @@
 ![[Pasted image 20230728135305.png]]
-#B-definition 
-#C-definition
+#000-Biology/Definition 
+#000-Chemistry/Definition

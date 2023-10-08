@@ -10,4 +10,4 @@ A plant adapted to living in dry conditions
 - Some have low [[Water potential]] inside their leaf cells. This is achieved by maintaining a high salt [[Concentration]] in the cells. Reduces evaporation
 - Very long tap root that can reach water deep underground
 
-#B-definition 
+#000-Biology/Definition 

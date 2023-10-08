@@ -2,4 +2,4 @@
 
 2,4-dinitrophenylhydrazine
 
-#C-definition
+#000-Chemistry/Definition

@@ -4,4 +4,4 @@ Sample sites inside the [[Habitat]] are randomly selected. Can be achieved by me
 Ensures data is not biased by selective sampling
 ##### Disadvantages:
 May not cover all areas of the habitat equally. [[Species]] with a low presence may be missed, causing an underestimate of [[Biodiversity]]
-#B-definition 
+#000-Biology/Definition 

@@ -1,4 +1,4 @@
-Tags: #B-definition 
+Tags: #000-Biology/Definition 
 
 ---
 When [[Photosynthesis]] and [[Respiration]] proceed at the same rate, so there is no net gain or loss of [[carbohydrate]]

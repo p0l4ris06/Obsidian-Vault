@@ -1,3 +1,3 @@
 Connected to one alkyl group
 Least stable [[Carbocation]]
-#C-definition
+#000-Chemistry/Definition

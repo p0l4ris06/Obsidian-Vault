@@ -5,4 +5,4 @@ Carbonates react with [[Acid]]s to form [[Carbon dioxide]] gas
 - Test by bubbling the gas through lime water - Ca(OH)<sub>2</sub> 
 - [[Carbon dioxide]] forms a fine white precipitate of calcium which turns the lime water milky
 
-#C-definition
+#000-Chemistry/Definition

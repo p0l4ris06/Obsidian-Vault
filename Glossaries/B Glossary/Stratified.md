@@ -5,4 +5,4 @@ Ensures all different areas of habitat are sampled and species are not under-rep
 ##### Disadvantages:
 May lead to over-representation of some areas in the sample. A disproportionate number of samples are taken in small areas that look different
 
-#B-definition 
+#000-Biology/Definition 

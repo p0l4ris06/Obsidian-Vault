@@ -5,4 +5,4 @@ Easier and quicker than [[Random]] sampling
 ##### Disadvantages:
 The data may be biased due to large or colourful species
 
-#B-definition 
+#000-Biology/Definition 

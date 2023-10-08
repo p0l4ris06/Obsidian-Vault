@@ -5,17 +5,17 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#B-definition  ",
+      "query": "tag:#000-Biology/Definition  ",
       "color": {
         "a": 1,
         "rgb": 3734491
       }
     },
     {
-      "query": "tag:#C-definition  ",
+      "query": "tag:#000-Chemistry/Definition  ",
       "color": {
         "a": 1,
         "rgb": 9327349
@@ -116,6 +116,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.10643939533092174,
-  "close": true
+  "scale": 0.07592060894591628,
+  "close": false
 }

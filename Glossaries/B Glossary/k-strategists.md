@@ -1,4 +1,4 @@
-Tags: #B-definition 
+Tags: #000-Biology/Definition 
 
 ---
 [[Species]] whose population size is determined by the [[Carrying capacity]] are often called k-strategists.

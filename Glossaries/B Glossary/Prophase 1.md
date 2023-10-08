@@ -4,4 +4,4 @@ The chromosomes come together in their [[Homologous chromosomes]] pairs
 Each member of the pair consists of two chromatids
 Crossing over occurs where non-sister [[Chromatids]] wrap around each other and may swap sections so that their [[Allele]]s are shuffled
 Prophase 1 leads to [[Metaphase 1]]
-#B-definition 
+#000-Biology/Definition 

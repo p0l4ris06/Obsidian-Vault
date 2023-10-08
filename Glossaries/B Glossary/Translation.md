@@ -5,4 +5,4 @@ Formation of [[Proteins]] at [[Ribosomes]] by assembling [[Amino acids]] into a 
 
 ![[Pasted image 20230727111158.png]]
 
-#B-definition 
+#000-Biology/Definition 

@@ -1,4 +1,4 @@
-Tags: #B-definition 
+Tags: #000-Biology/Definition 
 
 ---
 The dynamic interaction between all the [[Biotic]] and [[Abiotic]] factors in a given area

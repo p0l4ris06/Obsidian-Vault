@@ -1,2 +1,2 @@
 R<sub>f</sub> value: distance to spot/distance to solvent front
-#B-definition #C-definition 
+#000-Biology/Definition #000-Chemistry/Definition 

@@ -4,4 +4,4 @@ Samples are taken at fixed intervals across the habitat. [[Line transects]] and 
 Useful when [[Habitat]] shows a clear gradient in some environmental factor
 ##### Disadvantages:
 Only the [[Species]] on the line or in the belt can be recorded. Other species may be missed causing an underestimate of [[Biodiversity]]
-#B-definition 
+#000-Biology/Definition 
