@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd8253d4c03a84f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Assessment points/000-M AP6.md"
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-02.md"
               }
             }
           }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Assessment points/000-M AP6.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Assessment points/000-M AP6.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Assessment points/000-M AP6.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,17 +269,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a9fd173a65006ffd",
+  "active": "fd8253d4c03a84f6",
   "lastOpenFiles": [
-    "Home.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
+    "Personal/Journal/Weekly reviews/2023-W40.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-09.md",
+    "Obsidian MD Tools/Templates/Daily template.md",
     "000-Assessment points/000-M AP6.md",
+    "Home.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.3.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.2.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.1.md",
     "000-Maths/Pure Y2/M-P2 Chapter 3/M-P2 3.4.md",
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.4.md",
     "conflict-files-obsidian-git.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
     "Notion/Transport in plants (3 3 1 - 3 3 7) 68a1f1ae3f1840018d49cf5be61bcac5.md",
     "Notion/Biodiversity (4 2 1 - 4 2 9) 279f53cd4289486790a251e5bd73ff9e.md",
     "Notion/Biology 01e54a03222a4339b2c2953d07e88046.md",
@@ -273,11 +297,6 @@
     "Notion/Independent Project ec51a0d634974de8a6fa3e794d037e30.md",
     "Notion/Bio resit f8c18e684c51437085164319fd9ffe7b.md",
     "Notion/BIO 3 2b1b7bd27f5e4d4e907486403428424f.md",
-    "Notion/BIO 2 754801b101ca471a849ff008ec5a1295.md",
-    "Notion/BIO 1 88b23bd6f3b64f948f2a2a73ae66cffe.md",
-    "Notion/A levels 30a89c0006b14bfa998a505f4b113841.md",
-    "Notion/A levels 8ab0191625e74b0ea36ec58ea4283dbb.md",
-    "Notion/Finish string 4tet composition 77ec37641e274434be1b5dcacbd4e8ae.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
@@ -288,11 +307,6 @@
     "Notion/Untitled 8 7.png",
     "Notion/Untitled 7 8.png",
     "Notion/Untitled 6 8.png",
-    "Notion/Xylem and Phloem (3 3 2) 21d9400d16ec446fa7075249249bc66d.md",
-    "Notion/The need for transport systems in plants (3 1 1) dedb46e4775e4eef8f8e324cb06eee7a.md",
-    "Notion/Case 5 Genetics and inheritance 66ebee4de7ba4bcabe788cf85418a1e7.md",
-    "Notion/Case 4 Acids, bases, pH and buffers 2e4c68e8dd004bbb9a7b8f9ddf9d038c.md",
-    "Notion/Case 3 Immune system and antibodies f865b780244d414f83d5fdc953ff7579.md",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Notion",
