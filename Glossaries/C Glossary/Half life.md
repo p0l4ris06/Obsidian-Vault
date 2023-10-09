@@ -1,4 +1,4 @@
-Tags: #C-definition 
+Tags: #000-Chemistry/Definition 
 
 ---
 t<sub>1/2</sub> is the time taken for half of a reactant to be used up.

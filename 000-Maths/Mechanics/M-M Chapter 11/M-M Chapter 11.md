@@ -4,4 +4,4 @@
 [[M-M 11.4]]
 [[M-M 11.5]]
 
-#M-M-Chapters
+#000-Maths/M1/Chapters

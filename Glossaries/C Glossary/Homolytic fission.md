@@ -2,4 +2,4 @@ When a [[covalent bond]] breaks by homolytic fission each of the bonded atoms ta
 
 - Each atom now has a single unpaired electron
 - An atom or groups of atoms with an unpaired electron is called a [[Radical]]
-#C-definition
+#000-Chemistry/Definition

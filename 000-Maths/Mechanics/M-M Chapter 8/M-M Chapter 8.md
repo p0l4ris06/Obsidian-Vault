@@ -3,4 +3,4 @@
 [[M-M 8.3]]
 [[M-M 8.4]]
 
-#M-M-Chapters
+#000-Maths/M1/Chapters

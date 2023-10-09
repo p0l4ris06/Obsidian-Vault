@@ -2,5 +2,5 @@
 [[Glycosidic bonds]]
 [[Disulfide bridges]]
 [[Ester bond]]
-#B-definition 
-#C-definition 
+#000-Biology/Definition 
+#000-Chemistry/Definition 

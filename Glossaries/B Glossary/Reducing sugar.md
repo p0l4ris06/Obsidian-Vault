@@ -5,4 +5,4 @@ E.g., [[Glucose]], [[Fructose]], [[Lactose]] etc
 Reduce [[Fehling solution]] and [[Tollens' reagent]]
 
 
-#B-definition 
+#000-Biology/Definition 

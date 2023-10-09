@@ -5,4 +5,4 @@
 [[B2.5]]
 [[B2.6]]
 
-#B-Module
+#000-Biology/Module

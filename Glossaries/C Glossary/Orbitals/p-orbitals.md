@@ -4,4 +4,4 @@ There are three separate p-orbitals at right angles from one another
 Each shell from n=2 contains 3 p-orbitals
 The greater the shell number n the further the p-orbital is from the nucleus
 
-#Orbitals 
+#000-Chemistry/Definition/Orbitals 

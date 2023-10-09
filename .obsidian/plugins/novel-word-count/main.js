@@ -298,6 +298,7 @@ var DEFAULT_SETTINGS = {
   wordsPerPage: 300,
   charsPerPage: 1500,
   charsPerPageIncludesWhitespace: false,
+  characterCountType: "AllCharacters" /* StringLength */,
   wordCountType: "SpaceDelimited" /* SpaceDelimited */,
   pageCountType: "ByWords" /* ByWords */,
   excludeComments: false
@@ -422,6 +423,13 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
         await this.plugin.initialize();
       })
     );
+    new import_obsidian2.Setting(containerEl).setName("Character count method").setDesc("For language compatibility").addDropdown((drop) => {
+      drop.addOption("AllCharacters" /* StringLength */, "All characters").addOption("ExcludeWhitespace" /* ExcludeWhitespace */, "Exclude whitespace").setValue(this.plugin.settings.characterCountType).onChange(async (value) => {
+        this.plugin.settings.characterCountType = value;
+        await this.plugin.saveSettings();
+        await this.plugin.initialize();
+      });
+    });
     new import_obsidian2.Setting(containerEl).setName("Word count method").setDesc("For language compatibility").addDropdown((drop) => {
       drop.addOption(
         "SpaceDelimited" /* SpaceDelimited */,
@@ -592,10 +600,7 @@ var FileHelper = class {
         characterCount: total.characterCount + childCount.characterCount,
         nonWhitespaceCharacterCount: total.nonWhitespaceCharacterCount + childCount.nonWhitespaceCharacterCount,
         createdDate: total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate),
-        modifiedDate: Math.max(
-          total.modifiedDate,
-          childCount.modifiedDate
-        ),
+        modifiedDate: Math.max(total.modifiedDate, childCount.modifiedDate),
         sizeInBytes: total.sizeInBytes + childCount.sizeInBytes
       };
     }, directoryDefault);
@@ -654,12 +659,14 @@ var FileHelper = class {
     delete counts[path];
   }
   async setCounts(counts, file, wordCountType) {
-    const metadata = this.app.metadataCache.getFileCache(file);
+    const metadata = this.app.metadataCache.getFileCache(
+      file
+    );
     const shouldCountFile = this.shouldCountFile(file, metadata);
     counts[file.path] = {
       isCountable: shouldCountFile,
       isDirectory: false,
-      noteCount: 1,
+      noteCount: 0,
       wordCount: 0,
       wordCountTowardGoal: 0,
       wordGoal: 0,
@@ -697,6 +704,7 @@ var FileHelper = class {
       pageCount = characterCount / (charsPerPageValid ? charsPerPage : 1500);
     }
     Object.assign(counts[file.path], {
+      noteCount: 1,
       wordCount,
       wordCountTowardGoal: wordGoal !== null ? wordCount : 0,
       wordGoal,
@@ -725,7 +733,10 @@ var FileHelper = class {
     if (this.settings.excludeComments) {
       const hasComments = meaningfulContent.includes("%%") || meaningfulContent.includes("<!--");
       if (hasComments) {
-        meaningfulContent = meaningfulContent.replace(/(?:%%[\s\S]+?%%|<!--[\s\S]+?-->)/gmi, "");
+        meaningfulContent = meaningfulContent.replace(
+          /(?:%%[\s\S]+?%%|<!--[\s\S]+?-->)/gim,
+          ""
+        );
       }
     }
     return meaningfulContent;
@@ -1008,7 +1019,8 @@ var NovelWordCountPlugin = class extends import_obsidian4.Plugin {
       case "note" /* Note */:
         return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
       case "character" /* Character */:
-        return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
+        const characterCount = this.settings.characterCountType === "ExcludeWhitespace" /* ExcludeWhitespace */ ? counts.nonWhitespaceCharacterCount : counts.characterCount;
+        return abbreviateDescriptions ? `${characterCount.toLocaleString()}ch` : getPluralizedCount("character", characterCount);
       case "link" /* Link */:
         if (counts.linkCount === 0) {
           return null;

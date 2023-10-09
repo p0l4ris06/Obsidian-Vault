@@ -1,3 +1,3 @@
 Cells that remain in the [[Blood]] for a long time, providing long-term immunity
 Act as immunological memory
-#B-definition 
+#000-Biology/Definition 

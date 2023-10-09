@@ -1,4 +1,4 @@
-Tags:: #C-definition 
+Tags:: #000-Chemistry/Definition 
 
 ---
 k = Ae<sup>-E<sub>a</sub>/RT</sup>

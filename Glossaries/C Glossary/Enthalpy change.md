@@ -1,4 +1,4 @@
 Enthalpy change = H(products) - H(reactants)
 
-#C-definition 
+#000-Chemistry/Definition 
 

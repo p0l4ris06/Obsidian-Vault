@@ -1,4 +1,4 @@
 Energy transferred from the surroundings to the system
 Enthalpy change positive
 
-#C-definition 
+#000-Chemistry/Definition 

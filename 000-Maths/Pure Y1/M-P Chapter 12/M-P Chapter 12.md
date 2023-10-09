@@ -10,4 +10,4 @@
 [[M-P 12.10]]
 [[M-P 12.11]]
 
-#000-Maths/P1-Chapters 
+#000-Maths/P1/Chapters 

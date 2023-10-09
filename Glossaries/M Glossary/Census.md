@@ -1,4 +1,4 @@
-Tags: #M-Definition
+Tags: #000-Maths/Definition
 
 ---
 Observes or measures every member of a population

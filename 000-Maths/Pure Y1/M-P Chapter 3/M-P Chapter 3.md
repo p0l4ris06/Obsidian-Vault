@@ -6,4 +6,4 @@
 [[M-P 3.6]]
 [[M-P 3.7]]
 
-#000-Maths/P1-Chapters 
+#000-Maths/P1/Chapters 

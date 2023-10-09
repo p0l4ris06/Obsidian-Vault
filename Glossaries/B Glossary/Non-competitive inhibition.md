@@ -1,2 +1,2 @@
 Inhibition of an enzyme where the competitor molecule attaches to a part of the [[Enzyme]] called the [[Allosteric site]]. This changes the shape of the [[Active site]] meaning the [[Substrate]] is no longer complementary to the shape of the active site
-#B-definition 
+#000-Biology/Definition 

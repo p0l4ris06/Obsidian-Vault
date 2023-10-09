@@ -2,4 +2,4 @@
 - Add aqueous [[Ammonia]] to test the solubility of the precipitate
 
 ![[Pasted image 20230903110825.png]]
-#C-definition
+#000-Chemistry/Definition

@@ -8,4 +8,4 @@ Type of nuclear division that results in the formation of cells containing half 
 [[Anaphase 2]]
 [[Telophase 2]]
 
-#B-definition 
+#000-Biology/Definition 

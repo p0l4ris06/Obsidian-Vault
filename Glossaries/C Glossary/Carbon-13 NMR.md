@@ -1,4 +1,4 @@
-Tags: #C-definition 
+Tags: #000-Chemistry/Definition 
 
 ---
 ![[Pasted image 20231004193825.png]]

@@ -3,4 +3,4 @@
 - Have cells surrounded by a [[Cellulose]] cell wall
 - Are autotrophic (absorb simple molecules and build them into larger organic molecules)
 - Contain [[Chloroplast]]s and chlorophyll
-#B-definition 
+#000-Biology/Definition 

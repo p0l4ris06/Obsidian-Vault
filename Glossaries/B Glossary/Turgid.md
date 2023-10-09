@@ -1,3 +1,3 @@
 Swollen plant cell
 Inc in [[Water]] and dec in [[Water potential]]
-#B-definition 
+#000-Biology/Definition 

@@ -5,4 +5,4 @@
 [[M-P 11.5]]
 [[M-P 11.6]]
 
-#000-Maths/P1-Chapters 
+#000-Maths/P1/Chapters 

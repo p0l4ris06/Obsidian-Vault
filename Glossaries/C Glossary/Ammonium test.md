@@ -3,4 +3,4 @@ When heated together aqueous [[Ammonium]] ions and aqueous hydroxide ions react 
 - Ammonia gas is produced (unlikely to see bubbles as it is very soluble in [[Water]])
 - Warm mixture to release the ammonia gas
 - Can be tested by smell or [[pH]] indicator paper. Ammonia is [[Alkaline]] and will turn the paper blue
-#C-definition
+#000-Chemistry/Definition

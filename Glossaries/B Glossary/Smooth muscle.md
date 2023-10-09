@@ -1,2 +1,2 @@
 Involuntary [[Muscle tissue]] that contracts without the need for conscious thought
-#B-definition 
+#000-Biology/Definition 

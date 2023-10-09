@@ -5,4 +5,4 @@ No membrane-bound [[Organelles]] such as [[Mitochondria]], [[Endoplasmic reticul
 Have a wall that is made from [[Peptidoglycan]] not [[Cellulose]]
 
 Divide by [[Binary fission]] not [[Mitosis]]
-#B-definition 
+#000-Biology/Definition 

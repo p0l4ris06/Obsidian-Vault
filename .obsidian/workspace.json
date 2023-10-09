@@ -11,11 +11,30 @@
             "id": "015c17a88dfdc9db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4da5fa9ab5cb52df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -135,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,44 +234,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "015c17a88dfdc9db",
+  "active": "4da5fa9ab5cb52df",
   "lastOpenFiles": [
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P Chapter 14.md",
-    "000-Maths/Pure Y1/M-P Chapters/M-P Chapters.md",
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
-    "000-Maths/Pure Y1/M-P Chapter 12/M-P Chapter 12.md",
-    "000-Maths/Pure Y1/M-P Chapter 11/M-P Chapter 11.md",
-    "000-Maths/Pure Y1/M-P Chapter 10/M-P Chapter 10.md",
-    "000-Maths/Pure Y1/M-P Chapter 9/M-P Chapter 9.md",
-    "000-Maths/Pure Y1/M-P Chapter 8/M-P Chapter 8.md",
-    "000-Maths/Pure Y1/M-P Chapter 7/M-P Chapter 7.md",
-    "000-Maths/Pure Y1/M-P Chapter 6/M-P Chapter 6.md",
-    "000-Maths/Pure Y1/M-P Chapter 5/M-P Chapter 5.md",
-    "000-Maths/Pure Y1/M-P Chapter 4/M-P Chapter 4.md",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P Chapter 3.md",
-    "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
-    "000-Maths/Pure Y1/M-P Chapter 1/M-P Chapter 1.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.8.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.7.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.6.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.5.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.4.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.3.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.2.md",
-    "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.1.md",
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P 13.7.md",
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P 13.6.md",
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P 13.5.md",
-    "000-Maths/Pure Y2/M-P2 Chapter 12",
-    "000-Maths/Pure Y2/M-P2 Chapter 11",
-    "000-Maths/Pure Y2/M-P2 Chapter 10",
-    "000-Maths/Pure Y2/M-P2 Chapter 9",
-    "000-Maths/Pure Y2/M-P2 Chapter 8",
-    "000-Maths/Pure Y2/M-P2 Chapter 6",
-    "000-Maths/Pure Y2/M-P2 Chapter 5",
-    "000-Maths/Pure Y2/M-P2 Chapter 4",
-    "000-Maths/Pure Y2/M-P2 Chapter 2",
-    "000-Maths/Pure Y2/M-P2 Chapter 1",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
+    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
+    "Photos/Maths photos/Pasted image 20231008121945.png",
+    "Photos/Maths photos/Pasted image 20231008121920.png",
+    "Photos/Maths photos/Pasted image 20231008121900.png",
+    "Personal/Other/Personality types/MBTI Types/ISTP.md",
+    "Personal/Other/Personality types/MBTI Types/ISTJ.md",
+    "Personal/Other/Personality types/MBTI Types/ISFP.md",
+    "Personal/Other/Personality types/MBTI Types/ISFJ.md",
+    "Personal/Other/Personality types/MBTI Types/INTP.md",
+    "Personal/Other/Personality types/MBTI Types/INTJ.md",
+    "Personal/Other/Personality types/MBTI Types/INFJ.md",
+    "Personal/Other/Personality types/MBTI Types/INFP.md",
+    "Personal/Other/Personality types/MBTI Types/ESTP.md",
+    "Personal/Other/Personality types/MBTI Types/ESFP.md",
+    "Personal/Other/Personality types/MBTI Types/ESTJ.md",
+    "Personal/Other/Personality types/MBTI Types/ESFJ.md",
+    "Personal/Other/Personality types/MBTI Types/ENTP.md",
+    "Personal/Other/Personality types/MBTI Types/ENTJ.md",
+    "Personal/Other/Personality types/MBTI Types/ENFP.md",
+    "Personal/Other/Personality types/MBTI Types/ENFJ.md",
+    "Personal/Other/Personality types/Jungian functions/Introverted sensing.md",
+    "Personal/Other/Personality types/Seeking types/Sensation seeking type.md",
+    "Personal/Other/Personality types/Seeking types/Security seeking type.md",
+    "Personal/Other/Personality types/Seeking types/Knowledge seeking type.md",
+    "Personal/Other/Personality types/Seeking types/Identity seeking type.md",
+    "Personal/Other/Personality types/Jungian functions/Introverted thinking.md",
+    "Personal/Other/Personality types/Jungian functions/Introverted intuition.md",
+    "Personal/Other/Personality types/Jungian functions/Introverted feeling.md",
+    "Personal/Other/Personality types/MBTI Types",
+    "Personal/Other/Personality types/Seeking types",
+    "Personal/Other/Personality types/Jungian functions",
+    "Personal/Other/Personality types/Cognitive stack",
+    "Personal/Other/Work experience/111-Surgery",
+    "Personal/Other/Work experience/111-Library",
+    "Personal/Other/Birds/Paridae",
+    "Personal/Other/Birds/Family",
     "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "Photos/Chemistry Photos/Pasted image 20231004193956.png",
     "Photos/Chemistry Photos/Pasted image 20231004193825.png",
@@ -255,10 +282,7 @@
     "Photos/Biology Photos/Pasted image 20230718105321.png",
     "Photos/Biology Photos/Pasted image 20230927153829.png",
     "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "Photos/Maths photos/Pasted image 20230920172830.png",
-    "Photos/Maths photos/Pasted image 20230920172735.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Photos/Chemistry Photos/Pasted image 20230824174600.png",
     "Untitled.canvas"
   ]
 }

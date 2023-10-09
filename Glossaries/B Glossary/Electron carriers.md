@@ -1,4 +1,4 @@
-Tags: #B-definition 
+Tags: #000-Biology/Definition 
 
 ---
 Molecules that can accept one or more [[Electron]]s and then donate those electrons to another carrier.

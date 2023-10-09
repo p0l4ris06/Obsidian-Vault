@@ -1,3 +1,3 @@
 Detects presence of [[Proteins]] in a sample
 - Add some Copper (II) sulfate (Biuret reagent)
-#B-definition 
+#000-Biology/Definition 

@@ -153,7 +153,7 @@ settings:
         level: 3
     - 
         id: outline-enhanced
-        title: Enable enhanced outline  style
+        title: Enable enhanced outline style
         title.zh: 启用 增强的大纲样式
         description: from https://github.com/subframe7536/obsidian-theme-maple, author:@subframe7536
         type: class-toggle
@@ -2380,7 +2380,7 @@ settings:
 		title: inline title size
         title.zh: 页内标题 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.5em
 	- 
@@ -2437,7 +2437,7 @@ settings:
 		title: H1 font size
         title.zh: H1 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.5em
 	- 
@@ -2494,7 +2494,7 @@ settings:
 		title: H2 font size
         title.zh: H2 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.425em
 	- 
@@ -2551,7 +2551,7 @@ settings:
 		title: H3 font size
         title.zh: H3 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.35em
 	- 
@@ -2608,7 +2608,7 @@ settings:
 		title: H4 font size
         title.zh: H4 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.275em
 	- 
@@ -2665,7 +2665,7 @@ settings:
 		title: H5 font size
         title.zh: H5 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.2em
 	- 
@@ -2722,7 +2722,7 @@ settings:
 		title: H6 font size
         title.zh: H6 字体大小
         description: Accepts any CSS font-size value
-        description.zh: 接受任何 CSS 字体大小值
+        description.zh: 接受任何 CSS font-size 值
 		type: variable-text
 		default: 1.125em
 	- 
@@ -3190,6 +3190,96 @@ settings:
         title.zh: 自定义 块引用背景（暗色模式）
         description: Input any CSS background value
         description.zh: 输入任意 CSS background 值
+        type: variable-text
+        default: ''
+    - 
+        id: Callouts
+        title: Callouts
+        title.zh: 标注
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+		id: callout-border-width
+		title: callout border width
+        title.zh: 标注边框大小
+        type: variable-text
+        description: Input any CSS border-width value
+        description.zh: 输入任意 CSS border-width 值
+        default: 0px
+    - 
+        id: callout-border-opacity
+        title: callout border opacity
+        title.zh: 标注边框透明度
+        type: variable-number-slider
+        default: 0.25
+        min: 0
+        max: 1
+        step: 0.05
+    - 
+		id: callout-padding
+		title: callout padding
+        title.zh: 标注边距
+        description: Accepts any CSS padding value
+        description.zh: 接受任何 CSS padding 值
+		type: variable-text
+		default: ''
+    - 
+        id: callout-radius
+        title: callout radius
+        title.zh: 标注圆角
+        description: Input your border-radius value here
+        description.zh: 在这里输入你的 border-radius 值
+        type: variable-text
+        default: ''
+	- 
+		id: callout-title-color
+		title: callout title color
+        title.zh: 标注标题颜色
+		type: variable-themed-color
+		opacity: true
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
+		id: callout-title-padding
+		title: callout title padding
+        title.zh: 标注标题边距
+        description: Accepts any CSS padding value
+        description.zh: 接受任何 CSS padding 值
+		type: variable-text
+		default: ''
+    - 
+		id: callout-title-size
+		title: callout title size
+        title.zh: 标注标题大小
+        description: Accepts any CSS font-size value
+        description.zh: 接受任何 CSS font-size 值
+		type: variable-text
+		default: ''
+    - 
+		id: callout-content-padding
+		title: callout content padding
+        title.zh: 标注内容边距
+        description: Accepts any CSS padding value
+        description.zh: 接受任何 CSS padding 值
+		type: variable-text
+		default: ''
+    - 
+		id: callout-content-background
+		title: callout content background
+        title.zh: 标注内容背景
+		type: variable-themed-color
+		opacity: true
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
+        id: callout-content-radius
+        title: callout content radius
+        title.zh: 标注内容圆角
+        description: Input your border-radius value here
+        description.zh: 在这里输入你的 border-radius 值
         type: variable-text
         default: ''
     - 
@@ -5000,34 +5090,31 @@ body:not(.is-mobile).Ribbon-autohide:has(.workspace-ribbon.side-dock-ribbon:hove
 }
 
 /* macos autohide fix*/
-
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos {
-    --frame-left-space: calc(80px - 16px);
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left {
+    margin-left: 28px;
 }
 
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos:has(.workspace-ribbon.side-dock-ribbon:hover) {
-    --frame-left-space: calc(80px - 44px);
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.workspace-ribbon.side-dock-ribbon:hover) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.workspace-ribbon.side-dock-ribbon:hover) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left {
+    margin-left: 0px;
 }
 
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-left-space .workspace-tab-header-container,
-body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-left-space .workspace-tab-header-container {
-    transition: height var(--anim-out), opacity var(--anim-out), padding-left var(--anim-out);
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left,
+body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left {
+    transition: height var(--anim-out), opacity var(--anim-out), margin-left var(--anim-out);
 }
 
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.workspace-ribbon.side-dock-ribbon:hover) .workspace-tabs.mod-top-left-space .workspace-tab-header-container {
-    transition: height var(--anim-out), opacity var(--anim-out), padding-left var(--anim-in);
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.workspace-ribbon.side-dock-ribbon:hover) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.workspace-ribbon.side-dock-ribbon:hover) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left {
+    transition: height var(--anim-out), opacity var(--anim-out), margin-left var(--anim-in);
 }
 
-body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.mod-top>.workspace-tab-header-container:hover, .titlebar-button-container:hover) .workspace-tabs.mod-top-left-space .workspace-tab-header-container {
-    transition: height var(--anim-in), opacity var(--anim-in), padding-left var(--anim-out);
-}
-
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-left-space .workspace-tab-header-container:before {
-    transition: width var(--anim-out);
-}
-
-body:not(.is-mobile):not(.is-popout-window).Ribbon-autohide.mod-macos:has(.workspace-ribbon.side-dock-ribbon:hover).is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-left-space .workspace-tab-header-container:before {
-    transition: width var(--anim-in);
+body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.mod-top>.workspace-tab-header-container:hover, .titlebar-button-container:hover) .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-frameless:not(.is-fullscreen):has(.mod-top>.workspace-tab-header-container:hover, .titlebar-button-container:hover) .workspace:not(.is-left-sidedock-open) .sidebar-toggle-button.mod-left {
+    transition: height var(--anim-in), opacity var(--anim-in), margin-left var(--anim-out);
 }
 
 /*nav header autohide*/
@@ -5588,19 +5675,19 @@ input.wb-search-bar {
 /*outline pane*/
 /* from https://github.com/subframe7536/obsidian-theme-maple, author:@subframe7536 */
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .collapse-icon {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .collapse-icon {
     padding-inline-end: var(--size-2-3);
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .collapse-icon::before {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .collapse-icon::before {
     content: "" !important;
 }
 
-body.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item {
+.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .tree-item {
     position: relative;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-self {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-self {
     position: relative;
     margin-bottom: 0;
     white-space: nowrap;
@@ -5608,7 +5695,7 @@ body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .
     /* fix item gap */
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-self .tree-item-inner {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-self .tree-item-inner {
     padding-left: 16px;
     margin-left: -16px;
     overflow: hidden;
@@ -5618,7 +5705,7 @@ body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .
     position: relative;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-self .tree-item-inner::before {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-self .tree-item-inner::before {
     content: "";
     width: var(--size-4-1);
     height: var(--size-4-1);
@@ -5630,19 +5717,19 @@ body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .
     transform: translateY(-50%);
 }
 
-/*body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-self .tree-item-icon~.tree-item-inner {
+/*.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-self .tree-item-icon~.tree-item-inner {
     padding-left: 4px;
 }*/
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-self .tree-item-icon~.tree-item-inner::before {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-self .tree-item-icon~.tree-item-inner::before {
     content: none;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item.is-collapsed .tree-item-icon::before {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item.is-collapsed .tree-item-icon::before {
     box-shadow: 0 0 0 4px var(--background-modifier-active-hover);
 }
 
-body.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item::after {
+.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .tree-item::after {
     content: "";
     width: 2px;
     position: absolute;
@@ -5652,14 +5739,14 @@ body.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outlin
     height: calc(100% - var(--nav-item-size) * 1.8 + var(--size-4-8));
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-icon {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-icon {
     cursor: pointer;
     top: 50%;
     transform: translateY(-50%);
     z-index: 1;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-icon::before {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-icon::before {
     width: var(--size-4-2);
     height: var(--size-4-2);
     background-color: var(--color-accent);
@@ -5670,28 +5757,28 @@ body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .
     transform: translateY(-50%);
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-icon svg {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-icon svg {
     display: block;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item-icon svg path {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item-icon svg path {
     display: none;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item:hover>.tree-item-children>.tree-item::after {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item:hover>.tree-item-children>.tree-item::after {
     background-color: var(--color-accent);
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item:hover>.tree-item-self:hover+.tree-item-children .tree-item::after {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item:hover>.tree-item-self:hover+.tree-item-children .tree-item::after {
     background-color: transparent;
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item:hover>.tree-item-children>.tree-item:hover::after,
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item:hover>.tree-item-children>.tree-item:hover~.tree-item::after {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item:hover>.tree-item-children>.tree-item:hover::after,
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .tree-item:hover>.tree-item-children>.tree-item:hover~.tree-item::after {
     background-color: transparent;
 }
 
-body.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .outline .tree-item:hover>.tree-item-children>.tree-item:hover::before {
+.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outline] .view-content .tree-item:hover>.tree-item-children>.tree-item:hover::before {
     content: "";
     position: absolute;
     top: calc(var(--nav-item-size) * 1.8 / 2 * -1);
@@ -5703,7 +5790,7 @@ body.outline-enhanced:not(.is-grabbing) .workspace-leaf-content[data-type=outlin
     border-left: 2px solid var(--color-accent);
 }
 
-body.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content .outline :is(.tree-item-children, .tree-item-self .tree-item-self) {
+.outline-enhanced .workspace-leaf-content[data-type=outline] .view-content :is(.tree-item-children, .tree-item-self .tree-item-self) {
     padding-left: 0;
     margin-left: var(--size-4-5);
     border-left: none;
@@ -6278,7 +6365,7 @@ body {
 
 .tag-pane-empty,
 .bookmarks-pane-empty,
-.outline .pane-empty,
+.workspace-leaf-content[data-type=outline] .pane-empty,
 .search-empty-state {
     display: flex;
     align-items: center;
@@ -6290,7 +6377,7 @@ body {
 
 .tag-pane-empty::before,
 .bookmarks-pane-empty::before,
-.outline .pane-empty::before,
+.workspace-leaf-content[data-type=outline] .pane-empty::before,
 .search-empty-state::before {
     content: "";
     display: inline-block;
@@ -6729,8 +6816,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-1::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h1::before,
-body:not(.heading-indicator-off) .markdown-preview-view h1::before {
+body:not(.heading-indicator-off) .markdown-rendered>h1::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h1::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -6744,7 +6831,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h1::before {
 }
 
 
-body.h1-divider-on :is(.markdown-preview-view h1, .markdown-rendered h1, .HyperMD-header-1)::after {
+body.h1-divider-on :is(.markdown-preview-sizer>div>h1, .markdown-rendered>h1, .HyperMD-header-1)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -6793,8 +6880,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-2::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h2::before,
-body:not(.heading-indicator-off) .markdown-preview-view h2::before {
+body:not(.heading-indicator-off) .markdown-rendered>h2::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h2::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -6808,7 +6895,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h2::before {
 }
 
 
-body.h2-divider-on :is(.markdown-preview-view h2, .markdown-rendered h2, .HyperMD-header-2)::after {
+body.h2-divider-on :is(.markdown-preview-sizer>div>h2, .markdown-rendered>h2, .HyperMD-header-2)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -6859,8 +6946,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-3::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h3::before,
-body:not(.heading-indicator-off) .markdown-preview-view h3::before {
+body:not(.heading-indicator-off) .markdown-rendered>h3::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h3::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -6873,7 +6960,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h3::before {
     left: 0px;
 }
 
-body.h3-divider-on :is(.markdown-preview-view h3, .markdown-rendered h3, .HyperMD-header-3)::after {
+body.h3-divider-on :is(.markdown-preview-sizer>div>h3, .markdown-rendered>h3, .HyperMD-header-3)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -6922,8 +7009,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-4::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h4::before,
-body:not(.heading-indicator-off) .markdown-preview-view h4::before {
+body:not(.heading-indicator-off) .markdown-rendered>h4::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h4::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -6937,7 +7024,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h4::before {
 }
 
 
-body.h4-divider-on :is(.markdown-rendered h4, .markdown-preview-view h4, .HyperMD-header-4)::after {
+body.h4-divider-on :is(.markdown-rendered>h4, .markdown-preview-sizer>div>h4, .HyperMD-header-4)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -6987,8 +7074,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-5::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h5::before,
-body:not(.heading-indicator-off) .markdown-preview-view h5::before {
+body:not(.heading-indicator-off) .markdown-rendered>h5::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h5::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -7002,7 +7089,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h5::before {
 }
 
 
-body.h5-divider-on :is(.markdown-rendered h5, .markdown-preview-view h5, .HyperMD-header-5)::after {
+body.h5-divider-on :is(.markdown-rendered>h5, .markdown-preview-sizer>div>h5, .HyperMD-header-5)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -7053,8 +7140,8 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-6::before {
     transform: translateY(4px);
 }
 
-body:not(.heading-indicator-off) .markdown-rendered h6::before,
-body:not(.heading-indicator-off) .markdown-preview-view h6::before {
+body:not(.heading-indicator-off) .markdown-rendered>h6::before,
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>h6::before {
     margin-right: 6px;
     content: " ";
     display: inline-block;
@@ -7068,7 +7155,7 @@ body:not(.heading-indicator-off) .markdown-preview-view h6::before {
 }
 
 
-body.h6-divider-on :is(.markdown-rendered h6, .markdown-preview-view h6, .HyperMD-header-6)::after {
+body.h6-divider-on :is(.markdown-rendered>h6, .markdown-preview-sizer>div>h6, .HyperMD-header-6)::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -7644,9 +7731,12 @@ li[data-task="<"]>p>input:checked {
 
 /* ====== Callout ====== */
 body {
-    --callout-border-width: 1px;
+    --callout-content-radius: 0px;
 }
 
+.callout-content {
+    border-radius: var(--callout-content-radius);
+}
 
 /* ======Blockquotes ====== */
 body {
@@ -7894,8 +7984,8 @@ body:not(.table-width-obsidian-default) :is(.markdown-rendered, .markdown-source
     container-type: inline-size;
 }
 
-body.table-width-customized .markdown-source-view.mod-cm6.is-live-preview .cm-content>div.cm-embed-block:has(>table),
-body.table-width-customized .markdown-rendered .markdown-preview-sizer>div:has(>table) {
+.table-width-customized .markdown-source-view.mod-cm6.is-live-preview .cm-content>.cm-table-widget,
+.table-width-customized .markdown-rendered .markdown-preview-sizer>div:has(>table) {
     overflow: auto;
     width: var(--table-width) !important;
     margin-left: calc((var(--table-width) - 100%) / -2) !important;

@@ -3,4 +3,4 @@
 [[M-S 7.3]]
 [[M-S 7.4]]
 
-#M-S-Chapters 
+#000-Maths/S1/Chapters 

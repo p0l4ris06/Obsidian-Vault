@@ -4,4 +4,4 @@
 [[M-S 2.4]]
 [[M-S 2.5]]
 
-#M-S-Chapters 
+#000-Maths/S1/Chapters 
