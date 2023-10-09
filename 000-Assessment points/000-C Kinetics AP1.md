@@ -1,4 +1,4 @@
-Tags:: #AP/Chemistry 
+Tags:: #AP/Chemistry #000-Chemistry 
 
 [[C18.1]]
 [[C18.2]]
