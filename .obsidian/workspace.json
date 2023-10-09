@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -208,7 +208,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4120128619953782,
+                  "scale": 0.18251472038562466,
                   "close": true
                 }
               }
@@ -236,8 +236,9 @@
   },
   "active": "4da5fa9ab5cb52df",
   "lastOpenFiles": [
-    "Home.md",
+    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
     "conflict-files-obsidian-git.md",
+    "Home.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
@@ -266,7 +267,6 @@
     "Personal/Other/Personality types/Seeking types/Identity seeking type.md",
     "Personal/Other/Personality types/Jungian functions/Introverted thinking.md",
     "Personal/Other/Personality types/Jungian functions/Introverted intuition.md",
-    "Personal/Other/Personality types/Jungian functions/Introverted feeling.md",
     "Personal/Other/Personality types/MBTI Types",
     "Personal/Other/Personality types/Seeking types",
     "Personal/Other/Personality types/Jungian functions",

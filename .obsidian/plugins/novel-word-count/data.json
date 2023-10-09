@@ -12708,14 +12708,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 125,
+      "characterCount": 116,
       "nonWhitespaceCharacterCount": 99,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989881609,
-      "modifiedDate": 1696834572975,
-      "sizeInBytes": 125
+      "modifiedDate": 1696834618056,
+      "sizeInBytes": 116
     },
     "000-Maths/Pure Y1/M-P Chapter 13/M-P 13.5.md": {
       "isCountable": true,
@@ -20230,23 +20230,6 @@
       "createdDate": 1696834395113,
       "modifiedDate": 1696834395113,
       "sizeInBytes": 3558
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 158,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 15.8,
-      "characterCount": 1021,
-      "nonWhitespaceCharacterCount": 853,
-      "linkCount": 15,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696834569921,
-      "modifiedDate": 1696834569951,
-      "sizeInBytes": 1021
     }
   }
 }
