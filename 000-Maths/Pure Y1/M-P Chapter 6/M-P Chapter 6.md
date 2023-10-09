@@ -4,4 +4,4 @@
 [[M-P 6.4]]
 [[M-P 6.5]]
 
-#M-P-Chapters 
+#000-Maths/P1-Chapters 

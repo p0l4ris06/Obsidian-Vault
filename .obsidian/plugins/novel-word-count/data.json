@@ -17791,14 +17791,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 86,
-      "nonWhitespaceCharacterCount": 73,
-      "linkCount": 0,
+      "characterCount": 95,
+      "nonWhitespaceCharacterCount": 82,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989601898,
-      "modifiedDate": 1694990134785,
-      "sizeInBytes": 86
+      "modifiedDate": 1696503876293,
+      "sizeInBytes": 95
     },
     "000-Maths/Pure Y1/M-P Chapter 11/M-P 11.1.md": {
       "isCountable": true,
@@ -17876,14 +17876,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 79,
-      "linkCount": 0,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 88,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989853444,
-      "modifiedDate": 1694990309982,
-      "sizeInBytes": 94
+      "modifiedDate": 1696503908223,
+      "sizeInBytes": 103
     },
     "000-Maths/Pure Y1/M-P Chapter 11/M-P 11.6.md": {
       "isCountable": true,
@@ -17995,14 +17995,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 79,
-      "linkCount": 0,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 88,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989829577,
-      "modifiedDate": 1694990278734,
-      "sizeInBytes": 94
+      "modifiedDate": 1696503905566,
+      "sizeInBytes": 103
     },
     "000-Maths/Pure Y1/M-P Chapter 12/M-P 12.1.md": {
       "isCountable": true,
@@ -18199,14 +18199,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.3,
-      "characterCount": 161,
-      "nonWhitespaceCharacterCount": 136,
-      "linkCount": 0,
+      "characterCount": 170,
+      "nonWhitespaceCharacterCount": 145,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989881083,
-      "modifiedDate": 1694990339568,
-      "sizeInBytes": 161
+      "modifiedDate": 1696503910952,
+      "sizeInBytes": 170
     },
     "000-Maths/Pure Y1/M-P Chapter 12/M-P 12.7.md": {
       "isCountable": true,
@@ -18369,14 +18369,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 107,
-      "nonWhitespaceCharacterCount": 90,
-      "linkCount": 0,
+      "characterCount": 116,
+      "nonWhitespaceCharacterCount": 99,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989881609,
-      "modifiedDate": 1694990360258,
-      "sizeInBytes": 107
+      "modifiedDate": 1696503913626,
+      "sizeInBytes": 116
     },
     "000-Maths/Pure Y1/M-P Chapter 14/M-P 14.2.md": {
       "isCountable": true,
@@ -18505,14 +18505,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 116,
-      "nonWhitespaceCharacterCount": 90,
-      "linkCount": 0,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 99,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989938154,
-      "modifiedDate": 1695629261230,
-      "sizeInBytes": 116
+      "modifiedDate": 1696503923422,
+      "sizeInBytes": 115
     },
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.3.md": {
       "isCountable": true,
@@ -18641,14 +18641,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 99,
-      "nonWhitespaceCharacterCount": 83,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 92,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989679415,
-      "modifiedDate": 1696500954018,
-      "sizeInBytes": 99
+      "modifiedDate": 1696503882632,
+      "sizeInBytes": 108
     },
     "000-Maths/Pure Y1/M-P Chapter 4/M-P 4.1.md": {
       "isCountable": true,
@@ -18794,14 +18794,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.5,
-      "characterCount": 100,
-      "nonWhitespaceCharacterCount": 83,
-      "linkCount": 0,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 92,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989679415,
-      "modifiedDate": 1694990194031,
-      "sizeInBytes": 100
+      "modifiedDate": 1696503885790,
+      "sizeInBytes": 109
     },
     "000-Maths/Pure Y1/M-P Chapter 5/M-P 5.1.md": {
       "isCountable": true,
@@ -18896,14 +18896,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 63,
-      "linkCount": 0,
+      "characterCount": 85,
+      "nonWhitespaceCharacterCount": 72,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989727579,
-      "modifiedDate": 1694990210590,
-      "sizeInBytes": 76
+      "modifiedDate": 1696503888280,
+      "sizeInBytes": 85
     },
     "000-Maths/Pure Y1/M-P Chapter 2/M-P 2.1.md": {
       "isCountable": true,
@@ -19032,14 +19032,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 87,
-      "nonWhitespaceCharacterCount": 73,
-      "linkCount": 0,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 82,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989643973,
-      "modifiedDate": 1694990152712,
-      "sizeInBytes": 87
+      "modifiedDate": 1696503879561,
+      "sizeInBytes": 96
     },
     "000-Maths/Pure Y1/M-P Chapter 6/M-P 6.2.md": {
       "isCountable": true,
@@ -19117,14 +19117,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 63,
-      "linkCount": 0,
+      "characterCount": 85,
+      "nonWhitespaceCharacterCount": 72,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989727579,
-      "modifiedDate": 1694990223033,
-      "sizeInBytes": 76
+      "modifiedDate": 1696503891555,
+      "sizeInBytes": 85
     },
     "000-Maths/Pure Y1/M-P Chapters/M-P Chapters.md": {
       "isCountable": true,
@@ -19219,14 +19219,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 63,
-      "linkCount": 0,
+      "characterCount": 85,
+      "nonWhitespaceCharacterCount": 72,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989771573,
-      "modifiedDate": 1694990237319,
-      "sizeInBytes": 76
+      "modifiedDate": 1696503895464,
+      "sizeInBytes": 85
     },
     "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.1.md": {
       "isCountable": true,
@@ -19321,14 +19321,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 63,
-      "linkCount": 0,
+      "characterCount": 85,
+      "nonWhitespaceCharacterCount": 72,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989771573,
-      "modifiedDate": 1694990252719,
-      "sizeInBytes": 76
+      "modifiedDate": 1696503899646,
+      "sizeInBytes": 85
     },
     "000-Maths/Pure Y1/M-P Chapter 8/M-P 8.5.md": {
       "isCountable": true,
@@ -19440,14 +19440,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 88,
-      "nonWhitespaceCharacterCount": 73,
-      "linkCount": 0,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 82,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694989771573,
-      "modifiedDate": 1694990264821,
-      "sizeInBytes": 88
+      "modifiedDate": 1696503902726,
+      "sizeInBytes": 97
     },
     "000-Maths/Pure Y1/M-P Chapter 9/M-P 9.1.md": {
       "isCountable": true,

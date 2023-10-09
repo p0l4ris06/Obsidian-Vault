@@ -5,5 +5,4 @@
 [[M-P 14.5]]
 [[M-P 14.6]]
 [[M-P 14.7]]
-
-#M-P-Chapters 
+#000-Maths/P1-Chapters 
