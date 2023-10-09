@@ -1,21 +1,21 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#000-Biology/Definition  ",
+      "query": "tag:#B-definition  ",
       "color": {
         "a": 1,
         "rgb": 3734491
       }
     },
     {
-      "query": "tag:#000-Chemistry/Definition  ",
+      "query": "tag:#C-definition  ",
       "color": {
         "a": 1,
         "rgb": 9327349
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:Personal/Other  ",
+      "query": "path:Personal/Birds  ",
       "color": {
         "a": 1,
         "rgb": 3407728
@@ -64,10 +64,24 @@
       }
     },
     {
-      "query": "path:\"Obsidian MD Tools\"  ",
+      "query": "path:Templates",
       "color": {
         "a": 1,
         "rgb": 5135036
+      }
+    },
+    {
+      "query": "path:\"Personal/John Mavrick Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5135036
+      }
+    },
+    {
+      "query": "path:\"Personal/Personality types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     },
     {
@@ -78,10 +92,10 @@
       }
     },
     {
-      "query": "path:\"000-Assessment points\"  ",
+      "query": "path: \"111-Work experience\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 5431378
       }
     }
   ],
@@ -91,10 +105,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.431770833333333,
   "collapse-forces": true,
-  "centerStrength": 0.481770833333333,
-  "repelStrength": 16.3020833333333,
-  "linkStrength": 0.903645833333333,
-  "linkDistance": 500,
-  "scale": 0.05415230746847634,
+  "centerStrength": 0.535343035343035,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 1,
+  "linkDistance": 436,
+  "scale": 0.06650083109726566,
   "close": true
 }

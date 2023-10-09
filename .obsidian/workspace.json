@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4da5fa9ab5cb52df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-08.md"
               }
             }
           },
@@ -156,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,11 +220,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4da5fa9ab5cb52df",
+  "active": "015c17a88dfdc9db",
   "lastOpenFiles": [
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
-    "conflict-files-obsidian-git.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
+    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
@@ -265,8 +253,6 @@
     "Personal/Other/Personality types/Seeking types/Security seeking type.md",
     "Personal/Other/Personality types/Seeking types/Knowledge seeking type.md",
     "Personal/Other/Personality types/Seeking types/Identity seeking type.md",
-    "Personal/Other/Personality types/Jungian functions/Introverted thinking.md",
-    "Personal/Other/Personality types/Jungian functions/Introverted intuition.md",
     "Personal/Other/Personality types/MBTI Types",
     "Personal/Other/Personality types/Seeking types",
     "Personal/Other/Personality types/Jungian functions",

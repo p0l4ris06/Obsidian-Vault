@@ -19151,14 +19151,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 8.6,
-      "characterCount": 543,
+      "characterCount": 519,
       "nonWhitespaceCharacterCount": 426,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696834394906,
-      "modifiedDate": 1696834394906,
-      "sizeInBytes": 555
+      "modifiedDate": 1696834688097,
+      "sizeInBytes": 531
     },
     "Personal/Other/Birds/Birds.md": {
       "isCountable": true,
@@ -20230,6 +20230,23 @@
       "createdDate": 1696834395113,
       "modifiedDate": 1696834395113,
       "sizeInBytes": 3558
+    },
+    "Personal/Journal/Daily notes/2023-10/2023-10-08.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 77,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.7,
+      "characterCount": 472,
+      "nonWhitespaceCharacterCount": 387,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696834687860,
+      "modifiedDate": 1696834793173,
+      "sizeInBytes": 484
     }
   }
 }
