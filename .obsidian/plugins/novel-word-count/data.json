@@ -20861,22 +20861,22 @@
       "modifiedDate": 1696879668814,
       "sizeInBytes": 51
     },
-    "2023-10-09-ST.md": {
+    "Lessons/Chem lessons/00-ST/2023-10-09-ST.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 30,
-      "nonWhitespaceCharacterCount": 24,
-      "linkCount": 1,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 58,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696879691169,
-      "modifiedDate": 1696879704081,
-      "sizeInBytes": 30
+      "modifiedDate": 1696879731711,
+      "sizeInBytes": 68
     }
   }
 }
