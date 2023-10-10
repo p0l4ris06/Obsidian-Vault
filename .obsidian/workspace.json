@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "5c87bf83be5ca607",
+            "id": "cc979fe37dcc5eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "000-Maths.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -286,7 +286,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5c87bf83be5ca607",
+  "active": "cc979fe37dcc5eaa",
   "lastOpenFiles": [
     "000-Maths.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.6.md",
