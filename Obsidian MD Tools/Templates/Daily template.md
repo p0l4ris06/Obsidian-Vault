@@ -1,5 +1,5 @@
 tags:: #daily-notes 
-links:: [[909 Journal MOC]] [[+Daily Notes]]
+links:: [[909 Journal MOC]] 
 # <%+ tp.date.now() %>
 
 << [[ <%+ tp.date.yesterday() %>]] - [[ <%+ tp.date.tomorrow() %>]] >>
