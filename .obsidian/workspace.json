@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 2/C2.3.md",
+                "file": "000-Chemistry/C Module 2/Chapter 3/C3.4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#000-Chemistry/Y1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 2/C2.3.md"
+                "file": "000-Chemistry/C Module 2/Chapter 3/C3.4.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 2/C2.3.md",
+                "file": "000-Chemistry/C Module 2/Chapter 3/C3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 2/C2.3.md",
+                "file": "000-Chemistry/C Module 2/Chapter 3/C3.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 2/C2.3.md",
+                "file": "000-Chemistry/C Module 2/Chapter 3/C3.4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +265,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fd80bdcf1c331eca",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 2/Chapter 3/C3.3.md",
+    "000-Chemistry/C Module 2/Chapter 3/C3.2.md",
+    "000-Chemistry/C Module 2/Chapter 3/C3.1.md",
+    "000-Chemistry/C Module 2/Chapter 2/C2.3.md",
     "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.6.md",
     "000-Chemistry/C Module 6/Chapter 28/C28.3.md",
@@ -288,10 +293,6 @@
     "000-Chemistry/C Module 3/Chapter 7/C7.3.md",
     "000-Chemistry/C Module 3/Chapter 7/C7.2.md",
     "000-Chemistry/C Module 3/Chapter 7/C7.1.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.4.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.2.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.1.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
