@@ -21064,6 +21064,23 @@
       "createdDate": 1696715821460,
       "modifiedDate": 1696880909667,
       "sizeInBytes": 132
+    },
+    "Smart notes test.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 1,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696946803357,
+      "modifiedDate": 1696946817272,
+      "sizeInBytes": 2
     }
   }
 }
