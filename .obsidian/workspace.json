@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba60329aff9e1cd3",
+        "id": "8fe279583e10391d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd80bdcf1c331eca",
+            "id": "86a1699fbf416c94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md"
+                "file": "Test.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+                "file": "Test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,9 +262,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd80bdcf1c331eca",
+  "active": "86a1699fbf416c94",
   "lastOpenFiles": [
+    "Home.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
+    "Test.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.2.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.1.md",
     "000-Chemistry/C Module 2/Chapter 5/C5.3.md",
@@ -288,8 +290,6 @@
     "000-Chemistry/C Module 4/Chapter 17/C17.2.md",
     "000-Chemistry/C Module 4/Chapter 16/C16.2.md",
     "000-Chemistry/C Module 4/Chapter 13/Chapter 13.md",
-    "000-Chemistry/C Module 4/Chapter 16/Chapter 16.md",
-    "000-Chemistry/C Module 4/Chapter 16/C16.1.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
