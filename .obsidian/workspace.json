@@ -11,13 +11,8 @@
             "id": "fd80bdcf1c331eca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +161,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +256,7 @@
   },
   "active": "fd80bdcf1c331eca",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.2.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.1.md",
     "000-Chemistry/C Module 2/Chapter 5/C5.3.md",
@@ -291,7 +282,6 @@
     "000-Chemistry/C Module 4/Chapter 13/Chapter 13.md",
     "000-Chemistry/C Module 4/Chapter 16/Chapter 16.md",
     "000-Chemistry/C Module 4/Chapter 16/C16.1.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.2.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
