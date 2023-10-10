@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "abd68e3e59f3124d",
+        "id": "ba60329aff9e1cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a1e74aa7c1cb1a7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc979fe37dcc5eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b3739f8c19e85d7",
+            "id": "fd80bdcf1c331eca",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,18 +254,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0b3739f8c19e85d7",
+  "active": "fd80bdcf1c331eca",
   "lastOpenFiles": [
+    "Home.md",
+    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
+    "Personal/Other/Personality types/Cognitive stack/Jungian funtions.md",
+    "Personal/Other/Personality types/Cognitive stack/Tertiary function.md",
+    "Personal/Other/Personality types/Cognitive stack/Inferior function.md",
+    "Personal/Other/Personality types/Cognitive stack/Dominant function.md",
+    "Personal/Other/Personality types/Cognitive stack/Auxiliary function.md",
     "000-Maths.md",
     "000-Maths/Stats/M-S Chapter 1/M-S Chapter 1.md",
     "000-Maths/Stats/M-S Chapter 1/M-S 1.1.md",
     "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
-    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "000-Maths/Mechanics/M-M Chapters/M-M Chapters.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.6.md",
     "Glossaries/M Glossary/Census.md",
-    "Home.md",
     "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
     "Personal/Other/Birds/Paridae/Willow tit.md",
     "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
@@ -299,11 +282,6 @@
     "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.2.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
-    "000-Chemistry/C Module 5/Chapter 19/C19.3.md",
-    "000-Chemistry/C Module 5/Chapter 19/C19.2.md",
-    "000-Chemistry/C Module 5/Chapter 19/C19.1.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.3.md",
-    "000-Chemistry/C Module 5/Chapter 18/C18.2.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
