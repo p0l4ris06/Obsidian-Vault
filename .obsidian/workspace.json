@@ -16,6 +16,14 @@
             }
           },
           {
+            "id": "09bc1ebc72813f86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "0049eeaeb916cadf",
             "type": "leaf",
             "state": {
@@ -113,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +184,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0049eeaeb916cadf",
+  "active": "09bc1ebc72813f86",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
+    "2023-10-10-LE.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
     "000-Assessment points/000-M AP6.md",
     "Home.md",
     "000-Assessment points/000-M AP4.md",
@@ -262,7 +266,6 @@
     "Personal/Other/Personality types/MBTI Types/ESTJ.md",
     "Personal/Other/Personality types/MBTI Types/ESFJ.md",
     "Personal/Other/Personality types/MBTI Types/ENTP.md",
-    "Personal/Other/Personality types/MBTI Types/ENTJ.md",
     "Personal/Other/Personality types/MBTI Types",
     "Personal/Other/Personality types/Seeking types",
     "Personal/Other/Personality types/Jungian functions",

@@ -8,14 +8,14 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#B-definition  ",
+      "query": "tag:#000-Biology  ",
       "color": {
         "a": 1,
         "rgb": 3734491
       }
     },
     {
-      "query": "tag:#C-definition  ",
+      "query": "tag:#000-Chemistry  ",
       "color": {
         "a": 1,
         "rgb": 9327349
@@ -64,14 +64,7 @@
       }
     },
     {
-      "query": "path:Templates",
-      "color": {
-        "a": 1,
-        "rgb": 5135036
-      }
-    },
-    {
-      "query": "path:\"Personal/John Mavrick Tools\"  ",
+      "query": "path:\"Obsidian MD Tools\"  ",
       "color": {
         "a": 1,
         "rgb": 5135036
