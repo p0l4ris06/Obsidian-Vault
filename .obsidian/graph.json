@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#000-Biology/Definition  ",
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#Backlog  ",
+      "color": {
+        "a": 1,
+        "rgb": 4412449
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 16.3020833333333,
   "linkStrength": 0.903645833333333,
   "linkDistance": 500,
-  "scale": 0.05415230746847674,
-  "close": false
+  "scale": 0.05415230746847683,
+  "close": true
 }
