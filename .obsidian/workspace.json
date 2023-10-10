@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf175a80c39889c",
+        "id": "33183a6434346530",
         "type": "tabs",
         "children": [
           {
-            "id": "8165239585d0ffb6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a68d576dbd16a0b2",
+            "id": "9aa49d0e10db6741",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,12 +245,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a68d576dbd16a0b2",
+  "active": "9aa49d0e10db6741",
   "lastOpenFiles": [
+    "Home.md",
+    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
+    "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
+    "Lessons/Support lessons/00-CS-ST/2023-10-10-CS.md",
     "Chlorophyll A.md",
     "888-BACKLOG/2023-10-04-GAH.md",
-    "2023-10-10-CS.md",
-    "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Personal/Other/Birds/Birds.md",
     "Personal/Other/Birds/Sexual dimorphism.md",
@@ -280,8 +273,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-30.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
