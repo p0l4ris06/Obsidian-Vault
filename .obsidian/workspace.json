@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe279583e10391d",
+        "id": "128a608db67f62b6",
         "type": "tabs",
         "children": [
           {
-            "id": "86a1699fbf416c94",
+            "id": "389835ca7e68438a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "49854ff62ebbd788",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21ed8234ff346a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -124,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Home.md"
               }
             }
           },
@@ -160,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,7 +262,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86a1699fbf416c94",
+  "active": "389835ca7e68438a",
   "lastOpenFiles": [
     "Obsidian MD Tools/Templates/Yearly Review Template.md",
     "Obsidian MD Tools/Templates/Weekly Review Template.md",
