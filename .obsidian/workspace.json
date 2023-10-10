@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths.md",
+                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths.md"
+                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths.md",
+                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths.md",
+                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths.md",
+                "file": "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,6 +288,8 @@
   },
   "active": "cc979fe37dcc5eaa",
   "lastOpenFiles": [
+    "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
+    "000-Maths/Mechanics/M-M Chapter 8/M-M 8.1.md",
     "000-Maths.md",
     "000-Maths/Pure Y1/M-P Chapter 1/M-P 1.6.md",
     "000-Maths/Pure Y1/M-P Chapter 2/M-P Chapter 2.md",
@@ -312,8 +314,6 @@
     "000-Chemistry/C Module 5/Chapter 18/C18.1.md",
     "000-Chemistry/C Module 4/Chapter 17/C17.2.md",
     "000-Chemistry/C Module 4/Chapter 17/C17.1.md",
-    "000-Chemistry/C Module 4/Chapter 15/C15.1.md",
-    "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",

@@ -15905,14 +15905,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 28,
-      "nonWhitespaceCharacterCount": 21,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529478960,
-      "modifiedDate": 1696529478960,
-      "sizeInBytes": 28
+      "modifiedDate": 1696948261427,
+      "sizeInBytes": 50
     },
     "000-Maths/Mechanics/M-M Chapter 10/M-M 10.3.md": {
       "isCountable": true,
@@ -15922,14 +15922,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 28,
-      "nonWhitespaceCharacterCount": 21,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529478953,
-      "modifiedDate": 1696529478953,
-      "sizeInBytes": 28
+      "modifiedDate": 1696948261260,
+      "sizeInBytes": 50
     },
     "000-Maths/Mechanics/M-M Chapter 10/M-M 10.2.md": {
       "isCountable": true,
@@ -15939,14 +15939,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 28,
-      "nonWhitespaceCharacterCount": 21,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529478940,
-      "modifiedDate": 1696529478942,
-      "sizeInBytes": 28
+      "modifiedDate": 1696948261077,
+      "sizeInBytes": 50
     },
     "000-Maths/Mechanics/M-M Chapter 10/M-M 10.1.md": {
       "isCountable": true,
@@ -15956,14 +15956,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 28,
-      "nonWhitespaceCharacterCount": 21,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529478928,
-      "modifiedDate": 1696529478928,
-      "sizeInBytes": 28
+      "modifiedDate": 1696948260922,
+      "sizeInBytes": 50
     },
     "000-Chemistry/C Module 5/Chapter 24/C24.1.md": {
       "isCountable": true,
