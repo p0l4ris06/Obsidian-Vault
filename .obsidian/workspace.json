@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#000-maths/p1/sub-chapter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,6 +256,11 @@
   },
   "active": "fd80bdcf1c331eca",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Types of bond.md",
+    "Glossaries/B Glossary/Phosphate group.md",
+    "Glossaries/B Glossary/Peptide bond.md",
+    "Glossaries/B Glossary/Iodine.md",
+    "Glossaries/B Glossary/pH.md",
     "Home.md",
     "000-Maths/Mechanics/M-M Chapter 8/M-M Chapter 8.md",
     "Personal/Other/Personality types/Cognitive stack/Jungian funtions.md",
@@ -277,11 +282,6 @@
     "Smart notes test.md",
     "Personal/Other/Birds/Avivore.md",
     "Personal/Other/Birds/Birds.md",
-    "000-Biology/B Module 4/4.1/4.1.2.md",
-    "000-Biology/B Module 4/4.1/4.1.1.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.2.md",
-    "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",

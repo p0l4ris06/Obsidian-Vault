@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:#000-Biology/Definition tag:#000-Chemistry/Definition  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -109,6 +109,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.895833333333333,
   "linkDistance": 500,
-  "scale": 0.07058167567046514,
+  "scale": 0.3823010968769976,
   "close": true
 }
