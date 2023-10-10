@@ -20933,18 +20933,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 130,
-      "nonWhitespaceCharacterCount": 114,
-      "linkCount": 6,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 154,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696943405321,
-      "modifiedDate": 1696943459161,
-      "sizeInBytes": 130
+      "modifiedDate": 1696943478280,
+      "sizeInBytes": 176
     }
   }
 }

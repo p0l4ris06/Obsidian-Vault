@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-10-CS.md",
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-10-CS.md"
+                "file": "888-BACKLOG/2023-10-04-GAH.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-10-CS.md",
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-10-CS.md",
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-10-CS.md",
+                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +266,7 @@
   },
   "active": "a68d576dbd16a0b2",
   "lastOpenFiles": [
+    "888-BACKLOG/2023-10-04-GAH.md",
     "2023-10-10-CS.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
@@ -291,7 +292,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-30.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-28.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
