@@ -11,13 +11,8 @@
             "id": "9aa49d0e10db6741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "888-BACKLOG/Mass flow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#000-Biology/Definition",
+                "query": "2023-10-10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "888-BACKLOG/Mass flow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/Mass flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/Mass flow.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/Mass flow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,6 +247,18 @@
   },
   "active": "9aa49d0e10db6741",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
+    "Lessons/Maths lessons/00-LE/2023-10-10-LE.md",
+    "888-BACKLOG/Link reaction.md",
+    "888-BACKLOG/Krebs cycle.md",
+    "888-BACKLOG/Glycolysis.md",
+    "888-BACKLOG/Geometric sequence.md",
+    "888-BACKLOG/Elimination reaction.md",
+    "888-BACKLOG/Double-angle formulae.md",
+    "888-BACKLOG/Arithmetic series.md",
+    "888-BACKLOG/Chlorophyll.md",
+    "Glossaries/B Glossary/Mass flow.md",
     "888-BACKLOG/Nitrobacter.md",
     "888-BACKLOG/Nitrosomonas.md",
     "888-BACKLOG/Oxidative phosphorylation.md",
@@ -271,18 +273,6 @@
     "Lessons/Maths lessons/00-SK/2023-10-06-SK.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-06-SCW.md",
     "Glossaries/B Glossary/Standard deviation.md",
-    "Lessons/Bio Lessons/00-GAH/2023-10-04-GAH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-10-03-SCW.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
-    "Glossaries/M Glossary/Composite function.md",
-    "999-CSS/999-CSS-MOC.md",
-    "888-BACKLOG/Elimination reaction.md",
-    "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
-    "Personal/Other/Birds/Sexual dimorphism.md",
-    "Personal/Other/Birds/Birds.md",
-    "888-BACKLOG/Mass flow.md",
-    "Home.md",
-    "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
