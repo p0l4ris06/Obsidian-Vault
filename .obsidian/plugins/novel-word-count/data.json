@@ -2335,18 +2335,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 77,
+      "wordCount": 76,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.7,
-      "characterCount": 473,
-      "nonWhitespaceCharacterCount": 387,
+      "pageCount": 7.6,
+      "characterCount": 470,
+      "nonWhitespaceCharacterCount": 384,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696834687860,
-      "modifiedDate": 1696834993570,
-      "sizeInBytes": 485
+      "modifiedDate": 1696928180366,
+      "sizeInBytes": 482
     },
     "Personal/Journal/Daily notes/2023-10/2023-10-07.md": {
       "isCountable": true,
@@ -3627,18 +3627,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 55,
+      "wordCount": 56,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.5,
-      "characterCount": 483,
-      "nonWhitespaceCharacterCount": 422,
+      "pageCount": 5.6,
+      "characterCount": 495,
+      "nonWhitespaceCharacterCount": 434,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693408602061,
-      "modifiedDate": 1696836779790,
-      "sizeInBytes": 511
+      "modifiedDate": 1696928016549,
+      "sizeInBytes": 525
     },
     "Glossaries/M Glossary/Sample.md": {
       "isCountable": true,
@@ -20767,14 +20767,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 6.4,
-      "characterCount": 860,
+      "characterCount": 828,
       "nonWhitespaceCharacterCount": 761,
       "linkCount": 24,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696834394311,
-      "modifiedDate": 1696927982848,
-      "sizeInBytes": 860
+      "modifiedDate": 1696928037479,
+      "sizeInBytes": 828
     },
     "000-Assessment points/000-C Kinetics AP1.md": {
       "isCountable": true,
@@ -20843,6 +20843,23 @@
       "createdDate": 1696927982848,
       "modifiedDate": 1696927982848,
       "sizeInBytes": 562
+    },
+    "Personal/Journal/Daily notes/2023-10/2023-10-10.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 76,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.6,
+      "characterCount": 450,
+      "nonWhitespaceCharacterCount": 365,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696928108681,
+      "modifiedDate": 1696928199475,
+      "sizeInBytes": 460
     }
   }
 }
