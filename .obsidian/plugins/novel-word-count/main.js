@@ -236,6 +236,7 @@ var countTypeDisplayStrings = {
   ["word" /* Word */]: "Word Count",
   ["page" /* Page */]: "Page Count",
   ["pagedecimal" /* PageDecimal */]: "Page Count (decimal)",
+  ["readtime" /* ReadTime */]: "Reading Time",
   ["percentgoal" /* PercentGoal */]: "% of Word Goal",
   ["note" /* Note */]: "Note Count",
   ["character" /* Character */]: "Character Count",
@@ -251,6 +252,7 @@ var countTypeDescriptions = {
   ["word" /* Word */]: "Total words.",
   ["page" /* Page */]: "Total pages, rounded up.",
   ["pagedecimal" /* PageDecimal */]: "Total pages, precise to 2 digits after the decimal.",
+  ["readtime" /* ReadTime */]: "Estimated time to read the note.",
   ["percentgoal" /* PercentGoal */]: "Set a word goal by adding the 'word-goal' property to a note.",
   ["note" /* Note */]: "Total notes.",
   ["character" /* Character */]: "Total characters (letters, symbols, numbers, and spaces).",
@@ -269,6 +271,7 @@ var countTypes = [
   "word" /* Word */,
   "page" /* Page */,
   "pagedecimal" /* PageDecimal */,
+  "readtime" /* ReadTime */,
   "percentgoal" /* PercentGoal */,
   "note" /* Note */,
   "character" /* Character */,
@@ -295,6 +298,8 @@ var DEFAULT_SETTINGS = {
   abbreviateDescriptions: false,
   alignment: "inline" /* Inline */,
   debugMode: false,
+  wordsPerMinute: 265,
+  charsPerMinute: 500,
   wordsPerPage: 300,
   charsPerPage: 1500,
   charsPerPageIncludesWhitespace: false,
@@ -330,8 +335,8 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       drop.setValue(this.plugin.settings.countType).onChange(async (value) => {
         this.plugin.settings.countType = value;
         await this.plugin.saveSettings();
-        await this.plugin.updateDisplayedCounts();
         this.display();
+        await this.plugin.updateDisplayedCounts();
       });
     });
     new import_obsidian2.Setting(containerEl).setName("2nd data type to show").setDesc(getDescription(this.plugin.settings.countType2)).addDropdown((drop) => {
@@ -341,8 +346,8 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       drop.setValue(this.plugin.settings.countType2).onChange(async (value) => {
         this.plugin.settings.countType2 = value;
         await this.plugin.saveSettings();
-        await this.plugin.updateDisplayedCounts();
         this.display();
+        await this.plugin.updateDisplayedCounts();
       });
     });
     new import_obsidian2.Setting(containerEl).setName("3rd data type to show").setDesc(getDescription(this.plugin.settings.countType3)).addDropdown((drop) => {
@@ -352,8 +357,8 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       drop.setValue(this.plugin.settings.countType3).onChange(async (value) => {
         this.plugin.settings.countType3 = value;
         await this.plugin.saveSettings();
-        await this.plugin.updateDisplayedCounts();
         this.display();
+        await this.plugin.updateDisplayedCounts();
       });
     });
     new import_obsidian2.Setting(containerEl).setName("Abbreviate descriptions").setDesc("E.g. show '120w' instead of '120 words'").addToggle(
@@ -377,8 +382,8 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       (toggle) => toggle.setValue(this.plugin.settings.showSameCountsOnFolders).onChange(async (value) => {
         this.plugin.settings.showSameCountsOnFolders = value;
         await this.plugin.saveSettings();
-        await this.plugin.updateDisplayedCounts();
         this.display();
+        await this.plugin.updateDisplayedCounts();
       })
     );
     if (!this.plugin.settings.showSameCountsOnFolders) {
@@ -437,6 +442,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       ).addOption("CJK" /* CJK */, "Han/Kana/Hangul (CJK)").addOption("AutoDetect" /* AutoDetect */, "Auto-detect by file").setValue(this.plugin.settings.wordCountType).onChange(async (value) => {
         this.plugin.settings.wordCountType = value;
         await this.plugin.saveSettings();
+        this.display();
         await this.plugin.initialize();
       });
     });
@@ -444,10 +450,44 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       drop.addOption("ByWords" /* ByWords */, "Words per page").addOption("ByChars" /* ByChars */, "Characters per page").setValue(this.plugin.settings.pageCountType).onChange(async (value) => {
         this.plugin.settings.pageCountType = value;
         await this.plugin.saveSettings();
-        await this.plugin.updateDisplayedCounts();
         this.display();
+        await this.plugin.updateDisplayedCounts();
       });
     });
+    if (["SpaceDelimited" /* SpaceDelimited */, "AutoDetect" /* AutoDetect */].includes(
+      this.plugin.settings.wordCountType
+    )) {
+      const wordsPerMinuteChanged = async (txt, value) => {
+        const asNumber = Number(value);
+        const isValid = !isNaN(asNumber) && asNumber > 0;
+        txt.inputEl.style.borderColor = isValid ? null : "red";
+        this.plugin.settings.wordsPerMinute = isValid ? Number(value) : 265;
+        await this.plugin.saveSettings();
+        await this.plugin.initialize();
+      };
+      new import_obsidian2.Setting(containerEl).setName("Words per minute").setDesc(
+        "Used to calculate Reading Time. 265 is the average speed of an English-speaking adult."
+      ).addText((txt) => {
+        txt.setPlaceholder("265").setValue(this.plugin.settings.wordsPerMinute.toString()).onChange((0, import_obsidian2.debounce)(wordsPerMinuteChanged.bind(this, txt), 1e3));
+      });
+    }
+    if (["CJK" /* CJK */, "AutoDetect" /* AutoDetect */].includes(
+      this.plugin.settings.wordCountType
+    )) {
+      const charsPerMinuteChanged = async (txt, value) => {
+        const asNumber = Number(value);
+        const isValid = !isNaN(asNumber) && asNumber > 0;
+        txt.inputEl.style.borderColor = isValid ? null : "red";
+        this.plugin.settings.charsPerMinute = isValid ? Number(value) : 500;
+        await this.plugin.saveSettings();
+        await this.plugin.initialize();
+      };
+      new import_obsidian2.Setting(containerEl).setName("Characters per minute").setDesc(
+        "Used to calculate Reading Time. 500 is the average speed for CJK texts."
+      ).addText((txt) => {
+        txt.setPlaceholder("500").setValue(this.plugin.settings.charsPerMinute.toString()).onChange((0, import_obsidian2.debounce)(charsPerMinuteChanged.bind(this, txt), 1e3));
+      });
+    }
     if (this.plugin.settings.pageCountType === "ByWords" /* ByWords */) {
       const wordsPerPageChanged = async (txt, value) => {
         const asNumber = Number(value);
@@ -468,8 +508,8 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
         (toggle) => toggle.setValue(this.plugin.settings.charsPerPageIncludesWhitespace).onChange(async (value) => {
           this.plugin.settings.charsPerPageIncludesWhitespace = value;
           await this.plugin.saveSettings();
-          await this.plugin.initialize();
           this.display();
+          await this.plugin.initialize();
         })
       );
       const charsPerPageChanged = async (txt, value) => {
@@ -577,6 +617,7 @@ var FileHelper = class {
       pageCount: 0,
       characterCount: 0,
       nonWhitespaceCharacterCount: 0,
+      readingTimeInMinutes: 0,
       linkCount: 0,
       embedCount: 0,
       aliases: null,
@@ -599,6 +640,7 @@ var FileHelper = class {
         pageCount: total.pageCount + childCount.pageCount,
         characterCount: total.characterCount + childCount.characterCount,
         nonWhitespaceCharacterCount: total.nonWhitespaceCharacterCount + childCount.nonWhitespaceCharacterCount,
+        readingTimeInMinutes: total.readingTimeInMinutes + childCount.readingTimeInMinutes,
         createdDate: total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate),
         modifiedDate: Math.max(total.modifiedDate, childCount.modifiedDate),
         sizeInBytes: total.sizeInBytes + childCount.sizeInBytes
@@ -639,14 +681,23 @@ var FileHelper = class {
   countWords(content, wordCountType) {
     switch (wordCountType) {
       case "CJK" /* CJK */:
-        return (content.match(this.cjkRegex) || []).length;
+        return {
+          wordCount: (content.match(this.cjkRegex) || []).length,
+          countType: "CJK" /* CJK */
+        };
       case "AutoDetect" /* AutoDetect */:
         const cjkLength = (content.match(this.cjkRegex) || []).length;
         const spaceDelimitedLength = (content.match(/[^\s]+/g) || []).length;
-        return Math.max(cjkLength, spaceDelimitedLength);
+        return {
+          wordCount: Math.max(cjkLength, spaceDelimitedLength),
+          countType: cjkLength > spaceDelimitedLength ? "CJK" /* CJK */ : "SpaceDelimited" /* SpaceDelimited */
+        };
       case "SpaceDelimited" /* SpaceDelimited */:
       default:
-        return (content.match(/[^\s]+/g) || []).length;
+        return {
+          wordCount: (content.match(/[^\s]+/g) || []).length,
+          countType: "SpaceDelimited" /* SpaceDelimited */
+        };
     }
   }
   getChildPaths(counts, path) {
@@ -673,6 +724,7 @@ var FileHelper = class {
       pageCount: 0,
       characterCount: 0,
       nonWhitespaceCharacterCount: 0,
+      readingTimeInMinutes: 0,
       linkCount: 0,
       embedCount: 0,
       aliases: [],
@@ -685,10 +737,13 @@ var FileHelper = class {
     }
     const content = await this.vault.cachedRead(file);
     const meaningfulContent = this.getMeaningfulContent(content, metadata);
-    const wordCount = this.countWords(meaningfulContent, wordCountType);
+    const wordCountResult = this.countWords(meaningfulContent, wordCountType);
+    const wordCount = wordCountResult.wordCount;
     const wordGoal = this.getWordGoal(metadata);
     const characterCount = meaningfulContent.length;
     const nonWhitespaceCharacterCount = this.countNonWhitespaceCharacters(meaningfulContent);
+    const readingTimeFactor = wordCountResult.countType === "CJK" /* CJK */ ? this.settings.charsPerMinute : this.settings.wordsPerMinute;
+    const readingTimeInMinutes = wordCount / readingTimeFactor;
     let pageCount = 0;
     if (this.settings.pageCountType === "ByWords" /* ByWords */) {
       const wordsPerPage = Number(this.settings.wordsPerPage);
@@ -711,6 +766,7 @@ var FileHelper = class {
       pageCount,
       characterCount,
       nonWhitespaceCharacterCount,
+      readingTimeInMinutes,
       linkCount: this.countLinks(metadata),
       embedCount: this.countEmbeds(metadata),
       aliases: (0, import_obsidian3.parseFrontMatterAliases)(metadata == null ? void 0 : metadata.frontmatter)
@@ -801,6 +857,26 @@ var FileSizeHelper = class {
   }
 };
 
+// logic/readtime.ts
+var ReadTimeHelper = class {
+  formatReadTime(minutes, shouldAbbreviate) {
+    const final = shouldAbbreviate ? "" : " read";
+    if (minutes * 60 < 1) {
+      return `0m${final}`;
+    }
+    if (minutes < 1) {
+      const seconds = Math.round(minutes * 60);
+      return `${seconds}s${final}`;
+    }
+    if (minutes < 60) {
+      return `${Math.round(minutes)}m${final}`;
+    }
+    const hours = Math.floor(minutes / 60).toLocaleString();
+    const remainder = Math.floor(minutes) % 60;
+    return remainder === 0 ? `${hours}h${final}` : `${hours}h${remainder}m${final}`;
+  }
+};
+
 // main.ts
 var import_obsidian4 = require("obsidian");
 var NovelWordCountPlugin = class extends import_obsidian4.Plugin {
@@ -808,6 +884,7 @@ var NovelWordCountPlugin = class extends import_obsidian4.Plugin {
     super(app, manifest);
     this.debugHelper = new DebugHelper();
     this.fileSizeHelper = new FileSizeHelper();
+    this.readTimeHelper = new ReadTimeHelper();
     this.unconditionalCountTypes = [
       "created" /* Created */,
       "filesize" /* FileSize */,
@@ -1021,6 +1098,11 @@ var NovelWordCountPlugin = class extends import_obsidian4.Plugin {
       case "character" /* Character */:
         const characterCount = this.settings.characterCountType === "ExcludeWhitespace" /* ExcludeWhitespace */ ? counts.nonWhitespaceCharacterCount : counts.characterCount;
         return abbreviateDescriptions ? `${characterCount.toLocaleString()}ch` : getPluralizedCount("character", characterCount);
+      case "readtime" /* ReadTime */:
+        return this.readTimeHelper.formatReadTime(
+          counts.readingTimeInMinutes,
+          abbreviateDescriptions
+        );
       case "link" /* Link */:
         if (counts.linkCount === 0) {
           return null;
