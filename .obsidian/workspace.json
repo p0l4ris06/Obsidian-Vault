@@ -6,6 +6,7 @@
       {
         "id": "8fc1742a696a1b8d",
         "type": "tabs",
+        "dimension": 45.28593508500773,
         "children": [
           {
             "id": "8d349cf85a1ca0cb",
@@ -19,7 +20,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2c4e9b87c3e04f2b",
+        "type": "tabs",
+        "dimension": 54.71406491499228,
+        "children": [
           {
             "id": "b73a790645968c25",
             "type": "leaf",
@@ -28,8 +36,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 277
   },
   "right": {
     "id": "796782712381c878",
@@ -117,9 +124,17 @@
                 "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "5c71262b93473dff",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "c1bd03f399390851",
@@ -249,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388
+    "width": 279
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +281,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "5c71262b93473dff",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Home.md",
