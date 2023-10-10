@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "33183a6434346530",
+        "id": "8fc1742a696a1b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa49d0e10db6741",
+            "id": "8d349cf85a1ca0cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73a790645968c25",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +113,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c1bd03f399390851",
@@ -126,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,10 +249,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 388
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open ChatGPT": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,8 +266,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9aa49d0e10db6741",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Home.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Lessons/Maths lessons/00-LE/2023-10-10-LE.md",
@@ -271,8 +294,6 @@
     "Personal/Other/Birds/Diurnal.md",
     "Personal/Other/Birds/Avivore.md",
     "Lessons/Maths lessons/00-SK/2023-10-06-SK.md",
-    "Lessons/Bio Lessons/00-SCW/2023-10-06-SCW.md",
-    "Glossaries/B Glossary/Standard deviation.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
