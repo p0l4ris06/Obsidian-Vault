@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "888-BACKLOG/2023-10-03-SCW.md",
+                "file": "888-BACKLOG/Avivore.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "888-BACKLOG/2023-10-03-SCW.md"
+                "file": "888-BACKLOG/Avivore.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/2023-10-03-SCW.md",
+                "file": "888-BACKLOG/Avivore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/2023-10-03-SCW.md",
+                "file": "888-BACKLOG/Avivore.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/2023-10-03-SCW.md",
+                "file": "888-BACKLOG/Avivore.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,6 +257,11 @@
   },
   "active": "9aa49d0e10db6741",
   "lastOpenFiles": [
+    "Lessons/Maths lessons/00-SK/2023-10-06-SK.md",
+    "Lessons/Bio Lessons/00-SCW/2023-10-06-SCW.md",
+    "Glossaries/B Glossary/Standard deviation.md",
+    "Lessons/Bio Lessons/00-GAH/2023-10-04-GAH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-10-03-SCW.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Glossaries/M Glossary/Composite function.md",
     "999-CSS/999-CSS-MOC.md",
@@ -272,17 +277,12 @@
     "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
     "Lessons/Support lessons/00-CS-ST/2023-10-10-CS.md",
     "Chlorophyll A.md",
-    "888-BACKLOG/2023-10-04-GAH.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Personal/Other/Birds/Falconidae/Peregrine falcon.md",
     "Personal/Other/Birds/Falconidae/Merlin.md",
     "Personal/Other/Birds/Falconidae/Gyr falcon.md",
     "Personal/Other/Birds/Falconidae/Common Kestrel.md",
     "Personal/Other/Birds/Falconidae/Eurasian hobby.md",
-    "Personal/Other/Birds/Family/Paridae.md",
-    "000-Assessment points/000-M AP6.md",
-    "000-Assessment points/000-M AP4.md",
-    "000-Assessment points/000-M AP2.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
