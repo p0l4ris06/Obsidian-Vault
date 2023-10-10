@@ -1,4 +1,4 @@
-Tags: #000-Maths/P1
+Tags: #000-Maths/P1/Sub-chapter
 
 ---
 [[Arithmetic sequence]]

@@ -1,4 +1,4 @@
-Tags:: #AP/Chemistry
+Tags:: #AP/Chemistry #000-Chemistry 
 
 [[C29.1]]
 [[C29.2]]
