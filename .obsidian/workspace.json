@@ -11,8 +11,13 @@
             "id": "9aa49d0e10db6741",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "888-BACKLOG/2023-10-03-SCW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "888-BACKLOG/2023-10-03-SCW.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "888-BACKLOG/2023-10-03-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "888-BACKLOG/2023-10-03-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "888-BACKLOG/2023-10-03-SCW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +257,7 @@
   },
   "active": "9aa49d0e10db6741",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Glossaries/M Glossary/Composite function.md",
     "999-CSS/999-CSS-MOC.md",
     "888-BACKLOG/Elimination reaction.md",
@@ -272,7 +283,6 @@
     "000-Assessment points/000-M AP6.md",
     "000-Assessment points/000-M AP4.md",
     "000-Assessment points/000-M AP2.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-09.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
