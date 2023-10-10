@@ -11,8 +11,13 @@
             "id": "9aa49d0e10db6741",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diurnal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diurnal.md"
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diurnal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diurnal.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Diurnal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +257,8 @@
   },
   "active": "9aa49d0e10db6741",
   "lastOpenFiles": [
+    "Diurnal.md",
+    "888-BACKLOG/Mass flow.md",
     "Home.md",
     "Lessons/Support lessons/00-CS-ST/2023-10-03-CS.md",
     "Lessons/Support lessons/00-CS-ST/2023-09-19-CS.md",
@@ -271,8 +283,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-06.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-04.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-03.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
