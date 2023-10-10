@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc1742a696a1b8d",
+        "id": "abd68e3e59f3124d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d349cf85a1ca0cb",
+            "id": "1a1e74aa7c1cb1a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Other/Birds/Paridae/Willow tit.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c78272488d55752b",
+            "id": "f2b750c8004e1f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+                "file": "000-Maths.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md"
+                "file": "000-Maths.md"
               }
             }
           },
@@ -131,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c1bd03f399390851",
@@ -156,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+                "file": "000-Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+                "file": "000-Maths.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+                "file": "000-Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 288
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,11 +273,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c78272488d55752b",
+  "active": "f2b750c8004e1f98",
   "lastOpenFiles": [
+    "000-Maths.md",
     "Home.md",
-    "Smart notes test.md",
+    "Lessons/Bio Lessons/00-SCW/2023-09-19-SCW.md",
     "Personal/Other/Birds/Paridae/Willow tit.md",
+    "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
+    "Smart notes test.md",
     "Personal/Other/Birds/Avivore.md",
     "Personal/Other/Birds/Birds.md",
     "000-Biology/B Module 4/4.1/4.1.2.md",
@@ -301,12 +298,9 @@
     "000-Chemistry/C Module 4/Chapter 17/C17.1.md",
     "000-Chemistry/C Module 4/Chapter 15/C15.1.md",
     "000-Chemistry/C Module 4/Chapter 14/C14.2.md",
-    "000-Chemistry/C Module 4/Chapter 14/C14.1.md",
     "000-Chemistry/C Module 4/Chapter 11/C11.5.md",
     "000-Chemistry/C Module 4/Chapter 11/C11.4.md",
     "000-Chemistry/C Module 4/Chapter 11/C11.3.md",
-    "000-Chemistry/C Module 4/Chapter 11/C11.2.md",
-    "000-Chemistry/C Module 4/Chapter 11/C11.1.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",

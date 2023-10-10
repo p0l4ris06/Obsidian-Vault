@@ -3750,14 +3750,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.16,
-      "characterCount": 389,
+      "characterCount": 381,
       "nonWhitespaceCharacterCount": 332,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529479958,
-      "modifiedDate": 1696529479958,
-      "sizeInBytes": 389
+      "modifiedDate": 1696947246210,
+      "sizeInBytes": 381
     },
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md": {
       "isCountable": true,
@@ -17350,14 +17350,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2,
-      "characterCount": 488,
+      "characterCount": 476,
       "nonWhitespaceCharacterCount": 413,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696529478360,
-      "modifiedDate": 1696529478360,
-      "sizeInBytes": 488
+      "modifiedDate": 1696947225435,
+      "sizeInBytes": 476
     },
     "000-Chemistry/C Module 4/Chapter 13/C13.3.md": {
       "isCountable": true,
@@ -21064,6 +21064,23 @@
       "createdDate": 1696715821460,
       "modifiedDate": 1696880909667,
       "sizeInBytes": 132
+    },
+    "000-Maths.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 26,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696947340604,
+      "modifiedDate": 1696947359811,
+      "sizeInBytes": 30
     }
   }
 }
