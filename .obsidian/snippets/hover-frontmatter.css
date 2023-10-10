@@ -1,5 +1,6 @@
 [data-callout="meta"] {
   width: fit-content;
+  height: 60px;
   margin: 0;
   padding: 0;
   background-color: transparent;
@@ -45,6 +46,7 @@
 
 [data-callout="meta"] .callout-content > p {
   margin: 0;
+  height: 100;
 }
 
 [data-callout="meta"] .callout-content {
