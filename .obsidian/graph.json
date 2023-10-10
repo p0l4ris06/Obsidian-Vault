@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 4412449
       }
+    },
+    {
+      "query": "tag:#000-Maths/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 13641114
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 16.3020833333333,
   "linkStrength": 0.903645833333333,
   "linkDistance": 500,
-  "scale": 0.03862551216165071,
+  "scale": 0.20921259698873926,
   "close": true
 }
