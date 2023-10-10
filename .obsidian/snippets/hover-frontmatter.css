@@ -1,11 +1,11 @@
 [data-callout="meta"] {
   width: fit-content;
-  height: 60px;
   margin: 0;
   padding: 0;
   background-color: transparent;
   border: 2px solid var(--background-secondary);
   border-radius: 15px;
+
 }
 
 
@@ -13,6 +13,7 @@
 [data-callout="meta"]::before {
   content: "Metadata";
   display: block;
+  border-height: 0px;
   padding: 15px 19px 15px 19px;
   background-color: var(--background-secondary);
   opacity: 0.5;
@@ -46,7 +47,6 @@
 
 [data-callout="meta"] .callout-content > p {
   margin: 0;
-  height: 100;
 }
 
 [data-callout="meta"] .callout-content {
