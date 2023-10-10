@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "enabledCssSnippets": [
     "dashboard",
@@ -8,7 +8,8 @@
     "cards",
     "Transparency",
     "extended-colorschemes",
-    "flexoki"
+    "flexoki",
+    "hover-frontmatter"
   ],
   "theme": "obsidian",
   "nativeMenus": false,
