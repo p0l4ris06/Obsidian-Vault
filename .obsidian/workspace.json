@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2f91024d4df3641d",
+        "id": "0174eb9cc4ff05d4",
         "type": "tabs",
         "children": [
           {
-            "id": "015c17a88dfdc9db",
+            "id": "efede291c0f4c010",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -135,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +221,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "015c17a88dfdc9db",
+  "active": "47bec3d54f6beffe",
   "lastOpenFiles": [
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.1.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-08.md",

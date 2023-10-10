@@ -13,6 +13,7 @@
     "wordsPerPage": 10,
     "charsPerPage": 1500,
     "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
     "wordCountType": "SpaceDelimited",
     "pageCountType": "ByWords",
     "excludeComments": false
@@ -2219,14 +2220,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 5.5,
-      "characterCount": 496,
+      "characterCount": 483,
       "nonWhitespaceCharacterCount": 422,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693408602061,
-      "modifiedDate": 1696834394879,
-      "sizeInBytes": 524
+      "modifiedDate": 1696836779790,
+      "sizeInBytes": 511
     },
     "Glossaries/M Glossary/Sample.md": {
       "isCountable": true,
@@ -18773,18 +18774,18 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4,
-      "characterCount": 120,
-      "nonWhitespaceCharacterCount": 95,
+      "pageCount": 1.3,
+      "characterCount": 122,
+      "nonWhitespaceCharacterCount": 96,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696240467963,
-      "modifiedDate": 1696240467963,
-      "sizeInBytes": 124
+      "modifiedDate": 1696834394311,
+      "sizeInBytes": 126
     },
     "000-Biology/B Module 6/6.4/B6.4.md": {
       "isCountable": true,
