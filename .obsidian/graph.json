@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:Lessons  ",
+      "query": "tag:#Lesson  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -95,6 +95,6 @@
   "repelStrength": 16.3020833333333,
   "linkStrength": 0.903645833333333,
   "linkDistance": 500,
-  "scale": 0.054152307468476636,
+  "scale": 0.05415230746847674,
   "close": false
 }

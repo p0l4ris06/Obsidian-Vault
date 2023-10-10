@@ -19,13 +19,8 @@
             "id": "a68d576dbd16a0b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "888-BACKLOG/2023-10-04-GAH.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "888-BACKLOG/2023-10-04-GAH.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +162,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/2023-10-04-GAH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +256,7 @@
   },
   "active": "a68d576dbd16a0b2",
   "lastOpenFiles": [
+    "Chlorophyll A.md",
     "888-BACKLOG/2023-10-04-GAH.md",
     "2023-10-10-CS.md",
     "Home.md",
@@ -291,7 +282,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-02.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-01.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-30.md",
-    "Personal/Journal/Daily notes/2023-09/2023-09-29.md",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
