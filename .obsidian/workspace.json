@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "Glossaries/B Glossary/Photosystem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11.md"
+                "file": "Glossaries/B Glossary/Photosystem.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "Glossaries/B Glossary/Photosystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "Glossaries/B Glossary/Photosystem.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "Glossaries/B Glossary/Photosystem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,9 +271,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1fc32108383fe72",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "2023-10-11.md",
+    "Personal/Journal/Daily notes/2023-10-11.md",
     "Home.md",
     "Lessons/Maths lessons/00-LE/2023-10-11-LE.md",
     "Lessons/Chem lessons/00-ST/2023-10-11-ST.md",

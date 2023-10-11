@@ -6293,15 +6293,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.14,
-      "characterCount": 330,
+      "characterCount": 327,
       "nonWhitespaceCharacterCount": 284,
       "readingTimeInMinutes": 0.15849056603773584,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695037112563,
-      "modifiedDate": 1696762693844,
-      "sizeInBytes": 330
+      "modifiedDate": 1697049177341,
+      "sizeInBytes": 327
     },
     "Glossaries/B Glossary/Photosynthetic pigment.md": {
       "isCountable": true,
@@ -22395,23 +22395,23 @@
       "modifiedDate": 1697048969908,
       "sizeInBytes": 40
     },
-    "2023-10-11.md": {
+    "Personal/Journal/Daily notes/2023-10-11.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 78,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 522,
-      "nonWhitespaceCharacterCount": 435,
-      "readingTimeInMinutes": 0.2943396226415094,
-      "linkCount": 7,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 572,
+      "nonWhitespaceCharacterCount": 480,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697049025274,
-      "modifiedDate": 1697049112844,
-      "sizeInBytes": 532
+      "modifiedDate": 1697049128804,
+      "sizeInBytes": 584
     }
   }
 }
