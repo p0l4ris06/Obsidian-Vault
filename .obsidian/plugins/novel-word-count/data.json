@@ -22341,7 +22341,25 @@
       "modifiedDate": 1696880909667,
       "sizeInBytes": 132
     },
-    "Lessons/Chem lessons/00-ST/2023-10-10-ST.md": {
+    "Lessons/Maths lessons/00-LE/2023-10-11-LE.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 18,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697048906125,
+      "modifiedDate": 1697048936188,
+      "sizeInBytes": 23
+    },
+    "Lessons/Chem lessons/00-ST/2023-10-11-ST.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -22359,7 +22377,7 @@
       "modifiedDate": 1697048897180,
       "sizeInBytes": 93
     },
-    "2023-10-10-LE.md": {
+    "Lessons/Bio Lessons/00-GAH/2023-10-11-GAH.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -22367,15 +22385,33 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 29,
-      "nonWhitespaceCharacterCount": 24,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 34,
       "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1697048906125,
-      "modifiedDate": 1697048933571,
-      "sizeInBytes": 29
+      "createdDate": 1697048946962,
+      "modifiedDate": 1697048969908,
+      "sizeInBytes": 40
+    },
+    "2023-10-11.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 522,
+      "nonWhitespaceCharacterCount": 435,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697049025274,
+      "modifiedDate": 1697049112844,
+      "sizeInBytes": 532
     }
   }
 }
