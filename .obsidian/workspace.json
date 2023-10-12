@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-12-LE.md",
+                "file": "Glossaries/B Glossary/Phospholipid bilayer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-12-LE.md"
+                "file": "Glossaries/B Glossary/Phospholipid bilayer.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-12-LE.md",
+                "file": "Glossaries/B Glossary/Phospholipid bilayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-12-LE.md",
+                "file": "Glossaries/B Glossary/Phospholipid bilayer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-12-LE.md",
+                "file": "Glossaries/B Glossary/Phospholipid bilayer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +278,11 @@
   },
   "active": "0360fe02ec2c6eab",
   "lastOpenFiles": [
+    "2032-10-12-BS.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
-    "2023-10-12-LE.md",
+    "Lessons/Maths lessons/00-SK/2023-10-12-SK.md",
+    "Glossaries/B Glossary/Differentiation.md",
+    "Lessons/Maths lessons/00-LE/2023-10-12-LE.md",
     "Lessons/Chem lessons/00-APH/2023-10-12-APH.md",
     "Home.md",
     "Glossaries/B Glossary/Photosystem.md",
@@ -301,9 +304,6 @@
     "Obsidian MD Tools/Templates/Book Application Template.md",
     "Obsidian MD Tools/Templates/~ Projects.md",
     "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
-    "Obsidian MD Tools/John Mavrick Tools/Books/Example Book.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.2.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
