@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-12.md",
+                "file": "2023-10-12-LE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-12.md"
+                "file": "2023-10-12-LE.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-12.md",
+                "file": "2023-10-12-LE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-12.md",
+                "file": "2023-10-12-LE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-12.md",
+                "file": "2023-10-12-LE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,10 +278,12 @@
   },
   "active": "0360fe02ec2c6eab",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
+    "2023-10-12-LE.md",
+    "Lessons/Chem lessons/00-APH/2023-10-12-APH.md",
     "Home.md",
-    "2023-10-12.md",
     "Glossaries/B Glossary/Photosystem.md",
-    "Personal/Journal/Daily notes/2023-10-11.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-11.md",
     "Lessons/Maths lessons/00-LE/2023-10-11-LE.md",
     "Lessons/Chem lessons/00-ST/2023-10-11-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-11-GAH.md",
@@ -302,8 +304,6 @@
     "Obsidian MD Tools/John Mavrick Tools/Books/Example Book.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.3.md",
     "000-Chemistry/C Module 2/Chapter 6/C6.2.md",
-    "000-Chemistry/C Module 2/Chapter 6/C6.1.md",
-    "000-Chemistry/C Module 2/Chapter 5/C5.3.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
