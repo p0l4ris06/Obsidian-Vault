@@ -24,13 +24,8 @@
             "id": "12d0be39e1290164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,8 +268,11 @@
   },
   "active": "12d0be39e1290164",
   "lastOpenFiles": [
+    "2023-10-13-SK.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-13.md",
+    "2023-10-13-SCW.md",
+    "Lessons/Chem lessons/00-APH/2023-10-13-APH.md",
     "Home.md",
-    "2023-10-13.md",
     "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
     "Glossaries/B Glossary/Phospholipid bilayer.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
@@ -301,9 +294,6 @@
     "Obsidian MD Tools/Templates/To Do's.md",
     "Obsidian MD Tools/Templates/Periodic Review Template.md",
     "Obsidian MD Tools/Templates/Monthly Review Template.md",
-    "Obsidian MD Tools/Templates/Daily template.md",
-    "Obsidian MD Tools/Templates/Book Notes Template.md",
-    "Obsidian MD Tools/Templates/Book Application Template.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
