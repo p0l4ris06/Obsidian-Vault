@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12d0be39e1290164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-10-13.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +276,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "386f94bd91119d43",
+  "active": "12d0be39e1290164",
   "lastOpenFiles": [
+    "Home.md",
+    "2023-10-13.md",
     "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
     "Glossaries/B Glossary/Phospholipid bilayer.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
@@ -271,7 +287,6 @@
     "Glossaries/B Glossary/Differentiation.md",
     "Lessons/Maths lessons/00-LE/2023-10-12-LE.md",
     "Lessons/Chem lessons/00-APH/2023-10-12-APH.md",
-    "Home.md",
     "Glossaries/B Glossary/Photosystem.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-11.md",
     "Lessons/Maths lessons/00-LE/2023-10-11-LE.md",
@@ -289,7 +304,6 @@
     "Obsidian MD Tools/Templates/Daily template.md",
     "Obsidian MD Tools/Templates/Book Notes Template.md",
     "Obsidian MD Tools/Templates/Book Application Template.md",
-    "Obsidian MD Tools/Templates/~ Projects.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",
