@@ -15,7 +15,7 @@
       "autoScroll": false,
       "pin": false,
       "commands": [],
-      "openWhenEmpty": true
+      "openWhenEmpty": false
     }
   },
   "separateMobile": false
