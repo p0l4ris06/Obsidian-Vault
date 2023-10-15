@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "2505623cb394854f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca27f1924fa801d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6056bbe2df74e261",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70cfbd36dd091961",
+    "type": "split",
+    "children": [
+      {
+        "id": "960055f0d2f02398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f225af9aa969c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47bec3d54f6beffe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "respir",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f7c8017fe43c986",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277
+  },
+  "right": {
+    "id": "796782712381c878",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e5d083047ececb",
+        "type": "tabs",
+        "dimension": 38.84615384615385,
+        "children": [
+          {
+            "id": "9fd7f7f03570b440",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "42ae479202e1e3ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a08fab39121d73d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b73a790645968c25",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1bd03f399390851",
+        "type": "tabs",
+        "dimension": 61.15384615384616,
+        "children": [
+          {
+            "id": "816bc890b20f2733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f46434b7e334be5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eed1e02558037a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96b8fd2cd371829e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#B-definition  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3732178
+                      }
+                    },
+                    {
+                      "query": "tag:#C-definition  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9261803
+                      }
+                    },
+                    {
+                      "query": "path:Personal/Birds  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3407472
+                      }
+                    },
+                    {
+                      "query": "path:000-Maths  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16678124
+                      }
+                    },
+                    {
+                      "query": "path:000-Chemistry  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7288227
+                      }
+                    },
+                    {
+                      "query": "path:000-Biology  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5549776
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858158,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Week plan": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6056bbe2df74e261",
+  "lastOpenFiles": [
+    "888-BACKLOG/Nitrosomonas.md",
+    "888-BACKLOG/Nitrobacter.md",
+    "888-BACKLOG/Geometric sequence.md",
+    "888-BACKLOG/Elimination reaction.md",
+    "888-BACKLOG/Double-angle formulae.md",
+    "888-BACKLOG/Chlorophyll.md",
+    "888-BACKLOG/Arithmetic series.md",
+    "888-BACKLOG/Arithmetic sequence.md",
+    "888-BACKLOG/Secondary amine.md",
+    "888-BACKLOG/Sampling units.md",
+    "Oxidative phosphorylation.md",
+    "Respiration.md",
+    "Substrate level phosphorylation.md",
+    "Krebs cycle.md",
+    "Link reaction.md",
+    "Glossaries/B Glossary/Glycolysis.md",
+    "ADP.md",
+    "Glossaries/B Glossary/ATP.md",
+    "Pasted image 20231015164507.png",
+    "Pasted image 20231015164235.png",
+    "000-Biology/B Module 5/5.7/5.7.1.md",
+    "Pasted image 20231015163853.png",
+    "Pyruvate.md",
+    "Acetyl CoA.md",
+    "Matrix.md",
+    "Pasted image 20231015163317.png",
+    "Glossaries/B Glossary/Cytoplasm.md",
+    "Photos/Biology Photos/Pasted image 20231015162634.png",
+    "Photos/Biology Photos/Pasted image 20231015162944.png",
+    "Lessons/Bio Lessons/00-GAH/2023-10-11-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-10-09-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-10-04-GAH.md",
+    "Photos/Maths photos/Pasted image 20231015124950.png",
+    "Photos/Maths photos/Pasted image 20231015124918.png",
+    "Untitled.canvas",
+    "Notion/Untitled 15 4.png",
+    "Notion/Untitled 14 5.png",
+    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
+    "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
+    "Notion",
+    "Obsidian MD Tools",
+    "Personal/Other",
+    "000-Biology/B Module 6/6.4",
+    "2023-10-06",
+    "000-Maths/Pure Y1/M-P Chapter 6",
+    "000-Maths/Pure Y1/M-P Chapters",
+    "000-Maths/Pure Y1/M-P Chapter 9",
+    "Glossaries/B Glossary/Domains and kingdoms.canvas"
+  ]
+}
