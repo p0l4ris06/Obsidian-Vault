@@ -22988,6 +22988,42 @@
       "createdDate": 1697387136555,
       "modifiedDate": 1697387217703,
       "sizeInBytes": 237
+    },
+    "Glossaries/B Glossary/Cytochrome c.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 183,
+      "nonWhitespaceCharacterCount": 158,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697387361912,
+      "modifiedDate": 1697387452125,
+      "sizeInBytes": 183
+    },
+    "Electrophoresis.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 112,
+      "nonWhitespaceCharacterCount": 93,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697387475849,
+      "modifiedDate": 1697387503041,
+      "sizeInBytes": 112
     }
   }
 }
