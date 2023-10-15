@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "2023-10-13-SK.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-10-13-SK.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13-SK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13-SK.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-13-SK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,11 +274,11 @@
   },
   "active": "12d0be39e1290164",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-SCW/2023-10-13-SCW.md",
+    "Home.md",
     "2023-10-13-SK.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-13.md",
-    "2023-10-13-SCW.md",
     "Lessons/Chem lessons/00-APH/2023-10-13-APH.md",
-    "Home.md",
     "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
     "Glossaries/B Glossary/Phospholipid bilayer.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
