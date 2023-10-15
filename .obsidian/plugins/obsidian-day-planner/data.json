@@ -13,5 +13,8 @@
   "plannerHeadingLevel": 1,
   "timelineColored": false,
   "timelineStartColor": "#006466",
-  "timelineEndColor": "#4d194d"
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "dataviewSource": "",
+  "showDataviewMigrationWarning": true
 }

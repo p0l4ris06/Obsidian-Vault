@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd5ea2bcc06b63fc",
+        "id": "0a6aafa9dc6b441b",
         "type": "tabs",
         "children": [
           {
-            "id": "de536157492e2b41",
+            "id": "ef47489bd1f9fcbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -269,10 +269,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de536157492e2b41",
+  "active": "ef47489bd1f9fcbc",
   "lastOpenFiles": [
-    "Glossaries/B Glossary/Lymphatic system.md",
     "Home.md",
+    "Glossaries/B Glossary/Lymphatic system.md",
     "Glossaries/B Glossary/Cotransport.md",
     "Glossaries/B Glossary/Cytochrome c.md",
     "Glossaries/B Glossary/Electrophoresis.md",
