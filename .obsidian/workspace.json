@@ -99,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Glossaries/B Glossary/Random error.md"
+              }
             }
           },
           {
@@ -134,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Glossaries/B Glossary/Random error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossaries/B Glossary/Random error.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Glossaries/B Glossary/Random error.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +264,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef47489bd1f9fcbc",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Random error.md",
     "Home.md",
     "Glossaries/B Glossary/Lymphatic system.md",
     "Glossaries/B Glossary/Cotransport.md",
@@ -291,7 +297,6 @@
     "Photos/Biology Photos/Pasted image 20231015164235.png",
     "Photos/Biology Photos/Pasted image 20231015163853.png",
     "Photos/Biology Photos/Pasted image 20231015163317.png",
-    "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
     "Photos/Biology Photos/Pasted image 20231015162634.png",
     "Photos/Biology Photos/Pasted image 20231015162944.png",
     "Photos/Maths photos/Pasted image 20231015124950.png",

@@ -23060,6 +23060,24 @@
       "createdDate": 1697387675525,
       "modifiedDate": 1697388203300,
       "sizeInBytes": 409
+    },
+    "Glossaries/B Glossary/Random error.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 121,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697389175624,
+      "modifiedDate": 1697389220221,
+      "sizeInBytes": 141
     }
   }
 }
