@@ -11,16 +11,38 @@
             "id": "6056bbe2df74e261",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "177096afcb092183",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+                "file": "Glossaries/B Glossary/Ab initio protein modelling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0238174d7b8e49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agglutination.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-10-13",
+                "query": "aggl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 25/C25.4.md"
+                "file": "Agglutination.md"
               }
             }
           },
@@ -141,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+                "file": "Agglutination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+                "file": "Agglutination.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+                "file": "Agglutination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +285,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6056bbe2df74e261",
+  "active": "f0238174d7b8e49b",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Ab initio protein modelling.md",
+    "Agglutination.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
     "Glossaries/B Glossary/Acetyl CoA.md",
     "Glossaries/B Glossary/Krebs cycle.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-13-SCW.md",
@@ -292,9 +318,6 @@
     "Glossaries/B Glossary/Link reaction.md",
     "Glossaries/B Glossary/Glycolysis.md",
     "Glossaries/B Glossary/ADP.md",
-    "Glossaries/B Glossary/ATP.md",
-    "000-Biology/B Module 5/5.7/5.7.1.md",
-    "Glossaries/B Glossary/Pyruvate.md",
     "Photos/Biology Photos/Pasted image 20231015162634.png",
     "Photos/Biology Photos/Pasted image 20231015162944.png",
     "Photos/Maths photos/Pasted image 20231015124950.png",
