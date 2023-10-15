@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "888-BACKLOG/Glycolysis.md",
+                "file": "Glossaries/B Glossary/Cytoplasm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "888-BACKLOG/Glycolysis.md"
+                "file": "Glossaries/B Glossary/Cytoplasm.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "888-BACKLOG/Glycolysis.md",
+                "file": "Glossaries/B Glossary/Cytoplasm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "888-BACKLOG/Glycolysis.md",
+                "file": "Glossaries/B Glossary/Cytoplasm.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "888-BACKLOG/Glycolysis.md",
+                "file": "Glossaries/B Glossary/Cytoplasm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,6 +265,8 @@
   "active": "6056bbe2df74e261",
   "lastOpenFiles": [
     "888-BACKLOG/Respiration.md",
+    "Glossaries/B Glossary/Glycolysis.md",
+    "Pasted image 20231015162944.png",
     "Lessons/Bio Lessons/00-GAH/2023-10-11-GAH.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-09-GAH.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-04-GAH.md",
@@ -291,7 +293,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-13.md",
     "Glossaries/M Glossary/Quotient rule.md",
     "Photos/Maths photos/Pasted image 20231015124950.png",
-    "Lessons/Maths lessons/00-SK/2023-10-13-SK.md",
     "Photos/Maths photos/Pasted image 20231015124918.png",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
@@ -300,7 +301,6 @@
     "Notion/Untitled 12 5.png",
     "Notion/Untitled 11 5.png",
     "Notion/Untitled 10 6.png",
-    "Notion/Untitled 9 6.png",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Notion",
