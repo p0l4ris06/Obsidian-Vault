@@ -4205,15 +4205,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.23333333333333334,
-      "characterCount": 441,
-      "nonWhitespaceCharacterCount": 359,
+      "characterCount": 451,
+      "nonWhitespaceCharacterCount": 369,
       "readingTimeInMinutes": 0.2641509433962264,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694972103338,
-      "modifiedDate": 1697370855988,
-      "sizeInBytes": 451
+      "modifiedDate": 1697371042286,
+      "sizeInBytes": 461
     },
     "Obsidian MD Tools/Templates/Book Notes Template.md": {
       "isCountable": true,
@@ -22651,19 +22651,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 70,
+      "wordCount": 68,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 384,
-      "nonWhitespaceCharacterCount": 302,
-      "readingTimeInMinutes": 0.2641509433962264,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 412,
+      "nonWhitespaceCharacterCount": 332,
+      "readingTimeInMinutes": 0.25660377358490566,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697370693585,
-      "modifiedDate": 1697370863422,
-      "sizeInBytes": 394
+      "modifiedDate": 1697371003386,
+      "sizeInBytes": 422
     },
     "Personal/Journal/Daily notes/2023-10/2023-10-14.md": {
       "isCountable": true,
@@ -22682,6 +22682,24 @@
       "createdDate": 1697370631566,
       "modifiedDate": 1697370714984,
       "sizeInBytes": 514
+    },
+    "2023-10-16.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697371021330,
+      "modifiedDate": 1697371021330,
+      "sizeInBytes": 0
     }
   }
 }
