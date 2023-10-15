@@ -1,4 +1,4 @@
 Tags: #000-Biology/Definition 
 
 ---
-Adenosine Triphosphate
+Adenosine diphosphate
