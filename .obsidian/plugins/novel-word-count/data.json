@@ -15635,15 +15635,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.043333333333333335,
-      "characterCount": 98,
+      "characterCount": 96,
       "nonWhitespaceCharacterCount": 83,
       "readingTimeInMinutes": 0.04905660377358491,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405250,
-      "modifiedDate": 1696762680292,
-      "sizeInBytes": 98
+      "modifiedDate": 1697387336721,
+      "sizeInBytes": 96
     },
     "Glossaries/B Glossary/Climate change.md": {
       "isCountable": true,
@@ -16841,15 +16841,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3333333333333333,
-      "characterCount": 703,
+      "characterCount": 701,
       "nonWhitespaceCharacterCount": 601,
       "readingTimeInMinutes": 0.37735849056603776,
       "linkCount": 9,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694949405178,
-      "modifiedDate": 1696762674697,
-      "sizeInBytes": 703
+      "modifiedDate": 1697387338345,
+      "sizeInBytes": 701
     },
     "Glossaries/B Glossary/Active immunity.md": {
       "isCountable": true,
@@ -22971,23 +22971,23 @@
       "modifiedDate": 1697386902020,
       "sizeInBytes": 127
     },
-    "Casparian strip.md": {
+    "Glossaries/B Glossary/Casparian strip.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 73,
-      "nonWhitespaceCharacterCount": 64,
-      "readingTimeInMinutes": 0.026415094339622643,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 237,
+      "nonWhitespaceCharacterCount": 203,
+      "readingTimeInMinutes": 0.12075471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697387136555,
-      "modifiedDate": 1697387160718,
-      "sizeInBytes": 73
+      "modifiedDate": 1697387217703,
+      "sizeInBytes": 237
     }
   }
 }

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casparian strip.md",
+                "file": "Glossaries/B Glossary/Cotransport.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cotrans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casparian strip.md"
+                "file": "Glossaries/B Glossary/Cotransport.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casparian strip.md",
+                "file": "Glossaries/B Glossary/Cotransport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casparian strip.md",
+                "file": "Glossaries/B Glossary/Cotransport.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Casparian strip.md",
+                "file": "Glossaries/B Glossary/Cotransport.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,21 +199,21 @@
                   "collapse-color-groups": true,
                   "colorGroups": [
                     {
-                      "query": "tag:#B-definition  ",
+                      "query": "tag:#000-Biology/Definition  ",
                       "color": {
                         "a": 1,
                         "rgb": 3732178
                       }
                     },
                     {
-                      "query": "tag:#C-definition  ",
+                      "query": "tag:#000-Chemistry/Definition",
                       "color": {
                         "a": 1,
                         "rgb": 9261803
                       }
                     },
                     {
-                      "query": "path:Personal/Birds  ",
+                      "query": "path:Personal",
                       "color": {
                         "a": 1,
                         "rgb": 3407472
@@ -237,6 +238,13 @@
                       "color": {
                         "a": 1,
                         "rgb": 5549776
+                      }
+                    },
+                    {
+                      "query": "tag:#000-Maths/Definition  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13905653
                       }
                     }
                   ],
@@ -278,8 +286,10 @@
   },
   "active": "47e7266ebb2d4e1e",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Active loading.md",
+    "Glossaries/B Glossary/Clonal expansion.md",
+    "Glossaries/B Glossary/Casparian strip.md",
     "Home.md",
-    "Casparian strip.md",
     "Glossaries/B Glossary/Ab initio protein modelling.md",
     "000-Biology/B Module 3/3.1/3.1.2.md",
     "Glossaries/B Glossary/Amphiphilic.md",
@@ -307,8 +317,6 @@
     "888-BACKLOG/Geometric sequence.md",
     "888-BACKLOG/Elimination reaction.md",
     "888-BACKLOG/Double-angle formulae.md",
-    "888-BACKLOG/Chlorophyll.md",
-    "888-BACKLOG/Arithmetic series.md",
     "Photos/Biology Photos/Pasted image 20231015162634.png",
     "Photos/Biology Photos/Pasted image 20231015162944.png",
     "Photos/Maths photos/Pasted image 20231015124950.png",
