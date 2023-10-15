@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acetyl CoA.md",
+                "file": "Pyruvate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acetyl CoA.md"
+                "file": "Pyruvate.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acetyl CoA.md",
+                "file": "Pyruvate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acetyl CoA.md",
+                "file": "Pyruvate.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Acetyl CoA.md",
+                "file": "Pyruvate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,6 +266,8 @@
   "lastOpenFiles": [
     "888-BACKLOG/Link reaction.md",
     "Acetyl CoA.md",
+    "Pyruvate.md",
+    "Matrix.md",
     "Pasted image 20231015163317.png",
     "888-BACKLOG/Respiration.md",
     "Glossaries/B Glossary/Cytoplasm.md",
@@ -291,8 +293,6 @@
     "Personal/Journal/Weekly reviews/2023-W38.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-15.md",
     "2023-10-16.md",
-    "000-Maths.md",
-    "Obsidian MD Tools/Templates/To Do's.md",
     "Photos/Maths photos/Pasted image 20231015124950.png",
     "Photos/Maths photos/Pasted image 20231015124918.png",
     "Untitled.canvas",
