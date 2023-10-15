@@ -6,6 +6,7 @@
       {
         "id": "1ca27f1924fa801d",
         "type": "tabs",
+        "dimension": 59.22256097560976,
         "children": [
           {
             "id": "6056bbe2df74e261",
@@ -13,7 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pyruvate.md",
+                "file": "888-BACKLOG/Krebs cycle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cfd348f9e6f51d37",
+        "type": "tabs",
+        "dimension": 40.77743902439025,
+        "children": [
+          {
+            "id": "d31a958891da8654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Link reaction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "respir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pyruvate.md"
+                "file": "Link reaction.md"
               }
             }
           },
@@ -141,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pyruvate.md",
+                "file": "Link reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pyruvate.md",
+                "file": "Link reaction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pyruvate.md",
+                "file": "Link reaction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,8 +199,8 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
+                  "showTags": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [
@@ -262,14 +283,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6056bbe2df74e261",
+  "active": "d31a958891da8654",
   "lastOpenFiles": [
-    "888-BACKLOG/Link reaction.md",
-    "Acetyl CoA.md",
+    "888-BACKLOG/Respiration.md",
+    "888-BACKLOG/Krebs cycle.md",
+    "000-Biology/B Module 5/5.7/5.7.1.md",
+    "Pasted image 20231015163853.png",
+    "Link reaction.md",
     "Pyruvate.md",
+    "Acetyl CoA.md",
     "Matrix.md",
     "Pasted image 20231015163317.png",
-    "888-BACKLOG/Respiration.md",
     "Glossaries/B Glossary/Cytoplasm.md",
     "Photos/Biology Photos/Pasted image 20231015162634.png",
     "Photos/Biology Photos/Pasted image 20231015162944.png",
@@ -291,8 +315,6 @@
     "Personal/Journal/Weekly reviews/2023-W40.md",
     "Personal/Journal/Weekly reviews/2023-W39.md",
     "Personal/Journal/Weekly reviews/2023-W38.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-15.md",
-    "2023-10-16.md",
     "Photos/Maths photos/Pasted image 20231015124950.png",
     "Photos/Maths photos/Pasted image 20231015124918.png",
     "Untitled.canvas",
@@ -300,7 +322,6 @@
     "Notion/Untitled 14 5.png",
     "Notion/Untitled 13 5.png",
     "Notion/Untitled 12 5.png",
-    "Notion/Untitled 11 5.png",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Notion",
