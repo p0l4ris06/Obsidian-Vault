@@ -34,7 +34,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agglutination.md",
+                "file": "000-Biology/B Module 3/3.1/3.1.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76aac8fe87ffbc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amphiphilic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e667b4e19003c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amylopectin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aggl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agglutination.md"
+                "file": "Amylopectin.md"
               }
             }
           },
@@ -164,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agglutination.md",
+                "file": "Amylopectin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agglutination.md",
+                "file": "Amylopectin.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agglutination.md",
+                "file": "Amylopectin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,10 +310,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0238174d7b8e49b",
+  "active": "3e667b4e19003c81",
   "lastOpenFiles": [
+    "Amphiphilic.md",
+    "Amylopectin.md",
+    "Glossaries/B Glossary/Hydrophilic.md",
+    "000-Biology/B Module 3/3.1/3.1.2.md",
+    "Glossaries/B Glossary/Alveoli.md",
+    "Glossaries/B Glossary/Allele.md",
+    "000-Biology/B Module 4/4.2/4.2.4.md",
+    "Glossaries/B Glossary/Agglutination.md",
     "Glossaries/B Glossary/Ab initio protein modelling.md",
-    "Agglutination.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
     "Glossaries/B Glossary/Acetyl CoA.md",
     "Glossaries/B Glossary/Krebs cycle.md",
@@ -311,13 +343,6 @@
     "888-BACKLOG/Arithmetic series.md",
     "888-BACKLOG/Arithmetic sequence.md",
     "888-BACKLOG/Secondary amine.md",
-    "888-BACKLOG/Sampling units.md",
-    "Glossaries/B Glossary/Oxidative phosphorylation.md",
-    "Glossaries/B Glossary/Respiration.md",
-    "Glossaries/B Glossary/Substrate level phosphorylation.md",
-    "Glossaries/B Glossary/Link reaction.md",
-    "Glossaries/B Glossary/Glycolysis.md",
-    "Glossaries/B Glossary/ADP.md",
     "Photos/Biology Photos/Pasted image 20231015162634.png",
     "Photos/Biology Photos/Pasted image 20231015162944.png",
     "Photos/Maths photos/Pasted image 20231015124950.png",
