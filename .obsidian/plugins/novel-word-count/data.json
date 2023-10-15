@@ -22917,24 +22917,6 @@
       "modifiedDate": 1697386828802,
       "sizeInBytes": 158
     },
-    "Amphiphilic.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 110,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1697386867263,
-      "modifiedDate": 1697386902020,
-      "sizeInBytes": 127
-    },
     "Glossaries/B Glossary/Hydrophilic.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -22953,23 +22935,59 @@
       "modifiedDate": 1697386903732,
       "sizeInBytes": 41
     },
-    "Amylopectin.md": {
+    "Glossaries/B Glossary/Amylopectin.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 26,
+      "wordCount": 36,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 198,
-      "nonWhitespaceCharacterCount": 171,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 4,
+      "pageCount": 0.12,
+      "characterCount": 263,
+      "nonWhitespaceCharacterCount": 226,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697386922979,
-      "modifiedDate": 1697386982744,
-      "sizeInBytes": 198
+      "modifiedDate": 1697386996259,
+      "sizeInBytes": 263
+    },
+    "Glossaries/B Glossary/Amphiphilic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 110,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697386867263,
+      "modifiedDate": 1697386902020,
+      "sizeInBytes": 127
+    },
+    "Casparian strip.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 73,
+      "nonWhitespaceCharacterCount": 64,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697387136555,
+      "modifiedDate": 1697387160718,
+      "sizeInBytes": 73
     }
   }
 }
