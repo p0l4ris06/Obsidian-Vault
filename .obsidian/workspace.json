@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "888-BACKLOG/Substrate level phosphorylation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-10-14",
+                "query": "citric acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "888-BACKLOG/Substrate level phosphorylation.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "888-BACKLOG/Substrate level phosphorylation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "888-BACKLOG/Substrate level phosphorylation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "888-BACKLOG/Substrate level phosphorylation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +264,13 @@
   },
   "active": "6056bbe2df74e261",
   "lastOpenFiles": [
-    "Test.md",
+    "Glossaries/M Glossary/M-Differentiation.md",
+    "888-BACKLOG/Oxidative phosphorylation.md",
+    "Lessons/Bio Lessons/00-GAH/2023-10-04-GAH.md",
+    "888-BACKLOG/Citric acid cycle.md",
+    "888-BACKLOG/Arithmetic sequence.md",
     "Home.md",
+    "Test.md",
     "Obsidian MD Tools/Templates/Daily template.md",
     "Personal/Journal/Weekly reviews/2023-W41.md",
     "Personal/Journal/909 Journal MOC.md",
@@ -287,11 +292,6 @@
     "Lessons/Chem lessons/00-APH/2023-10-13-APH.md",
     "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
     "Glossaries/B Glossary/Phospholipid bilayer.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-12.md",
-    "Lessons/Maths lessons/00-SK/2023-10-12-SK.md",
-    "Glossaries/B Glossary/Differentiation.md",
-    "Lessons/Maths lessons/00-LE/2023-10-12-LE.md",
-    "Lessons/Chem lessons/00-APH/2023-10-12-APH.md",
     "Untitled.canvas",
     "Notion/Untitled 15 4.png",
     "Notion/Untitled 14 5.png",

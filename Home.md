@@ -1,7 +1,3 @@
->[!meta]- 
-><%+tp.system.suggester%>
->Creation: <%+ tp
->
 ## Tasks
 
 ---

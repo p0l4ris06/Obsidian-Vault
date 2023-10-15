@@ -7243,19 +7243,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 32,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 378,
-      "nonWhitespaceCharacterCount": 339,
-      "readingTimeInMinutes": 0.12075471698113208,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 321,
+      "nonWhitespaceCharacterCount": 289,
+      "readingTimeInMinutes": 0.09811320754716982,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696943210250,
-      "modifiedDate": 1697383382239,
-      "sizeInBytes": 390
+      "modifiedDate": 1697383441025,
+      "sizeInBytes": 333
     },
     "Lessons/Support lessons/00-CS-ST/2023-10-10-CS.md": {
       "isCountable": true,
@@ -8233,19 +8233,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 31,
+      "wordCount": 30,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 259,
-      "nonWhitespaceCharacterCount": 226,
-      "readingTimeInMinutes": 0.1169811320754717,
+      "pageCount": 0.1,
+      "characterCount": 253,
+      "nonWhitespaceCharacterCount": 221,
+      "readingTimeInMinutes": 0.11320754716981132,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696441336761,
-      "modifiedDate": 1696945249590,
-      "sizeInBytes": 259
+      "modifiedDate": 1697383511750,
+      "sizeInBytes": 253
     },
     "Lessons/Bio Lessons/00-GAH/2023-09-27-GAH.md": {
       "isCountable": true,
@@ -17049,24 +17049,6 @@
       "modifiedDate": 1696763206852,
       "sizeInBytes": 57
     },
-    "888-BACKLOG/M-Differentiation.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696529479886,
-      "modifiedDate": 1696762729673,
-      "sizeInBytes": 37
-    },
     "888-BACKLOG/Nitrosomonas.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -17228,24 +17210,6 @@
       "createdDate": 1696529479852,
       "modifiedDate": 1696762734998,
       "sizeInBytes": 43
-    },
-    "888-BACKLOG/Citric acid cycle.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 57,
-      "nonWhitespaceCharacterCount": 51,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1696443655439,
-      "modifiedDate": 1696763206593,
-      "sizeInBytes": 57
     },
     "888-BACKLOG/Chlorophyll.md": {
       "isCountable": true,
@@ -22682,6 +22646,24 @@
       "createdDate": 1696715821460,
       "modifiedDate": 1696880909667,
       "sizeInBytes": 132
+    },
+    "Glossaries/M Glossary/M-Differentiation.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 82,
+      "nonWhitespaceCharacterCount": 68,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696529479886,
+      "modifiedDate": 1697383532954,
+      "sizeInBytes": 82
     }
   }
 }
