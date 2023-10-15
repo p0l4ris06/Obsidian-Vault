@@ -15293,15 +15293,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.07666666666666666,
-      "characterCount": 174,
+      "characterCount": 172,
       "nonWhitespaceCharacterCount": 148,
       "readingTimeInMinutes": 0.08679245283018867,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694949405268,
-      "modifiedDate": 1696762681840,
-      "sizeInBytes": 174
+      "modifiedDate": 1697388176880,
+      "sizeInBytes": 172
     },
     "Glossaries/B Glossary/Correlation coefficient.md": {
       "isCountable": true,
@@ -23043,23 +23043,23 @@
       "modifiedDate": 1697387570208,
       "sizeInBytes": 105
     },
-    "Lymphatic system.md": {
+    "Glossaries/B Glossary/Lymphatic system.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 29,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 200,
-      "nonWhitespaceCharacterCount": 169,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 2,
+      "pageCount": 0.2,
+      "characterCount": 409,
+      "nonWhitespaceCharacterCount": 348,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697387675525,
-      "modifiedDate": 1697387774705,
-      "sizeInBytes": 200
+      "modifiedDate": 1697388203300,
+      "sizeInBytes": 409
     }
   }
 }
