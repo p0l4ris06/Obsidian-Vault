@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "386f94bd91119d43",
+            "id": "12d0be39e1290164",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,15 +21,16 @@
             }
           },
           {
-            "id": "12d0be39e1290164",
+            "id": "9dd4fa0c49b6f3f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -148,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,6 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
