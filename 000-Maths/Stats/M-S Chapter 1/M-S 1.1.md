@@ -1,4 +1,4 @@
-Tags: #000-Maths/S1 
+Tags: #000-Maths/S1/Chapters/Sub-chapter 
 
 ---
 # Data collection

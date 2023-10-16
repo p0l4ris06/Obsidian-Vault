@@ -4,4 +4,4 @@
 [[M-P 8.4]]
 [[M-P 8.5]]
 
-#000-Maths/P1/Sub-chapter/Chapters 
+#000-Maths/P1/Chapters 

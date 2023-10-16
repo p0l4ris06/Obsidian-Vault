@@ -1,1 +1,1 @@
-#000-Maths/P1/Sub-chapter
+#000-Maths/P1/Chapters/Sub-chapter

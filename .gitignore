@@ -9,3 +9,7 @@
 .obsidian/plugins/novel-word-count/data.json
 .obsidian/plugins/novel-word-count/data.json
 .obsidian/workspace.json
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections

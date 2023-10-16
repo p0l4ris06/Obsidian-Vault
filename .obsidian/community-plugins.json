@@ -1,6 +1,5 @@
 [
   "dataview",
-  "obsidian-banners",
   "homepage",
   "obsidian-hider",
   "obsidian-git",
@@ -12,8 +11,7 @@
   "calendar",
   "novel-word-count",
   "google-calendar",
-  "obsidian-mind-map",
   "settings-search",
   "tag-wrangler",
-  "obsidian-importer"
+  "custom-classes"
 ]
