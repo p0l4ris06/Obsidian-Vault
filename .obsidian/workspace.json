@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md"
+                "file": "Home.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "f430fdd4bd5a8304",
   "lastOpenFiles": [
-    "Home.md",
     "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+    "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
     "000-Assessment points/000-M AP6.md",
