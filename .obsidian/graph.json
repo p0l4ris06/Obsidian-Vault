@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:\"Personal/Personality types\"  ",
+      "query": "path:Personal/Other  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -85,10 +85,17 @@
       }
     },
     {
-      "query": "path: \"111-Work experience\"  ",
+      "query": "tag:#000-Maths/Definition  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14291432
+      }
+    },
+    {
+      "query": "path:888-BACKLOG  ",
+      "color": {
+        "a": 1,
+        "rgb": 3240497
       }
     }
   ],
@@ -102,6 +109,6 @@
   "repelStrength": 13.9583333333333,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.07541962676695979,
+  "scale": 0.0737547989663691,
   "close": true
 }

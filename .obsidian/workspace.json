@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "048e58eaf87b3298",
+        "id": "4f166c91f95e0b72",
         "type": "tabs",
         "children": [
           {
-            "id": "5959935df6f6a435",
+            "id": "f430fdd4bd5a8304",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "09bc1ebc72813f86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0049eeaeb916cadf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
+      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": true,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
@@ -229,17 +207,16 @@
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "obsidian-day-planner:Week plan": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09bc1ebc72813f86",
+  "active": "f430fdd4bd5a8304",
   "lastOpenFiles": [
+    "Home.md",
     "2023-10-10-LE.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
     "000-Assessment points/000-M AP6.md",
-    "Home.md",
     "000-Assessment points/000-M AP4.md",
     "000-Assessment points/000-M AP2.md",
     "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.1.md",
