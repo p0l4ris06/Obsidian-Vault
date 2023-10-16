@@ -1,21 +1,21 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#000-Biology  ",
+      "query": "tag:#000-Biology/Definition  ",
       "color": {
         "a": 1,
         "rgb": 3734491
       }
     },
     {
-      "query": "tag:#000-Chemistry  ",
+      "query": "tag:#000-Chemistry/Definition  ",
       "color": {
         "a": 1,
         "rgb": 9327349
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:Personal/Birds  ",
+      "query": "path:Personal/Other  ",
       "color": {
         "a": 1,
         "rgb": 3407728
@@ -71,44 +71,44 @@
       }
     },
     {
-      "query": "path:Personal/Other  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Lessons/\"  ",
+      "query": "tag:#Lesson  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#000-Maths/Definition  ",
+      "query": "path:\"000-Assessment points\"  ",
       "color": {
         "a": 1,
-        "rgb": 14291432
+        "rgb": 16777215
       }
     },
     {
       "query": "path:888-BACKLOG  ",
       "color": {
         "a": 1,
-        "rgb": 3240497
+        "rgb": 4412449
+      }
+    },
+    {
+      "query": "tag:#000-Maths/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 13641114
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.431770833333333,
+  "nodeSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 0.40625,
   "collapse-forces": true,
-  "centerStrength": 0.535343035343035,
-  "repelStrength": 13.9583333333333,
-  "linkStrength": 1,
-  "linkDistance": 436,
-  "scale": 0.06467983241610585,
+  "centerStrength": 0.432291666666667,
+  "repelStrength": 15.1041666666667,
+  "linkStrength": 0.895833333333333,
+  "linkDistance": 500,
+  "scale": 0.050344177366518805,
   "close": true
 }
