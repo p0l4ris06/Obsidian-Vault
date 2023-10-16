@@ -20347,19 +20347,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 68,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9,
-      "characterCount": 143,
-      "nonWhitespaceCharacterCount": 121,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 3,
+      "pageCount": 6.8,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 385,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846637,
-      "modifiedDate": 1697465877278,
-      "sizeInBytes": 143
+      "modifiedDate": 1697466062530,
+      "sizeInBytes": 701
     },
     "000-Biology/B Module 5/5.7/5.7.4.md": {
       "isCountable": true,
@@ -23096,6 +23096,24 @@
       "createdDate": 1697464114664,
       "modifiedDate": 1697464921503,
       "sizeInBytes": 91
+    },
+    "Chemiosmosis.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 142,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697465981915,
+      "modifiedDate": 1697466032082,
+      "sizeInBytes": 165
     }
   }
 }
