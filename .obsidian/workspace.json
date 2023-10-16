@@ -24,8 +24,13 @@
             "id": "21fd33a942fed277",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 5/5.7/5.7.8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 5/5.7/5.7.8.md"
+              }
             }
           },
           {
@@ -157,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 5/5.7/5.7.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 5/5.7/5.7.8.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,6 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 5/5.7/5.7.8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,10 +245,10 @@
   },
   "active": "21fd33a942fed277",
   "lastOpenFiles": [
+    "2023-10-16-GAH.md",
     "000-Biology/B Module 5/5.7/5.7.5.md",
     "Glossaries/C Glossary/Proton.md",
     "Chemiosmosis.md",
-    "2023-10-16-GAH.md",
     "Home.md",
     "Test.md",
     "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
