@@ -11,8 +11,13 @@
             "id": "f430fdd4bd5a8304",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f430fdd4bd5a8304",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
     "Home.md",
-    "2023-10-10-LE.md",
+    "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
     "000-Assessment points/000-M AP6.md",
