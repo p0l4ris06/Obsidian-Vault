@@ -20351,15 +20351,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3,
-      "characterCount": 121,
+      "characterCount": 120,
       "nonWhitespaceCharacterCount": 107,
       "readingTimeInMinutes": 0.04905660377358491,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696489846637,
-      "modifiedDate": 1697464266585,
-      "sizeInBytes": 121
+      "modifiedDate": 1697464882043,
+      "sizeInBytes": 120
     },
     "000-Biology/B Module 5/5.7/5.7.4.md": {
       "isCountable": true,
