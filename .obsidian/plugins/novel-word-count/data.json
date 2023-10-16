@@ -10,6 +10,8 @@
     "abbreviateDescriptions": false,
     "alignment": "inline",
     "debugMode": false,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
     "wordsPerPage": 10,
     "charsPerPage": 1500,
     "charsPerPageIncludesWhitespace": false,
@@ -20444,14 +20446,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 7.5,
-      "characterCount": 518,
-      "nonWhitespaceCharacterCount": 430,
+      "characterCount": 517,
+      "nonWhitespaceCharacterCount": 429,
+      "readingTimeInMinutes": 0.2830188679245283,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625576,
-      "modifiedDate": 1696834394322,
-      "sizeInBytes": 518
+      "modifiedDate": 1697440258096,
+      "sizeInBytes": 517
     },
     "000-Biology/B Module 2/2.2/2.2.6.md": {
       "isCountable": true,
