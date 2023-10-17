@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc31610b3611acd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,9 +283,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f7b49229be19d23",
+  "active": "dc31610b3611acd8",
   "lastOpenFiles": [
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "2023-10-17.md",
     "Obsidian MD Tools/Templates/Todays notes.md",
     "Lessons/Chem lessons/00-ST/2023-10-16-ST.md",
@@ -296,7 +311,6 @@
     "Glossaries/B Glossary/Hydrophilic.md",
     "Glossaries/B Glossary/Alveoli.md",
     "Glossaries/B Glossary/Allele.md",
-    "Glossaries/B Glossary/Agglutination.md",
     "Photos/Maths photos/Pasted image 20231015171436.png",
     "Photos/Biology Photos/Pasted image 20231015164507.png",
     "Photos/Biology Photos/Pasted image 20231015164235.png",
