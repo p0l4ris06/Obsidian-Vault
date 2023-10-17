@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6aafa9dc6b441b",
+        "id": "c1172f8ec19d2474",
         "type": "tabs",
         "children": [
           {
-            "id": "ef47489bd1f9fcbc",
+            "id": "9493382c0fe8dc32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-10-16-GAH.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7a933d3805c2ba7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 300
   },
   "right": {
     "id": "796782712381c878",
@@ -88,10 +79,10 @@
       {
         "id": "74e5d083047ececb",
         "type": "tabs",
-        "dimension": 38.84615384615385,
+        "dimension": 41.75,
         "children": [
           {
-            "id": "9fd7f7f03570b440",
+            "id": "b9924dd09d2a4d1f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -99,7 +90,7 @@
             }
           },
           {
-            "id": "42ae479202e1e3ae",
+            "id": "3d1dd6ca96decb57",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -109,27 +100,38 @@
             }
           },
           {
-            "id": "a08fab39121d73d9",
+            "id": "1cbfc07ecf2f4cc7",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "7bffe46973d8564f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
               "state": {}
             }
           },
           {
-            "id": "b73a790645968c25",
+            "id": "82bc1092c92b5407",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-chatgpt",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c1bd03f399390851",
         "type": "tabs",
-        "dimension": 61.15384615384616,
+        "dimension": 58.25,
         "children": [
           {
             "id": "816bc890b20f2733",
@@ -137,7 +139,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -148,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,73 +174,24 @@
             }
           },
           {
-            "id": "96b8fd2cd371829e",
+            "id": "33c132fab32f09fc",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#000-Biology/Definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3732178
-                      }
-                    },
-                    {
-                      "query": "tag:#000-Chemistry/Definition",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9261803
-                      }
-                    },
-                    {
-                      "query": "path:Personal",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3407472
-                      }
-                    },
-                    {
-                      "query": "path:000-Maths  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16678124
-                      }
-                    },
-                    {
-                      "query": "path:000-Chemistry  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7288227
-                      }
-                    },
-                    {
-                      "query": "path:000-Biology  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5549776
-                      }
-                    },
-                    {
-                      "query": "tag:#000-Maths/Definition  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13905653
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -247,7 +202,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858158,
+                  "scale": 0.18251472038562466,
                   "close": true
                 }
               }
@@ -258,70 +213,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "homepage:Open homepage": false,
-      "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7a933d3805c2ba7",
+  "active": "9493382c0fe8dc32",
   "lastOpenFiles": [
-    "Obsidian MD Tools/Templates/Todays notes.md",
-    "Lessons/Chem lessons/00-ST/2023-10-16-ST.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-16.md",
+    "Lessons/Chem lessons/00-ST/2023-10-16-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-16-GAH.md",
-    "Home.md",
     "Glossaries/B Glossary/Chemiosmosis.md",
-    "Glossaries/B Glossary/Random error.md",
-    "Glossaries/B Glossary/Lymphatic system.md",
-    "Glossaries/B Glossary/Cotransport.md",
-    "Glossaries/B Glossary/Cytochrome c.md",
-    "Glossaries/B Glossary/Electrophoresis.md",
-    "Glossaries/B Glossary/Glycocalyx.md",
-    "000-Biology/B Module 4/4.2/4.2.4.md",
-    "Glossaries/B Glossary/Locus.md",
-    "Glossaries/B Glossary/Active loading.md",
-    "Glossaries/B Glossary/Clonal expansion.md",
-    "Glossaries/B Glossary/Casparian strip.md",
-    "Glossaries/B Glossary/Ab initio protein modelling.md",
-    "000-Biology/B Module 3/3.1/3.1.2.md",
-    "Glossaries/B Glossary/Amphiphilic.md",
-    "Glossaries/B Glossary/Amylopectin.md",
-    "Glossaries/B Glossary/Hydrophilic.md",
-    "Glossaries/B Glossary/Alveoli.md",
-    "Glossaries/B Glossary/Allele.md",
-    "Glossaries/B Glossary/Agglutination.md",
-    "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
-    "Photos/Maths photos/Pasted image 20231015171436.png",
-    "Photos/Biology Photos/Pasted image 20231015164507.png",
-    "Photos/Biology Photos/Pasted image 20231015164235.png",
-    "Photos/Biology Photos/Pasted image 20231015163853.png",
-    "Photos/Biology Photos/Pasted image 20231015163317.png",
-    "Photos/Biology Photos/Pasted image 20231015162634.png",
-    "Photos/Biology Photos/Pasted image 20231015162944.png",
-    "Photos/Maths photos/Pasted image 20231015124950.png",
-    "Photos/Maths photos/Pasted image 20231015124918.png",
-    "Untitled.canvas",
-    "Notion/Untitled 15 4.png",
-    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
+    "2023-10-16-GAH.md",
+    "000-Biology/B Module 5/5.7/5.7.5.md",
+    "Glossaries/C Glossary/Proton.md",
+    "Chemiosmosis.md",
+    "Home.md",
+    "Test.md",
+    "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
+    "000-Assessment points/000-M AP6.md",
+    "000-Assessment points/000-M AP4.md",
+    "000-Assessment points/000-M AP2.md",
+    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.1.md",
+    "asdasdasd.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
+    "conflict-files-obsidian-git.md",
+    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
-    "Notion",
-    "Obsidian MD Tools",
-    "Personal/Other",
-    "000-Biology/B Module 6/6.4",
-    "2023-10-06",
-    "000-Maths/Pure Y1/M-P Chapter 6",
-    "000-Maths/Pure Y1/M-P Chapters",
-    "000-Maths/Pure Y1/M-P Chapter 9",
-    "Glossaries/B Glossary/Domains and kingdoms.canvas"
+    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
+    "Photos/Maths photos/Pasted image 20231008121945.png",
+    "Photos/Maths photos/Pasted image 20231008121920.png",
+    "Photos/Maths photos/Pasted image 20231008121900.png",
+    "Personal/Other/Personality types/MBTI Types/ISTP.md",
+    "Personal/Other/Personality types/MBTI Types/ISTJ.md",
+    "Personal/Other/Personality types/MBTI Types/ISFP.md",
+    "Personal/Other/Personality types/MBTI Types/ISFJ.md",
+    "Personal/Other/Personality types/MBTI Types",
+    "Personal/Other/Personality types/Seeking types",
+    "Personal/Other/Personality types/Jungian functions",
+    "Personal/Other/Personality types/Cognitive stack",
+    "Personal/Other/Work experience/111-Surgery",
+    "Personal/Other/Work experience/111-Library",
+    "Personal/Other/Birds/Paridae",
+    "Personal/Other/Birds/Family",
+    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
+    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
+    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
+    "Photos/Biology Photos/Pasted image 20230928153000.png",
+    "Photos/Biology Photos/Pasted image 20230718105321.png",
+    "Photos/Biology Photos/Pasted image 20230927153829.png",
+    "Photos/Biology Photos/Pasted image 20230927153728.png",
+    "Glossaries/B Glossary/Domains and kingdoms.canvas",
+    "Untitled.canvas"
   ]
 }
