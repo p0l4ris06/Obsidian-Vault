@@ -4611,24 +4611,6 @@
       "modifiedDate": 1697388921350,
       "sizeInBytes": 333
     },
-    "2023-10-17.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 72,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.24,
-      "characterCount": 462,
-      "nonWhitespaceCharacterCount": 379,
-      "readingTimeInMinutes": 0.27169811320754716,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1697580249323,
-      "modifiedDate": 1697580321018,
-      "sizeInBytes": 472
-    },
     "Glossaries/M Glossary/M-Differentiation.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -23169,23 +23151,41 @@
       "modifiedDate": 1696880909667,
       "sizeInBytes": 132
     },
-    "conflict-files-obsidian-git.md": {
+    "Personal/Journal/Daily notes/2023-10/2023-10-17.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 594,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 1,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 532,
+      "nonWhitespaceCharacterCount": 440,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1697580608901,
-      "modifiedDate": 1697580615015,
-      "sizeInBytes": 701
+      "createdDate": 1697580249323,
+      "modifiedDate": 1697580693187,
+      "sizeInBytes": 544
+    },
+    "2023-10-17-SCW.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 115,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697580700815,
+      "modifiedDate": 1697580776703,
+      "sizeInBytes": 139
     }
   }
 }
