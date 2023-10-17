@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6aafa9dc6b441b",
+        "id": "18baf197fdc5c7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "c7a933d3805c2ba7",
+            "id": "1f7b49229be19d23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c32aadb904a58db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-17.md"
+                "file": "Home.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +269,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c32aadb904a58db",
+  "active": "1f7b49229be19d23",
   "lastOpenFiles": [
     "Home.md",
     "2023-10-17.md",
