@@ -23168,24 +23168,6 @@
       "createdDate": 1697580492929,
       "modifiedDate": 1697580492929,
       "sizeInBytes": 496
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.7,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 594,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1697580493412,
-      "modifiedDate": 1697580496761,
-      "sizeInBytes": 701
     }
   }
 }
