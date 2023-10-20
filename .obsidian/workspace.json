@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1172f8ec19d2474",
+        "id": "75e7bc57d36dda26",
         "type": "tabs",
         "children": [
           {
-            "id": "b33d8b5e85d79c01",
+            "id": "ffe3cc2b134a7382",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "83a1d7cbf2138471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f6a0678e3916782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,18 +219,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f6a0678e3916782",
+  "active": "ffe3cc2b134a7382",
   "lastOpenFiles": [
-    "2023-10-19.md",
-    "2023-10-20.md",
+    "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
+    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
     "Home.md",
+    "2023-W42.md",
+    "2023-10-20-SK.md",
+    "2023-10-20-SCW.md",
+    "2023-10-20-APH.md",
+    "2023-10-19-SK.md",
+    "2023-10-19-LE.md",
+    "2023-10-19-APH.md",
+    "2023-10-18-ST.md",
+    "2023-10-18-GAH.md",
+    "2023-10-17-SCW.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-19.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-20.md",
     "Entangled life.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-18.md",
     "2023-10-18.md",
     "000-Maths.md",
-    "2023-10-18-ST.md",
-    "2023-10-18-GAH.md",
-    "2023-10-17-SCW.md",
     "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-17.md",
     "2023-10-17.md",
@@ -270,15 +247,6 @@
     "Lessons/Chem lessons/00-ST/2023-10-16-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-16-GAH.md",
     "Glossaries/B Glossary/Chemiosmosis.md",
-    "2023-10-16-GAH.md",
-    "000-Biology/B Module 5/5.7/5.7.5.md",
-    "Glossaries/C Glossary/Proton.md",
-    "Chemiosmosis.md",
-    "Test.md",
-    "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
-    "000-Assessment points/000-M AP6.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
