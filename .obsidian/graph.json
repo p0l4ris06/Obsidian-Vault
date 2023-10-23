@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#000-Biology/definition",
@@ -60,14 +60,35 @@
       "query": "path:Personal/Other  ",
       "color": {
         "a": 1,
-        "rgb": 16187014
+        "rgb": 3600956
       }
     },
     {
       "query": "path:Personal/Journal  ",
       "color": {
         "a": 1,
-        "rgb": 5429074
+        "rgb": 16187014
+      }
+    },
+    {
+      "query": "path:\"000-Assessment points\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:888-BACKLOG  ",
+      "color": {
+        "a": 1,
+        "rgb": 4544797
       }
     }
   ],
@@ -76,11 +97,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.680873180873181,
+  "repelStrength": 15.1975051975052,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.10609288426345768,
+  "linkDistance": 395,
+  "scale": 0.08005697656235503,
   "close": false
 }
