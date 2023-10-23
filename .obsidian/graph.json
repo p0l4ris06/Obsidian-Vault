@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#000-Biology/Definition  ",
+      "query": "tag:#000-Biology/definition",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3734491
+      }
+    },
+    {
+      "query": "path:000-Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 5220553
+      }
+    },
+    {
+      "query": "tag:#000-Chemistry/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 8736748
+      }
+    },
+    {
+      "query": "path:000-Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 7354022
+      }
+    },
+    {
+      "query": "tag:#000-Maths/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
