@@ -3629,15 +3629,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.8,
-      "characterCount": 311,
+      "characterCount": 292,
       "nonWhitespaceCharacterCount": 261,
       "readingTimeInMinutes": 0.10566037735849057,
       "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697440258196,
-      "modifiedDate": 1697440258196,
-      "sizeInBytes": 311
+      "modifiedDate": 1698094184827,
+      "sizeInBytes": 292
     },
     "Lessons/Support lessons/00-BS-SCW/2023-09-28-BS.md": {
       "isCountable": true,
@@ -9155,15 +9155,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.2,
-      "characterCount": 102,
+      "characterCount": 101,
       "nonWhitespaceCharacterCount": 89,
       "readingTimeInMinutes": 0.045283018867924525,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690889625551,
-      "modifiedDate": 1696834394690,
-      "sizeInBytes": 102
+      "modifiedDate": 1698094186198,
+      "sizeInBytes": 101
     },
     "Glossaries/B Glossary/Phospholipid bilayer.md": {
       "isCountable": true,
@@ -13817,15 +13817,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.4,
-      "characterCount": 46,
+      "characterCount": 43,
       "nonWhitespaceCharacterCount": 37,
       "readingTimeInMinutes": 0.01509433962264151,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696500119518,
-      "modifiedDate": 1696834394578,
-      "sizeInBytes": 46
+      "modifiedDate": 1698094116428,
+      "sizeInBytes": 43
     },
     "888-BACKLOG/Chlorophyll.md": {
       "isCountable": true,
