@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md"
+                "file": "Home.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "c8e1bb91aeec7ab4",
   "lastOpenFiles": [
-    "Glossaries/B Glossary/Phospholipid.md",
     "Lessons/Support lessons/00-BS-SCW/2032-10-12-BS.md",
+    "Glossaries/B Glossary/Phospholipid.md",
     "Glossaries/B Glossary/Phosphate group.md",
     "Glossaries/B Glossary/Lipids.md",
     "Glossaries/B Glossary/Chloroplast.md",
