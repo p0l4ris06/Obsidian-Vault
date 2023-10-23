@@ -2819,15 +2819,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 5.5,
-      "characterCount": 397,
+      "characterCount": 377,
       "nonWhitespaceCharacterCount": 318,
       "readingTimeInMinutes": 0.20754716981132076,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696927982917,
-      "modifiedDate": 1697440258212,
-      "sizeInBytes": 397
+      "modifiedDate": 1698096767085,
+      "sizeInBytes": 377
     },
     "Personal/Journal/Weekly reviews/2023-W39.md": {
       "isCountable": true,
@@ -13957,19 +13957,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 47,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4,
-      "characterCount": 327,
-      "nonWhitespaceCharacterCount": 268,
-      "readingTimeInMinutes": 0.1509433962264151,
+      "pageCount": 4.7,
+      "characterCount": 344,
+      "nonWhitespaceCharacterCount": 290,
+      "readingTimeInMinutes": 0.17735849056603772,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698093965812,
-      "modifiedDate": 1698093965812,
-      "sizeInBytes": 327
+      "modifiedDate": 1698096781942,
+      "sizeInBytes": 344
     },
     "2023-10-20-SK.md": {
       "isCountable": true,
@@ -23421,23 +23421,41 @@
       "modifiedDate": 1696927982847,
       "sizeInBytes": 142
     },
-    "2023-10-21.md": {
+    "Personal/Journal/Daily notes/2023-10/2023-10-21.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 72,
+      "wordCount": 86,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.2,
-      "characterCount": 413,
-      "nonWhitespaceCharacterCount": 330,
-      "readingTimeInMinutes": 0.27169811320754716,
-      "linkCount": 4,
+      "pageCount": 8.6,
+      "characterCount": 524,
+      "nonWhitespaceCharacterCount": 431,
+      "readingTimeInMinutes": 0.32452830188679244,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698096572797,
-      "modifiedDate": 1698096598590,
-      "sizeInBytes": 423
+      "modifiedDate": 1698096673059,
+      "sizeInBytes": 536
+    },
+    "Personal/Journal/Daily notes/2023-10/2023-10-22.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 80,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8,
+      "characterCount": 491,
+      "nonWhitespaceCharacterCount": 404,
+      "readingTimeInMinutes": 0.3018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698096688810,
+      "modifiedDate": 1698096747422,
+      "sizeInBytes": 503
     }
   }
 }
