@@ -1,35 +1,54 @@
 {
   "main": {
-    "id": "2505623cb394854f",
+    "id": "5e26d4f1b7d22785",
     "type": "split",
     "children": [
       {
-        "id": "c1172f8ec19d2474",
+        "id": "a113a347b9e904a5",
         "type": "tabs",
         "children": [
           {
-            "id": "9493382c0fe8dc32",
+            "id": "c8e1bb91aeec7ab4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d3c0e16cbaf797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70cfbd36dd091961",
+    "id": "b2eac4c31679b1e2",
     "type": "split",
     "children": [
       {
-        "id": "960055f0d2f02398",
+        "id": "e0f2c31b2a67c9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "6f225af9aa969c21",
+            "id": "ca2ff63864c12202",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +58,7 @@
             }
           },
           {
-            "id": "47bec3d54f6beffe",
+            "id": "8fb2596e63fefe06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +73,7 @@
             }
           },
           {
-            "id": "8f7c8017fe43c986",
+            "id": "22326d4a50a231ef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,16 +87,15 @@
     "width": 300
   },
   "right": {
-    "id": "796782712381c878",
+    "id": "0e955b34c525b228",
     "type": "split",
     "children": [
       {
-        "id": "74e5d083047ececb",
+        "id": "97dbc88511c59d99",
         "type": "tabs",
-        "dimension": 41.75,
         "children": [
           {
-            "id": "b9924dd09d2a4d1f",
+            "id": "6a111dc71a1af8cf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -85,49 +103,36 @@
             }
           },
           {
-            "id": "3d1dd6ca96decb57",
+            "id": "57957693b2a07da3",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency"
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1cbfc07ecf2f4cc7",
+            "id": "bd1178aac7d32ff1",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "7bffe46973d8564f",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
-            "id": "82bc1092c92b5407",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "c1bd03f399390851",
-        "type": "tabs",
-        "dimension": 58.25,
-        "children": [
-          {
-            "id": "816bc890b20f2733",
+            "id": "3e8d4038cb83a017",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,136 +143,49 @@
             }
           },
           {
-            "id": "2f46434b7e334be5",
+            "id": "3e3e621657074195",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "all-properties",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency"
               }
             }
           },
           {
-            "id": "4eed1e02558037a4",
+            "id": "340677c5fe456155",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "33c132fab32f09fc",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.18251472038562466,
-                  "close": true
-                }
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
-      "switcher:Open quick switcher": true,
       "homepage:Open homepage": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9493382c0fe8dc32",
+  "active": "25d3c0e16cbaf797",
   "lastOpenFiles": [
     "Home.md",
-    "conflict-files-obsidian-git.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-17.md",
-    "2023-10-17-SCW.md",
-    "2023-10-17.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-16.md",
-    "Lessons/Chem lessons/00-ST/2023-10-16-ST.md",
-    "Lessons/Bio Lessons/00-GAH/2023-10-16-GAH.md",
-    "Glossaries/B Glossary/Chemiosmosis.md",
-    "2023-10-16-GAH.md",
-    "000-Biology/B Module 5/5.7/5.7.5.md",
-    "Glossaries/C Glossary/Proton.md",
-    "Chemiosmosis.md",
-    "Test.md",
-    "Lessons/Maths lessons/00-LE/2023-10-10-LE 1.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-10.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-08.md",
-    "000-Assessment points/000-M AP6.md",
-    "000-Assessment points/000-M AP4.md",
-    "000-Assessment points/000-M AP2.md",
-    "000-Maths/Pure Y1/M-P Chapter 3/M-P 3.1.md",
-    "asdasdasd.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-05.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-07.md",
-    "000-Maths/Pure Y1/M-P Chapter 13/M-P Chapter 13.md",
-    "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
-    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
-    "Photos/Maths photos/Pasted image 20231008121945.png",
-    "Photos/Maths photos/Pasted image 20231008121920.png",
-    "Photos/Maths photos/Pasted image 20231008121900.png",
-    "Personal/Other/Personality types/MBTI Types/ISTP.md",
-    "Personal/Other/Personality types/MBTI Types",
-    "Personal/Other/Personality types/Seeking types",
-    "Personal/Other/Personality types/Jungian functions",
-    "Personal/Other/Personality types/Cognitive stack",
-    "Personal/Other/Work experience/111-Surgery",
-    "Personal/Other/Work experience/111-Library",
-    "Personal/Other/Birds/Paridae",
-    "Personal/Other/Birds/Family",
-    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
-    "Photos/Chemistry Photos/Pasted image 20231004193956.png",
-    "Photos/Chemistry Photos/Pasted image 20231004193825.png",
-    "Photos/Biology Photos/Pasted image 20230928153000.png",
-    "Photos/Biology Photos/Pasted image 20230718105321.png",
-    "Photos/Biology Photos/Pasted image 20230927153829.png",
-    "Photos/Biology Photos/Pasted image 20230927153728.png",
-    "Glossaries/B Glossary/Domains and kingdoms.canvas",
-    "Untitled.canvas"
+    "conflict-files-obsidian-git.md"
   ]
 }
