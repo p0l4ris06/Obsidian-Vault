@@ -39,7 +39,35 @@
       "query": "tag:#000-Maths/Definition  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 12591536
+      }
+    },
+    {
+      "query": "path:000-Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 16085993
+      }
+    },
+    {
+      "query": "tag:#Lesson  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Personal/Other  ",
+      "color": {
+        "a": 1,
+        "rgb": 16187014
+      }
+    },
+    {
+      "query": "path:Personal/Journal  ",
+      "color": {
+        "a": 1,
+        "rgb": 5429074
       }
     }
   ],
