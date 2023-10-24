@@ -1,4 +1,9 @@
-## What it affects
+# What it affects
 Brachycephalic Obstructive Airway Syndrome (BOAS) affects the French Bulldog, Bulldog, Pug, Pekingese, Shih Tzu, Japanese Chin, Boxer and Boston terrier are all examples of BOAS breeds. The most distinctive feature of these breeds is their short muzzle
 
-Breeding selection for extreme brachycephalic features has resulted in dogs that are predisposed to upper airway tract obstruction
+Breeding selection for extreme brachycephalic features has resulted in dogs that are predisposed to upper airway tract obstruction and subsequent respiratory distress, amongst various other health issues.
+
+## Pathophysiology
+#### Anatomical components:
+Shortening of the skull and upper airway tract lesions
+- In brachycephalic dogs, while the length of the skeletal muzzle is reduced there is often no corresponding decrease in the size of the soft tissue contained in the skull
