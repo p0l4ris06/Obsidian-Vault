@@ -1,0 +1,2 @@
+# In relation to BOAS
+- Dogs with normal upper airway tract breathe quietly. Respiratory noises such as snoring and snorting are indicators of airway obstruction. BOAS-affected dogs may present with different types of noise depending on the location of the obstruction: pharynx, larynx, and/or nasal cavity.

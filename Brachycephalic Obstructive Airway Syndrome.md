@@ -16,8 +16,8 @@ Breeding selection for extreme brachycephalic features has resulted in dogs that
   - Another factor is obesity. Excessive weight results in fat tissue surrounding and narrowing the airway. 
 
 ### Clinical signs that brachycephalic dog owners should recognise
-- Respiratory noise
-- [[Stenosis]] of the nostrils
+- [[Respiratory noise]]
+- [[Stenosis of the nostrils]]
 - Gastrointestinal signs
 - Obstructive sleep apnea / sleep-disordered breathing
 - Heat intolerance

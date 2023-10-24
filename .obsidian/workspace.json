@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Respiratory noise.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Respiratory noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Respiratory noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md"
+                "file": "Respiratory noise.md"
               }
             }
           }
@@ -206,9 +206,10 @@
   },
   "active": "055b1cd33a65d64d",
   "lastOpenFiles": [
+    "Brachycephalic Obstructive Airway Syndrome.md",
+    "Respiratory noise.md",
     "Pasted image 20231024225856.png",
     "Euthanasia.md",
-    "Brachycephalic Obstructive Airway Syndrome.md",
     "Entangled life.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-24.md",
