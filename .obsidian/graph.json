@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 4544797
       }
+    },
+    {
+      "query": "path:\"Obsidian MD Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5665480
+      }
     }
   ],
   "collapse-display": true,
