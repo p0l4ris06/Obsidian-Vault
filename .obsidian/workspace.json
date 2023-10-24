@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "f66c0d9528d7949f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Euthanasia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "055b1cd33a65d64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "743a1ec224f89fbd",
             "type": "leaf",
             "state": {
@@ -28,7 +54,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0e955b34c525b228",
@@ -102,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entangled life.md",
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entangled life.md",
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entangled life.md"
+                "file": "Brachycephalic Obstructive Airway Syndrome.md"
               }
             }
           }
@@ -177,8 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04ed0e8fbfcf8992",
+  "active": "055b1cd33a65d64d",
   "lastOpenFiles": [
+    "Euthanasia.md",
+    "Brachycephalic Obstructive Airway Syndrome.md",
+    "Entangled life.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-24.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-21.md",
