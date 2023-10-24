@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Entangled life.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Entangled life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Entangled life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Entangled life.md"
+              }
             }
           }
         ]
@@ -174,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "743a1ec224f89fbd",
+  "active": "04ed0e8fbfcf8992",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-10/2023-10-24.md",
     "Home.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-24.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-21.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-23.md",
     "Personal/Journal/Weekly reviews/2023-W42.md",
