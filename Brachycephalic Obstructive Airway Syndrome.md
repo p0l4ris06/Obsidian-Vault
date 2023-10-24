@@ -5,5 +5,8 @@ Breeding selection for extreme brachycephalic features has resulted in dogs that
 
 ## Pathophysiology
 #### Anatomical components:
-Shortening of the skull and upper airway tract lesions
-- In brachycephalic dogs, while the length of the skeletal muzzle is reduced there is often no corresponding decrease in the size of the soft tissue contained in the skull
+##### Shortening of the skull and upper airway tract lesions
+- In brachycephalic dogs, while the length of the skeletal muzzle is reduced there is often no corresponding decrease in the size of the soft tissue contained in the skull. This results in a constricted effect within the nasal cavity and partial obstruction of the pharynx and larynx
+![[Pasted image 20231024225856.png]]
+
+##### Upper airway tract obstruction and poor thermoregulation
