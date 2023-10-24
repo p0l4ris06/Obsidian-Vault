@@ -17,7 +17,7 @@ Breeding selection for extreme brachycephalic features has resulted in dogs that
 
 ### Clinical signs that brachycephalic dog owners should recognise
 - [[Respiratory noise]]
-- [[Stenosis of the nostrils]]
+- [[Stenotic nares]]
 - Gastrointestinal signs
 - Obstructive sleep apnea / sleep-disordered breathing
 - Heat intolerance
