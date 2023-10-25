@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +138,20 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d73f26a59c730e8e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -161,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a8f60c1a40c89d4",
+  "active": "ca2ff63864c12202",
   "lastOpenFiles": [
+    "2023-09-16.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Photos/Pasted image 20231024225856.png",
     "Personal/Journal/909 Journal MOC.md",
@@ -188,7 +196,6 @@
     "Glossaries/B Glossary/Chloroplast.md",
     "Glossaries/B Glossary/Stroma.md",
     "Glossaries/B Glossary/Calvin cycle.md",
-    "000-Biology/B Module 5/5.6/5.6.4.md",
-    "888-BACKLOG/Geometric sequence.md"
+    "000-Biology/B Module 5/5.6/5.6.4.md"
   ]
 }
