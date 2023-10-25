@@ -11,30 +11,11 @@
             "id": "055b1cd33a65d64d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eee62640e3b50b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Journal/909 Journal MOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/909 Journal MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/909 Journal MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Journal/909 Journal MOC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,15 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2ff63864c12202",
+  "active": "055b1cd33a65d64d",
   "lastOpenFiles": [
-    "2023-10-25.md",
+    "Photos/Pasted image 20231024225856.png",
+    "Personal/Journal/909 Journal MOC.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-25.md",
     "Untitled.md",
     "Obsidian MD Tools/Templates/Daily template.md",
     "Home.md",
     "Brachycephalic Obstructive Airway Syndrome.md",
     "Respiratory noise.md",
-    "Pasted image 20231024225856.png",
     "Euthanasia.md",
     "Entangled life.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-24.md",
@@ -209,7 +187,6 @@
     "Glossaries/B Glossary/Stroma.md",
     "Glossaries/B Glossary/Calvin cycle.md",
     "000-Biology/B Module 5/5.6/5.6.4.md",
-    "888-BACKLOG/Geometric sequence.md",
-    "conflict-files-obsidian-git.md"
+    "888-BACKLOG/Geometric sequence.md"
   ]
 }
