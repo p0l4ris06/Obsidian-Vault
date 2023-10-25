@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a113a347b9e904a5",
+        "id": "1ca59ed0a69583e4",
         "type": "tabs",
         "children": [
           {
-            "id": "055b1cd33a65d64d",
+            "id": "2a8f60c1a40c89d4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2023/09",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "055b1cd33a65d64d",
+  "active": "2a8f60c1a40c89d4",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
     "Photos/Pasted image 20231024225856.png",
     "Personal/Journal/909 Journal MOC.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-25.md",
