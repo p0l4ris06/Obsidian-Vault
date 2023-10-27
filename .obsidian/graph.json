@@ -8,66 +8,45 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#000-Biology/Definition  ",
+      "query": "tag:#000-Biology/definition",
       "color": {
         "a": 1,
         "rgb": 3734491
       }
     },
     {
-      "query": "tag:#000-Chemistry/Definition  ",
-      "color": {
-        "a": 1,
-        "rgb": 9327349
-      }
-    },
-    {
       "query": "path:000-Biology  ",
       "color": {
         "a": 1,
-        "rgb": 5552089
+        "rgb": 5220553
+      }
+    },
+    {
+      "query": "tag:#000-Chemistry/Definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 8736748
       }
     },
     {
       "query": "path:000-Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 8272055
+        "rgb": 7354022
       }
     },
     {
-      "query": "file:Home",
+      "query": "tag:#000-Maths/Definition  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:Personal/Other  ",
-      "color": {
-        "a": 1,
-        "rgb": 3407728
-      }
-    },
-    {
-      "query": "path:\"Personal/Journal/\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16187014
+        "rgb": 12591536
       }
     },
     {
       "query": "path:000-Maths  ",
       "color": {
         "a": 1,
-        "rgb": 16678124
-      }
-    },
-    {
-      "query": "path:\"Obsidian MD Tools\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5135036
+        "rgb": 16085993
       }
     },
     {
@@ -78,7 +57,28 @@
       }
     },
     {
+      "query": "path:Personal/Other  ",
+      "color": {
+        "a": 1,
+        "rgb": 3600956
+      }
+    },
+    {
+      "query": "path:Personal/Journal  ",
+      "color": {
+        "a": 1,
+        "rgb": 16187014
+      }
+    },
+    {
       "query": "path:\"000-Assessment points\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:Home",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -88,27 +88,31 @@
       "query": "path:888-BACKLOG  ",
       "color": {
         "a": 1,
-        "rgb": 4412449
+        "rgb": 4544797
       }
     },
     {
-      "query": "tag:#000-Maths/Definition  ",
+      "query": "path:\"Obsidian MD Tools\"  ",
       "color": {
         "a": 1,
-        "rgb": 13641114
+        "rgb": 5665480
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.865625,
-  "lineSizeMultiplier": 0.40625,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.432291666666667,
-  "repelStrength": 15.1041666666667,
-  "linkStrength": 0.895833333333333,
+  "centerStrength": 0.572765072765073,
+  "repelStrength": 15.6964656964657,
+  "linkStrength": 1,
   "linkDistance": 500,
+<<<<<<< HEAD
   "scale": 0.05034417736651885,
+=======
+  "scale": 0.06376646005920346,
+>>>>>>> origin/main
   "close": true
 }

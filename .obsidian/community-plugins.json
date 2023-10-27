@@ -9,10 +9,10 @@
   "obsidian-day-planner",
   "templater-obsidian",
   "calendar",
-  "novel-word-count",
   "google-calendar",
   "settings-search",
   "tag-wrangler",
   "custom-classes",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-vault-statistics-plugin"
 ]
