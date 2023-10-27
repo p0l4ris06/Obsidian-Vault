@@ -32,8 +32,13 @@
             "id": "3d7709ad517d108b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -121,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md"
+              }
             }
           },
           {
@@ -165,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,6 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Brachycephalic Obstructive Airway Syndrome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,6 +253,15 @@
   },
   "active": "3d7709ad517d108b",
   "lastOpenFiles": [
+    "2023-10-20-SK.md",
+    "2023-10-20-SCW.md",
+    "2023-10-20-APH.md",
+    "2023-10-19-SK.md",
+    "2023-10-19-LE.md",
+    "2023-10-19-APH.md",
+    "2023-10-18-ST.md",
+    "2023-10-18-GAH.md",
+    "2023-10-17-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-26.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-27.md",
     "Home.md",
@@ -260,15 +279,6 @@
     "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
     "2023-W42.md",
-    "2023-10-20-SK.md",
-    "2023-10-20-SCW.md",
-    "2023-10-20-APH.md",
-    "2023-10-19-SK.md",
-    "2023-10-19-LE.md",
-    "2023-10-19-APH.md",
-    "2023-10-18-ST.md",
-    "2023-10-18-GAH.md",
-    "2023-10-17-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-19.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
