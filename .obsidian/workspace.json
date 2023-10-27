@@ -11,16 +11,25 @@
             "id": "ffe3cc2b134a7382",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c3a20a0dfc566ee",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "2023-10-27.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-10-27.md"
               }
             }
           },
@@ -150,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-10-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +238,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe3cc2b134a7382",
+  "active": "5c3a20a0dfc566ee",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2023-10-27.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Respiratory noise.md",
     "Photos/Pasted image 20231024225856.png",
     "Personal/Journal/Weekly reviews/2023-W42.md",
@@ -257,7 +267,6 @@
     "2023-10-17-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-19.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-20.md",
-    "Entangled life.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
