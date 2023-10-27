@@ -21,15 +21,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-27.md",
+                "file": "Personal/Journal/Daily notes/2023-10/2023-10-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d7709ad517d108b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-10-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,9 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c3a20a0dfc566ee",
+  "active": "3d7709ad517d108b",
   "lastOpenFiles": [
-    "2023-10-27.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-26.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-27.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Respiratory noise.md",
@@ -266,7 +270,6 @@
     "2023-10-18-GAH.md",
     "2023-10-17-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-19.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-20.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
