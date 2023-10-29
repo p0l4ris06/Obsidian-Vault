@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f7691a7c0c30e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-W43.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-W43.md"
               }
             }
           },
@@ -150,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-W43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-W43.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-W43.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +243,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe3cc2b134a7382",
+  "active": "1f7691a7c0c30e3f",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-10/2023-10-29.md",
+    "2023-W43.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-28.md",
+    "Home.md",
     "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
     "Entangled life.md",
     "Brachycephalic Obstructive Airway Syndrome.md",
@@ -245,7 +263,6 @@
     "2023-10-17-SCW.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-26.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-27.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Respiratory noise.md",
     "Photos/Pasted image 20231024225856.png",
@@ -255,9 +272,6 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-23.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-22.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-21.md",
-    "Euthanasia.md",
-    "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
-    "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
