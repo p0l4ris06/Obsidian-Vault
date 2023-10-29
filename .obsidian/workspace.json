@@ -24,13 +24,8 @@
             "id": "1f7691a7c0c30e3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-W43.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-W43.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-W43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-W43.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +184,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-W43.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,8 +235,8 @@
   },
   "active": "1f7691a7c0c30e3f",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-10/2023-10-29.md",
     "2023-W43.md",
+    "Personal/Journal/Daily notes/2023-10/2023-10-29.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-28.md",
     "Home.md",
     "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
