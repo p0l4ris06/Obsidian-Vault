@@ -6,7 +6,7 @@ rating:
 
 Author:: [[Merlin Sheldrake]]
 Medium:: [[My Books]]
-Tags:: 
+Tags:: #i/books #📥/🟧 
 Links::
 ___
 # Entangled life

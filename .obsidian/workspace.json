@@ -11,38 +11,16 @@
             "id": "ffe3cc2b134a7382",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c3a20a0dfc566ee",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-10/2023-10-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d7709ad517d108b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md"
+                "file": "Home.md"
               }
             }
           },
@@ -172,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Brachycephalic Obstructive Airway Syndrome.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +229,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d7709ad517d108b",
+  "active": "ffe3cc2b134a7382",
   "lastOpenFiles": [
+    "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
+    "Entangled life.md",
+    "Brachycephalic Obstructive Airway Syndrome.md",
     "2023-10-20-SK.md",
     "2023-10-20-SCW.md",
     "2023-10-20-APH.md",
@@ -275,11 +256,8 @@
     "Personal/Journal/Daily notes/2023-10/2023-10-22.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-21.md",
     "Euthanasia.md",
-    "Brachycephalic Obstructive Airway Syndrome.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-10-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-09-21-LE.md",
-    "2023-W42.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-19.md",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
