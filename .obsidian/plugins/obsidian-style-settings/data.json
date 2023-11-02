@@ -27,9 +27,9 @@
   "anuppuccin-theme-settings@@anp-bg-fix": true,
   "anuppuccin-theme-settings@@anp-hide-borders": true,
   "anuppuccin-theme-settings@@anp-card-shadows": true,
-  "anuppuccin-theme-settings@@anp-card-layout-actions": false,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80\")",
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://4kwallpapers.com/images/wallpapers/dark-blue-pink-3840x2160-12661.jpg\")",
   "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.7,
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 0,
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
@@ -41,7 +41,7 @@
   "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
   "anuppuccin-theme-settings@@anp-inline-title-vis": "block",
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
-  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.5,
+  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.55,
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
   "id@@colorblind_protan-deutan": false,
@@ -126,5 +126,6 @@
   "ap-theme@@Fade": true,
   "ap-theme@@Hover": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
-  "Components@@scrollbar-hide": true
+  "Components@@scrollbar-hide": true,
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": true
 }
