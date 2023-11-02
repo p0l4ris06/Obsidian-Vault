@@ -11,8 +11,13 @@
             "id": "8469c22f31b57cfe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +32,7 @@
       {
         "id": "960055f0d2f02398",
         "type": "tabs",
+        "dimension": 63.07692307692307,
         "children": [
           {
             "id": "6f225af9aa969c21",
@@ -62,6 +68,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "67887eab14a7c983",
+        "type": "tabs",
+        "dimension": 36.92307692307693,
+        "children": [
+          {
+            "id": "7bffe46973d8564f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,15 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "7bffe46973d8564f",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -99,15 +114,7 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c1bd03f399390851",
-        "type": "tabs",
-        "dimension": 57.21153846153846,
-        "children": [
+          },
           {
             "id": "816bc890b20f2733",
             "type": "leaf",
@@ -120,11 +127,38 @@
             }
           },
           {
+            "id": "d878f75c43156865",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f097569b3bb56c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c1bd03f399390851",
+        "type": "tabs",
+        "dimension": 57.21153846153846,
+        "children": [
+          {
             "id": "2f46434b7e334be5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
