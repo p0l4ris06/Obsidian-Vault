@@ -1,6 +1,6 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
@@ -92,9 +92,9 @@
   "obsidian-prism-theme@@pt-icons-accent": true,
   "obsidian-prism-theme@@radius-s": 9,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-coffee-dark",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-rosepine-dark",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-sleek",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
   "anuppuccin-theme-settings@@anp-list-toggle": true,
@@ -127,5 +127,6 @@
   "ap-theme@@Hover": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
   "Components@@scrollbar-hide": true,
-  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": true
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light"
 }
