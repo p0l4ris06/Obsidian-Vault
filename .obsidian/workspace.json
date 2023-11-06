@@ -24,13 +24,8 @@
             "id": "9f77048013a3232b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-11-04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,8 +243,8 @@
   },
   "active": "9f77048013a3232b",
   "lastOpenFiles": [
-    "2023-11-05.md",
-    "2023-11-04.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-05.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-04.md",
     "Home.md",
     "Test.md",
     "Michaelmas half term chem consolidation.md",
