@@ -24,8 +24,13 @@
             "id": "9f77048013a3232b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -59,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"finished\"]",
+                "query": "2023-10-20-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "67887eab14a7c983",
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md"
+              }
             }
           },
           {
@@ -165,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,6 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
