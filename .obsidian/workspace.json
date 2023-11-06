@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
+                "file": "Glossaries/B Glossary/RER.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bf06d5f9c8d7184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossaries/B Glossary/Translation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-10-20-",
+                "query": "transcri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md"
+                "file": "Glossaries/B Glossary/Translation.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
+                "file": "Glossaries/B Glossary/Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
+                "file": "Glossaries/B Glossary/Translation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
+                "file": "Glossaries/B Glossary/Translation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,11 +265,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9f77048013a3232b",
+  "active": "5bf06d5f9c8d7184",
   "lastOpenFiles": [
+    "000-Biology/B Module 2/2.3/2.3.3.md",
+    "Glossaries/B Glossary/Transcription.md",
+    "Glossaries/B Glossary/RER.md",
+    "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
     "Lac operon.md",
     "Pasted image 20231106102832.png",
-    "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-05.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-04.md",
     "Home.md",
@@ -279,8 +295,6 @@
     "Lessons/Maths lessons/00-SK/2023-10-20-SK.md",
     "Personal/Journal/Weekly reviews/2023-W43.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-29.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-28.md",
-    "Obsidian MD Tools/John Mavrick Tools/Books/My Books.md",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
