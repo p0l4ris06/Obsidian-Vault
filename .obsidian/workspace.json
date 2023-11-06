@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaries/B Glossary/Translation.md",
+                "file": "000-Biology/B Module 2/2.3/2.3.3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossaries/B Glossary/Translation.md"
+                "file": "000-Biology/B Module 2/2.3/2.3.3.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossaries/B Glossary/Translation.md",
+                "file": "000-Biology/B Module 2/2.3/2.3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaries/B Glossary/Translation.md",
+                "file": "000-Biology/B Module 2/2.3/2.3.3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Glossaries/B Glossary/Translation.md",
+                "file": "000-Biology/B Module 2/2.3/2.3.3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,6 +267,7 @@
   },
   "active": "5bf06d5f9c8d7184",
   "lastOpenFiles": [
+    "Glossaries/B Glossary/Translation.md",
     "000-Biology/B Module 2/2.3/2.3.3.md",
     "Glossaries/B Glossary/Transcription.md",
     "Glossaries/B Glossary/RER.md",
@@ -294,7 +295,6 @@
     "Lessons/Chem lessons/00-APH/2023-10-20-APH.md",
     "Lessons/Maths lessons/00-SK/2023-10-20-SK.md",
     "Personal/Journal/Weekly reviews/2023-W43.md",
-    "Personal/Journal/Daily notes/2023-10/2023-10-29.md",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
