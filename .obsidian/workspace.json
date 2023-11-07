@@ -11,8 +11,13 @@
             "id": "2a8f60c1a40c89d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -168,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2ff63864c12202",
+  "active": "2a8f60c1a40c89d4",
   "lastOpenFiles": [
     "2023-09-16.md",
     "Personal/Journal/Daily notes/2023-09/2023-09-17.md",
