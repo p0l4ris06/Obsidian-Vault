@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Lac operon.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -32,6 +32,7 @@
       {
         "id": "e0f2c31b2a67c9d8",
         "type": "tabs",
+        "dimension": 57.96568627450981,
         "children": [
           {
             "id": "ca2ff63864c12202",
@@ -67,6 +68,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "36cac0c816d5221f",
+        "type": "tabs",
+        "dimension": 42.03431372549019,
+        "children": [
+          {
+            "id": "3e8d4038cb83a017",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lac operon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +130,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lac operon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3e8d4038cb83a017",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -144,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Lac operon.md"
               }
             }
           },
@@ -155,13 +163,62 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "5f383b9aae10371d",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "f81c78f810d8a2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c736e3c17ca487",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lac operon.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6736849187689737,
+                  "close": true
+                }
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 301
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +236,11 @@
   },
   "active": "0332dbdae151af9d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "000-Maths.md",
+    "Brachycephalic Obstructive Airway Syndrome.md",
+    "Entangled life.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-05.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-01.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-03.md",
@@ -203,9 +263,6 @@
     "Personal/Journal/909 Journal MOC.md",
     "Personal/Journal/Daily notes/2023-10/2023-10-25.md",
     "Untitled.md",
-    "Obsidian MD Tools/Templates/Daily template.md",
-    "Brachycephalic Obstructive Airway Syndrome.md",
-    "Respiratory noise.md",
-    "Euthanasia.md"
+    "Obsidian MD Tools/Templates/Daily template.md"
   ]
 }
