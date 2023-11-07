@@ -16,5 +16,11 @@
   "timelineEndColor": "#4d194d",
   "timestampFormat": "HH:mm",
   "dataviewSource": "",
-  "showDataviewMigrationWarning": false
+  "showDataviewMigrationWarning": false,
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 30,
+  "showTimestampInTaskBlock": false,
+  "unscheduledTasksHeight": 100,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true
 }
