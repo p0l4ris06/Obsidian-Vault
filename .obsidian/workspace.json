@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d206b11a7836effd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -158,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,11 +251,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f98e59fe166a4e3",
+  "active": "d206b11a7836effd",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-06.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-05.md",
-    "Home.md",
     "000-Biology/B Module 2/2.3/2.3.3.md",
     "Glossaries/B Glossary/Translation.md",
     "Glossaries/B Glossary/Transcription.md",
@@ -266,7 +281,6 @@
     "Lessons/Maths lessons/00-LE/2023-10-19-LE.md",
     "Lessons/Maths lessons/00-SK/2023-10-19-SK.md",
     "Lessons/Chem lessons/00-APH/2023-10-20-APH.md",
-    "Lessons/Maths lessons/00-SK/2023-10-20-SK.md",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
