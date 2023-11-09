@@ -11,8 +11,13 @@
             "id": "6f98e59fe166a4e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,8 +239,11 @@
   },
   "active": "6f98e59fe166a4e3",
   "lastOpenFiles": [
-    "Home.md",
+    "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+    "Lessons/Maths lessons/00-SK/2023-11-09-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-08.md",
+    "Home.md",
     "Lessons/Maths lessons/00-LE/2023-11-08-LE.md",
     "Lessons/Chem lessons/00-ST/2023-11-08-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-11-08-GAH.md",
@@ -257,9 +270,6 @@
     "Test.md",
     "Michaelmas half term chem consolidation.md",
     "Personal/Journal/Monthly reviews/2023-10.md",
-    "Personal/Journal/Monthly reviews/2023-09.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-03.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-02.md",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
