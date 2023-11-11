@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md"
+                "file": "Home.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,10 @@
   },
   "active": "6f98e59fe166a4e3",
   "lastOpenFiles": [
-    "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
+    "Michaelmas half term chem consolidation.md",
+    "Lac operon.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
+    "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
     "Lessons/Maths lessons/00-SK/2023-11-09-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-08.md",
     "Home.md",
@@ -264,11 +266,9 @@
     "Glossaries/B Glossary/Transcription.md",
     "Glossaries/B Glossary/RER.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
-    "Lac operon.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11/2023-11-04.md",
     "Test.md",
-    "Michaelmas half term chem consolidation.md",
     "Personal/Journal/Monthly reviews/2023-10.md",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
