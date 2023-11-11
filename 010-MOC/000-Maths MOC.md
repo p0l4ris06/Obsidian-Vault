@@ -1,12 +1,6 @@
 Tags: #MOC
 
-```dataview
-table file.mtime as Edited, file.ctime as Created, file.size as Size
-FROM #000-Maths/M1/Chapters OR #000-Maths/P1/Chapters OR #000-Maths/P2/Chapters OR #000-Maths/S1/Chapters 
-AND !#000-Maths/P1/Chapters/Sub-chapter AND !#000-Maths/M1/Chapters/Sub-chapter AND!#000-Maths/S1/Chapters/Sub-chapter 
-SORT file.name ASC
-```
-
+---
 # Pure Y1
 - [[M-P Chapter 1]]
 - [[M-P Chapter 2]]
@@ -31,4 +25,27 @@ SORT file.name ASC
 - [[M-P2 Chapter 5]]
 - [[M-P2 Chapter 6]]
 - [[M-P2 Chapter 7]]
-- [[mp2chapter
+- [[M-P2 Chapter 8]]
+- [[M-P2 Chapter 9]]
+- [[M-P2 Chapter 10]]
+- [[M-P2 Chapter 11]]
+- [[M-P2 Chapter 12]]
+
+# Stats Y1
+- [[M-S Chapter 1]]
+- [[M-S Chapter 2]]
+- [[M-S Chapter 3]]
+- [[M-S Chapter 4]]
+- [[M-S Chapter 5]]
+- [[M-S Chapter 6]]
+- [[M-S Chapter 7]]
+
+# Stats Y2
+
+# Mechanics Y1
+- [[M-M Chapter 8]]
+- [[M-M Chapter 9]]
+- [[M-M Chapter 10]]
+- [[M-M Chapter 11]]
+
+# Mechanics Y2
