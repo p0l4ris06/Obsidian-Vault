@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "2023-11-10-SK.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-11.md"
+                "file": "2023-11-10-SK.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "2023-11-10-SK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "2023-11-10-SK.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "2023-11-10-SK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,9 @@
   },
   "active": "638f23567feda298",
   "lastOpenFiles": [
-    "2023-11-10.md",
-    "2023-11-11.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
+    "2023-11-10-SK.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-11.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
     "Home.md",
     "Michaelmas half term chem consolidation.md",
@@ -269,7 +270,6 @@
     "Glossaries/B Glossary/RER.md",
     "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
-    "Personal/Journal/Daily notes/2023-11/2023-11-04.md",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
