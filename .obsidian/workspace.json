@@ -11,8 +11,13 @@
             "id": "638f23567feda298",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-11-11.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-11-11.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +239,12 @@
   },
   "active": "638f23567feda298",
   "lastOpenFiles": [
+    "2023-11-10.md",
+    "2023-11-11.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
     "Home.md",
     "Michaelmas half term chem consolidation.md",
     "Lac operon.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
     "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
     "Lessons/Maths lessons/00-SK/2023-11-09-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-08.md",
@@ -258,8 +270,6 @@
     "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11/2023-11-04.md",
-    "Test.md",
-    "Personal/Journal/Monthly reviews/2023-10.md",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
