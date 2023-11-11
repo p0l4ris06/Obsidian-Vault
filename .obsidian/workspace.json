@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4d6d16b9a1d99063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to revise efficiently.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to revise efficiently.md"
+              }
             }
           },
           {
@@ -151,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to revise efficiently.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to revise efficiently.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "How to revise efficiently.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +246,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e69ca6b34aeed41f",
+  "active": "4d6d16b9a1d99063",
   "lastOpenFiles": [
+    "How to revise efficiently.md",
     "Personal/Personal statement.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
     "Lessons/Bio Lessons/00-SCW/2023-11-10-SCW.md",
@@ -258,7 +278,6 @@
     "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-05.md",
     "000-Biology/B Module 2/2.3/2.3.3.md",
-    "Glossaries/B Glossary/Translation.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
