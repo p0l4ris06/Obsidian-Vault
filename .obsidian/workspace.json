@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
+                "file": "010-MOC/000-Maths MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md"
+                "file": "010-MOC/000-Maths MOC.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
+                "file": "010-MOC/000-Maths MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
+                "file": "010-MOC/000-Maths MOC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
+                "file": "010-MOC/000-Maths MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,6 +274,7 @@
   },
   "active": "3c85b02c8162fc5e",
   "lastOpenFiles": [
+    "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
     "010-MOC/000-Maths MOC.md",
     "010-MOC/Topics MOC.md",
@@ -304,7 +305,6 @@
     "Photos/Biology Photos/Pasted image 20231109174231.png",
     "Lessons/Support lessons/00-CS-ST/2023-11-07-CS.md",
     "Lessons/Maths lessons/00-LE/2023-11-07-LE.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-06.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
