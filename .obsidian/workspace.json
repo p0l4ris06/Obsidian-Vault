@@ -32,13 +32,8 @@
             "id": "337396c356c81179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Chemistry MOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Chemistry MOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +197,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry MOC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +213,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +264,7 @@
   },
   "active": "337396c356c81179",
   "lastOpenFiles": [
-    "000-Chemistry MOC.md",
+    "010-MOC/000-Chemistry MOC.md",
     "010-MOC/000-Maths MOC.md",
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
