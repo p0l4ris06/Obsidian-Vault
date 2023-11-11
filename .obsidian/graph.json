@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "path:000-Chemistry  ",
-      "color": {
-        "a": 1,
-        "rgb": 8272055
-      }
-    },
-    {
       "query": "file:Home",
       "color": {
         "a": 1,
@@ -92,7 +85,7 @@
       }
     },
     {
-      "query": "path:010-MOC  ",
+      "query": "tag:#MOC  ",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -103,6 +96,13 @@
       "color": {
         "a": 1,
         "rgb": 12542887
+      }
+    },
+    {
+      "query": "path:000-Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 8272055
       }
     }
   ],
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.030182895067324318,
+  "scale": 0.030182895067324324,
   "close": false
 }
