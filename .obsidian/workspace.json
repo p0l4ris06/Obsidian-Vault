@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c4139b07b83cd722",
+        "id": "a0174cd6da3ca2fb",
         "type": "tabs",
         "children": [
           {
-            "id": "337396c356c81179",
+            "id": "b70e97c121b1a682",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "1d1b1d6aa23028be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010-MOC/000-Maths MOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -240,10 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "337396c356c81179",
+  "active": "b70e97c121b1a682",
   "lastOpenFiles": [
-    "010-MOC/000-Chemistry MOC.md",
     "010-MOC/000-Maths MOC.md",
+    "000-Biology MOC.md",
+    "010-MOC/000-Chemistry MOC.md",
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
     "010-MOC/Topics MOC.md",
@@ -272,7 +260,6 @@
     "Photos/Biology Photos/Pasted image 20231109175057.png",
     "Photos/Biology Photos/Pasted image 20231109174329.png",
     "Photos/Biology Photos/Pasted image 20231109174231.png",
-    "Lessons/Support lessons/00-CS-ST/2023-11-07-CS.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
