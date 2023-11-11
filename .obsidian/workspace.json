@@ -24,9 +24,17 @@
             "id": "3c85b02c8162fc5e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "337396c356c81179",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "010-MOC/000-Maths MOC.md",
+                "file": "000-Chemistry MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010-MOC/000-Maths MOC.md"
+                "file": "000-Chemistry MOC.md"
               }
             }
           },
@@ -185,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010-MOC/000-Maths MOC.md",
+                "file": "000-Chemistry MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010-MOC/000-Maths MOC.md",
+                "file": "000-Chemistry MOC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "010-MOC/000-Maths MOC.md",
+                "file": "000-Chemistry MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,8 +272,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c85b02c8162fc5e",
+  "active": "337396c356c81179",
   "lastOpenFiles": [
+    "000-Chemistry MOC.md",
     "010-MOC/000-Maths MOC.md",
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
@@ -296,7 +305,6 @@
     "Photos/Biology Photos/Pasted image 20231109174329.png",
     "Photos/Biology Photos/Pasted image 20231109174231.png",
     "Lessons/Support lessons/00-CS-ST/2023-11-07-CS.md",
-    "Lessons/Maths lessons/00-LE/2023-11-07-LE.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",

@@ -57,13 +57,6 @@
       }
     },
     {
-      "query": "path:000-Maths  ",
-      "color": {
-        "a": 1,
-        "rgb": 16678124
-      }
-    },
-    {
       "query": "path:\"Obsidian MD Tools\"  ",
       "color": {
         "a": 1,
@@ -104,6 +97,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:000-Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 12542887
+      }
     }
   ],
   "collapse-display": true,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.22920135941749345,
+  "scale": 0.0423159026897593,
   "close": true
 }
