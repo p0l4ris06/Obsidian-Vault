@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d34b536ef21137ae",
+        "id": "c4139b07b83cd722",
         "type": "tabs",
         "children": [
           {
-            "id": "638f23567feda298",
+            "id": "e69ca6b34aeed41f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -227,10 +227,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "638f23567feda298",
+  "active": "e69ca6b34aeed41f",
   "lastOpenFiles": [
-    "2023-11-10-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
+    "Lessons/Bio Lessons/00-SCW/2023-11-10-SCW.md",
+    "Lessons/Maths lessons/00-SK/2023-11-10-SK.md",
+    "Lessons/Chem lessons/00-APH/2023-11-10-APH.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-11.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
     "Home.md",
@@ -257,8 +259,6 @@
     "000-Biology/B Module 2/2.3/2.3.3.md",
     "Glossaries/B Glossary/Translation.md",
     "Glossaries/B Glossary/Transcription.md",
-    "Glossaries/B Glossary/RER.md",
-    "Lessons/Bio Lessons/00-SCW/2023-10-20-SCW.md",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
