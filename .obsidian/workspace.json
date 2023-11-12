@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Biology/B Module 6/6.3/B6.3.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Biology/B Module 6/6.3/B6.3.md"
+                "file": "000-Biology/B Module 6/6.5/6.5.6.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 6/6.3/B6.3.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 6/6.3/B6.3.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.6.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 6/6.3/B6.3.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,10 +266,22 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
-    "000-Biology/B Module 2/2.6/B2.6.md",
-    "000-Biology/B Module 6/6.3/B6.3.md",
-    "000-Biology/B Module 2/2.1/B2.1.md",
+    "000-Biology/B Module 6/6.5/B6.5.md",
+    "000-Biology/B Module 6/6.6/B6.6.md",
+    "000-Biology/B Module 6/6.6/6.6.1.md",
+    "000-Biology/B Module 6/6.5/6.5.6.md",
+    "000-Biology/B Module 6/6.5/6.5.5.md",
+    "000-Biology/B Module 6/6.5/6.5.4.md",
+    "000-Biology/B Module 6/6.5/6.5.3.md",
+    "000-Biology/B Module 6/6.5/6.5.2.md",
+    "000-Biology/B Module 6/6.5/6.5.1.md",
+    "000-Biology/B Module 6/6.6/6.6.2.md",
     "000-Assessment points/000-B AP1.md",
+    "000-Biology/B Module 4/4.3/B4.3.md",
+    "000-Biology/B Module 4/4.3/4.3.1.md",
+    "000-Biology/B Module 6/6.3/B6.3.md",
+    "000-Biology/B Module 2/2.6/B2.6.md",
+    "000-Biology/B Module 2/2.1/B2.1.md",
     "010-MOC/010-MOCs.md",
     "010-MOC/Topics MOC.md",
     "010-MOC/000-Maths MOC.md",
@@ -281,18 +293,6 @@
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
     "010-MOC",
-    "How to revise efficiently.md",
-    "Personal/Personal statement.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
-    "Lessons/Bio Lessons/00-SCW/2023-11-10-SCW.md",
-    "Lessons/Maths lessons/00-SK/2023-11-10-SK.md",
-    "Lessons/Chem lessons/00-APH/2023-11-10-APH.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-11.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
-    "Michaelmas half term chem consolidation.md",
-    "Lac operon.md",
-    "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
-    "Lessons/Maths lessons/00-SK/2023-11-09-SK.md",
     "Photos/Biology Photos/Pasted image 20231109174207.png",
     "Photos/Biology Photos/Pasted image 20231109175057.png",
     "Photos/Biology Photos/Pasted image 20231109174329.png",
