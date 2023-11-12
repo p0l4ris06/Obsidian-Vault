@@ -37,13 +37,8 @@
             "id": "880d5a3ff152030e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Biology/B Module 6/6.5/6.5.1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Biology/B Module 6/6.5/6.5.1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 6/6.5/6.5.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 6/6.5/6.5.1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,7 +205,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 6/6.5/6.5.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,8 +256,8 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
-    "000-Biology/B Module 6/6.5/6.5.2.md",
     "000-Biology/B Module 6/6.5/6.5.1.md",
+    "000-Biology/B Module 6/6.5/6.5.2.md",
     "Glossaries/B Glossary/Community.md",
     "Glossaries/B Glossary/Population.md",
     "Glossaries/B Glossary/Biotic.md",
