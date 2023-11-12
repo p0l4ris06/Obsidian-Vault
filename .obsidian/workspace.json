@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a0174cd6da3ca2fb",
+        "id": "4c6017b400cd6b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "b70e97c121b1a682",
+            "id": "3ab46910e4c8712b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,15 +237,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b70e97c121b1a682",
+  "active": "3ab46910e4c8712b",
   "lastOpenFiles": [
+    "010-MOC/010-MOCs.md",
     "010-MOC/000-Maths MOC.md",
-    "000-Biology MOC.md",
+    "010-MOC/000-Biology MOC.md",
     "010-MOC/000-Chemistry MOC.md",
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
     "010-MOC/Topics MOC.md",
-    "010-MOC/MOCs.md",
     "010-MOC",
     "How to revise efficiently.md",
     "Personal/Personal statement.md",
