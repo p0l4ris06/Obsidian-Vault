@@ -37,8 +37,13 @@
             "id": "880d5a3ff152030e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 6/6.3/B6.3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 6/6.3/B6.3.md"
+              }
             }
           },
           {
@@ -178,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 6/6.3/B6.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 6/6.3/B6.3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,6 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 6/6.3/B6.3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,17 +266,20 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
-    "010-MOC/000-Assessment points MOC.md",
+    "000-Biology/B Module 2/2.6/B2.6.md",
+    "000-Biology/B Module 6/6.3/B6.3.md",
+    "000-Biology/B Module 2/2.1/B2.1.md",
     "000-Assessment points/000-B AP1.md",
+    "010-MOC/010-MOCs.md",
+    "010-MOC/Topics MOC.md",
+    "010-MOC/000-Maths MOC.md",
+    "010-MOC/000-Chemistry MOC.md",
+    "010-MOC/000-Biology MOC.md",
+    "010-MOC/000-Assessment points MOC.md",
     "Biology revision for AP1.md",
     "Home.md",
-    "010-MOC/010-MOCs.md",
-    "010-MOC/000-Maths MOC.md",
-    "010-MOC/000-Biology MOC.md",
-    "010-MOC/000-Chemistry MOC.md",
     "000-Maths/Mechanics Y1/M-M Chapter 8/M-M Chapter 8.md",
     "000-Maths/Mechanics Y1/M-M Chapters/M-M Chapters.md",
-    "010-MOC/Topics MOC.md",
     "010-MOC",
     "How to revise efficiently.md",
     "Personal/Personal statement.md",
@@ -280,9 +293,6 @@
     "Lac operon.md",
     "Lessons/Maths lessons/00-LE/2023-11-09-LE.md",
     "Lessons/Maths lessons/00-SK/2023-11-09-SK.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-08.md",
-    "Lessons/Maths lessons/00-LE/2023-11-08-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-11-08-ST.md",
     "Photos/Biology Photos/Pasted image 20231109174207.png",
     "Photos/Biology Photos/Pasted image 20231109175057.png",
     "Photos/Biology Photos/Pasted image 20231109174329.png",
