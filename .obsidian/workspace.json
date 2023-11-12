@@ -264,11 +264,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "880d5a3ff152030e",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "Biotic.md",
+    "Glossaries/B Glossary/Community.md",
     "000-Biology/B Module 6/6.5/6.5.1.md",
-    "Abiotic.md",
+    "Glossaries/B Glossary/Population.md",
+    "Glossaries/B Glossary/Biotic.md",
+    "Glossaries/B Glossary/Abiotic.md",
     "000-Biology/B Module 2/2.2/B2.2.md",
     "000-Biology/B Module 2/2.2/2.2.1.md",
     "000-Biology/B Module 6/6.5/6.5.2.md",
@@ -290,8 +292,6 @@
     "010-MOC/Topics MOC.md",
     "010-MOC/000-Maths MOC.md",
     "010-MOC/000-Chemistry MOC.md",
-    "010-MOC/000-Biology MOC.md",
-    "010-MOC/000-Assessment points MOC.md",
     "010-MOC",
     "Photos/Biology Photos/Pasted image 20231109174207.png",
     "Photos/Biology Photos/Pasted image 20231109175057.png",
