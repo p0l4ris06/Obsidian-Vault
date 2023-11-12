@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaries/B Glossary/Lag phase.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "67887eab14a7c983",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossaries/B Glossary/Lag phase.md"
+                "file": "000-Biology/B Module 6/6.5/6.5.4.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossaries/B Glossary/Lag phase.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaries/B Glossary/Lag phase.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Glossaries/B Glossary/Lag phase.md",
+                "file": "000-Biology/B Module 6/6.5/6.5.4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,32 +266,36 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
-    "Glossaries/B Glossary/k-strategists.md",
-    "Glossaries/B Glossary/Herd vaccination.md",
-    "Glossaries/B Glossary/Community.md",
-    "Glossaries/M Glossary/Census.md",
-    "Glossaries/B Glossary/Carrying capacity.md",
-    "000-Biology/B Module 6/6.6/B6.6.md",
-    "000-Biology/B Module 6/6.6/6.6.2.md",
-    "000-Biology/B Module 6/6.6/6.6.1.md",
+    "Pasted image 20231112112432.png",
+    "Nitrogen-cycle-advanced-1 2.avif",
+    "Nitrogen-cycle-advanced-1 1.avif",
+    "Nitrogen-cycle-advanced-1.avif",
+    "Pasted image 20231112112339.png",
+    "000-Biology/B Module 6/6.5/6.5.6.md",
     "000-Biology/B Module 6/6.5/6.5.4.md",
+    "000-Biology/B Module 6/6.5/6.5.5.md",
     "000-Biology/B Module 6/6.5/6.5.1.md",
     "000-Biology/B Module 6/6.5/6.5.2.md",
+    "000-Biology/B Module 6/6.5/6.5.3.md",
+    "000-Biology/B Module 6/6.6/6.6.1.md",
+    "000-Biology/B Module 6/6.6/6.6.2.md",
+    "000-Biology/B Module 6/6.6/B6.6.md",
+    "Glossaries/B Glossary/Carrying capacity.md",
+    "Glossaries/M Glossary/Census.md",
+    "Glossaries/B Glossary/Community.md",
+    "Glossaries/B Glossary/Herd vaccination.md",
+    "Glossaries/B Glossary/k-strategists.md",
+    "Glossaries/B Glossary/Lag phase.md",
+    "Glossaries/B Glossary/Log phase.md",
+    "Glossaries/B Glossary/Natural selection.md",
+    "Glossaries/B Glossary/r-strategists.md",
+    "Glossaries/M Glossary/Sample.md",
+    "Glossaries/B Glossary/Stationary phase.md",
     "Glossaries/B Glossary/Population.md",
     "Glossaries/B Glossary/Biotic.md",
     "Glossaries/B Glossary/Abiotic.md",
     "000-Biology/B Module 2/2.2/B2.2.md",
     "000-Biology/B Module 2/2.2/2.2.1.md",
-    "000-Biology/B Module 6/6.5/6.5.6.md",
-    "000-Biology/B Module 6/6.5/B6.5.md",
-    "000-Biology/B Module 6/6.5/6.5.5.md",
-    "000-Biology/B Module 6/6.5/6.5.3.md",
-    "000-Assessment points/000-B AP1.md",
-    "000-Biology/B Module 4/4.3/B4.3.md",
-    "000-Biology/B Module 4/4.3/4.3.1.md",
-    "000-Biology/B Module 6/6.3/B6.3.md",
-    "000-Biology/B Module 2/2.6/B2.6.md",
-    "000-Biology/B Module 2/2.1/B2.1.md",
     "010-MOC",
     "Photos/Biology Photos/Pasted image 20231109174207.png",
     "Photos/Biology Photos/Pasted image 20231109175057.png",
@@ -309,10 +312,6 @@
     "Personal/Other/Personality types/MBTI Types",
     "Personal/Other/Personality types/Seeking types",
     "Personal/Other/Personality types/Jungian functions",
-    "Personal/Other/Personality types/Cognitive stack",
-    "Personal/Other/Work experience/111-Surgery",
-    "Personal/Other/Work experience/111-Library",
-    "Photos/Chemistry Photos/Pasted image 20231004194342.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Untitled.canvas"
   ]
