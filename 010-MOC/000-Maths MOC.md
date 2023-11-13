@@ -41,7 +41,9 @@ Tags: #MOC
 - [[M-S Chapter 7]]
 
 # Stats Y2
-
+[[M-S2 Chapter 1]]
+[[M-S2 Chapter 2]]
+[[M-S2 Chapter 3]]
 # Mechanics Y1
 - [[M-M Chapter 8]]
 - [[M-M Chapter 9]]
