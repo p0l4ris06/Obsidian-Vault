@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c73fcc145d20fb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md"
+              }
             }
           },
           {
@@ -151,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +246,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "880d5a3ff152030e",
+  "active": "c73fcc145d20fb2d",
   "lastOpenFiles": [
+    "000-Maths/Stats Y1/M-S Chapters/M-S Chapters.md",
+    "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+    "000-Maths/Mechanics Y2/M-M2 Chapters",
+    "000-Maths/Stats Y2/M-S2 Chapters",
+    "000-Maths/Mechanics Y2",
+    "000-Maths/Stats Y2",
     "Lessons/Bio Lessons/00-GAH/2023-11-13-GAH.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-13.md",
     "Lessons/Chem lessons/00-ST/2023-11-13-ST.md",
@@ -253,8 +278,6 @@
     "000-Biology/B Module 6/6.5/6.5.2.md",
     "000-Biology/B Module 6/6.5/6.5.1.md",
     "000-Biology/B Module 4/4.3/B4.3.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-12.md",
-    "Home.md",
     "Photos/Biology Photos/Pasted image 20231112112432.png",
     "Pasted image 20231112112339.png",
     "Photos/Biology Photos/Pasted image 20231112114642.png",
@@ -270,11 +293,7 @@
     "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
     "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
-    "Projects f78f213c078b4925b78eed62c1a72556_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
-    "Personal/Other/Personality types/MBTI Types",
-    "Personal/Other/Personality types/Seeking types",
-    "Personal/Other/Personality types/Jungian functions",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Untitled.canvas"
   ]
