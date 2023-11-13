@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-W44.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-W44.md"
+                "file": "Home.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-W44.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-W44.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-W44.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,8 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
+    "Personal/Journal/Weekly reviews/2023-W44.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-03.md",
-    "2023-W44.md",
     "Personal/Journal/Weekly reviews/2023-W43.md",
     "Personal/Journal/Weekly reviews/2023-W45.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-12.md",
