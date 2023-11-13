@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Biology/B Module 6/6.6/6.6.1.md",
+                "file": "000-Biology/B Module 6/6.6/B6.6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Biology/B Module 6/6.6/6.6.1.md"
+                "file": "000-Biology/B Module 6/6.6/B6.6.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 6/6.6/6.6.1.md",
+                "file": "000-Biology/B Module 6/6.6/B6.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 6/6.6/6.6.1.md",
+                "file": "000-Biology/B Module 6/6.6/B6.6.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 6/6.6/6.6.1.md",
+                "file": "000-Biology/B Module 6/6.6/B6.6.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,15 +239,20 @@
   },
   "active": "880d5a3ff152030e",
   "lastOpenFiles": [
-    "Glossaries/B Glossary/Stationary phase.md",
+    "000-Biology/B Module 6/6.6/6.6.6.md",
+    "000-Biology/B Module 6/6.6/B6.6.md",
+    "000-Biology/B Module 6/6.6/6.6.5.md",
+    "000-Biology/B Module 6/6.6/6.6.4.md",
+    "000-Biology/B Module 6/6.6/6.6.3.md",
+    "000-Biology/B Module 6/6.6/6.6.2.md",
     "000-Biology/B Module 6/6.6/6.6.1.md",
+    "Glossaries/B Glossary/Stationary phase.md",
     "Glossaries/B Glossary/Log phase.md",
     "Glossaries/B Glossary/Lag phase.md",
     "Glossaries/B Glossary/r-strategists.md",
     "Glossaries/B Glossary/k-strategists.md",
     "Glossaries/B Glossary/Limiting factor.md",
     "Glossaries/B Glossary/Carrying capacity.md",
-    "000-Biology/B Module 6/6.6/B6.6.md",
     "000-Assessment points/000-B AP1.md",
     "000-Biology/B Module 6/6.5/B6.5.md",
     "000-Biology/B Module 6/6.5/6.5.4.md",
@@ -260,14 +265,9 @@
     "Home.md",
     "Personal/Journal/Weekly reviews/2023-W44.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-03.md",
-    "Personal/Journal/Weekly reviews/2023-W43.md",
-    "Personal/Journal/Weekly reviews/2023-W45.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-11.md",
     "Photos/Biology Photos/Pasted image 20231112112432.png",
-    "Biology revision for AP1.md",
     "Pasted image 20231112112339.png",
     "Photos/Biology Photos/Pasted image 20231112114642.png",
-    "000-Biology/B Module 6/6.5/6.5.5.md",
     "Nitrogen-cycle-advanced-1 2.avif",
     "Nitrogen-cycle-advanced-1 1.avif",
     "Nitrogen-cycle-advanced-1.avif",
