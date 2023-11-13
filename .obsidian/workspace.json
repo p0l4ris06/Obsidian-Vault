@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md"
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+                "file": "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,10 +246,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c73fcc145d20fb2d",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "000-Maths/Stats Y1/M-S Chapters/M-S Chapters.md",
+    "M-S2 Chapter 3",
+    "000-Maths/Stats Y2/M-S2 Chapter 2",
+    "000-Maths/Stats Y2/M-S2 Chapter 1",
     "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapters.md",
+    "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 3.md",
+    "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 2.md",
+    "000-Maths/Stats Y2/M-S2 Chapters/M-S2 Chapter 1.md",
+    "000-Maths/Stats Y1/M-S Chapter 1/M-S Chapter 1.md",
+    "000-Maths/Stats Y1/M-S Chapters/M-S Chapters.md",
     "000-Maths/Mechanics Y2/M-M2 Chapters",
     "000-Maths/Stats Y2/M-S2 Chapters",
     "000-Maths/Mechanics Y2",
@@ -273,11 +280,6 @@
     "Glossaries/B Glossary/Carrying capacity.md",
     "000-Assessment points/000-B AP1.md",
     "000-Biology/B Module 6/6.5/B6.5.md",
-    "000-Biology/B Module 6/6.5/6.5.4.md",
-    "000-Biology/B Module 6/6.5/6.5.3.md",
-    "000-Biology/B Module 6/6.5/6.5.2.md",
-    "000-Biology/B Module 6/6.5/6.5.1.md",
-    "000-Biology/B Module 4/4.3/B4.3.md",
     "Photos/Biology Photos/Pasted image 20231112112432.png",
     "Pasted image 20231112112339.png",
     "Photos/Biology Photos/Pasted image 20231112114642.png",
@@ -290,9 +292,7 @@
     "Photos/Biology Photos/Pasted image 20231109174329.png",
     "Photos/Biology Photos/Pasted image 20231109174231.png",
     "Photos/Biology Photos/Pasted image 20231106102832.png",
-    "Personal/Journal/Daily notes/2023-11",
     "Photos/Pasted image 20231024225856.png",
-    "Tasks 30f0ddafd4b84e519c0a014991fe7858_all.csv",
     "Photos/Maths photos/Pasted image 20231008121945.png",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Untitled.canvas"
