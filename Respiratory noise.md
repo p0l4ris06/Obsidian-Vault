@@ -2,7 +2,7 @@
 - Dogs with normal upper airway tract breathe quietly. Respiratory noises such as snoring and snorting are indicators of airway obstruction. BOAS-affected dogs may present with different types of noise depending on the location of the obstruction: pharynx, larynx, and/or nasal cavity.
 
 ### Pharyngeal noise
-- This type of noise, termed 'stertor' is caused by the elongated and thickened soft palate. The caudal tip of a normal length soft palate should barely touch the [[epiglottis]], so that when the dog pants with an open mouth, the airway is open. However, the soft palate in affected dogs is too long and extends into the opening of the airway (larynx).
+- This type of noise, termed 'stertor' is caused by the elongated and thickened soft palate. The caudal tip of a normal length soft palate should barely touch the [[Epiglottis]], so that when the dog pants with an open mouth, the airway is open. However, the soft palate in affected dogs is too long and extends into the opening of the airway (larynx).
 - When the dog pants, extra effort is required to move the soft palate out of the larynx in order to allow air to pass. When the dog breathes through its nose, the increased negative pressure within the upper airway tract during inspiration can trigger vibration of the soft palate and redundant pharyngeal soft tissues - BOAS-affected dogs can be 'awake snorers'.
 
 ### Laryngeal noise
