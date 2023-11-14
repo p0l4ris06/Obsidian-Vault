@@ -11,8 +11,13 @@
             "id": "f422f95938579d61",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -62,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36cac0c816d5221f",
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.3.md"
+              }
             }
           },
           {
@@ -177,6 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 4/4.3/4.3.3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,6 +236,13 @@
   },
   "active": "f422f95938579d61",
   "lastOpenFiles": [
+    "000-Biology/B Module 4/4.3/B4.3.md",
+    "000-Biology/B Module 4/4.3/4.3.2.md",
+    "000-Biology/B Module 4/4.3/4.3.1.md",
+    "000-Assessment points/000-B AP1.md",
+    "000-Assessment points/000-C Kinetics AP1.md",
+    "000-Assessment points/000-M AP4.md",
+    "000-Assessment points/000-C Analytical Techniques AP2.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-13.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
@@ -247,13 +263,6 @@
     "000-Maths/Stats Y2/M-S2 Chapter 3/M-S2 3.2.md",
     "000-Maths/Stats Y2/M-S2 Chapter 3/M-S2 3.1.md",
     "000-Maths/Stats Y2/M-S2 Chapter 1/M-S2 Chapter 1.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 1/M-S2 1.2.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 1/M-S2 1.3.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 1/M-S2 1.1.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 2/M-S2 Chapter 2.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 2/M-S2 2.5.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 2/M-S2 2.4.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 2/M-S2 2.2.md",
     "000-Maths/Stats Y2/M-S2 Chapters",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
