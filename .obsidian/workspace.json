@@ -11,8 +11,13 @@
             "id": "21dc79ce25eb20ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-11-14.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-11-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +239,9 @@
   },
   "active": "21dc79ce25eb20ed",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-11/2023-11-13.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-12.md",
+    "2023-11-14.md",
     "000-Assessment points/000-M AP6 Resit.md",
     "010-MOC/000-Assessment points MOC.md",
     "000-Assessment points/000-M AP6.md",
@@ -252,9 +265,6 @@
     "Glossaries/M Glossary/Product rule.md",
     "000-Maths/Pure Y2/M-P2 Chapter 9/M-P2 9.2.md",
     "000-Assessment points/000-M AP4.md",
-    "000-Assessment points/000-M AP2.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 3/M-S2 3.7.md",
-    "000-Maths/Stats Y2/M-S2 Chapter 3/M-S2 3.6.md",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
