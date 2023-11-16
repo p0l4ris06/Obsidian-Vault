@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d440d089ed8806d9",
+        "id": "1adc832fd97cbbfb",
         "type": "tabs",
         "children": [
           {
-            "id": "21dc79ce25eb20ed",
+            "id": "534ef1c71b86523f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-14.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-14.md"
+                "file": "Home.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-14.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-14.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-11/2023-11-14.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,7 +237,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "534ef1c71b86523f",
   "lastOpenFiles": [
     "Personal/Journal/Daily notes/2023-11/2023-11-13.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-12.md",
