@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-14-SCW.md",
+                "file": "2023-11-17-SCW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-14-SCW.md"
+                "file": "2023-11-17-SCW.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-14-SCW.md",
+                "file": "2023-11-17-SCW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-14-SCW.md",
+                "file": "2023-11-17-SCW.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-14-SCW.md",
+                "file": "2023-11-17-SCW.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,6 +239,16 @@
   },
   "active": "ce8ef904ac2c3034",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-11/2023-11-17.md",
+    "2023-11-17-SCW.md",
+    "Lessons/Chem lessons/00-APH/2023-11-17-APH.md",
+    "Lessons/Maths lessons/00-SK/2023-11-16-SK.md",
+    "Lessons/Maths lessons/00-LE/2023-11-16-LE.md",
+    "Lessons/Chem lessons/00-APH/2023-11-16-APH.md",
+    "Lessons/Chem lessons/00-ST/2023-11-15-ST.md",
+    "Lessons/Maths lessons/00-LE/2023-11-15-LE.md",
+    "Lessons/Bio Lessons/00-GAH/2023-11-15-GAH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-11-14-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-11-14-LE.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-20.md",
     "2023-11-20-GAH.md",
@@ -246,20 +256,10 @@
     "Personal/Journal/Daily notes/2023-11/2023-11-19.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-18.md",
     "Personal/Journal/Weekly reviews/2023-W46.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-17.md",
     "2023-11-17-SK.md",
-    "2023-11-17-APH.md",
-    "2023-11-17-GAH.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-16.md",
-    "2023-11-16-APH.md",
-    "2023-11-16-LE.md",
-    "2023-11-16-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-15.md",
-    "2023-11-15-GAH.md",
-    "2023-11-15-LE.md",
-    "2023-11-15-ST.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-14.md",
-    "2023-11-14-SCW.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-13.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
