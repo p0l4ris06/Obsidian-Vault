@@ -185,8 +185,8 @@
               "type": "backlink",
               "state": {
                 "file": "000-B AP2.md",
-                "collapseAll": false,
-                "extraContext": true,
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +251,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c5ab2689cc105b4",
+  "active": "4eed1e02558037a4",
   "lastOpenFiles": [
     "000-Assessment points/000-B AP1.md",
     "000-B AP2.md",
