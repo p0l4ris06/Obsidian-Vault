@@ -18,3 +18,5 @@ Reactions take place in the [[Stroma]]
 - The [[ATP]] that was made in the light dependent reaction is then also used at this stage to make two molecules of [[ADP]]
 - Therefore for each molecule of carbon dioxide, two molecules of ADP are produced
 - From the Calvin cycle two molecules of TP are needed to synthesise [[Glucose]] (6 Carbon)
+- RuBP needs to be regenerated in order for the Calvin cycle to continue
+- Therefore 10 TP molecules out of every 12 TP molecules are used to regenerate six molecules of RuBP
