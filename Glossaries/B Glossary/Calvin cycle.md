@@ -14,4 +14,7 @@ Reactions take place in the [[Stroma]]
 - This unstable six carbon compound immediately breaks down to form two molecules of [[GP]] (3 Carbons)
 - This whole process is referred to as **the fixation of carbon dioxide** 
 - After carbon dioxide has been fixed, GP is reduced to form [[TP]]
-- GP is reduced to TP by using hydrogen atoms from the reduced N
+- GP is reduced to TP by using hydrogen atoms from the reduced [[NADP]] ([[NADPH]]) that was formed in the light dependent reaction
+- The [[ATP]] that was made in the light dependent reaction is then also used at this stage to make two molecules of [[ADP]]
+- Therefore for each molecule of carbon dioxide, two molecules of ADP are produced
+- From the Calvin cycle two molecules of TP are needed to synthesise [[Glucose]] (6 Carbon)
