@@ -7,4 +7,3 @@ The [[Light dependent]] stage produces [[ATP]] and [[NADPH]], which combines wit
 
 ### Stages of the light independent stage:
 - [[Calvin cycle]]
-- 
