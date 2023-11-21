@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Light independent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "light inde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "67887eab14a7c983",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Light dependent.md"
+                "file": "Light independent.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Light independent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Light independent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Light independent.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,13 +240,16 @@
   },
   "active": "6bd3fe443272b37b",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
+    "Light independent.md",
+    "000-Biology/B Module 5/5.6/5.6.4.md",
+    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Glossaries/B Glossary/Photolysis.md",
+    "Light dependent.md",
     "Photosystem 2.md",
     "Untitled.jpg",
-    "Light dependent.md",
     "Glossaries/B Glossary/Granum.md",
     "Glossaries/B Glossary/Photophosphorylation.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
     "Glossaries/B Glossary/Calvin cycle.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
@@ -266,8 +270,6 @@
     "Lessons/Bio Lessons/00-SCW/2023-11-17-SCW.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-17.md",
     "Lessons/Chem lessons/00-APH/2023-11-17-APH.md",
-    "Lessons/Maths lessons/00-SK/2023-11-16-SK.md",
-    "Lessons/Maths lessons/00-LE/2023-11-16-LE.md",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
