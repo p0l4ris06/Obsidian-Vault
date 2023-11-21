@@ -8,5 +8,7 @@ Carbon atoms from [[Carbon dioxide]] are fixed and used to build three carbon su
 Reactions take place in the [[Stroma]]
 
 ## Steps of the calvin cycle
-- [[Carbon dioxide]] combines with [[RuBP]] 
-- This reaction is catalysed by 
+- [[Carbon dioxide]] combines with [[RuBP]] (5 Carbons)
+- This reaction is catalysed by [[Enzyme]] [[RuBisCO]] 
+- This reaction causes the RuBP to be carboxylated which forms an unstable intermediate compound with six carbons
+- This unstable six carbon compound immediately breaks down to form two mole

@@ -1,5 +1,5 @@
 Tags: #000-Biology/Definition 
 
 ---
-Ribulose bisphosphate
+Ribulose bisphosphate (5C)
 ![[RuBP-2D-skeletal.png]]
