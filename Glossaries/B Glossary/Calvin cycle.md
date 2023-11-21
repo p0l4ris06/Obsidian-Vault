@@ -11,4 +11,7 @@ Reactions take place in the [[Stroma]]
 - [[Carbon dioxide]] combines with [[RuBP]] (5 Carbons)
 - This reaction is catalysed by [[Enzyme]] [[RuBisCO]] 
 - This reaction causes the RuBP to be carboxylated which forms an unstable intermediate compound with six carbons
-- This unstable six carbon compound immediately breaks down to form two mole
+- This unstable six carbon compound immediately breaks down to form two molecules of [[GP]] (3 Carbons)
+- This whole process is referred to as **the fixation of carbon dioxide** 
+- After carbon dioxide has been fixed, GP is reduced to form [[TP]]
+- GP is reduced to TP by using hydrogen atoms from the reduced N
