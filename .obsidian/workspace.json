@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Glossaries/B Glossary/Granum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Light dependent.md"
+                "file": "Glossaries/B Glossary/Granum.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Glossaries/B Glossary/Granum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Glossaries/B Glossary/Granum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Light dependent.md",
+                "file": "Glossaries/B Glossary/Granum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,9 @@
   },
   "active": "6bd3fe443272b37b",
   "lastOpenFiles": [
-    "Glossaries/B Glossary/Photolysis.md",
     "Light dependent.md",
+    "Glossaries/B Glossary/Photophosphorylation.md",
+    "Glossaries/B Glossary/Photolysis.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
     "Glossaries/B Glossary/Calvin cycle.md",
@@ -267,7 +268,6 @@
     "Lessons/Chem lessons/00-APH/2023-11-16-APH.md",
     "Lessons/Chem lessons/00-ST/2023-11-15-ST.md",
     "Lessons/Maths lessons/00-LE/2023-11-15-LE.md",
-    "Lessons/Bio Lessons/00-GAH/2023-11-15-GAH.md",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
