@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "2023-11-22.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-11-22.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-11-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-11-22.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,6 +239,12 @@
   },
   "active": "6cb93ad10d795151",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-11/2023-11-21.md",
+    "2023-11-22.md",
+    "2023-11-21-SCW.md",
+    "2023-11-21-LE.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-20.md",
+    "Home.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
     "Light independent.md",
     "Glossaries/B Glossary/Calvin cycle.md",
@@ -262,15 +268,9 @@
     "Glossaries/B Glossary/Thylakoid.md",
     "000-Biology/B Module 5/5.6/5.6.1.md",
     "Glossaries/B Glossary/Respiration.md",
-    "000-Biology/B Module 5/5.6/B5.6.md",
-    "000-Assessment points/000-B AP2.md",
-    "Home.md",
-    "000-Assessment points/000-B AP1.md",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
     "Photos/Maths photos/Pasted image 20231117155003.png",
-    "Lessons/Chem lessons/00-ST/2023-11-20-ST.md",
-    "Lessons/Bio Lessons/00-GAH/2023-11-20-GAH.md",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
