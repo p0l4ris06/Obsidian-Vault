@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Lessons/Maths lessons/00-SK/2023-11-24-SK.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-24.md"
+                "file": "Lessons/Maths lessons/00-SK/2023-11-24-SK.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Lessons/Maths lessons/00-SK/2023-11-24-SK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Lessons/Maths lessons/00-SK/2023-11-24-SK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Lessons/Maths lessons/00-SK/2023-11-24-SK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,20 +237,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6cb93ad10d795151",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Lessons/Bio Lessons/00-SCW/2023-11-24-SCW.md",
+    "Lessons/Chem lessons/00-APH/2023-11-24-APH.md",
+    "Lessons/Maths lessons/00-SK/2023-11-23-SK.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+    "Lessons/Chem lessons/00-APH/2023-11-23-APH.md",
+    "Lessons/Chem lessons/00-ST/2023-11-22-ST.md",
+    "Lessons/Maths lessons/00-LE/2023-11-22-LE.md",
+    "Lessons/Bio Lessons/00-GAH/2023-11-22-GAH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-11-21-SCW.md",
+    "Lessons/Maths lessons/00-LE/2023-11-21-LE.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-24.md",
+    "Lessons/Maths lessons/00-SK/2023-11-24-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
-    "2023-11-24.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-22.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-21.md",
-    "2023-11-23-BS.md",
-    "2023-11-23-APH.md",
-    "2023-11-23-SK.md",
-    "2023-11-22-GAH.md",
-    "2023-11-22-LE.md",
-    "2023-11-22-ST.md",
-    "2023-11-21-SCW.md",
-    "2023-11-21-LE.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-20.md",
     "Home.md",
     "Lessons/Bio Lessons/00-GAH/2023-10-02-GAH.md",
@@ -264,9 +267,6 @@
     "RuBP-2D-skeletal.png",
     "000-Biology/B Module 5/5.6/5.6.4.md",
     "Lessons/Bio Lessons/00-GAH/2023-09-25-GAH.md",
-    "Glossaries/B Glossary/Photolysis.md",
-    "Light dependent.md",
-    "Photosystem 2.md",
     "Untitled.jpg",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
