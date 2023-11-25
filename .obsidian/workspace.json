@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "2023-11-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-22.md"
+                "file": "2023-11-24.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "2023-11-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "2023-11-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,16 @@
   },
   "active": "6cb93ad10d795151",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
+    "2023-11-24.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-22.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-21.md",
-    "2023-11-22.md",
+    "2023-11-23-BS.md",
+    "2023-11-23-APH.md",
+    "2023-11-23-SK.md",
+    "2023-11-22-GAH.md",
+    "2023-11-22-LE.md",
+    "2023-11-22-ST.md",
     "2023-11-21-SCW.md",
     "2023-11-21-LE.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-20.md",
@@ -260,14 +268,6 @@
     "Light dependent.md",
     "Photosystem 2.md",
     "Untitled.jpg",
-    "Glossaries/B Glossary/Granum.md",
-    "Glossaries/B Glossary/Photophosphorylation.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-20-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-09-18-GAH.md",
-    "Glossaries/B Glossary/Photosynthesis.md",
-    "Glossaries/B Glossary/Thylakoid.md",
-    "000-Biology/B Module 5/5.6/5.6.1.md",
-    "Glossaries/B Glossary/Respiration.md",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
     "Photos/Maths photos/Pasted image 20231117155003.png",
