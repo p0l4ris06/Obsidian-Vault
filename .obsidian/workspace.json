@@ -24,13 +24,8 @@
             "id": "c6d60981509e3aab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,6 +243,7 @@
   },
   "active": "c6d60981509e3aab",
   "lastOpenFiles": [
+    "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
     "000-Chemistry/C Module 5/Chapter 20/Chapter 20.md",
     "000-Assessment points/000-C Acids and Equilibria.md",
     "000-Assessment points/000-C Analytical Techniques AP2.md",
@@ -282,7 +273,6 @@
     "Lessons/Maths lessons/00-LE/2023-11-21-LE.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-24.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-22.md",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
     "Photos/Maths photos/Pasted image 20231117155003.png",
