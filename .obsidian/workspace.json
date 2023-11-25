@@ -8,24 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cb93ad10d795151",
+            "id": "c6d60981509e3aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Assessment points/000-B AP2.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "c6d60981509e3aab",
+            "id": "39a73758867af792",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -165,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,8 +251,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c6d60981509e3aab",
+  "active": "39a73758867af792",
   "lastOpenFiles": [
+    "Home.md",
+    "Untitled.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
     "000-Chemistry/C Module 5/Chapter 20/Chapter 20.md",
     "000-Assessment points/000-C Acids and Equilibria.md",
@@ -271,8 +283,6 @@
     "Lessons/Bio Lessons/00-GAH/2023-11-22-GAH.md",
     "Lessons/Bio Lessons/00-SCW/2023-11-21-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-11-21-LE.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-24.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
     "Photos/Maths photos/Pasted image 20231117155003.png",
