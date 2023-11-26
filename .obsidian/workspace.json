@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md"
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+                "file": "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,8 @@
   },
   "active": "40f03cd739c2ee99",
   "lastOpenFiles": [
-    "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
     "Lessons/Support lessons/00-BS-SCW/2023-11-23-BS.md",
+    "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-25.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
