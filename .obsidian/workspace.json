@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45a5b5e632599804",
+        "id": "827d01a50e1b95fc",
         "type": "tabs",
         "children": [
           {
-            "id": "14b4ebd66253d33d",
+            "id": "183241a3fa05922d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b7b96ed8d05fac7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-17-SK.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-17-SK.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-17-SK.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-17-SK.md"
+                "file": "Home.md"
               }
             }
           },
@@ -199,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-17-SK.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +234,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7b96ed8d05fac7f",
+  "active": "183241a3fa05922d",
   "lastOpenFiles": [
     "Pasted image 20231117155022.png",
     "Pasted image 20231117155015.png",
