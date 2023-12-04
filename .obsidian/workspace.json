@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c8c61bb58835f7",
+        "id": "cdac3de6beec20f3",
         "type": "tabs",
         "children": [
           {
-            "id": "05d44c73fc5f8051",
+            "id": "97e329e8eea4fa40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -237,7 +237,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05d44c73fc5f8051",
+  "active": "97e329e8eea4fa40",
   "lastOpenFiles": [
     "Personal/Journal/Weekly reviews/2023-W47.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-26.md",
