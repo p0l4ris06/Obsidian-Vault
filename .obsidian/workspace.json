@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-W48.md",
+                "file": "2023-12-04-GAH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-W48.md"
+                "file": "2023-12-04-GAH.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-W48.md",
+                "file": "2023-12-04-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-W48.md",
+                "file": "2023-12-04-GAH.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-W48.md",
+                "file": "2023-12-04-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,9 +239,12 @@
   },
   "active": "97e329e8eea4fa40",
   "lastOpenFiles": [
-    "2023-12-03.md",
-    "2023-W48.md",
-    "2023-12-02.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-04.md",
+    "2023-12-04-GAH.md",
+    "2023-12-04-ST.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-03.md",
+    "Personal/Journal/Weekly reviews/2023-W48.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-02.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-01.md",
     "Personal/Journal/Daily notes/2023-12",
     "2023-12-01-APH.md",
@@ -263,9 +266,6 @@
     "Personal/Journal/Daily notes/2023-11/2023-11-27.md",
     "2023-11-27-GAH.md",
     "2023-11-27-ST.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-26.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
     "Photos/Biology Photos/RuBP-2D-skeletal.png",
