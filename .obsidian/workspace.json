@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "2023-12-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-30.md"
+                "file": "2023-12-01.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "2023-12-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "2023-12-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,12 +239,17 @@
   },
   "active": "97e329e8eea4fa40",
   "lastOpenFiles": [
-    "2023-11-29.md",
-    "2023-11-30.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-30.md",
+    "2023-12-01.md",
+    "2023-11-30-APH.md",
+    "2023-11-30-BS.md",
+    "2023-11-30-LE.md",
+    "2023-11-30-SK.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-29.md",
     "2023-11-29-GAH.md",
     "2023-11-29-LE.md",
     "2023-11-29-ST.md",
-    "2023-11-28.md",
+    "Personal/Journal/Daily notes/2023-11/2023-11-28.md",
     "2023-11-28-SCW.md",
     "2023-11-28-CS.md",
     "2023-11-28-LE.md",
@@ -260,11 +265,6 @@
     "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
     "Lessons/Support lessons/00-BS-SCW/2023-11-09-BS.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-10-12-BS.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-02.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-16.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-17.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-20.md",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
     "Photos/Biology Photos/RuBP-2D-skeletal.png",
