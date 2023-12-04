@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "2023-W48.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-01.md"
+                "file": "2023-W48.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "2023-W48.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "2023-W48.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "2023-W48.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,15 @@
   },
   "active": "97e329e8eea4fa40",
   "lastOpenFiles": [
+    "2023-12-03.md",
+    "2023-W48.md",
+    "2023-12-02.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-01.md",
+    "Personal/Journal/Daily notes/2023-12",
+    "2023-12-01-APH.md",
+    "2023-12-01-SCW.md",
+    "2023-12-01-SK.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-30.md",
-    "2023-12-01.md",
     "2023-11-30-APH.md",
     "2023-11-30-BS.md",
     "2023-11-30-LE.md",
@@ -259,12 +266,6 @@
     "Personal/Journal/Daily notes/2023-11/2023-11-26.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
-    "Personal/Journal/Weekly reviews/2023-W47.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-25.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-24.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-09.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-10.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-11-09-BS.md",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
     "Photos/Biology Photos/RuBP-2D-skeletal.png",
@@ -284,7 +285,6 @@
     "Photos/Biology Photos/Pasted image 20231112114642.png",
     "Nitrogen-cycle-advanced-1 2.avif",
     "Nitrogen-cycle-advanced-1 1.avif",
-    "Nitrogen-cycle-advanced-1.avif",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Untitled.canvas"
   ]
