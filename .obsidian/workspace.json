@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,12 +239,12 @@
   },
   "active": "3191ee545223f573",
   "lastOpenFiles": [
+    "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-05.md",
     "Lessons/Support lessons/00-CS-ST/2023-12-05-CS.md",
     "Lessons/Bio Lessons/00-SCW/2023-12-05-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-12-05-LE.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-04.md",
-    "Home.md",
     "Personal/Understanding myself.md",
     "Lessons/Bio Lessons/00-GAH/2023-11-27-GAH.md",
     "Lessons/Chem lessons/00-ST/2023-11-27-ST.md",
