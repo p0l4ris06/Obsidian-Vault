@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+                "file": "2023-12-06-GAH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md"
+                "file": "2023-12-06-GAH.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+                "file": "2023-12-06-GAH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+                "file": "2023-12-06-GAH.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+                "file": "2023-12-06-GAH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,6 +239,11 @@
   },
   "active": "3191ee545223f573",
   "lastOpenFiles": [
+    "2023-12-06.md",
+    "2023-12-06-GAH.md",
+    "2023-12-06-LE.md",
+    "2023-12-06-ST.md",
+    "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-05.md",
     "Lessons/Support lessons/00-CS-ST/2023-12-05-CS.md",
@@ -260,11 +265,6 @@
     "000-Assessment points/000-C Analytical Techniques AP2.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
-    "Lessons/Support lessons/00-BS-SCW/2023-11-30-BS.md",
-    "Lessons/Maths lessons/00-LE/2023-11-30-LE.md",
-    "Lessons/Maths lessons/00-SK/2023-11-30-SK.md",
-    "Lessons/Chem lessons/00-APH/2023-12-01-APH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-12-01-SCW.md",
     "Personal/Journal/Daily notes/2023-12",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
