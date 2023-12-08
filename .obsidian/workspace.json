@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-07-SK.md",
+                "file": "2023-12-06-SK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-07-SK.md",
+                "file": "2023-12-06-SK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-07-SK.md"
+                "file": "2023-12-06-SK.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-07-SK.md",
+                "file": "2023-12-06-SK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +269,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fb2ca7fbe2fe8b1",
+  "active": "9584514055e5cbae",
   "lastOpenFiles": [
-    "2023-12-06-SK.md",
+    "Pasted image 20231208153522.png",
+    "Pasted image 20231208153508.png",
+    "Pasted image 20231208153458.png",
     "2023-12-07-SK.md",
+    "Pasted image 20231208153431.png",
+    "Pasted image 20231208153357.png",
+    "Pasted image 20231208153348.png",
+    "2023-12-06-SK.md",
     "conflict-files-obsidian-git.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-06.md",
@@ -297,16 +303,11 @@
     "Photos/Maths photos/Pasted image 20231117155003.png",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Biology Photos/SpinachRuBisCO.png",
-    "Photos/Biology Photos/RuBP-2D-skeletal.png",
     "Personal/Journal/Weekly reviews/2023-W47.md",
     "Personal/Journal/Weekly reviews/2023-W46.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-26.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-25.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-24.md",
-    "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
-    "Pasted image 20231117155022.png",
-    "Pasted image 20231117155015.png",
-    "Pasted image 20231117155003.png",
     "010-MOC",
     "000-Maths/Stats Y2/M-S2 Chapters",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
@@ -315,7 +316,6 @@
     "000-Maths/Stats Y2",
     "Nitrogen-cycle-advanced-1.avif",
     "Nitrogen-cycle-advanced-1 2.avif",
-    "Nitrogen-cycle-advanced-1 1.avif",
-    "Photos/Pasted image 20231024225856.png"
+    "Nitrogen-cycle-advanced-1 1.avif"
   ]
 }
