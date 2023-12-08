@@ -35,14 +35,14 @@
               "type": "markdown",
               "state": {
                 "file": "2023-12-07-SK.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-07-SK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-07-SK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-07-SK.md"
+              }
             }
           },
           {
@@ -203,6 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-12-07-SK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,8 +256,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e3d6dea60bcae4f",
+  "active": "4fb2ca7fbe2fe8b1",
   "lastOpenFiles": [
+    "Photos/Maths photos/Pasted image 20231208155503.png",
     "Photos/Maths photos/Pasted image 20231208153522.png",
     "Photos/Maths photos/Pasted image 20231208153348.png",
     "2023-12-06-SK.md",
