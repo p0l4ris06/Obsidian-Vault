@@ -19,8 +19,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e3d6dea60bcae4f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "81ddc138b6622bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,10 +256,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "183241a3fa05922d",
+  "active": "81ddc138b6622bf6",
   "lastOpenFiles": [
-    "Home.md",
     "conflict-files-obsidian-git.md",
+    "Home.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-06.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-05.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-03.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-04.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-02.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-01.md",
+    "Personal/Journal/Daily notes/2023-12",
+    "Lessons/Chem lessons/00-ST/2023-11-27-ST.md",
+    "Lessons/Chem lessons/00-APH/2023-12-01-APH.md",
+    "Lessons/Chem lessons/00-APH/2023-11-30-APH.md",
+    "Lessons/Bio Lessons/00-SCW/2023-12-05-SCW.md",
+    "Lessons/Bio Lessons/00-SCW/2023-12-01-SCW.md",
+    "Lessons/Bio Lessons/00-SCW/2023-11-28-SCW.md",
+    "Lessons/Bio Lessons/00-GAH/2023-12-06-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-11-29-GAH.md",
+    "Lessons/Bio Lessons/00-GAH/2023-11-27-GAH.md",
     "Photos/Maths photos/Pasted image 20231117155022.png",
     "Photos/Maths photos/Pasted image 20231117155015.png",
     "Photos/Maths photos/Pasted image 20231117155003.png",
@@ -252,22 +291,6 @@
     "Personal/Journal/Daily notes/2023-11/2023-11-23.md",
     "Personal/Journal/Daily notes/2023-11/2023-11-22.md",
     "Lessons/Chem lessons/00-APH/2023-11-24-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-11-23-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-11-17-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-11-16-APH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-11-24-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-11-21-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-11-17-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-11-14-SCW.md",
-    "Lessons/Bio Lessons/00-GAH/2023-11-22-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-11-20-GAH.md",
-    "Lessons/Bio Lessons/00-GAH/2023-11-15-GAH.md",
-    "Glossaries/B Glossary/TP.md",
-    "Glossaries/B Glossary/RuBisCO.md",
-    "Glossaries/B Glossary/RuBP.md",
-    "Glossaries/B Glossary/Photosystem 2.md",
-    "Glossaries/B Glossary/Light independent.md",
-    "Glossaries/B Glossary/Light dependent.md",
     "Pasted image 20231117155022.png",
     "Pasted image 20231117155015.png",
     "Pasted image 20231117155003.png",
@@ -280,7 +303,6 @@
     "Nitrogen-cycle-advanced-1.avif",
     "Nitrogen-cycle-advanced-1 2.avif",
     "Nitrogen-cycle-advanced-1 1.avif",
-    "000-Maths/Stats Y1/M-S Chapters",
     "Photos/Pasted image 20231024225856.png"
   ]
 }
