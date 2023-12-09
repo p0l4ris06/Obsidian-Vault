@@ -24,9 +24,17 @@
             "id": "509ce553778d269d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f79c230d7351847",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpersonal therapy.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpersonal therapy.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -172,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpersonal therapy.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpersonal therapy.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interpersonal therapy.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,10 +259,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "509ce553778d269d",
+  "active": "7f79c230d7351847",
   "lastOpenFiles": [
-    "010-MOC/Topics MOC.md",
+    "Untitled.md",
     "Interpersonal therapy.md",
+    "010-MOC/Topics MOC.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-09.md",
     "Lessons/Maths lessons/00-SK/2023-12-07-SK.md",
     "Lessons/Maths lessons/00-SK/2023-12-08-SK.md",
@@ -284,7 +293,6 @@
     "Personal/Journal/Daily notes/2023-12/2023-12-04.md",
     "Personal/Understanding myself.md",
     "Lessons/Bio Lessons/00-GAH/2023-11-27-GAH.md",
-    "Lessons/Chem lessons/00-ST/2023-11-27-ST.md",
     "Personal/Journal/Daily notes/2023-12",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
