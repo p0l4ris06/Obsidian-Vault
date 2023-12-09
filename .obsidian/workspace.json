@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "2023-12-08.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-12-08.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,11 @@
   },
   "active": "3191ee545223f573",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2023-12-07.md",
+    "2023-12-08.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-06.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Photos/Maths photos/Pasted image 20231208153522.png",
     "Photos/Maths photos/Pasted image 20231208153508.png",
     "Photos/Maths photos/Pasted image 20231208153458.png",
@@ -250,7 +253,6 @@
     "2023-12-07-SK.md",
     "2023-12-06-SK.md",
     "Lessons/Bio Lessons/00-GAH/2023-12-06-GAH.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-06.md",
     "Lessons/Maths lessons/00-LE/2023-12-06-LE.md",
     "Lessons/Chem lessons/00-ST/2023-12-06-ST.md",
     "Lessons/Bio Lessons/00-GAH/2023-12-04-GAH.md",
@@ -269,8 +271,6 @@
     "000-Assessment points/000-B AP2.md",
     "000-Biology/B Module 5/5.6/B5.6.md",
     "Lessons/Maths lessons/00-LE/2023-11-29-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-11-29-ST.md",
-    "Lessons/Chem lessons/00-APH/2023-11-30-APH.md",
     "Personal/Journal/Daily notes/2023-12",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
