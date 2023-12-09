@@ -11,8 +11,13 @@
             "id": "cec2648658c5071c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "010-MOC/Topics MOC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "010-MOC/Topics MOC.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010-MOC/Topics MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010-MOC/Topics MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "010-MOC/Topics MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +210,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13018327161846213,
+                  "scale": 0.09285653328936172,
                   "close": true
                 }
               }
@@ -227,7 +237,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cec2648658c5071c",
+  "active": "33c132fab32f09fc",
   "lastOpenFiles": [
     "Personal/Journal/Daily notes/2023-12/2023-12-09.md",
     "Lessons/Maths lessons/00-SK/2023-12-07-SK.md",
