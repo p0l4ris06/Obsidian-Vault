@@ -14,4 +14,9 @@
 - Epilepsy
 - Susceptible to angle-closure glaucoma
 - Hepatic impairment (prolonged half-life) - manufacturer advises dose reduction or increasing dose interval in mild to moderate impairment
-- Renal impairment (Cital)
+- Renal impairment (Citalopram and Escitalopram)
+- Risk factors for QT-interval prolongation or hyponatraemia
+- Undergoing concurrent electroconvulsive therapy
+
+## Adverse effects
+### Possible adverse effects of SSRIs include:
