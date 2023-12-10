@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3c66bfa04d5314b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md"
+              }
             }
           },
           {
@@ -151,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +246,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f034229a8629fa67",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
+    "Personal/Other/SSRIs",
     "Home.md",
     "000-Biology/B Module 6/6.5/6.5.4.md",
     "Glossaries/B Glossary/Saprotrophs.md",
@@ -254,7 +275,6 @@
     "000-Biology/B Module 5/5.2/B5.2.md",
     "000-Biology/B Module 5/5.1/5.1.4.md",
     "000-Biology/B Module 5/5.6/5.6.1.md",
-    "000-Biology/B Module 5/5.1/B5.1.md",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
     "Photos/Maths photos/Pasted image 20231208153508.png",
@@ -274,7 +294,6 @@
     "000-Maths/Stats Y2/M-S2 Chapters",
     "000-Maths/Mechanics Y2",
     "000-Maths/Stats Y2",
-    "Nitrogen-cycle-advanced-1 2.avif",
     "Glossaries/B Glossary/Domains and kingdoms.canvas",
     "Untitled.canvas"
   ]
