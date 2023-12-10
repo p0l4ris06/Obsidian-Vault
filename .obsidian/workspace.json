@@ -35,9 +35,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0fc074a67850928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-C MOCK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-B MOCK.md"
+                "file": "000-C MOCK.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-B MOCK.md",
+                "file": "000-C MOCK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-B MOCK.md",
+                "file": "000-C MOCK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-B MOCK.md",
+                "file": "000-C MOCK.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,9 +267,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "afbcf02616c700a8",
+  "active": "f0fc074a67850928",
   "lastOpenFiles": [
     "000-B MOCK.md",
+    "000-C MOCK.md",
     "Home.md",
     "Personal/Understanding myself.md",
     "Veterinary neuromuscular system.md",
@@ -287,7 +301,6 @@
     "Lessons/Support lessons/00-CS-ST/2023-12-05-CS.md",
     "Lessons/Bio Lessons/00-SCW/2023-12-05-SCW.md",
     "Lessons/Maths lessons/00-LE/2023-12-05-LE.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-04.md",
     "Personal/Journal/Daily notes/2023-12",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
