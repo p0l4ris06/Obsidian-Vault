@@ -47,3 +47,10 @@
 - Other drugs, which if taken with SSRIs may increase the risk of serotonin syndrome or neuroleptic malignant syndrome, include opioids, St John’s wort (avoid concurrent use), triptans, vortioxetine.
 - QT interval prolongation — some SSRIs are associated with QT interval prolongation and torsade de pointes. Concurrent use with other drugs that prolong the QT interval drugs may increase the risk. These include antiarrhythmics (amiodarone, dronedarone, quinidine); antipsychotics (phenothiazine derivatives, pimozide, haloperidol); tricyclic antidepressants (TCAs, clomipramine, imipramine); sildenafil.
 - Hyponatraemia — increased risk if concurrent use with other drugs known to be associated with hyponatraemia (for example, diuretics, NSAIDs, antipsychotics, carbamazepine, calcium channel blockers, angiotensin‐converting enzyme [ACE]-inhibitors, and laxatives).
+
+## The most common antidepressants (SSRIs)
+### The most common antidepressants on the market as of 2023 are:
+- [[Fluoxetine]] (Prozac)
+- [[Citalopram]] (Cipramil)
+- [[Escitalopram]] (Cipralex)
+- [[Sertraline]] (Lustral)
