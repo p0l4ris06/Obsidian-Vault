@@ -5,7 +5,7 @@ ___
 # Monthly Reviews
 ```dataview
 list 
-from #reviews/monthly and !"templates"
+from #reviews/monthly and -"templates"
 sort file.name desc
 ```
 ___
