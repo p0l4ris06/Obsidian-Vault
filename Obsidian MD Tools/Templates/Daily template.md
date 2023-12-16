@@ -1,8 +1,8 @@
 tags:: #daily-notes 
 links:: [[909 Journal MOC]] 
-# <%+tp.date.now (%>
+# <%+tp.file.title%>
 
-<< [[ <%+ tp.date.yesterday %>]] - [[ <%+ tp.date.tomorrow %>]] >>
+<< [[ <%+ tp.date.yesterday ("YYYY-MM-DD") %>]] - [[ <%+ tp.date.tomorrow ("YYYY-MM-DD")%>]] >>
 
 ---
 ### 📅 Daily Questions
