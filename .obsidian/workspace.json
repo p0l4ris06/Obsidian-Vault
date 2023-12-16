@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-12.md",
+                "file": "2023-12-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-12.md"
+                "file": "2023-12-14.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-12.md",
+                "file": "2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-12.md",
+                "file": "2023-12-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-12.md",
+                "file": "2023-12-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,8 +239,17 @@
   },
   "active": "4f13d9a1ec91a916",
   "lastOpenFiles": [
+    "2023-12-14-SK.md",
+    "2023-12-14.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-13.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-12.md",
+    "2023-12-12-SCW.md",
+    "2023-12-12-CS.md",
+    "2023-12-12-LE.md",
+    "2023-12-13-GAH.md",
+    "2023-12-13-LE.md",
+    "2023-12-13-ST.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-11.md",
-    "2023-12-12.md",
     "2023-12-11-GAH.md",
     "2023-12-11-ST.md",
     "Obsidian MD Tools/Templates/Daily template.md",
@@ -257,15 +266,6 @@
     "Personal/Other/SSRIs",
     "000-Biology/B Module 6/6.5/6.5.4.md",
     "Glossaries/B Glossary/Saprotrophs.md",
-    "000-Biology/B Module 5/5.1/5.1.3.md",
-    "Glossaries/B Glossary/Ectotherm.md",
-    "Glossaries/B Glossary/Endotherm.md",
-    "000-Biology/B Module 5/5.1/5.1.2.md",
-    "Glossaries/B Glossary/Negative feedback.md",
-    "Glossaries/B Glossary/Sensory receptors.md",
-    "Glossaries/B Glossary/Positive feedback.md",
-    "Glossaries/B Glossary/Homeostasis.md",
-    "Glossaries/B Glossary/Effector.md",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
     "Photos/Maths photos/Pasted image 20231208153508.png",
