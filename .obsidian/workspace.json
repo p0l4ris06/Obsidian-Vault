@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5938b5e9301e222",
+        "id": "39cadf48bb2bccc1",
         "type": "tabs",
         "children": [
           {
-            "id": "4f13d9a1ec91a916",
+            "id": "bf1adf6447ef5ed0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -227,7 +227,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4f13d9a1ec91a916",
+  "active": "bf1adf6447ef5ed0",
   "lastOpenFiles": [
     "How to revise efficiently.md",
     "Home.md",
