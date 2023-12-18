@@ -21,18 +21,18 @@
 		{"id":"614134348abd5bc9","type":"text","text":"[[Alkane]]","x":138,"y":-515,"width":118,"height":50},
 		{"id":"78fcc7bd405c8b98","type":"text","text":"[[Halogenation]]","x":123,"y":-420,"width":148,"height":60,"color":"6"},
 		{"id":"5eb3f3fdd87da0f7","type":"text","text":"[[Haloalkane]]","x":135,"y":-310,"width":125,"height":50},
-		{"id":"01bfdaf9bfaddc05","x":201,"y":-213,"width":93,"height":53,"color":"6","type":"text","text":"[[Reflux]]"},
-		{"id":"095104d4f5d36d71","x":6,"y":-212,"width":143,"height":51,"color":"6","type":"text","text":"[[Halogenation]]"},
+		{"id":"01bfdaf9bfaddc05","type":"text","text":"[[Reflux]]","x":201,"y":-213,"width":93,"height":53,"color":"6"},
+		{"id":"095104d4f5d36d71","type":"text","text":"[[Halogenation]]","x":6,"y":-212,"width":143,"height":51,"color":"6"},
 		{"id":"ac438ce5d8195a6d","type":"text","text":"[[Oxidation]]","x":58,"y":60,"width":125,"height":60,"color":"6"},
-		{"id":"cf9836416d8804b4","type":"text","text":"[[Aldehyde]]","x":63,"y":170,"width":115,"height":60}
+		{"id":"cf9836416d8804b4","type":"text","text":"[[Aldehyde]]","x":63,"y":170,"width":115,"height":60},
+		{"id":"9537339d7fa795f5","x":580,"y":-310,"width":100,"height":50,"color":"1","type":"text","text":"[[Reflux]]"},
+		{"id":"2071651836edc6de","x":385,"y":-175,"width":195,"height":80,"color":"1","type":"text","text":"[[Nucleophilic substitution]] with [[Ammonia]]"},
+		{"id":"314ecf8cb5bb9151","x":780,"y":310,"width":190,"height":52,"color":"1","type":"text","text":"[[Hydrolysis reaction]]"}
 	],
 	"edges":[
-		{"id":"12c90825fa954329","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"962d4ff89fb1c5db","toSide":"left"},
-		{"id":"c06f9250a020e98f","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"1098b8ba4b8eedd7","toSide":"left"},
 		{"id":"202f3fa497495179","fromNode":"cf9836416d8804b4","fromSide":"right","toNode":"8c6aeb3cf99e8066","toSide":"left"},
 		{"id":"b4c82e779a78c01e","fromNode":"8c6aeb3cf99e8066","fromSide":"right","toNode":"1098b8ba4b8eedd7","toSide":"right"},
 		{"id":"d5130b7d0da30ef6","fromNode":"54c2e1522a779acb","fromSide":"left","toNode":"0442fde18c4d7dac","toSide":"left"},
-		{"id":"7286b6e390c47af2","fromNode":"962d4ff89fb1c5db","fromSide":"right","toNode":"0442fde18c4d7dac","toSide":"right"},
 		{"id":"4a36d1384fa3c63e","fromNode":"d36bce8faa576437","fromSide":"top","toNode":"0442fde18c4d7dac","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"4ef14a777c1c0945","fromNode":"d36bce8faa576437","fromSide":"right","toNode":"c5271972a94018d0","toSide":"left"},
 		{"id":"b3cb5be827b2a0d7","fromNode":"d36bce8faa576437","fromSide":"right","toNode":"0bdc85c04b950b83","toSide":"left"},
@@ -56,6 +56,12 @@
 		{"id":"1aa0398bcddf0420","fromNode":"5eb3f3fdd87da0f7","fromSide":"bottom","toNode":"01bfdaf9bfaddc05","toSide":"top","color":"6"},
 		{"id":"f17eb42a3c24bd5c","fromNode":"01bfdaf9bfaddc05","fromSide":"bottom","toNode":"45579c852ee3cdcd","toSide":"top","color":"4"},
 		{"id":"ed719134bdb947d6","fromNode":"45579c852ee3cdcd","fromSide":"top","toNode":"095104d4f5d36d71","toSide":"bottom","color":"6"},
-		{"id":"a03fa9ec0570d98c","fromNode":"095104d4f5d36d71","fromSide":"top","toNode":"5eb3f3fdd87da0f7","toSide":"left","color":"4"}
+		{"id":"a03fa9ec0570d98c","fromNode":"095104d4f5d36d71","fromSide":"top","toNode":"5eb3f3fdd87da0f7","toSide":"left","color":"4"},
+		{"id":"a5e18145447c3b1d","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"9537339d7fa795f5","toSide":"left","color":"6"},
+		{"id":"eba8fa889c0a89d2","fromNode":"9537339d7fa795f5","fromSide":"right","toNode":"962d4ff89fb1c5db","toSide":"left","color":"4"},
+		{"id":"1b2bf49e09aa85f9","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"2071651836edc6de","toSide":"left","color":"6"},
+		{"id":"408295a97050a745","fromNode":"2071651836edc6de","fromSide":"right","toNode":"1098b8ba4b8eedd7","toSide":"left","color":"4"},
+		{"id":"dc95758366bd7580","fromNode":"962d4ff89fb1c5db","fromSide":"bottom","toNode":"314ecf8cb5bb9151","toSide":"right","color":"6"},
+		{"id":"24aa67334a577932","fromNode":"314ecf8cb5bb9151","fromSide":"left","toNode":"0442fde18c4d7dac","toSide":"right","color":"4"}
 	]
 }
