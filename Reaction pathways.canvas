@@ -13,7 +13,6 @@
 		{"id":"614134348abd5bc9","type":"text","text":"[[Alkane]]","x":138,"y":-515,"width":118,"height":50},
 		{"id":"78fcc7bd405c8b98","type":"text","text":"[[Halogenation]]","x":123,"y":-420,"width":148,"height":60,"color":"6"},
 		{"id":"5eb3f3fdd87da0f7","type":"text","text":"[[Haloalkane]]","x":135,"y":-310,"width":125,"height":50},
-		{"id":"01bfdaf9bfaddc05","type":"text","text":"[[Reflux]]","x":201,"y":-213,"width":93,"height":53,"color":"6"},
 		{"id":"095104d4f5d36d71","type":"text","text":"[[Halogenation]]","x":6,"y":-212,"width":143,"height":51,"color":"6"},
 		{"id":"ac438ce5d8195a6d","type":"text","text":"[[Oxidation]]","x":58,"y":60,"width":120,"height":50,"color":"6"},
 		{"id":"9537339d7fa795f5","type":"text","text":"[[Reflux]]","x":580,"y":-310,"width":100,"height":50,"color":"1"},
@@ -25,11 +24,8 @@
 		{"id":"cf9836416d8804b4","type":"text","text":"[[Aldehyde]]","x":61,"y":170,"width":115,"height":60},
 		{"id":"22d48249534c3b7a","type":"text","text":"[[Alkene]]","x":-223,"y":-340,"width":114,"height":60},
 		{"id":"f74716538a2a0654","type":"text","text":"[[Hydrolysis reaction]] and [[Reduction]]","x":752,"y":10,"width":218,"height":64,"color":"1"},
-		{"id":"d36bce8faa576437","type":"text","text":"[[Acyl chloride]]","x":175,"y":540,"width":145,"height":50},
 		{"id":"c8f6e0fce73931d4","type":"text","text":"[[Hydrolysis reaction]]","x":61,"y":430,"width":203,"height":50,"color":"1"},
 		{"id":"ea13ea1949e29f0c","type":"text","text":"[[Thionyl chloride reaction]]","x":304,"y":430,"width":221,"height":50,"color":"1"},
-		{"id":"0bdc85c04b950b83","type":"text","text":"[[Secondary amide]]","x":655,"y":660,"width":155,"height":50},
-		{"id":"c5271972a94018d0","type":"text","text":"[[Primary amide]]","x":655,"y":510,"width":155,"height":60},
 		{"id":"68d411ba4c930f32","type":"text","text":"[[Carboxylate]]","x":-400,"y":520,"width":140,"height":50},
 		{"id":"c98b20e055f5e3bc","type":"text","text":"[[Saponification]]","x":-411,"y":404,"width":163,"height":51,"color":"1"},
 		{"id":"72912063c04c24e3","type":"text","text":"[[Ester]]","x":-380,"y":310,"width":100,"height":50},
@@ -38,10 +34,14 @@
 		{"id":"db988db2c977b7c7","type":"text","text":"[[Esterification]]","x":-128,"y":540,"width":151,"height":50,"color":"1"},
 		{"id":"314ecf8cb5bb9151","type":"text","text":"[[Hydrolysis reaction]]","x":920,"y":310,"width":190,"height":52,"color":"1"},
 		{"id":"962d4ff89fb1c5db","type":"text","text":"[[Nitrile]]","x":965,"y":-313,"width":100,"height":57},
-		{"id":"2c0d1bab34731d47","x":431,"y":537,"width":199,"height":53,"color":"1","type":"text","text":"[[Curtius rearrangement]]"}
+		{"id":"2c0d1bab34731d47","x":415,"y":640,"width":199,"height":53,"color":"1","type":"text","text":"[[Curtius rearrangement]]"},
+		{"id":"c5271972a94018d0","type":"text","text":"[[Primary amide]]","x":437,"y":810,"width":155,"height":60},
+		{"id":"d36bce8faa576437","type":"text","text":"[[Acyl chloride]]","x":221,"y":540,"width":145,"height":50},
+		{"id":"a7251302b78cd299","x":-65,"y":640,"width":240,"height":55,"type":"text","text":"[[Schotten-Baumann reaction]]"},
+		{"id":"0bdc85c04b950b83","type":"text","text":"[[Secondary amide]]","x":-22,"y":810,"width":155,"height":50},
+		{"id":"01bfdaf9bfaddc05","type":"text","text":"[[Reflux]]","x":151,"y":-212,"width":93,"height":51,"color":"6"}
 	],
 	"edges":[
-		{"id":"b3cb5be827b2a0d7","fromNode":"d36bce8faa576437","fromSide":"right","toNode":"0bdc85c04b950b83","toSide":"left"},
 		{"id":"e78993042bdd0fb2","fromNode":"22d48249534c3b7a","fromSide":"top","toNode":"11728a42d42b4032","toSide":"bottom","color":"6"},
 		{"id":"19928ea784df97c3","fromNode":"11728a42d42b4032","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left","color":"4"},
 		{"id":"6406309972052b93","fromNode":"614134348abd5bc9","fromSide":"bottom","toNode":"78fcc7bd405c8b98","toSide":"top","color":"6"},
@@ -83,6 +83,10 @@
 		{"id":"cd6c7b2a73fc72d5","fromNode":"9f958950ba30ebc0","fromSide":"left","toNode":"72912063c04c24e3","toSide":"right","color":"4"},
 		{"id":"fc17b59a0747ed44","fromNode":"d36bce8faa576437","fromSide":"left","toNode":"db988db2c977b7c7","toSide":"right","color":"6"},
 		{"id":"da3d0f0b38910285","fromNode":"db988db2c977b7c7","fromSide":"left","toNode":"72912063c04c24e3","toSide":"right","color":"4"},
-		{"id":"6be0d7b098715760","fromNode":"962d4ff89fb1c5db","fromSide":"bottom","toNode":"314ecf8cb5bb9151","toSide":"top","color":"6"}
+		{"id":"6be0d7b098715760","fromNode":"962d4ff89fb1c5db","fromSide":"bottom","toNode":"314ecf8cb5bb9151","toSide":"top","color":"6"},
+		{"id":"a2030f96b726c637","fromNode":"d36bce8faa576437","fromSide":"bottom","toNode":"2c0d1bab34731d47","toSide":"left","color":"6"},
+		{"id":"5a9a333e89b93189","fromNode":"2c0d1bab34731d47","fromSide":"bottom","toNode":"c5271972a94018d0","toSide":"top","color":"4"},
+		{"id":"57eb31cbb86e0878","fromNode":"d36bce8faa576437","fromSide":"bottom","toNode":"a7251302b78cd299","toSide":"right","color":"6"},
+		{"id":"76daba1d1c9dc7de","fromNode":"a7251302b78cd299","fromSide":"bottom","toNode":"0bdc85c04b950b83","toSide":"top","color":"4"}
 	]
 }
