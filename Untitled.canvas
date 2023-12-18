@@ -1,15 +1,8 @@
 {
 	"nodes":[
 		{"id":"22d48249534c3b7a","type":"text","text":"[[Alkene]]","x":-280,"y":-260,"width":250,"height":60},
-		{"id":"5eb3f3fdd87da0f7","type":"text","text":"[[Haloalkane]]","x":72,"y":-260,"width":250,"height":60},
-		{"id":"45579c852ee3cdcd","type":"text","text":"[[Alcohol]]","x":72,"y":-140,"width":250,"height":60},
-		{"id":"54c2e1522a779acb","type":"text","text":"[[Primary alcohol]]","x":-53,"y":-80,"width":250,"height":60},
-		{"id":"be8fc8af84372aea","type":"text","text":"[[Secondary alcohol]]","x":197,"y":-80,"width":250,"height":60},
 		{"id":"cf9836416d8804b4","type":"text","text":"[[Aldehyde]]","x":72,"y":60,"width":250,"height":60},
 		{"id":"8c6aeb3cf99e8066","type":"text","text":"[[Hydroxynitrile]]","x":395,"y":60,"width":250,"height":60},
-		{"id":"962d4ff89fb1c5db","type":"text","text":"[[Nitrile]]","x":625,"y":-337,"width":250,"height":60},
-		{"id":"1098b8ba4b8eedd7","type":"text","text":"[[Amine]]","x":500,"y":-200,"width":250,"height":60},
-		{"id":"f918b7dd89b25f26","type":"text","text":"[[Ketone]]","x":520,"y":-80,"width":250,"height":60},
 		{"id":"0442fde18c4d7dac","type":"text","text":"[[Carboxylic acid]]","x":315,"y":260,"width":250,"height":60},
 		{"id":"d36bce8faa576437","type":"text","text":"[[Acyl chloride]]","x":315,"y":400,"width":250,"height":60},
 		{"id":"c5271972a94018d0","type":"text","text":"[[Primary amide]]","x":625,"y":340,"width":250,"height":60},
@@ -17,14 +10,21 @@
 		{"id":"72912063c04c24e3","type":"text","text":"[[Ester]]","x":-380,"y":200,"width":250,"height":60},
 		{"id":"68d411ba4c930f32","type":"text","text":"[[Carboxylate]]","x":-380,"y":400,"width":250,"height":50},
 		{"id":"11728a42d42b4032","type":"text","text":"[[Hydrogenation]]","x":-280,"y":-434,"width":250,"height":60,"color":"6"},
-		{"id":"614134348abd5bc9","type":"text","text":"[[Alkane]]","x":72,"y":-429,"width":250,"height":50}
+		{"id":"614134348abd5bc9","type":"text","text":"[[Alkane]]","x":72,"y":-429,"width":250,"height":50},
+		{"id":"78fcc7bd405c8b98","x":72,"y":-337,"width":250,"height":60,"color":"6","type":"text","text":"[[Halogenation]]"},
+		{"id":"5eb3f3fdd87da0f7","type":"text","text":"[[Haloalkane]]","x":72,"y":-230,"width":250,"height":60},
+		{"id":"54c2e1522a779acb","type":"text","text":"[[Primary alcohol]]","x":-53,"y":-50,"width":250,"height":60},
+		{"id":"be8fc8af84372aea","type":"text","text":"[[Secondary alcohol]]","x":197,"y":-50,"width":250,"height":60},
+		{"id":"45579c852ee3cdcd","type":"text","text":"[[Alcohol]]","x":72,"y":-110,"width":250,"height":60},
+		{"id":"d36948dc90d5197d","x":-280,"y":-140,"width":250,"height":60,"color":"6","type":"text","text":"[[Dehydration]] in presence of [[Acid]] and heat"},
+		{"id":"1098b8ba4b8eedd7","type":"text","text":"[[Amine]]","x":875,"y":-190,"width":250,"height":50},
+		{"id":"962d4ff89fb1c5db","type":"text","text":"[[Nitrile]]","x":1080,"y":-337,"width":250,"height":60},
+		{"id":"3e10baae9726f18e","x":480,"y":-50,"width":250,"height":60,"color":"6","type":"text","text":"[[Oxidation]]"},
+		{"id":"f918b7dd89b25f26","type":"text","text":"[[Ketone]]","x":760,"y":-50,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"18894e00f2912eb0","fromNode":"614134348abd5bc9","fromSide":"bottom","toNode":"5eb3f3fdd87da0f7","toSide":"top"},
 		{"id":"12c90825fa954329","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"962d4ff89fb1c5db","toSide":"left"},
 		{"id":"c06f9250a020e98f","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"1098b8ba4b8eedd7","toSide":"left"},
-		{"id":"fb1a14b46dee34b9","fromNode":"be8fc8af84372aea","fromSide":"right","toNode":"f918b7dd89b25f26","toSide":"left"},
-		{"id":"8093259b7949686d","fromNode":"f918b7dd89b25f26","fromSide":"left","toNode":"be8fc8af84372aea","toSide":"right"},
 		{"id":"1289604cf54ec23a","fromNode":"54c2e1522a779acb","fromSide":"bottom","toNode":"cf9836416d8804b4","toSide":"top","fromEnd":"arrow"},
 		{"id":"202f3fa497495179","fromNode":"cf9836416d8804b4","fromSide":"right","toNode":"8c6aeb3cf99e8066","toSide":"left"},
 		{"id":"146263ffccc6647c","fromNode":"f918b7dd89b25f26","fromSide":"bottom","toNode":"8c6aeb3cf99e8066","toSide":"top"},
@@ -35,12 +35,16 @@
 		{"id":"4a36d1384fa3c63e","fromNode":"d36bce8faa576437","fromSide":"top","toNode":"0442fde18c4d7dac","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"4ef14a777c1c0945","fromNode":"d36bce8faa576437","fromSide":"right","toNode":"c5271972a94018d0","toSide":"left"},
 		{"id":"b3cb5be827b2a0d7","fromNode":"d36bce8faa576437","fromSide":"right","toNode":"0bdc85c04b950b83","toSide":"left"},
-		{"id":"7083a6ab4b94ef1a","fromNode":"45579c852ee3cdcd","fromSide":"left","toNode":"22d48249534c3b7a","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"fd50d35b9be96075","fromNode":"45579c852ee3cdcd","fromSide":"left","toNode":"72912063c04c24e3","toSide":"top"},
 		{"id":"7f5f70bcfe260ab4","fromNode":"0442fde18c4d7dac","fromSide":"left","toNode":"72912063c04c24e3","toSide":"right","fromEnd":"arrow"},
 		{"id":"324b922ec1394a4c","fromNode":"72912063c04c24e3","fromSide":"bottom","toNode":"68d411ba4c930f32","toSide":"top"},
 		{"id":"fe71a7dfb98fa703","fromNode":"d36bce8faa576437","fromSide":"left","toNode":"72912063c04c24e3","toSide":"right"},
-		{"id":"e78993042bdd0fb2","fromNode":"22d48249534c3b7a","fromSide":"top","toNode":"11728a42d42b4032","toSide":"bottom"},
-		{"id":"19928ea784df97c3","fromNode":"11728a42d42b4032","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left"}
+		{"id":"e78993042bdd0fb2","fromNode":"22d48249534c3b7a","fromSide":"top","toNode":"11728a42d42b4032","toSide":"bottom","color":"6"},
+		{"id":"19928ea784df97c3","fromNode":"11728a42d42b4032","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left","color":"4"},
+		{"id":"6406309972052b93","fromNode":"614134348abd5bc9","fromSide":"bottom","toNode":"78fcc7bd405c8b98","toSide":"top","color":"6"},
+		{"id":"dd693e173c9e606f","fromNode":"78fcc7bd405c8b98","fromSide":"bottom","toNode":"5eb3f3fdd87da0f7","toSide":"top","color":"4"},
+		{"id":"04341dc0fc06a8b2","fromNode":"45579c852ee3cdcd","fromSide":"left","toNode":"d36948dc90d5197d","toSide":"right","color":"6"},
+		{"id":"23a480107a04e2d2","fromNode":"d36948dc90d5197d","fromSide":"top","toNode":"22d48249534c3b7a","toSide":"bottom","color":"4"},
+		{"id":"d17ddd2fda596b64","fromNode":"be8fc8af84372aea","fromSide":"right","toNode":"3e10baae9726f18e","toSide":"left"}
 	]
 }
