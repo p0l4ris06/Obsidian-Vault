@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
                 "viewState": {
-                  "x": 262.2495599722963,
-                  "y": -151.37683388412398,
-                  "zoom": -0.3333333333333334
+                  "x": 310,
+                  "y": 35,
+                  "zoom": -0.36206378176909304
                 }
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Obsidian MD Tools/Templates/Reaction pathways template.canvas"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,10 +239,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e4e406bf36d21767",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
+    "Hydrogenation.md",
+    "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
+    "Reaction pathways.canvas",
     "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
-    "Untitled.canvas",
     "000-Chemistry/C Module 6/Chapter 25/Chapter 25.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.3.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.2.md",
@@ -266,8 +268,6 @@
     "Home.md",
     "Personal/Journal/Monthly reviews/2023-11.md",
     "Personal/Journal/Monthly reviews/2023-10.md",
-    "Personal/Journal/Monthly reviews/2023-09.md",
-    "Personal/Journal/Daily notes/2023-12/2023-W50.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
