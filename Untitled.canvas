@@ -1,9 +1,22 @@
 {
 	"nodes":[
-		{"id":"22d48249534c3b7a","x":-280,"y":-260,"width":250,"height":60,"type":"text","text":"[[Alkene]]"},
-		{"id":"614134348abd5bc9","x":72,"y":-404,"width":250,"height":60,"type":"text","text":"[[Alkane]]"}
+		{"id":"22d48249534c3b7a","type":"text","text":"[[Alkene]]","x":-280,"y":-260,"width":250,"height":60},
+		{"id":"614134348abd5bc9","type":"text","text":"[[Alkane]]","x":72,"y":-404,"width":250,"height":60},
+		{"id":"5eb3f3fdd87da0f7","type":"text","text":"[[Haloalkane]]","x":72,"y":-260,"width":250,"height":60},
+		{"id":"962d4ff89fb1c5db","type":"text","text":"[[Nitrile]]","x":440,"y":-337,"width":250,"height":60},
+		{"id":"1098b8ba4b8eedd7","type":"text","text":"[[Amine]]","x":440,"y":-200,"width":250,"height":60},
+		{"id":"45579c852ee3cdcd","type":"text","text":"[[Alcohol]]","x":72,"y":-140,"width":250,"height":60},
+		{"id":"54c2e1522a779acb","type":"text","text":"[[Primary alcohol]]","x":-53,"y":-80,"width":250,"height":60},
+		{"id":"be8fc8af84372aea","type":"text","text":"[[Secondary alcohol]]","x":197,"y":-80,"width":250,"height":60},
+		{"id":"f918b7dd89b25f26","x":520,"y":-80,"width":250,"height":60,"type":"text","text":"[[Ketone]]"},
+		{"id":"cf9836416d8804b4","x":72,"y":60,"width":250,"height":60,"type":"text","text":"[[Aldehyde]]"}
 	],
 	"edges":[
-		{"id":"ca13475315b84b4b","fromNode":"22d48249534c3b7a","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left"}
+		{"id":"ca13475315b84b4b","fromNode":"22d48249534c3b7a","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left"},
+		{"id":"18894e00f2912eb0","fromNode":"614134348abd5bc9","fromSide":"bottom","toNode":"5eb3f3fdd87da0f7","toSide":"top"},
+		{"id":"12c90825fa954329","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"962d4ff89fb1c5db","toSide":"left"},
+		{"id":"c06f9250a020e98f","fromNode":"5eb3f3fdd87da0f7","fromSide":"right","toNode":"1098b8ba4b8eedd7","toSide":"left"},
+		{"id":"fb1a14b46dee34b9","fromNode":"be8fc8af84372aea","fromSide":"right","toNode":"f918b7dd89b25f26","toSide":"left"},
+		{"id":"8093259b7949686d","fromNode":"f918b7dd89b25f26","fromSide":"left","toNode":"be8fc8af84372aea","toSide":"right"}
 	]
 }
