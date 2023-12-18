@@ -15,9 +15,9 @@
               "state": {
                 "file": "Reaction pathways.canvas",
                 "viewState": {
-                  "x": 266.25890401880963,
-                  "y": 52.30244115280192,
-                  "zoom": -0.6666666666666666
+                  "x": 447,
+                  "y": 543,
+                  "zoom": 0
                 }
               }
             }
@@ -241,9 +241,10 @@
   },
   "active": "e4e406bf36d21767",
   "lastOpenFiles": [
+    "Esterification.md",
+    "Reaction pathways.canvas",
     "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
     "Hydrogenation.md",
-    "Reaction pathways.canvas",
     "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
     "000-Chemistry/C Module 6/Chapter 25/Chapter 25.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.3.md",
@@ -267,7 +268,6 @@
     "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
     "Home.md",
     "Personal/Journal/Monthly reviews/2023-11.md",
-    "Personal/Journal/Monthly reviews/2023-10.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
