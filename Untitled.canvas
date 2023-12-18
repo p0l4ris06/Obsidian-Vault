@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"22d48249534c3b7a","x":-280,"y":-260,"width":250,"height":60,"type":"text","text":"[[Alkene]]"},
+		{"id":"614134348abd5bc9","x":72,"y":-404,"width":250,"height":60,"type":"text","text":"[[Alkane]]"}
+	],
+	"edges":[
+		{"id":"ca13475315b84b4b","fromNode":"22d48249534c3b7a","fromSide":"right","toNode":"614134348abd5bc9","toSide":"left"}
+	]
+}
