@@ -15,9 +15,9 @@
               "state": {
                 "file": "Reaction pathways.canvas",
                 "viewState": {
-                  "x": 343.1698889004994,
-                  "y": 238.4120863347644,
-                  "zoom": -0.6865889881424949
+                  "x": 349.5,
+                  "y": 175,
+                  "zoom": -0.6865889881424948
                 }
               }
             }
@@ -241,8 +241,11 @@
   },
   "active": "e4e406bf36d21767",
   "lastOpenFiles": [
-    "Esterification.md",
+    "Glossaries/C Glossary/Functional Groups/Ketone.md",
     "Reaction pathways.canvas",
+    "Glossaries/C Glossary/Oxidation.md",
+    "Glossaries/C Glossary/Functional Groups/Aldehyde.md",
+    "Esterification.md",
     "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
     "Hydrogenation.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
@@ -266,8 +269,6 @@
     "000-Chemistry/C Modules/C Module 2.md",
     "000-Chemistry/C Module 2/Chapter 2/Chapter 2.md",
     "000-Chemistry/C Module 2/Chapter 2/C2.1.md",
-    "Home.md",
-    "Personal/Journal/Monthly reviews/2023-11.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
