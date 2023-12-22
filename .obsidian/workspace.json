@@ -11,8 +11,13 @@
             "id": "61a8ce95146a4168",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000-Biology/B Module 5/5.1/5.1.4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000-Biology/B Module 5/5.1/5.1.4.md"
+              }
             }
           },
           {
@@ -138,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c1bd03f399390851",
@@ -151,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000-Biology/B Module 5/5.1/5.1.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000-Biology/B Module 5/5.1/5.1.4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000-Biology/B Module 5/5.1/5.1.4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,6 +239,9 @@
   },
   "active": "61a8ce95146a4168",
   "lastOpenFiles": [
+    "000-Biology/B Module 5/5.1/5.1.3.md",
+    "000-Biology/B Module 5/5.1/5.1.2.md",
+    "000-Biology/B Module 5/5.1/5.1.1.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-20.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-19.md",
@@ -254,9 +267,6 @@
     "000-Chemistry/C Module 6/Chapter 26/C26.1.md",
     "000-Chemistry/C Module 6/Chapter 29/Chapter 29.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.6.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.5.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
