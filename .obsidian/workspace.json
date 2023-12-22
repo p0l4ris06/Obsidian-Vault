@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "2023-12-20.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-12-20.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2023-12-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,6 +239,9 @@
   },
   "active": "61a8ce95146a4168",
   "lastOpenFiles": [
+    "Personal/Journal/Daily notes/2023-12/2023-12-19.md",
+    "2023-12-20.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-18.md",
     "Home.md",
     "Reaction pathways.canvas",
     "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
@@ -264,9 +267,6 @@
     "000-Chemistry/C Module 6/Chapter 29/C29.4.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.3.md",
     "000-Chemistry/C Module 6/Chapter 29/C29.2.md",
-    "000-Chemistry/C Module 6/Chapter 29/C29.1.md",
-    "000-Chemistry/C Modules/C Module 2.md",
-    "000-Chemistry/C Module 2/Chapter 2/Chapter 2.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
