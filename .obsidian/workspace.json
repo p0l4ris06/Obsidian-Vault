@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bed2af3eb9c0c7",
+        "id": "e903965e876311b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a3c6edf8eb8819a",
+            "id": "f5722ed4f6fbb5ba",
             "type": "leaf",
             "state": {
-              "type": "3d-graph-view-global",
+              "type": "graph",
               "state": {}
             }
           }
@@ -228,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a3c6edf8eb8819a",
+  "active": "f5722ed4f6fbb5ba",
   "lastOpenFiles": [
     "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-23.md",

@@ -39,10 +39,10 @@
       }
     ],
     "display": {
-      "nodeSize": 3,
+      "nodeSize": 2.6,
       "linkThickness": 2,
-      "linkDistance": 100,
-      "nodeRepulsion": 2800,
+      "linkDistance": 175,
+      "nodeRepulsion": 2900,
       "distanceFromFocal": 300,
       "nodeHoverColor": "#ff0000",
       "nodeHoverNeighbourColor": "#00ff00",
