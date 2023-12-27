@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSEPR.md",
+                "file": "Glossaries/C Glossary/Bond angles/VSEPR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSEPR.md"
+                "file": "Glossaries/C Glossary/Bond angles/VSEPR.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSEPR.md",
+                "file": "Glossaries/C Glossary/Bond angles/VSEPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSEPR.md",
+                "file": "Glossaries/C Glossary/Bond angles/VSEPR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "VSEPR.md",
+                "file": "Glossaries/C Glossary/Bond angles/VSEPR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,8 +254,10 @@
   },
   "active": "88b680f3b47e4374",
   "lastOpenFiles": [
+    "Glossaries/C Glossary/Bond angles/Non-linear.md",
+    "Glossaries/C Glossary/Bond angles/Linear.md",
+    "Glossaries/C Glossary/Bond angles/VSEPR.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
-    "VSEPR.md",
     "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-22.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
@@ -280,8 +282,6 @@
     "000-Chemistry/C Module 6/Chapter 25/C25.1.md",
     "000-Assessment points/MOCKS/000-C MOCK.md",
     "000-Chemistry/C Module 6/Chapter 26/Chapter 26.md",
-    "000-Chemistry/C Module 6/Chapter 26/C26.4.md",
-    "000-Chemistry/C Module 6/Chapter 26/C26.3.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
