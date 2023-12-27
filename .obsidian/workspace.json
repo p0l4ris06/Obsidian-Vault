@@ -11,11 +11,30 @@
             "id": "f5722ed4f6fbb5ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88b680f3b47e4374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSEPR.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VSEPR.md"
+              }
             }
           },
           {
@@ -151,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VSEPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VSEPR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "VSEPR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5722ed4f6fbb5ba",
+  "active": "88b680f3b47e4374",
   "lastOpenFiles": [
-    "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
+    "VSEPR.md",
+    "Home.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-22.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
     "000-Biology/B Module 5/5.1/5.1.4.md",
@@ -257,7 +282,6 @@
     "000-Chemistry/C Module 6/Chapter 26/Chapter 26.md",
     "000-Chemistry/C Module 6/Chapter 26/C26.4.md",
     "000-Chemistry/C Module 6/Chapter 26/C26.3.md",
-    "000-Chemistry/C Module 6/Chapter 26/C26.2.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
