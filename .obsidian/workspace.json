@@ -11,8 +11,13 @@
             "id": "88b680f3b47e4374",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2023/12",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "67887eab14a7c983",
@@ -97,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-24.md"
+              }
             }
           },
           {
@@ -153,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2023-12-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,6 +243,7 @@
   },
   "active": "88b680f3b47e4374",
   "lastOpenFiles": [
+    "2023-12-24.md",
     "Photos/Maths photos/Pasted image 20231208155503.png",
     "Home.md",
     "Glossaries/C Glossary/Bond angles/VSEPR.md",
@@ -272,7 +284,6 @@
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
     "Photos/Biology Photos/RuBP-2D-skeletal.png",
-    "Photos/Biology Photos/SpinachRuBisCO.png",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
