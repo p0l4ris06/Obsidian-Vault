@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "5e26d4f1b7d22785",
+    "id": "2505623cb394854f",
     "type": "split",
     "children": [
       {
-        "id": "827d01a50e1b95fc",
+        "id": "e903965e876311b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3d6dea60bcae4f",
+            "id": "88b680f3b47e4374",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -26,16 +21,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2eac4c31679b1e2",
+    "id": "70cfbd36dd091961",
     "type": "split",
     "children": [
       {
-        "id": "e0f2c31b2a67c9d8",
+        "id": "960055f0d2f02398",
         "type": "tabs",
-        "dimension": 57.96568627450981,
+        "dimension": 63.07692307692307,
         "children": [
           {
-            "id": "ca2ff63864c12202",
+            "id": "6f225af9aa969c21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,13 +40,13 @@
             }
           },
           {
-            "id": "8fb2596e63fefe06",
+            "id": "47bec3d54f6beffe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-11-13",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -60,7 +55,7 @@
             }
           },
           {
-            "id": "22326d4a50a231ef",
+            "id": "9a1d88d47ceab7c8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,12 +65,51 @@
         ]
       },
       {
-        "id": "36cac0c816d5221f",
+        "id": "67887eab14a7c983",
         "type": "tabs",
-        "dimension": 42.03431372549019,
+        "dimension": 36.92307692307693,
         "children": [
           {
-            "id": "3e8d4038cb83a017",
+            "id": "7bffe46973d8564f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "796782712381c878",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e5d083047ececb",
+        "type": "tabs",
+        "dimension": 42.78846153846153,
+        "children": [
+          {
+            "id": "1cbfc07ecf2f4cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "82bc1092c92b5407",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "816bc890b20f2733",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -84,23 +118,9 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 262
-  },
-  "right": {
-    "id": "0e955b34c525b228",
-    "type": "split",
-    "children": [
-      {
-        "id": "97dbc88511c59d99",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6a111dc71a1af8cf",
+            "id": "d878f75c43156865",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -108,93 +128,67 @@
             }
           },
           {
-            "id": "57957693b2a07da3",
+            "id": "5f097569b3bb56c7",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "all-properties",
               "state": {
-                "file": "Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c1bd03f399390851",
+        "type": "tabs",
+        "dimension": 57.21153846153846,
+        "children": [
           {
-            "id": "bd1178aac7d32ff1",
+            "id": "2f46434b7e334be5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3e3e621657074195",
+            "id": "4eed1e02558037a4",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency"
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "340677c5fe456155",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
-            }
-          },
-          {
-            "id": "d73f26a59c730e8e",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f383b9aae10371d",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "f81c78f810d8a2fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98c736e3c17ca487",
+            "id": "33c132fab32f09fc",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -208,80 +202,84 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6736849187689737,
+                  "scale": 0.09285653328936172,
                   "close": true
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-day-planner:Timeline": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2e3d6dea60bcae4f",
+  "active": "88b680f3b47e4374",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Photos/Maths photos/Pasted image 20231208155503.png",
     "Home.md",
-    "Veterinary neuromuscular system.md",
-    "Reaction pathways.canvas",
-    "Personal/Other/SSRIs/Sertraline.md",
-    "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
-    "Personal/Other/SSRIs/Fluoxetine.md",
-    "Personal/Other/SSRIs/Escitalopram.md",
-    "Personal/Other/SSRIs/Citalopram.md",
-    "Personal/Other/SSRIs",
-    "Personal/Journal/Weekly reviews/2023-W49.md",
-    "Personal/Journal/Monthly reviews/2023-11.md",
-    "Personal/Journal/Daily notes/2023-12/2023-W50.md",
+    "Glossaries/C Glossary/Bond angles/VSEPR.md",
+    "Glossaries/C Glossary/Bond angles/Non-linear.md",
+    "Glossaries/C Glossary/Bond angles/Linear.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-22.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
+    "000-Biology/B Module 5/5.1/5.1.4.md",
+    "000-Biology/B Module 5/5.1/5.1.3.md",
+    "000-Biology/B Module 5/5.1/5.1.2.md",
+    "000-Biology/B Module 5/5.1/5.1.1.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-20.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-19.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-18.md",
-    "Lessons/Maths lessons/00-LE/2023-12-12-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-12-07-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-12-13-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-12-11-ST.md",
-    "Lessons/Chem lessons/00-APH/2023-12-14-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-12-08-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-12-07-APH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-12-15-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-12-12-SCW.md",
+    "Reaction pathways.canvas",
+    "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
+    "Glossaries/C Glossary/Functional Groups/Ketone.md",
+    "Glossaries/C Glossary/Oxidation.md",
+    "Glossaries/C Glossary/Functional Groups/Aldehyde.md",
+    "Esterification.md",
+    "Hydrogenation.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
+    "000-Chemistry/C Module 6/Chapter 25/Chapter 25.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.3.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.2.md",
+    "000-Chemistry/C Module 6/Chapter 25/C25.1.md",
+    "000-Assessment points/MOCKS/000-C MOCK.md",
+    "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
-    "Photos/Maths photos/Pasted image 20231208155503.png",
     "Photos/Maths photos/Pasted image 20231208153522.png",
-    "Photos/Maths photos/Pasted image 20231208153348.png",
     "Photos/Maths photos/Pasted image 20231208153508.png",
     "Photos/Maths photos/Pasted image 20231208153458.png",
     "Photos/Maths photos/Pasted image 20231208153431.png",
     "Photos/Maths photos/Pasted image 20231208153357.png",
+    "Photos/Maths photos/Pasted image 20231208153348.png",
     "Personal/Journal/Daily notes/2023-12",
-    "Photos/Maths photos/Pasted image 20231117155022.png",
-    "Photos/Maths photos/Pasted image 20231117155015.png",
-    "Photos/Maths photos/Pasted image 20231117155003.png",
-    "010-MOC",
-    "000-Maths/Stats Y2/M-S2 Chapters",
+    "Photos/Biology Photos/Untitled.jpg",
+    "Photos/Pasted image 20231024225856.png",
+    "Photos/Biology Photos/RuBP-2D-skeletal.png",
+    "Photos/Biology Photos/SpinachRuBisCO.png",
     "000-Maths/Stats Y2/M-S2 Chapter 3",
-    "000-Maths/Stats Y2/M-S2 Chapter 1",
     "000-Maths/Stats Y2/M-S2 Chapter 2",
+    "000-Maths/Stats Y2/M-S2 Chapter 1",
+    "000-Maths/Mechanics Y2/M-M2 Chapters",
+    "000-Maths/Stats Y2/M-S2 Chapters",
+    "000-Maths/Mechanics Y2",
     "000-Maths/Stats Y2",
-    "Nitrogen-cycle-advanced-1.avif"
+    "Glossaries/B Glossary/Domains and kingdoms.canvas"
   ]
 }
