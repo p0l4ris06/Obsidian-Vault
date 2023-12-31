@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+                "file": "2023-12-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md"
+                "file": "2023-12-30.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+                "file": "2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+                "file": "2023-12-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+                "file": "2023-12-30.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +240,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f225af9aa969c21",
+  "active": "88b680f3b47e4374",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-12/2023-12-25.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-29.md",
+    "2023-12-30.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-28.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-27.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-25.md",
     "NaN.md",
     "Personal/Journal/Daily notes/2023-12/2023-12-24.md",
     "Personal/Journal/Weekly reviews/2023-W51.md",
@@ -267,10 +271,6 @@
     "Glossaries/C Glossary/Functional Groups/Ketone.md",
     "Glossaries/C Glossary/Oxidation.md",
     "Glossaries/C Glossary/Functional Groups/Aldehyde.md",
-    "Esterification.md",
-    "Hydrogenation.md",
-    "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
-    "000-Chemistry/C Module 6/Chapter 25/Chapter 25.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
