@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-30.md",
+                "file": "Personal/Journal/Monthly reviews/2023-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "991e7f0e678fc8f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-12-30.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +194,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-30.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,37 +244,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88b680f3b47e4374",
+  "active": "991e7f0e678fc8f9",
   "lastOpenFiles": [
-    "Personal/Journal/Daily notes/2023-12/2023-12-29.md",
-    "2023-12-30.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-28.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-27.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-25.md",
+    "Personal/Journal/Monthly reviews/2023-12.md",
+    "Personal/Journal/Daily notes/2024/2024-01",
+    "Personal/Journal/Daily notes/2024",
+    "Personal/Journal/Daily notes/2023",
+    "Personal/Journal/Monthly reviews/2023-11.md",
+    "Personal/Journal/909 Journal MOC.md",
+    "Personal/Journal/Weekly reviews/2023-W52.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-31.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-30.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-29.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-28.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-27.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-26.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-25.md",
     "NaN.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-24.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-24.md",
     "Personal/Journal/Weekly reviews/2023-W51.md",
     "Photos/Maths photos/Pasted image 20231208155503.png",
     "Home.md",
     "Glossaries/C Glossary/Bond angles/VSEPR.md",
     "Glossaries/C Glossary/Bond angles/Non-linear.md",
     "Glossaries/C Glossary/Bond angles/Linear.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-22.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-23.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-22.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-21.md",
     "000-Biology/B Module 5/5.1/5.1.4.md",
     "000-Biology/B Module 5/5.1/5.1.3.md",
     "000-Biology/B Module 5/5.1/5.1.2.md",
     "000-Biology/B Module 5/5.1/5.1.1.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-20.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-19.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-18.md",
     "Reaction pathways.canvas",
     "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
-    "Glossaries/C Glossary/Functional Groups/Ketone.md",
-    "Glossaries/C Glossary/Oxidation.md",
-    "Glossaries/C Glossary/Functional Groups/Aldehyde.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
@@ -279,7 +285,7 @@
     "Photos/Maths photos/Pasted image 20231208153431.png",
     "Photos/Maths photos/Pasted image 20231208153357.png",
     "Photos/Maths photos/Pasted image 20231208153348.png",
-    "Personal/Journal/Daily notes/2023-12",
+    "Personal/Journal/Daily notes/2023/2023-12",
     "Photos/Biology Photos/Untitled.jpg",
     "Photos/Pasted image 20231024225856.png",
     "Photos/Biology Photos/RuBP-2D-skeletal.png",
@@ -287,9 +293,6 @@
     "000-Maths/Stats Y2/M-S2 Chapter 2",
     "000-Maths/Stats Y2/M-S2 Chapter 1",
     "000-Maths/Mechanics Y2/M-M2 Chapters",
-    "000-Maths/Stats Y2/M-S2 Chapters",
-    "000-Maths/Mechanics Y2",
-    "000-Maths/Stats Y2",
     "Glossaries/B Glossary/Domains and kingdoms.canvas"
   ]
 }
