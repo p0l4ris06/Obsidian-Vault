@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-24.md",
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2023/12",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "67887eab14a7c983",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-24.md"
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-24.md",
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-24.md",
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2023-12-24.md",
+                "file": "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,9 +240,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88b680f3b47e4374",
+  "active": "6f225af9aa969c21",
   "lastOpenFiles": [
-    "2023-12-24.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-25.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-26.md",
+    "NaN.md",
+    "Personal/Journal/Daily notes/2023-12/2023-12-24.md",
+    "Personal/Journal/Weekly reviews/2023-W51.md",
     "Photos/Maths photos/Pasted image 20231208155503.png",
     "Home.md",
     "Glossaries/C Glossary/Bond angles/VSEPR.md",
@@ -268,10 +271,6 @@
     "Hydrogenation.md",
     "000-Chemistry/C Module 6/Chapter 25/C25.4.md",
     "000-Chemistry/C Module 6/Chapter 25/Chapter 25.md",
-    "000-Chemistry/C Module 6/Chapter 25/C25.3.md",
-    "000-Chemistry/C Module 6/Chapter 25/C25.2.md",
-    "000-Chemistry/C Module 6/Chapter 25/C25.1.md",
-    "000-Assessment points/MOCKS/000-C MOCK.md",
     "Personal/Other/SSRIs",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208153522.png",
