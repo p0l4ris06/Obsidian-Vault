@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
+                "file": "pKa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.3.md"
+                "file": "pKa.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
+                "file": "pKa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
+                "file": "pKa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
+                "file": "pKa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,8 +256,9 @@
   },
   "active": "26e14eef6bdb4d5f",
   "lastOpenFiles": [
-    "Ka.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
+    "pKa.md",
+    "Ka.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.2.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.5.md",
@@ -287,7 +288,6 @@
     "Personal/Journal/Monthly reviews/2023-11.md",
     "Personal/Journal/909 Journal MOC.md",
     "Personal/Journal/Weekly reviews/2023-W52.md",
-    "Personal/Journal/Daily notes/2023/2023-12/2023-12-31.md",
     "Photos/Maths photos/Pasted image 20231208155503.png",
     "Reaction pathways.canvas",
     "Obsidian MD Tools/Templates/Reaction pathways template.canvas",
