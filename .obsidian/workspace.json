@@ -24,13 +24,8 @@
             "id": "26e14eef6bdb4d5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pKa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pKa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pKa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pKa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +194,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pKa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,10 +246,10 @@
   },
   "active": "26e14eef6bdb4d5f",
   "lastOpenFiles": [
-    "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
     "pKa.md",
-    "Ka.md",
+    "000-Chemistry/C Module 5/Chapter 20/C20.3.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.2.md",
+    "Ka.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.1.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.5.md",
     "000-Chemistry/C Module 5/Chapter 20/C20.4.md",
