@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "832ceaff8616db63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ]
       }
@@ -249,34 +239,42 @@
   },
   "active": "2e3d6dea60bcae4f",
   "lastOpenFiles": [
-    "Home.md",
     "conflict-files-obsidian-git.md",
-    "Veterinary neuromuscular system.md",
+    "Home.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-02.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-01.md",
+    "Personal/Journal/Daily notes/2024/2024-01",
+    "Personal/Journal/Daily notes/2024",
+    "pKa.md",
+    "Photos/Biology Photos/Nitrogen-cycle-advanced-1.avif",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-W50.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-31.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-30.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-29.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-28.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-27.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-25.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-26.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-24.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-23.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-22.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-21.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-20.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-19.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-18.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-17.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-16.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-15.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-14.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-13.md",
+    "Personal/Journal/Daily notes/2023/2023-12/2023-12-12.md",
+    "Personal/Journal/Daily notes/2023/2023-12",
+    "Personal/Journal/Daily notes/2023/2023-11",
+    "Personal/Journal/Daily notes/2023/2023-10",
+    "Personal/Journal/Daily notes/2023/2023-09",
+    "Personal/Journal/Daily notes/2023",
     "Reaction pathways.canvas",
-    "Personal/Other/SSRIs/Sertraline.md",
-    "Personal/Other/SSRIs/Selective serotonin reuptake inhibitors.md",
-    "Personal/Other/SSRIs/Fluoxetine.md",
-    "Personal/Other/SSRIs/Escitalopram.md",
-    "Personal/Other/SSRIs/Citalopram.md",
     "Personal/Other/SSRIs",
-    "Personal/Journal/Weekly reviews/2023-W49.md",
-    "Personal/Journal/Monthly reviews/2023-11.md",
-    "Personal/Journal/Daily notes/2023-12/2023-W50.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-23.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-22.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-21.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-20.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-19.md",
-    "Personal/Journal/Daily notes/2023-12/2023-12-18.md",
-    "Lessons/Maths lessons/00-LE/2023-12-12-LE.md",
-    "Lessons/Maths lessons/00-LE/2023-12-07-LE.md",
-    "Lessons/Chem lessons/00-ST/2023-12-13-ST.md",
-    "Lessons/Chem lessons/00-ST/2023-12-11-ST.md",
-    "Lessons/Chem lessons/00-APH/2023-12-14-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-12-08-APH.md",
-    "Lessons/Chem lessons/00-APH/2023-12-07-APH.md",
-    "Lessons/Bio Lessons/00-SCW/2023-12-15-SCW.md",
-    "Lessons/Bio Lessons/00-SCW/2023-12-12-SCW.md",
     "000-Assessment points/MOCKS",
     "Photos/Maths photos/Pasted image 20231208155503.png",
     "Photos/Maths photos/Pasted image 20231208153522.png",
@@ -287,14 +285,6 @@
     "Photos/Maths photos/Pasted image 20231208153357.png",
     "Personal/Journal/Daily notes/2023-12",
     "Photos/Maths photos/Pasted image 20231117155022.png",
-    "Photos/Maths photos/Pasted image 20231117155015.png",
-    "Photos/Maths photos/Pasted image 20231117155003.png",
-    "010-MOC",
-    "000-Maths/Stats Y2/M-S2 Chapters",
-    "000-Maths/Stats Y2/M-S2 Chapter 3",
-    "000-Maths/Stats Y2/M-S2 Chapter 1",
-    "000-Maths/Stats Y2/M-S2 Chapter 2",
-    "000-Maths/Stats Y2",
-    "Nitrogen-cycle-advanced-1.avif"
+    "Photos/Maths photos/Pasted image 20231117155015.png"
   ]
 }
