@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,10 +237,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e3d6dea60bcae4f",
+  "active": "ca2ff63864c12202",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-02.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-01.md",
     "Personal/Journal/Daily notes/2024/2024-01",
