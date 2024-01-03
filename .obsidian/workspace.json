@@ -14,13 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "832ceaff8616db63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -151,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +194,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph-new:Global 3D Graph": false,
       "homepage:Open homepage": false,
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
@@ -234,10 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e3d6dea60bcae4f",
+  "active": "832ceaff8616db63",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Home.md",
+    "conflict-files-obsidian-git.md",
     "Veterinary neuromuscular system.md",
     "Reaction pathways.canvas",
     "Personal/Other/SSRIs/Sertraline.md",
