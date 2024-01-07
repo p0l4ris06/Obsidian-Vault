@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Biology/B Module 5/5.2/5.2.2.md",
+                "file": "Hepatic vein.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Biology/B Module 5/5.2/5.2.2.md"
+                "file": "Hepatic vein.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Biology/B Module 5/5.2/5.2.2.md",
+                "file": "Hepatic vein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Biology/B Module 5/5.2/5.2.2.md",
+                "file": "Hepatic vein.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-Biology/B Module 5/5.2/5.2.2.md",
+                "file": "Hepatic vein.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,9 @@
   },
   "active": "c631d2040cf1f51f",
   "lastOpenFiles": [
-    "Hepatic portal vein.md",
     "000-Biology/B Module 5/5.2/5.2.2.md",
+    "Hepatic vein.md",
+    "Hepatic portal vein.md",
     "Hepatic artery.md",
     "000-Biology/B Module 5/5.2/5.2.1.md",
     "000-Biology/B Module 5/5.2/5.2.3.md",
@@ -267,7 +268,6 @@
     "Metabolic waste.md",
     "Excretion.md",
     "000-Biology/B Module 5/5.1/B5.1.md",
-    "Hypothalamus.md",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 2.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 1.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1.avif",
