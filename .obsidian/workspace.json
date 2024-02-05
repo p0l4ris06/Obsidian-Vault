@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "783ccf1e96c10b7c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +194,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-01-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +244,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ded9b79261fbcdaa",
+  "active": "783ccf1e96c10b7c",
   "lastOpenFiles": [
-    "2024-01-11.md",
     "2024-01-12.md",
+    "2024-W01.md",
+    "2024-01-03.md",
+    "2024-W02.md",
+    "2024-01-11.md",
     "2024-01-10.md",
     "2024-01-09.md",
     "2024-01-08.md",
@@ -251,7 +258,6 @@
     "2024-01-06.md",
     "2024-01-05.md",
     "2024-01-04.md",
-    "2024-01-03.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-02.md",
     "Home.md",
     "000-Biology/B Module 4/4.1/B4.1.md",
@@ -266,8 +272,6 @@
     "000-Biology/B Module 5/5.1/5.1.2.md",
     "000-Biology/B Module 5/5.1/5.1.1.md",
     "000-Biology/B Modules/B Module 2.md",
-    "000-Biology/B Module 2/2.1/B2.1.md",
-    "000-Biology/B Module 2/2.1/2.1.1.md",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 2.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 1.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1.avif",
