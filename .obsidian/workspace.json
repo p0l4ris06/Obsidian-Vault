@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-18.md",
+                "file": "2024-01-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-18.md"
+                "file": "2024-01-19.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-18.md",
+                "file": "2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-18.md",
+                "file": "2024-01-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-01-18.md",
+                "file": "2024-01-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,9 @@
   },
   "active": "783ccf1e96c10b7c",
   "lastOpenFiles": [
-    "2024-01-17.md",
     "2024-01-18.md",
+    "2024-01-19.md",
+    "2024-01-17.md",
     "2024-01-16.md",
     "2024-01-15.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-13.md",
@@ -267,7 +268,6 @@
     "000-Assessment points/MOCKS/000-B MOCK.md",
     "000-Biology/B Modules/B Module 3.md",
     "000-Biology/B Module 3/3.1/B3.1.md",
-    "000-Biology/B Module 5/5.2/5.2.2.md",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 2.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 1.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1.avif",
