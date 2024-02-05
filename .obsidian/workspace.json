@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ded9b79261fbcdaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "783ccf1e96c10b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ae74b5b150548e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-03.md",
+                "file": "2024-01-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-03.md"
+                "file": "2024-01-16.md"
               }
             }
           },
@@ -187,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-03.md",
+                "file": "2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-03.md",
+                "file": "2024-01-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-01-03.md",
+                "file": "2024-01-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,24 +240,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ae74b5b150548e1",
+  "active": "783ccf1e96c10b7c",
   "lastOpenFiles": [
-    "2024-01-14.md",
     "2024-01-15.md",
     "2024-01-16.md",
-    "2024-01-13.md",
-    "2024-01-12.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-13.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-14.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-03.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-12.md",
     "2024-W01.md",
-    "2024-01-03.md",
     "2024-W02.md",
-    "2024-01-11.md",
-    "2024-01-10.md",
-    "2024-01-09.md",
-    "2024-01-08.md",
-    "2024-01-07.md",
-    "2024-01-06.md",
-    "2024-01-05.md",
-    "2024-01-04.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-11.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-10.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-09.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-08.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-07.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-06.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-05.md",
+    "Personal/Journal/Daily notes/2024/2024-01/2024-01-04.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-02.md",
     "Home.md",
     "000-Biology/B Module 4/4.1/B4.1.md",
