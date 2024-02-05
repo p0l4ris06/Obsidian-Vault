@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-05.md",
+                "file": "2024-01-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-05.md"
+                "file": "2024-01-07.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-05.md",
+                "file": "2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-05.md",
+                "file": "2024-01-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-01-05.md",
+                "file": "2024-01-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +242,10 @@
   },
   "active": "ded9b79261fbcdaa",
   "lastOpenFiles": [
-    "2024-01-04.md",
+    "2024-01-06.md",
+    "2024-01-07.md",
     "2024-01-05.md",
+    "2024-01-04.md",
     "2024-01-03.md",
     "Personal/Journal/Daily notes/2024/2024-01/2024-01-02.md",
     "Home.md",
@@ -266,8 +268,6 @@
     "Glossaries/B Glossary/Hepatic artery.md",
     "000-Biology/B Module 5/5.2/5.2.3.md",
     "000-Biology/B Module 5/5.1/5.1.4.md",
-    "000-Biology/B Module 4/4.3/4.3.9.md",
-    "000-Biology/B Module 4/4.1/4.1.1.md",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 2.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1 1.avif",
     "Photos/Biology Photos/Nitrogen-cycle-advanced-1.avif",
